@@ -13,10 +13,21 @@ import PIL
 
 
 def locationViaImage(imagePath, max_attempts=3, confidence=0.8):
+    """
+    Locate an image on the screen using PyAutoGUI's locateOnScreen function.
+
+    Args:
+        imagePath (str): Path to the image file to search for on the screen.
+        max_attempts (int, optional): Maximum number of attempts to locate the image. Defaults to 3.
+        confidence (float, optional): Minimum confidence level for image matching. Defaults to 0.8.
+
+    Returns:
+        bool: True if the image is found, False otherwise.
+    """
+
     for attempt in range(max_attempts):
         searchingFor = imagePath  # Path to the image of the search icon
-        image_location = pag.locateOnScreen(
-            searchingFor, confidence=confidence)
+        image_location = pag.locateOnScreen(searchingFor, confidence=confidence)
         if image_location:
             print('Found the icon.')
             image_center = pag.center(image_location)
@@ -25,12 +36,12 @@ def locationViaImage(imagePath, max_attempts=3, confidence=0.8):
             time.sleep(1)
             return True  # Image found, exit the function
         else:
-            print(
-                f'Image not found. Retrying attempt {attempt + 1}/{max_attempts}...')
+            print(f'Image not found. Retrying attempt {attempt + 1}/{max_attempts}...')
             time.sleep(1)  # Add a delay between attempts
 
     print(f'Image not found after {max_attempts} attempts.')
     return False  # Image not found after all attempts
+
 
 
 
@@ -80,8 +91,8 @@ for pageNumber in range(1, 359):
 
     # write the clipboard to a text file and add the best encoding
     print("Writing to file")
-    # with open(f'data/pageNum{pageNumber}.json', 'w', encoding='utf-8') as f:
-    #     f.write(pyperclip.paste())
+    with open(f'data/pageNum{pageNumber}.json', 'w', encoding='utf-8') as f:
+        f.write(pyperclip.paste())
 
     print("Success! Moving to next page")
 
