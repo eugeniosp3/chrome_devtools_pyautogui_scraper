@@ -5,6 +5,8 @@ import pyperclip
 import pyscreeze
 import PIL
 
+# dependent on pip install opencv-python
+
 # __PIL_TUPLE_VERSION = tuple(int(x) for x in PIL.__version__.split("."))
 # pyscreeze.PIL__version__ = __PIL_TUPLE_VERSION
 
@@ -32,7 +34,7 @@ def locationViaImage(imagePath, max_attempts=3, confidence=0.8):
 
 
 
-for pageNumber in range(234, 359):
+for pageNumber in range(1, 359):
     page = f"list.json?page={pageNumber}"
 
     time.sleep(3)
@@ -78,9 +80,10 @@ for pageNumber in range(234, 359):
 
     # write the clipboard to a text file and add the best encoding
     print("Writing to file")
-    with open(f'data/pageNum{pageNumber}.json', 'w', encoding='utf-8') as f:
-        f.write(pyperclip.paste())
+    # with open(f'data/pageNum{pageNumber}.json', 'w', encoding='utf-8') as f:
+    #     f.write(pyperclip.paste())
 
+    print("Success! Moving to next page")
 
     
     time.sleep(1)
