@@ -48,7 +48,7 @@ for pageNumber in range(1, 359):
 
     # find the search icon and click it
     print("Looking for search icon")
-    locationViaImage('searchIcon.png', max_attempts=3, confidence=.95)
+    locationViaImage('searchIcon.png', max_attempts=3, confidence=.8)
     print("Found search icon")
 
     # paste the string we're searching for into the search bar
