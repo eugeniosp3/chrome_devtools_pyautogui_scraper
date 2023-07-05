@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 294,
+        "from": 5860,
+        "to": 5880,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8581,
+            "name": "Scramble Academy Leeds",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Leeds",
+            "responsible": "Frederic John Greenall",
+            "address": "Unit 8, 280 Tong Road, Leeds, United Kingdom",
+            "website": "www.scrambleacademyleeds.com"
+        },
+        {
+            "id": 9764,
+            "name": "SCV Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Newhall",
+            "responsible": "Carlos E Oviedo",
+            "address": "22942 Lyons Ave, Newhall, Ca, United States of America",
+            "website": "dreammma.com"
+        },
+        {
+            "id": 3681,
+            "name": "Seamless Progression Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Port Washington",
+            "responsible": "Manuel Benjamin Salas",
+            "address": "226 N. Franklin Street  , , Port Washington, Wisconsin, United States of America",
+            "website": "www.facebook.com/SeamlessProgressionAcademy"
+        },
+        {
+            "id": 6845,
+            "name": "Seattle Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Seattle",
+            "responsible": "David Stegman",
+            "address": "1020 First Ave. South, 200b, Seattle, WA, United States of America",
+            "website": "www.seattlejiujitsuacademy.com"
+        },
+        {
+            "id": 9343,
+            "name": "Sech Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Saint Petersburg",
+            "responsible": "Patrick A. de Almeida Goncalves",
+            "address": "Aptekarskaya Naberezhnaya, 12, Saint Petersburg, Saint Petersburg, Russia",
+            "website": null
+        },
+        {
+            "id": 8648,
+            "name": "Seeds 13 Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Angelo",
+            "responsible": "Roniel Oliveira Costa",
+            "address": "105 Westland, San Angelo, Tx, United States of America",
+            "website": "seeds13bjj.com"
+        },
+        {
+            "id": 9206,
+            "name": "Seibert Team Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Serra",
+            "responsible": "Carlos Eduardo Seibert",
+            "address": "Avenida Copacabana, 739, Serra, Espirito Santo, Brasil",
+            "website": "MORADA DE LARANJEIRAS"
+        },
+        {
+            "id": 3231,
+            "name": "Seishinkan Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kusatsu",
+            "responsible": "Shoji Katagiri",
+            "address": "5-4-1-2 Noji, Kusatsu, Shiga, Japan",
+            "website": "https://kanji-love.wizsite.com/seishinkan"
+        },
+        {
+            "id": 2626,
+            "name": "Sektor BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chino",
+            "responsible": "Sean Douglas Roberts",
+            "address": "14151 Pipeline Ave  , , Chino, CA, United States of America",
+            "website": "www.sektorbjj.com"
+        },
+        {
+            "id": 10173,
+            "name": "Seleção Paraense De Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Igarapé-açu",
+            "responsible": "Hadhamés Fernandes da Silva",
+            "address": "Travessa 16 De Novembro, Nº 1675, Igarapé-açu, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 4137,
+            "name": "Selvagem BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Reinaldo Eyng Junior",
+            "address": "Smpw qd25 cj04 lt7 cs c, Park way , Brasília, DF, Brasil",
+            "website": "www.selvagembjj.com.br"
+        },
+        {
+            "id": 5651,
+            "name": "Selvagem Jiu-Jitsu/Luciano Barreto",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Luciano Barreto Vieira dos Santos",
+            "address": "Av. Tiradentes 280, Shangri-la A , Sala 2, 1°andar, Londrina, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 6079,
+            "name": "Semper Fortis Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Saad Al-Aziz",
+            "address": "5723 N. Foster Suite 112, San Antonio, TX, United States of America",
+            "website": "www.texasbjj.com"
+        },
+        {
+            "id": 5767,
+            "name": "Senna Fight Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Saint-Petersburg",
+            "responsible": "Valécio Senna Vasconcelos da Silva",
+            "address": "Kosmonavtov Prospect, 65/1 - 123, Saint-Petersburg, SPB, Russia",
+            "website": null
+        },
+        {
+            "id": 6157,
+            "name": "Sensei Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Castanhal",
+            "responsible": "Hadhamés Fernandes da Silva",
+            "address": "Rua Mario Moura Filho Ponto 04, Proximo a Praça do Estrela, Castanhal, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7974,
+            "name": "Sensei Marcão BJJ Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Marcus Vinícius Santos Lima",
+            "address": "Alameda Da Coruja, 25, Saboeiro, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 9104,
+            "name": "Senshi Matto School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Caxambu",
+            "responsible": "Aloisio Ferreira Rocha Jr.",
+            "address": "Jose Timoteo Nogueira, 80, São Januario, Caxambu, Mg, Brasil",
+            "website": "Caxambu"
+        },
+        {
+            "id": 8690,
+            "name": "Seorae Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Hyukil Kwon",
+            "address": "141, Dongjak-daero, Dongjak-gu, Seoul, Republic Of Korea, 141, Dongjak-daero, Dongjak-gu, Seoul, Republic Of Korea, Seoul, Seoul, Korea, South",
+            "website": "https://linktr.ee/srjiujitsu"
+        },
+        {
+            "id": 10152,
+            "name": "Sequência BJJ Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lagarto",
+            "responsible": "Cláudio Augusto Macedo Silva",
+            "address": "Rua Doutor Josias Machado, 427, Lagarto, Sergipe, Brasil",
+            "website": null
+        },
+        {
+            "id": 10065,
+            "name": "Sequência BJJ Switzerland",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Schlieren",
+            "responsible": "Cláudio Augusto Macedo Silva",
+            "address": "Zürcherstrasse 113, Schlieren, Zurich, Switzerland",
+            "website": null
+        }
+    ]
+}

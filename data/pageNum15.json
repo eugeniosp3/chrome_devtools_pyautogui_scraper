@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 15,
+        "from": 280,
+        "to": 300,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10040,
+            "name": "Akendewa BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Cote D'Ivoire",
+            "countryAbbr": "CI",
+            "city": "Abidjan, Lagunes",
+            "responsible": "Richard Mathias Pankanin",
+            "address": "Cocody Les 2 Plateaux, Carrefour Macaci,, Abidjan, Lagunes, Cote D'Ivoire",
+            "website": null
+        },
+        {
+            "id": 5757,
+            "name": "AKVA Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Francisco Luis Auricelio Valente",
+            "address": "Av. Mal Floriano Peixoto N: 4845 Sobreloja, Bairro: Hauer, Curitiba, Paraná, Brasil",
+            "website": "www.akvajiujitsu.com.br"
+        },
+        {
+            "id": 1038,
+            "name": "Akxe BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Vinicius Campelo Silveira",
+            "address": "Av Das Américas 700, Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 3970,
+            "name": "Akxe BJJ Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Munich",
+            "responsible": "Diogo Deslandes Primo",
+            "address": "Humboldtstrasse 29  , , Munich, --, Germany",
+            "website": ""
+        },
+        {
+            "id": 2325,
+            "name": "Akxe BJJ USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Beverly Hills",
+            "responsible": "Octavio Henrique Couto da Silva Jr.",
+            "address": "360 South Swall  , , Beverly Hills, CA, United States of America",
+            "website": "www.akxebjj.com"
+        },
+        {
+            "id": 9678,
+            "name": "Al Ramtha Brazilian Jiu-Jitsu Club",
+            "federationAbbr": "IBJJF",
+            "country": "Jordan",
+            "countryAbbr": "JO",
+            "city": "Al Ramtha",
+            "responsible": "Fawaz Fayez Abdallah Al Zoubi",
+            "address": "Jordan, Irbid, Al Ramtha, Jordan",
+            "website": null
+        },
+        {
+            "id": 9076,
+            "name": "Alac",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Josué Gomes B. Junior",
+            "address": "R: Engenheiro Andrade Junior,279, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7189,
+            "name": "Alameda Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Keaau",
+            "responsible": "Jordan Paul Joseph Alameda",
+            "address": "16-180 Mikahala Pl, Keaau, HI, United States of America",
+            "website": "https://alamedajj.com/"
+        },
+        {
+            "id": 10305,
+            "name": "Alan Barros Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maceió",
+            "responsible": "Carlos Alan Constant de Barros",
+            "address": "Loteamento Santa Amelia, Rua D - Nº 09, Maceió, Alagoas, Brasil",
+            "website": null
+        },
+        {
+            "id": 9440,
+            "name": "Alan Fernandes Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Montes Claros",
+            "responsible": "Alan Fernandes Costa Ribeiro",
+            "address": "Rua Jorge Amado N35, Casa, Montes Claros, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 7678,
+            "name": "Alan Ferreira Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "palma de mallorca",
+            "responsible": "Alan Vitor Oliveira Ferreira",
+            "address": "calle de santa ponsa 10, palma de mallorca, islas baleares, Spain",
+            "website": null
+        },
+        {
+            "id": 8950,
+            "name": "Alay Jiu-Jitsu Team",
+            "federationAbbr": "IBJJF",
+            "country": "Kyrgyzstan",
+            "countryAbbr": "KG",
+            "city": "Bishkek",
+            "responsible": "João Luiz Barreto Baoventura",
+            "address": "Isanova 39, Bishkek, Chui, Kyrgyzstan",
+            "website": "www.alayjiujitsuteam.com"
+        },
+        {
+            "id": 7358,
+            "name": "Albertino Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Marcio Mendes França",
+            "address": "Alameda Ednaldo Prado n: 167, Bairro: Campos Eliseos, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7182,
+            "name": "Alberto Mina BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Shanghai",
+            "responsible": "Alberto Hipacio Mina de Araujo",
+            "address": "Address: Room 502, No.28, Lane 487, Yuyao Road, Jing'an District, Shanghai, Shanghai, China",
+            "website": null
+        },
+        {
+            "id": 10010,
+            "name": "Alcateia Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Brüttisellen",
+            "responsible": "Lucas Feitosa Pereira Bosshard",
+            "address": "Im Talacher 15, Brüttisellen, Switzerland",
+            "website": null
+        },
+        {
+            "id": 10242,
+            "name": "Alesandro Nascimento Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Vila Nova De Famalicão",
+            "responsible": "Alesandro de Oliveira Nascimento",
+            "address": "Rua Eça De Queirós 699, 1 B, Vila Nova De Famalicão, Braga, Portugal",
+            "website": null
+        },
+        {
+            "id": 7689,
+            "name": "Alex Alves Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Düsseldorf",
+            "responsible": "Alex Sandro Alves",
+            "address": "Schiessstr 50, 27 Apt198, Düsseldorf, Düsseldorf, Germany",
+            "website": "alexalvesbjj.com"
+        },
+        {
+            "id": 7806,
+            "name": "Alex Alves Jiu-Jitsu Brazil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarujá",
+            "responsible": "Alex Sandro Alves",
+            "address": "Estrada Alexandre Migues Rodrigues, 754, Ap 34, Guarujá, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4886,
+            "name": "Alex Arruda Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Alex Arruda Camara Campos",
+            "address": "Rua Hemengarda 477 3 piso, Méier, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7104,
+            "name": "Alex Barreto Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Alex Gomes Barreto",
+            "address": "Av. Prefeito Nelson Melo n: 1260, Centro, Aracaju, Propriá , Brasil",
+            "website": null
+        }
+    ]
+}

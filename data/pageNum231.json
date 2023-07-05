@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 231,
+        "from": 4600,
+        "to": 4620,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2702,
+            "name": "Max Jiu Jitsu Academy",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Keisuke Masuzawa",
+            "address": "2-7-4 Terada bldg 1st floor, Tokyo, TK, Japan",
+            "website": "www.maxjj.com"
+        },
+        {
+            "id": 721,
+            "name": "Maxercise",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Philadelphia",
+            "responsible": "John J. Disimone III",
+            "address": "707 Chestnut St 2nd floor  , , Philadelphia, PA, United States of America",
+            "website": "www.phillywarrior.com"
+        },
+        {
+            "id": 8244,
+            "name": "Maxum Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Islip Terrace",
+            "responsible": "Alex J. Aristides",
+            "address": "2995 Sunrise Hwy, Islip Terrace, Ny, United States of America",
+            "website": "www.maxumbjj.com"
+        },
+        {
+            "id": 10291,
+            "name": "Mayhem BJJ Academia",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Vila Nova De Gaia",
+            "responsible": "Miguel Antonio M. Coelho",
+            "address": "Rua Do Paço 546, Avintes, Vila Nova De Gaia, Porto, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 7994,
+            "name": "Mayor Legião Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista ",
+            "responsible": "Antonio Marcos Sotto Mayor Ribeiro",
+            "address": "Rua Pedro Rodrigues , 1355, Boa Vista , Brasil",
+            "website": null
+        },
+        {
+            "id": 9303,
+            "name": "Maze",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Athlone",
+            "responsible": "David Ramos Coelho",
+            "address": "45 Annsfield Woods, Athlone, Westmeath, Ireland",
+            "website": null
+        },
+        {
+            "id": 2901,
+            "name": "MB Academy",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Chevilly Larue",
+            "responsible": "Jean-Louis Mbongo Mbio",
+            "address": "5 Rue du Berry (5 rue du Berry 94550 Chevilly Larue France)  , , Chevilly Larue, FR, France",
+            "website": "www.mbacademy.fr"
+        },
+        {
+            "id": 4387,
+            "name": "MBCJJ - Mark Bradford Clube de Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Mark A. Bradford ",
+            "address": "1472 W. Adams Blvd., , Los Angeles, Ca, United States of America",
+            "website": "www.clubehollywood.com"
+        },
+        {
+            "id": 6814,
+            "name": "MBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vargem Grande Paulista",
+            "responsible": "Francisco Santana Souza Junior",
+            "address": "Rua Rui De Oliveira, 200, Chacara Sta Monica, Vargem Grande Paulista, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 5292,
+            "name": "MC Unit Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Michael Ceijas-Raid",
+            "address": "60 N. 25th St. , Suite 150, Las Vegas, NV, United States of America",
+            "website": null
+        },
+        {
+            "id": 7292,
+            "name": "McAllen United Combat Academy LLC",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "McAllen ",
+            "responsible": "Edmilson Freitas da Silva Junior",
+            "address": "1201 Chicago Ave. Suite #2, McAllen , TX, United States of America",
+            "website": null
+        },
+        {
+            "id": 2109,
+            "name": "MCBJJ - Academy - Marcelo Cavalcanti",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Carson",
+            "responsible": "Marcelo Cavalcanti Silva",
+            "address": "441 E Carson Street - Unit 0  , Carson, CA, United States of America",
+            "website": "www.mcbjj.com"
+        },
+        {
+            "id": 2087,
+            "name": "McCall Mixed Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Humble",
+            "responsible": "Darren Bernard McCall",
+            "address": "6730 Atascocita Rd. #109  , , Humble, TX, United States of America",
+            "website": "www.mccallmixedmartialarts.com"
+        },
+        {
+            "id": 5113,
+            "name": "McCune's Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brooklyn Park",
+            "responsible": "Christopher Michael McCune",
+            "address": "8616 Xylon Ave. N. Ste. D  , , Brooklyn Park, MN, United States of America",
+            "website": "mccnesma.com"
+        },
+        {
+            "id": 10311,
+            "name": "Mctln MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Atizapán De Zaragoza",
+            "responsible": "Christian Eduardo Diaz Sosa",
+            "address": "Paseo De San Francisco 106, El Potrero,, Atizapán De Zaragoza, Estado De México, Mexico",
+            "website": "https://instagram.com/mictlan_mma?igshid=YmMyMTA2M2Y="
+        },
+        {
+            "id": 2960,
+            "name": "McVicker's Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Terre Haute",
+            "responsible": "Jackson McVicker",
+            "address": "1337 Heritage Lane East  , , Terre Haute, IN, United States of America",
+            "website": "www.jackmcvicker.com"
+        },
+        {
+            "id": 4298,
+            "name": "MD Jiu-Jitsu Le Havre",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Le Havre",
+            "responsible": "Olivier Michailesco",
+            "address": "123 Rue Audran  , , Le Havre, --, France",
+            "website": ""
+        },
+        {
+            "id": 3591,
+            "name": "Me, We",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Takeshi Yamazaki",
+            "address": "1-45-1 Nisshouyoyogi bdg B1F, Yoyogi, Shibuya-ku  , Tokyo, --, Japan",
+            "website": "www.mewegym.com"
+        },
+        {
+            "id": 9915,
+            "name": "Medley Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gama",
+            "responsible": "Robert Marley Almeida Lima",
+            "address": "Quadra 05, Casa 104, Gama, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 8944,
+            "name": "Mekka Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Peru",
+            "countryAbbr": "PE",
+            "city": "Lima",
+            "responsible": "Daniel Nakamura",
+            "address": "Calle Brea Y Pariñas 102, Oficina 801, Lima, Lima, Peru",
+            "website": null
+        }
+    ]
+}

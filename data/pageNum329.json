@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 329,
+        "from": 6560,
+        "to": 6580,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10627,
+            "name": "Thomas Zenthner Académie",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Vilvoorde",
+            "responsible": "Thomas Ferdinand M Zenthner",
+            "address": "Mutsaertstraat, 13, Vilvoorde, Belgium",
+            "website": null
+        },
+        {
+            "id": 10453,
+            "name": "Thompson Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Toronto",
+            "responsible": "David Thompson",
+            "address": "1518 Bayview Ave - Unit B, Toronto, On, Canada",
+            "website": "www.thompsonjiujitsu.com"
+        },
+        {
+            "id": 7602,
+            "name": "Thork Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Maria",
+            "responsible": "Leonardo Morosetti de Lima",
+            "address": "Visconde de Pelotas 2122, Sobreloja, Santa Maria, Rio Grande do Sul, Brasil",
+            "website": "www.somosthork.com.br"
+        },
+        {
+            "id": 9960,
+            "name": "Three Brothers Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araçatuba",
+            "responsible": "Bruno de Barros Rocha",
+            "address": "Av Waldir Felizola De Moraes, 1321, Araçatuba, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 10599,
+            "name": "Three Crosses Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Cruces",
+            "responsible": "Jacob Michael Benitez",
+            "address": "2185 W. Amador Suite 1, Las Cruces, New Mexico, United States of America",
+            "website": "facebook.com/threecrossesjiujitsu/"
+        },
+        {
+            "id": 4915,
+            "name": "Three Points Martial Arts Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Worcester",
+            "responsible": "Paul Christopher Severn",
+            "address": "Three Points Martial Arts Academy, Unit 9 ,shrub Hill Trading Estate, Worcester, , United Kingdom",
+            "website": "www.threepointsmartialarts.com"
+        },
+        {
+            "id": 3859,
+            "name": "Threshold Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Des Plaines",
+            "responsible": "William R. Shimuk",
+            "address": "1415 Ellinwood Ave. #2  , , Des Plaines, IL, United States of America",
+            "website": "www.thresholdmartialarts.com"
+        },
+        {
+            "id": 4925,
+            "name": "Tiago Castro JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boituva",
+            "responsible": "Tiago de Castro Souza",
+            "address": "Rua Manoel dos Santos Facine 432 Academia, Centro, Boituva, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 7912,
+            "name": "Tiago Costa Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Toledo",
+            "responsible": "Tiago Batista Costa",
+            "address": "Rua Dom Pedro Ii 2080 Sala 2, Toledo, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 10073,
+            "name": "Tiago De Paula BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Zurich",
+            "responsible": "Tiago De Paula",
+            "address": "Forchstrasse 225, Zurich, Switzerland",
+            "website": "Www.tiagodepaulabjj.com"
+        },
+        {
+            "id": 4168,
+            "name": "Tiburones BJJ Puerto Rico",
+            "federationAbbr": "IBJJF",
+            "country": "Puerto Rico",
+            "countryAbbr": "PR",
+            "city": "Humacao",
+            "responsible": "Wilfredo Javier Garcia Tolentino",
+            "address": "Urb Miradero, Camino De Las Vistas 111, Humacao, PR, Puerto Rico",
+            "website": "TiburonesBJJ.com"
+        },
+        {
+            "id": 5094,
+            "name": "Tick-tock Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "N. Charleston",
+            "responsible": "Jacob McClintock",
+            "address": "7671 Northwoods Blvd Unit H, , N. Charleston, SC, United States of America",
+            "website": "ticktockjiujitsu.com"
+        },
+        {
+            "id": 9318,
+            "name": "Tidewater BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chesapeake",
+            "responsible": "Jonathan Robert Wertz",
+            "address": "123 Battlefield Blvd North #f, Chesapeake, Virginia, United States of America",
+            "website": "Tidewaterbjj.com"
+        },
+        {
+            "id": 9812,
+            "name": "TIDO BJJ TEAM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Votuporanga",
+            "responsible": "Emerson José dos Reis Kojima",
+            "address": "R Dombar - Ibar Luiz Santos Marques - 1122 - Bairro Belo Horizonte Ii, Votuporanga, Sao Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 2701,
+            "name": "Tiger Shark Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Carlisle",
+            "responsible": "Marcelo de Mattos Souza",
+            "address": "229 Petersburg Rd.  , , Carlisle, PA, United States of America",
+            "website": "www.tigersharkbjj.com"
+        },
+        {
+            "id": 9813,
+            "name": "Tigre Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Americano",
+            "responsible": "Edilson Alvis da Cunha",
+            "address": "Rua: Araripe1778, Americano, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7548,
+            "name": "Tiko Souza BJJ Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Casa Caiada",
+            "responsible": "Claudemir José de Souza",
+            "address": "Rua Pinto Manuel Bandeira n: 611, Bloco 2 apt 404, Casa Caiada, Olinda , Brasil",
+            "website": null
+        },
+        {
+            "id": 6859,
+            "name": "Tiko Souza BJJ Europe",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Cologny",
+            "responsible": "Claudemir José de Souza",
+            "address": "Chemin De La Tulette 3, Cologny, GE, Switzerland",
+            "website": null
+        },
+        {
+            "id": 3608,
+            "name": "Tillis Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Whittier",
+            "responsible": "Noah Arnold Tillis",
+            "address": "10707 La Mirada Blvd  , , Whittier, CA, United States of America",
+            "website": "www.tillisbjj.com"
+        },
+        {
+            "id": 3729,
+            "name": "Tim Bruce Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boynton Beach",
+            "responsible": "Timothy Daniel Bruce",
+            "address": " 122 Harbors Way   , , Boynton Beach, FL, United States of America",
+            "website": "www.tbj2.com"
+        }
+    ]
+}

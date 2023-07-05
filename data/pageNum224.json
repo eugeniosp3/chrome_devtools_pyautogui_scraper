@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 224,
+        "from": 4460,
+        "to": 4480,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7356,
+            "name": "Manzur Bros",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Quilpue",
+            "responsible": "Tyrone Salgado Reyes",
+            "address": "Las Margaritas 1974, Quilpue, --, Chile",
+            "website": null
+        },
+        {
+            "id": 10675,
+            "name": "Mãozinha Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Spring",
+            "responsible": "Luis Daniel Lobato G. de Lima",
+            "address": "27359 W Hardy Rd  #210, Spring, Texas, United States of America",
+            "website": "www.teammaozinha.com"
+        },
+        {
+            "id": 3505,
+            "name": "Maracaba BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mesa",
+            "responsible": "Andre Luiz Vale de Maracaba",
+            "address": "2235 S Power Rd Suite 109, Mesa, Az, United States of America",
+            "website": "2235 S Power Rd Suite 109"
+        },
+        {
+            "id": 6214,
+            "name": "Marangoni BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Las Palmas de Gran Canaria",
+            "responsible": "Gabriel Marangoni de Oliveira",
+            "address": "Calle/Julian Romero Briones n 26, Las Palmas de Gran Canaria, Spain",
+            "website": null
+        },
+        {
+            "id": 8245,
+            "name": "Marathon MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Overland Park",
+            "responsible": "Richard L. Ogden III",
+            "address": "10559 Metcalf Ave, Overland Park, Kansas, United States of America",
+            "website": null
+        },
+        {
+            "id": 8428,
+            "name": "Marc  Union  Defense  Bjj",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Pyeongtaek-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "72, Songtan-ro, #202, Pyeongtaek-si, Gyeonggi-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 10024,
+            "name": "Marc Kukje BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "3f, 254, Solsaem-ro, Gangbuk-gu, Seoul, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 10467,
+            "name": "Marc Sungshin BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "4f, 46, Dongsomun-ro 20ga-gil, Seongbuk-gu, Seoul, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 9430,
+            "name": "Marc Team Crush",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Siheung-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "4f(#409), 3, Okgusangga 2-gil, Siheung-si, Gyeonggi-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 2783,
+            "name": "Marc Union",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "4F, 20 Ga-gil 46, Dongsomun-ro, Seongbuk-gu, Seoul, KR, Korea, South",
+            "website": null
+        },
+        {
+            "id": 8429,
+            "name": "Marc Union  Black  Cat",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Gunsan-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "2f, 97, Gyesan-ro, Oksan-myeon, Gunsan-si, Jeollabuk-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 9384,
+            "name": "Marc Union  Jb Multi Gym",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Asan-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "2f, 47, Chungmu-ro, Asan-si, Chungcheongnam-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7196,
+            "name": "Marc Union Amur Tiger",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Goyang-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "5F, 691, Goyang-daero, Ilsanseo-gu, Goyang-si, Gyeonggi-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7101,
+            "name": "Marc Union Asel",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Geoje-si ",
+            "responsible": "Seung-Jae Lee",
+            "address": "108-201, 54-42, Dudong-ro, Sadeung-myeon, Geoje-si , Gyeongsangnam-do , Korea, South",
+            "website": null
+        },
+        {
+            "id": 7134,
+            "name": "Marc Union B. Dragon",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Pocheon-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "705 ho, Songwoo Well-being Town, 62, Songgu-ro, Soheul-eup, Pocheon-si, Gyeonggi-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 9157,
+            "name": "Marc Union Begin BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Gunsan-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "4f(marc Union Begin Bjj), 89, Gyesan-ro, Gunsan-si, Jeollabuk-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7208,
+            "name": "Marc Union Bins Gym",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Geoje-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "B1, 138, Gyeryong-ro, Geoje-si, Gyeongsangnam-do, Korea, South",
+            "website": "-"
+        },
+        {
+            "id": 6604,
+            "name": "Marc Union Jiu-Jitsuism",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "4F, 20 Ga-gil 46, Dongsomun-ro, Seongbuk-gu, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7109,
+            "name": "Marc Union Now",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Cheonan-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "Kukje Bldg 4F, 281, Seobu-daero, Dongnam-fu, Cheonan-si, Chungcheongnam-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7116,
+            "name": "Marc Union Poseidon",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Gwangju",
+            "responsible": "Seung-Jae Lee",
+            "address": "Buyeong APT Sangga 404 ho, 25, Saam-ro, Gwangsan-gu, Gwangju, Gwangju, Korea, South",
+            "website": null
+        }
+    ]
+}

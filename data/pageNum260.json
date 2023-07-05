@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 260,
+        "from": 5180,
+        "to": 5200,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9385,
+            "name": "Paulo Ricardo Team International",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Abu Dhabi",
+            "responsible": "Paulo Ricardo Santos Rodrigues",
+            "address": "971+025517138, Abu Dhabi, Abu Dhabi, United Arab Emirates",
+            "website": null
+        },
+        {
+            "id": 4506,
+            "name": "Paulo Rigon Brazilian Jiu-Jitsu USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jacksonville",
+            "responsible": "Paulo Roberto de Almeida Rigon",
+            "address": "12489 San Jose BLVD  , , Jacksonville, FL, United States of America",
+            "website": "www.paulorigonbjj.com"
+        },
+        {
+            "id": 10573,
+            "name": "Paulo Teixeira Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lauro De Freitas",
+            "responsible": "Paulo Serafim Gonzalez Teixeira",
+            "address": "Av. Luiz Tarquínio Pontes, 1193, Bairro Pitangueiras, Condomínio Horto Parque Residencial, Casa 86, Lauro De Freitas, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 7142,
+            "name": "Pax Jiu-Jitsu Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Alessandro Moreira Nunes",
+            "address": "Rua Visconde do Uruguai n: 177, Centro, Niterói, Rio de Janeiro, Brasil",
+            "website": "https://alessandrobjj.business.site/"
+        },
+        {
+            "id": 6278,
+            "name": "Payet Team Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Reunion",
+            "countryAbbr": "RE",
+            "city": "Etang sale les bains",
+            "responsible": "Joseph Jean Erick Payet",
+            "address": "40 rue de la vieille pompe, Etang sale les bains, FR, Reunion",
+            "website": "https://teampayet.wixsite.com"
+        },
+        {
+            "id": 8053,
+            "name": "PBJJ Gama",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gama",
+            "responsible": "Eufrazio Santiago Nunes de Oliveira",
+            "address": "Quadra 21 Conjunto-b Casa-01 Setor-central, Gama, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 3605,
+            "name": "PC/RN - DEICOR",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Iranilson Lima de Medeiros",
+            "address": "Av. Capitão-Mor Gouveia 545, Felipe Camarão, Natal, RN, Brasil",
+            "website": "www.policiacivil.rn.gov.br"
+        },
+        {
+            "id": 10638,
+            "name": "PCA BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Coulommiers",
+            "responsible": "Paulo Henrique Correa De Oliveira",
+            "address": "26 Place Du Marche, Coulommiers, Ile De France, France",
+            "website": "APCBJJ.COM"
+        },
+        {
+            "id": 10165,
+            "name": "PCJJ - PE",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Marcio Silva Araujo",
+            "address": "Rua Alberto Lundgren 292, Casa, Recife, Pernambuco, Brasil",
+            "website": "@ctmarciosilvabjj"
+        },
+        {
+            "id": 8357,
+            "name": "PDP Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macapá",
+            "responsible": "Fabio Madson Monteiro da Silva",
+            "address": "Av. Raimundo Perais Nunes de Ataíde, 283 , Jardim Marco Zero, Macapá, Amapá, Brasil",
+            "website": null
+        },
+        {
+            "id": 8469,
+            "name": "Pé De Pano Team Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ribeirão Das Neves ",
+            "responsible": "Hugo Flávio Andrade",
+            "address": "Rua Augusto Otoni Costa 130, Bairro: Savassi, Ribeirão Das Neves , Minas Gerais , Brasil",
+            "website": null
+        },
+        {
+            "id": 8065,
+            "name": "Peaceful Warrior Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dana Point ",
+            "responsible": "Raul Alexander Aguilar",
+            "address": "34207 Pacifc Coast Highway , Dana Point , California , United States of America",
+            "website": null
+        },
+        {
+            "id": 2817,
+            "name": "Peak Performance",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Keller",
+            "responsible": "Paul Halme",
+            "address": "133 Sports Parkway Suite H  , , Keller, TX, United States of America",
+            "website": "www.peakbjj.com"
+        },
+        {
+            "id": 10451,
+            "name": "Pedigo Submission Fighting",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mt Vernon",
+            "responsible": "Heath A. Pedigo",
+            "address": "1304 Broadway Street, Mt Vernon, Il, United States of America",
+            "website": null
+        },
+        {
+            "id": 10612,
+            "name": "Pedigo Submission Fighting International",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Mount Vernon",
+            "responsible": "Heath A. Pedigo",
+            "address": "709 1/2 S 34th St, Mount Vernon, Illinois, Ireland",
+            "website": null
+        },
+        {
+            "id": 6154,
+            "name": "Pedra XTreme BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Fabiano Victorino",
+            "address": "Rua Coelho Lisboa n: 675, Cid. Mãe do Céu , São Paulo, SP, Brasil",
+            "website": "www.xtremegoldteam.com.br"
+        },
+        {
+            "id": 6379,
+            "name": "Pedrão Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Pedro Marcio dos Santos Freitas",
+            "address": "Rua David Cruz n: 210, Calungá, Boa Vista, Roraima, Brasil",
+            "website": null
+        },
+        {
+            "id": 9242,
+            "name": "Pedro Almeida Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jaú",
+            "responsible": "Pedro Luiz de Almeida Gonçalves",
+            "address": "Rua Treze De Maio 336 Centro, Jaú, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 3003,
+            "name": "Pedro Damasceno Team",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Abu Dhabi",
+            "responsible": "Pedro Antonio M. B. Damasceno Jr.",
+            "address": "Al Reef - Desert Village - Villa 68, , Abu Dhabi, AD, United Arab Emirates",
+            "website": ""
+        },
+        {
+            "id": 6892,
+            "name": "Pedro de Miranda Jiu-Jitsu Team Canada",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Surrey",
+            "responsible": "Pedro Simões Lopes de Miranda",
+            "address": "Unit 101 - 15358 67 Ave, Surrey, BC, Canada",
+            "website": null
+        }
+    ]
+}

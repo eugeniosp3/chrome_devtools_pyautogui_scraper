@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 267,
+        "from": 5320,
+        "to": 5340,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9788,
+            "name": "Projeto Luiz Oliveira BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João De Meriti",
+            "responsible": "Luiz Carlos Penha de Oliveira",
+            "address": "Rua Citiso Lote 6quadra 13, Parque Araruama, São João De Meriti, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 10718,
+            "name": "Projeto Pai E Filho Gw Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Jose Gomes Ferreira",
+            "address": "Rua Sao Lazaro, A, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 9778,
+            "name": "Projeto Rocha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Marcio Sobrinho Rocha",
+            "address": "Rua Ondina Marques De Andrade, S/n° Bairro Maria Luisa, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 2157,
+            "name": "Projeto Social Beija-Flor",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nilópolis",
+            "responsible": "Alexandre Paiva Genovesi",
+            "address": "Rua Pracinha Walace Paes Leme 1072 , Centro, Nilópolis, RJ, Brasil",
+            "website": "www.beija-flor.com.br"
+        },
+        {
+            "id": 7728,
+            "name": "Projeto Social Caneca Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos dos Goytacazes",
+            "responsible": "Maycon Caneca dos Santos",
+            "address": "rua Fernando Pecly S/N, Campos dos Goytacazes, Rio de Janeiro, Brasil",
+            "website": "(instagran)projeto caneca jiu jitsu"
+        },
+        {
+            "id": 5468,
+            "name": "Projeto Social Cicero Costha Kids",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "Rua Lino Coutinho, 426 , Ipiranga, São Paulo, SP, Brasil",
+            "website": "www.cicerocostha.com"
+        },
+        {
+            "id": 2167,
+            "name": "Projeto Social Drive-In JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Paulo Cezar Alves Pinheiro",
+            "address": "Av. Ten. Cel. Muniz Aragão 2011, Gardênia Azul, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 8993,
+            "name": "Projeto Suçuarana Pmam",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "David Alan Silva Batista",
+            "address": "Av Grande Circular S/n Bairro:jorge Teixeira, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 9173,
+            "name": "PROJETO W\u0026F JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Paulista",
+            "responsible": "Fabiano Felix da Silva",
+            "address": "Rua Dois, 300, Paulista, Pe, Brasil",
+            "website": null
+        },
+        {
+            "id": 8791,
+            "name": "Proving Grounds Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Shelby Township",
+            "responsible": "Jason S. Kaczmarek",
+            "address": "46825 Hayes, Shelby Township, Michigan, United States of America",
+            "website": "provinggroundsjj.com"
+        },
+        {
+            "id": 4803,
+            "name": "PRVT Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Luiz Carlos G. Matheus Dias",
+            "address": "Rua Soares D'Andrea 16 , Vila Rosario, Rio de Janeiro, RJ, Brasil",
+            "website": "prvt.com.br"
+        },
+        {
+            "id": 7359,
+            "name": "PS Alves Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Paulo Sergio Alves de Araújo",
+            "address": "Rua do Comercio 1 n: 47 A, Parque 10 de Novembro, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 6809,
+            "name": "PS Campeão",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Sebastião ",
+            "responsible": "Adalberto Antônio Ventura",
+            "address": "Conjunto 01 lote 09, PRODF Bairro: Bonsucesso, São Sebastião , DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 9525,
+            "name": "PS Jiu-Jitsu International",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Guimarães",
+            "responsible": "Paulo Sergio Alves de Araújo",
+            "address": "Triângulo, Portugal, Guimarães, Av.são Gonçalo, Guimarães, Braga, Portugal",
+            "website": null
+        },
+        {
+            "id": 31,
+            "name": "PS Phoenix BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Paulo Sergio Silva dos Santos",
+            "address": "Estrada Cristóvão Machado De Campos, 221 Quadra 16 Casa 01, Vargem Grande, Florianópolis, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 3118,
+            "name": "PS Phoenix BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Paulo Sergio Silva dos Santos",
+            "address": "8, Rue De Prague, Club Daumesnil, Paris, France",
+            "website": "www.psphoenixbjj.com"
+        },
+        {
+            "id": 5616,
+            "name": "Psico Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "João Alberto Martins Lisbôa",
+            "address": "Rua Gorki, 140, Cavalhada, Porto Alegre, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 2519,
+            "name": "PSLPB Cicero Costha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "Rua Lino Coutinho 426, Ipiranga, São Paulo, SP, Brasil",
+            "website": "www.cicerocostha.com"
+        },
+        {
+            "id": 7697,
+            "name": "PSLPB Cicero Costha USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jersey City",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "403 summit ave, apt 1B, Jersey City, NY, United States of America",
+            "website": null
+        },
+        {
+            "id": 9032,
+            "name": "PT Brave FIGHT TEAM",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Lisboa",
+            "responsible": "Arménio Jorge Moura Cavalcante Neto",
+            "address": "Rua Manuel Da Silva Leal 10a, Lisboa, Lisboa, Portugal",
+            "website": null
+        }
+    ]
+}

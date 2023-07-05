@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 122,
+        "from": 2420,
+        "to": 2440,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9816,
+            "name": "Família Gomes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Caruaru",
+            "responsible": "Jefferson Henrique Gomes Teodoro",
+            "address": "Av João Soares De Lira N\" 1828, Caruaru, Pernambuco, Brasil",
+            "website": "https://instagram.com/zrfamiliagomes?igshid=ZDg1NjBiNjg="
+        },
+        {
+            "id": 3997,
+            "name": "Família Jiu-Jitsu/B9",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Nélio Mendes Pereira",
+            "address": "Av. Condessa Elisabeth de Robiano 500 Clube, Tatuapé, São Paulo, SP, Brasil",
+            "website": "www.familiajiujitsu.com.br"
+        },
+        {
+            "id": 5334,
+            "name": "Família Kadu Pedreira Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lauro de Freitas",
+            "responsible": "Carlos Eduardo Pedreira Azevedo",
+            "address": "Rua Joaquim Cruz Rios Filho, 04 Casa, Praia de Ipitanga, Lauro de Freitas, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 369,
+            "name": "Familia Marcio Frank BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Velho",
+            "responsible": "Marcio Frank de Oliveira Barbosa",
+            "address": "Rua Petropolis n: 3191, Bairro: Eletronorte, Porto Velho, RO, Brasil",
+            "website": null
+        },
+        {
+            "id": 6419,
+            "name": "Família Polar",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Francisco Mauricelio A. Mariano",
+            "address": "Rua Engenheiro Luiz Vieira n: 300, Bairro: de Lourdes, Fortaleza, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8576,
+            "name": "Família Rio Fight BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Fernando Souza  Gones",
+            "address": "Rua Álvares Cabral, Garagem 2, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9265,
+            "name": "Família Sete Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aparecida De Goiânia",
+            "responsible": "Laudimar Mendes da Silva",
+            "address": "Av Perimetral,1,res Village Garavelo, Q7 Lt3, Aparecida De Goiânia, Goias, Brasil",
+            "website": null
+        },
+        {
+            "id": 6084,
+            "name": "Família WJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maceió",
+            "responsible": "Wellington José da Silva",
+            "address": "Rua Alameda Maria das Graças Novaes Brandão n: 10 A QD 1, Petropolis, Maceió, Alagoas, Brasil",
+            "website": null
+        },
+        {
+            "id": 8962,
+            "name": "Family Inacio Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Rak",
+            "responsible": "Antonio Jose Inacio",
+            "address": "Marjan Island-pacific Building.  Bloc C 406, Rak, Ras Al Khaimah, United Arab Emirates",
+            "website": null
+        },
+        {
+            "id": 9648,
+            "name": "Family Martins Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tangerine",
+            "responsible": "Cláudio Luiz M. Teixeira",
+            "address": "5424 Lake St, Tangerine, Florida, United States of America",
+            "website": "https://www.martinsmartialarts.net/"
+        },
+        {
+            "id": 5932,
+            "name": "Family Team Masters BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itabuna",
+            "responsible": "Fabiano Alves de Araujo",
+            "address": "Avenida Cinquentenário n: 1302, Centro, Itabuna, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 10717,
+            "name": "Family Wild Son BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Raimundo Wildson Pereira",
+            "address": "Av. Pedro Álvares Cabral, 55 - Marambaia, Esquina Da Avenida Dalva, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7916,
+            "name": "Famous Five 6 BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ames",
+            "responsible": "Vladimir Monet Williams",
+            "address": "104 Kellogg Ave, Ames, Iowa, United States of America",
+            "website": "Allianceamesbrazilianjiu-Jitsu.com"
+        },
+        {
+            "id": 6085,
+            "name": "Fantin Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Serra",
+            "responsible": "Carlos Daniel Fantin de Matos",
+            "address": "Rua Reginaldo Miranda, Nº2, André Carlone, Serra, Espirito Santo, Brasil",
+            "website": "facebook.com/fantinfightteam"
+        },
+        {
+            "id": 5255,
+            "name": "Faquir Brothers Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Fabiano da Silva Cleto",
+            "address": "Rua Marechal José Beviláqua 492 , Taquara, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8281,
+            "name": "Fargo BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fargo",
+            "responsible": "George Andersch",
+            "address": "1335 2nd Ave N, Fargo, Nd, United States of America",
+            "website": "www.FargoBJJ.com"
+        },
+        {
+            "id": 6374,
+            "name": "Farley Santos BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Contagem",
+            "responsible": "Farley da Silva Santos",
+            "address": "Rua Matos Pinho n: 310, Agua Branca, Contagem, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 5119,
+            "name": "Farmacinha Team",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Osnabruck",
+            "responsible": "Warley Daniel Alves dos Santos",
+            "address": "Lerchenstr. 89, Osnabruck, Germany",
+            "website": null
+        },
+        {
+            "id": 9452,
+            "name": "Farol BJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Anan",
+            "responsible": "Kazuki Nagase",
+            "address": "303-1 Nagahama Tsunomine, Anan, Tokushima, Japan",
+            "website": null
+        },
+        {
+            "id": 10601,
+            "name": "Farpado Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teofilo Otoni",
+            "responsible": "Celso Baldow Junior",
+            "address": "Rua Alipio Rodrigues 138, Bairro Castro Pires, Teofilo Otoni, Minas Gerais, Brasil",
+            "website": null
+        }
+    ]
+}

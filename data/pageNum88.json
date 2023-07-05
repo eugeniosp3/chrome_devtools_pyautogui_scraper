@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 88,
+        "from": 1740,
+        "to": 1760,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5634,
+            "name": "Coyote Brazilian Jiu-Jitsu Academy Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Prado",
+            "responsible": "Daniel de Paula Souza",
+            "address": "Av. Beira Mar, 01, Centro, Prado, BA, Brasil",
+            "website": "coyotebjj.com"
+        },
+        {
+            "id": 6086,
+            "name": "CP Team - Chicão Peixoto Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "João Francisco da Silva Peixoto",
+            "address": "Rua João Rodrigues de Miranda n: 09, Conjunto Medici Bairro: Luzia, Aracaju, Sergipe, Brasil",
+            "website": null
+        },
+        {
+            "id": 2429,
+            "name": "C-Quence",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Norco",
+            "responsible": "John Paul Kvenbo",
+            "address": "872 Kingman  , , Norco, CA, United States of America",
+            "website": "www.bjjtraining.com"
+        },
+        {
+            "id": 9297,
+            "name": "Cranium Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Luciano Antonio da Silva ",
+            "address": "Rua Maria Regina De Jesus 60, Casa, Belo Horizonte, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 3438,
+            "name": "Crazy 88",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Elkridge",
+            "responsible": "Julius Kyungsoo Park",
+            "address": "7024 Troy Hill Drive  , Ste L, Elkridge, MD, United States of America",
+            "website": "crazy88mma.com"
+        },
+        {
+            "id": 4944,
+            "name": "Crazy Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Sevilla",
+            "responsible": "Alberto Gonzalez Ortiz",
+            "address": "C/ Ajimez, 8, 3C  , , Sevilla, Spain",
+            "website": ""
+        },
+        {
+            "id": 8855,
+            "name": "Crazyguard Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Valencia",
+            "responsible": "Antonio Boluda Yago",
+            "address": "Plaza Músico Fayos 11 Puerta 3, Valencia, Valencia, Spain",
+            "website": "Valencia"
+        },
+        {
+            "id": 5392,
+            "name": "CRBJJ USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rockford",
+            "responsible": "Cristiano Ribeiro da Costa",
+            "address": "1920 Daimler Rd., Rockford, IL, United States of America",
+            "website": "cristianoribeirobjj.com"
+        },
+        {
+            "id": 9397,
+            "name": "CRC JJ Geração Resgate",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Charles Rodrigues do Canto",
+            "address": "Alameda Maues, Teresópolis, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 3414,
+            "name": "Creighton Mixed Martial Arts Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Suwanee",
+            "responsible": "Renzo Gracie",
+            "address": "460 Brogdon Road Suite 200  , , Suwanee, GA, United States of America",
+            "website": "www.paulcreighton.com"
+        },
+        {
+            "id": 5531,
+            "name": "Criatina Diferenciados",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Joelson Norberto da Silva",
+            "address": "Vila do Itanhangá, 1685 Casa, Itanhangá / Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2790,
+            "name": "Crispim BJJ Brothers",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pleasanton",
+            "responsible": "Alexander Crispim de Almeida",
+            "address": "6668 Owens Dr., Suite 100  , , Pleasanton, CA, United States of America",
+            "website": "www.crispimbjj.com"
+        },
+        {
+            "id": 9809,
+            "name": "Crist Oss BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Canindé",
+            "responsible": "Raimundo Nonato Freitas Souza",
+            "address": "Rua.aristides Rabelo 100, Alto Guaramiranga, Canindé, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8965,
+            "name": "Cristiano Brisolla BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Cristiano Ribeiro Brisolla",
+            "address": "Monte Sinai, Manaus, Am, Brasil",
+            "website": null
+        },
+        {
+            "id": 6758,
+            "name": "Cristyan Bernardino Evolução Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maringá",
+            "responsible": "Cristyan Devanir Martins",
+            "address": "Rua Luiz de Camões n: 135 Zona 01, Maringá, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 9598,
+            "name": "Cristyan Brazilian Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hyannis",
+            "responsible": "Cristyan Devanir Martins",
+            "address": "11 Enterprise Rd. Unit 19, Hyannis, Massachusetts, United States of America",
+            "website": "CristyanBJJ.com"
+        },
+        {
+            "id": 991,
+            "name": "Crolin Gracie",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianopolis",
+            "responsible": null,
+            "address": "Ponta de Baixo, Florianopolis, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 7150,
+            "name": "Crolin Gracie Academy Balneário Camboriú",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Balneário Camboriú",
+            "responsible": "Crolin Gracie",
+            "address": "Rua Fermino Taveira Cruz  N:789, Barra, Balneário Camboriú, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 9427,
+            "name": "Crossfight Philipp Gloor",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Steinhausen",
+            "responsible": "Philipp Gloor",
+            "address": "Hinterbergstrasse 28, Steinhausen, Switzerland",
+            "website": "www.crossfight.ch"
+        },
+        {
+            "id": 6178,
+            "name": "Crossfighters Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Estocolmo",
+            "responsible": "Hector Mauricio Rojas Sanchez",
+            "address": "Tradgardsgatan 6c, Lilla Alby, Sundbyberg, Estocolmo, SW, Sweden",
+            "website": "www.crossfighters.com"
+        }
+    ]
+}

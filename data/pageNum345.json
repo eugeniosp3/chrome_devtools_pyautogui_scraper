@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 345,
+        "from": 6880,
+        "to": 6900,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10725,
+            "name": "Vida Atlética",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Leandro Ricardo Benedito Gomes",
+            "address": "Av Miguel Salazar 424, Bloco 2 Apto 210, Rio De Janeiro, Rj, Brasil",
+            "website": "https://instagram.com/vidaatleticabjj?igshid=MzNlNGNkZWQ4Mg=="
+        },
+        {
+            "id": 9455,
+            "name": "Vidal Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Casper",
+            "responsible": "David Adam Vidal",
+            "address": "300 Landmark Dr, Casper, Wy, United States of America",
+            "website": null
+        },
+        {
+            "id": 9551,
+            "name": "Videira Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Thiago Matteus Silva Costa",
+            "address": "Rua Flaminia 491, Frente, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10534,
+            "name": "Vidigal Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "José Carlos Vieira da Silva",
+            "address": "Avenida Presidente Joao Goulart 738, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 2420,
+            "name": "Vieira Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sarasota",
+            "responsible": "Thadeu Alves Vieira",
+            "address": "8201 S. Tamiami Trail #19, Sarasota, FL, United States of America",
+            "website": "www.vieirajiujitsu.com"
+        },
+        {
+            "id": 10052,
+            "name": "Vikings Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niteroi",
+            "responsible": "Peder Uchoa Munksgaard",
+            "address": "Rua Tiradentes, 65, 707, Niteroi, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5034,
+            "name": "Vilanova Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Camarillo",
+            "responsible": "Alberto Silva Vilanova",
+            "address": "2175 Pickwick Dr., , Camarillo, CA, United States of America",
+            "website": "www.vilanovabjj.com"
+        },
+        {
+            "id": 6112,
+            "name": "Villains Jiu-Jitsu - Demian Maia Los Angeles",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Nathan Drona",
+            "address": "351 South Avenue 17, Los Angeles, CA, United States of America",
+            "website": "villainsjj.com"
+        },
+        {
+            "id": 2813,
+            "name": "Villardo Jiu Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wellington",
+            "responsible": "Mauricio Villardo Reis",
+            "address": "12160, South Shore Blvd #109  , , Wellington, FL, United States of America",
+            "website": "www.brjj.com"
+        },
+        {
+            "id": 7090,
+            "name": "Vilsão Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Montes Claros",
+            "responsible": "Thiago Alves Bessa",
+            "address": "Rua Rio Vieira, N. 140, Bairro: Planalto - Prolongamento., Montes Claros, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9817,
+            "name": "Vinicius Cruz Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Gonçalo",
+            "responsible": "Vinicius da Cruz SIlva",
+            "address": "Avenida Lúcio Tomé Feteira 904, São Gonçalo, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5100,
+            "name": "Vinícius Prudêncio BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cariacica",
+            "responsible": "Vinicius de Oliveira Prudêncio",
+            "address": "Rua da Matriz n: 260, São Geraldo, Cariacica, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 5103,
+            "name": "Vinny Magalhaes BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Vinicius de Magalhães",
+            "address": "7890 W Sahara Ave, Las Vegas, NV, United States of America",
+            "website": null
+        },
+        {
+            "id": 10558,
+            "name": "Virtue Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Montenegro",
+            "responsible": "Arthur Teixeira Pegado",
+            "address": "Av. Julio Renner 2725, Montenegro, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 3337,
+            "name": "Visca",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "--",
+            "responsible": "Hiroyuki Mizuno",
+            "address": "3-1-5-103 Masugara Tama-Ku kawasaki  , , --, Kanagawa, Japan",
+            "website": "www.ninjablack.jimbo.com"
+        },
+        {
+            "id": 8413,
+            "name": "Vision",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Varginha",
+            "responsible": "Rodrigo da Silva Carvalho",
+            "address": "Rua Alan Kardec 121, 389, Varginha, Mg, Brasil",
+            "website": "https://www.instagram.com/academiavisionbjj/"
+        },
+        {
+            "id": 7610,
+            "name": "Vita BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Túlio Cícero Oliveira do Rosario",
+            "address": "Passagem São Sebastião 58, altos, Belém, PA, Brasil",
+            "website": "vitabjj.com"
+        },
+        {
+            "id": 8810,
+            "name": "Vital Brother´s JiuJitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Rubens Vital Rosa de França",
+            "address": "Rua Luis Silva, 420, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 8324,
+            "name": "Vital Brothers BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mountain Home",
+            "responsible": "Renan Vital Rosa de França",
+            "address": "340 South 3rd West, Mountain Home, Id, United States of America",
+            "website": null
+        },
+        {
+            "id": 9331,
+            "name": "Vital Brothers BJJ North Miami",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Miami",
+            "responsible": "Renan Vital Rosa de França",
+            "address": "809 Ne 125th Street, North Miami, Fl, United States of America",
+            "website": "www.vitalbrothersbjj.com"
+        }
+    ]
+}

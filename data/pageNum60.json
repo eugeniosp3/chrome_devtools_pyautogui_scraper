@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 60,
+        "from": 1180,
+        "to": 1200,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7601,
+            "name": "Caatinga Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Núcleo Residencial Pilar",
+            "responsible": "Diego de Oliveira Cordeiro",
+            "address": "Rua Bem Te Vi S/N, Clube Pilar, Núcleo Residencial Pilar, Bahia, Brasil",
+            "website": "@caatingafight"
+        },
+        {
+            "id": 8995,
+            "name": "Cabral Jiu-jitsu Clube",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araçatuba",
+            "responsible": "Marcos Rogerio Ito Cabral",
+            "address": "Av Baguaçu - 892, Araçatuba, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 4369,
+            "name": "Cáceres Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Caceres",
+            "responsible": "Renato Roberto Liberato Rostey",
+            "address": "Rua Riachuelo 447 Fundos, Cavalhada, Caceres, MT, Brasil",
+            "website": null
+        },
+        {
+            "id": 7036,
+            "name": "Cadam/Centro de Autodefesa Artes Marciais",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaituba",
+            "responsible": "Jonas Plerre Barros Oliveira",
+            "address": "Travessa São José c: 38 Rua / n: 137, Sub Esquina - Bairro: Santo Antônio, Itaituba, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7734,
+            "name": "Caes de Guerra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Alvorada",
+            "responsible": "Vagner José Lima",
+            "address": "Herminio Machado , 376 , 3ºandar, Alvorada, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 6301,
+            "name": "Caetano Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Tabajara - Olinda",
+            "responsible": "José Caetano Ferreira",
+            "address": "Rua Isabel Linhares n: 97, Lot. Vila Santa Maria, Tabajara - Olinda, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 4321,
+            "name": "Cai Club",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "La Linea",
+            "responsible": "Vinicius Magalhães",
+            "address": "c/ Gibraltar 95, 5  2D , La Linea, Cadiz, Spain",
+            "website": "www.cai-club.com"
+        },
+        {
+            "id": 3789,
+            "name": "Caimani Team",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Falzè di Piave",
+            "responsible": "Gianni Bertazzon",
+            "address": "Via Donatori Del Sangue, Falzè di Piave, TV, Italy",
+            "website": "www.caimaniteam.com"
+        },
+        {
+            "id": 9419,
+            "name": "Caio Tavares Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Caio Rodrigo Tavares Alves",
+            "address": "Av Vicente De Carvalho 1081, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "GFTEAMVPNOBRE"
+        },
+        {
+            "id": 10079,
+            "name": "Caio Terra Academy - Alexandria",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alexandria",
+            "responsible": "Thienvu Tran",
+            "address": "6118 Franconia Road, Suite 213, Alexandria, Virginia, United States of America",
+            "website": "www.alexandriabjj.com"
+        },
+        {
+            "id": 8005,
+            "name": "Caio Terra Academy - Katy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Katy",
+            "responsible": "Jerome Raynell Roseborough",
+            "address": "25757 Westheimer Pkwy, Suite 172, Katy, Texas, United States of America",
+            "website": "www.katybjj.com"
+        },
+        {
+            "id": 3370,
+            "name": "Caio Terra Association",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Jose",
+            "responsible": "Caio Terra",
+            "address": "855 Park Ave  , , San Jose, CA, United States of America",
+            "website": "www.caioterrabjj.com"
+        },
+        {
+            "id": 3817,
+            "name": "Caio Terra Association Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Caio Terra",
+            "address": "Rua Sa Ferreira 73, Apt 1001, Copacabana, Rio De Janeiro, Rj, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8930,
+            "name": "Caio Terra Association Tocantins",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palmas",
+            "responsible": "Wesley Rodrigues Alves",
+            "address": "603 Norte Alameda 23 Qi 04 Lote 03, Palmas, Tocantins, Brasil",
+            "website": null
+        },
+        {
+            "id": 2582,
+            "name": "Caique Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lomita",
+            "responsible": "Carlos Elias",
+            "address": "24831 Narbonne Ave  , , Lomita, CA, United States of America",
+            "website": "www.cjjusa.com"
+        },
+        {
+            "id": 6060,
+            "name": "Caique Jiu-Jitsu Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Hagen",
+            "responsible": "Thomas Holtmann",
+            "address": "Hoheleye 23, Hagen, NRU, Germany",
+            "website": "www.cjjgermany.com"
+        },
+        {
+            "id": 6830,
+            "name": "CAJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Sante Fe",
+            "responsible": "Andres Esteban Legallais",
+            "address": "Republica de Siria 3956, Sante Fe, SF, Argentina",
+            "website": null
+        },
+        {
+            "id": 6827,
+            "name": "Caju Jiu-Jitsu Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Romulo de Souza Azevedo",
+            "address": "Rua Geraldo Martins n: 134 2 andar, Bairro: Santa Rosa, Niterói, Rio de Janeiro, Brasil",
+            "website": "cajujjacademy.com"
+        },
+        {
+            "id": 10170,
+            "name": "Calangos D´agua BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Adalberto Nunes da Silva",
+            "address": "Aos 01 Bloco D, Brasilia, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 3448,
+            "name": "Calasans BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José dos Campos",
+            "responsible": "Claudio Calasans Camargo Júnior",
+            "address": "Rua Estefania do Nascimento 49, Jardim das Indústrias, São José dos Campos, SP, Brasil",
+            "website": "calasanscamargo.com.br"
+        }
+    ]
+}

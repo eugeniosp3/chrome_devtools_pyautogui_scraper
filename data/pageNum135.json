@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 135,
+        "from": 2680,
+        "to": 2700,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8471,
+            "name": "G13 BJJ SC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bombinhas",
+            "responsible": "Nilson Lucci",
+            "address": "Lírio Branco , 246, Bombinhas, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 5273,
+            "name": "G13 BJJ USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fairless Hill",
+            "responsible": "Roberto Godoi",
+            "address": "495 C South Oxford Valley Rd, Fairless Hill, PA, United States of America",
+            "website": null
+        },
+        {
+            "id": 2567,
+            "name": "G13 Campo Belo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Fernando Santos Lopes",
+            "address": "Rua Pascal n: 1110 academia, Bairro: Campo Belo, São Paulo, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 10536,
+            "name": "G148 Dojo - United Cajamar",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cajamar",
+            "responsible": "Adriano Lucas da Silva",
+            "address": "Rua Dos Lirios, 374 - Portais, Cajamar, Sp, Brasil",
+            "website": "www.g148dojo.com"
+        },
+        {
+            "id": 8113,
+            "name": "Gabe Hernandez Jiu-Jitsu - LBK",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lubbock ",
+            "responsible": "Gabriel Hernandez",
+            "address": "5020 50th , Lubbock , Tx, United States of America",
+            "website": "www.yourbasebjj.com"
+        },
+        {
+            "id": 5039,
+            "name": "GABJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santos",
+            "responsible": "Guilherme Alves dos Santos",
+            "address": "Rua Ministro João Mendes n:228, Bairro: Embare, Santos, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 7086,
+            "name": "Gade HQ NU",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Emmanuel Brollo Junior",
+            "address": "Rua João Gregório Galindo n: 120, Bairro: Japuíba, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9067,
+            "name": "Gadelha Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Caicó",
+            "responsible": "Matheus Gadelha Fernandes",
+            "address": "Rua Joel Damasceno, 798, Caicó, Rn, Brasil",
+            "website": null
+        },
+        {
+            "id": 5553,
+            "name": "Gaditas Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Eric Nunes Costa ",
+            "address": "Rua José Pacheco 448, Conjunto JK, Jabutiana, Aracaju, SE, Brasil",
+            "website": "http://gaditasteam.com.br/"
+        },
+        {
+            "id": 7948,
+            "name": "Gaepo BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "4f, 9-15, Gaepo-ro 82-gil, Gangnam-gu, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 5679,
+            "name": "GAF BJJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Gustavo Alberto de Freitas",
+            "address": "Avenida Mutinga, 5174, Vila Jaguara, São Paulo, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 9997,
+            "name": "Galáticos Paes BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaboraí",
+            "responsible": "Ismail da Cruz Eduardo",
+            "address": "Rodovia Rj-104, 2, 367, Itaboraí, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10590,
+            "name": "Galdi Jiu-Jitsu Academy",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Vila Do Conde",
+            "responsible": "Fabio Galdi de Almeida",
+            "address": "Av. Infante Dom Henrique, 124, Brobox, Vila Do Conde, Porto, Portugal",
+            "website": "https://instagram.com/galdi_academy?igshid=OGQ5ZDc2ODk2ZA=="
+        },
+        {
+            "id": 4260,
+            "name": "Galeb Brothers Brazilian Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Mermaid Beach",
+            "responsible": null,
+            "address": "13 Northview Street  , , Mermaid Beach, QLD, Australia",
+            "website": "www.bjjacademy.com.au"
+        },
+        {
+            "id": 4563,
+            "name": "Galeb Brothers Brazilian Jiu-Jitsu - Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Atibaia",
+            "responsible": "Fabio Luiz Fernandes Galeb",
+            "address": "Rua São Vicente, 901 , Jardim Paulista, Atibaia, SP, Brasil",
+            "website": "www.facebook.com/galebjiujitsu"
+        },
+        {
+            "id": 3427,
+            "name": "Galeto Brothers BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Wagner Mendes Campos",
+            "address": "Avenida Presidente Wenceslau Braz 2453, Guaira, Curitiba, PR, Brasil",
+            "website": "@galetobrothersbjj"
+        },
+        {
+            "id": 7443,
+            "name": "Galo Association BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Wilson Alves da Silva Júnior",
+            "address": "Rua Professora Carmem de Freitas Salgado n: 158, Bairro: Califórnia, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": "galoassociationbjj.wixsite.com/bjjrj"
+        },
+        {
+            "id": 10726,
+            "name": "Galpão Bahia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Evandro Alves Nascimento",
+            "address": "Travessa Jardim Santa Helena, 2, Acupe De Brotas, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 6966,
+            "name": "Galpão da Luta",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Derek Pucci",
+            "address": "Rua Maria Rosa Dr Siqueiros 115, Bairro: Santana, São Paulo, Sao Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6786,
+            "name": "Game Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Vinícius Jorge Dubugras do Amaral",
+            "address": "Av. Prefeito Dulcidio Cardoso n: 1700, Barra da Tijuca, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        }
+    ]
+}

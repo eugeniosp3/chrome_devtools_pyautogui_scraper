@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 175,
+        "from": 3480,
+        "to": 3500,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5465,
+            "name": "Gracie Humaita Corpus Christi",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Corpus Christi",
+            "responsible": "Dulciney Matos de Lima",
+            "address": "6901 S. Padre Island Dr., Corpus Christi, TX, United States of America",
+            "website": "www.teamgracie52.com"
+        },
+        {
+            "id": 6239,
+            "name": "Gracie Humaita Hemet",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hemet",
+            "responsible": "Omar Antonio Lima Salum Junior",
+            "address": "2164 E Florida Ave, Hemet, CA, United States of America",
+            "website": "www.MyGracieHemet.com"
+        },
+        {
+            "id": 5948,
+            "name": "Gracie Humaita Houston",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "Maurino da Cunha Loureiro Junior",
+            "address": "13304 FM 1960 Road West, Suite 3, Houston, TX, United States of America",
+            "website": "www.GracieHouston.com"
+        },
+        {
+            "id": 10081,
+            "name": "Gracie Humaita Huntsville",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Huntsville",
+            "responsible": "Ryan Robert Reed",
+            "address": "227 Hwy  N., Suite 240, Huntsville, Texas, United States of America",
+            "website": "https://www.graciehumaitahuntsville.com/"
+        },
+        {
+            "id": 2256,
+            "name": "Gracie Humaita International",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, Democratic People's Republic of",
+            "countryAbbr": "KP",
+            "city": "International",
+            "responsible": null,
+            "address": "  , International, IB, Korea, Democratic People's Republic of",
+            "website": null
+        },
+        {
+            "id": 8552,
+            "name": "Gracie Humaita Kansas City",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kansas City",
+            "responsible": "Michael Graeber",
+            "address": "1323 Atlantic Ave, Kansas City, MO, United States of America",
+            "website": "Graciehumaitakansascity.com"
+        },
+        {
+            "id": 2051,
+            "name": "Gracie Humaita Las Vegas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Amilcar Cipili",
+            "address": "5640 W Charleston Blvd Suite D  , , Las Vegas, NV, United States of America",
+            "website": ""
+        },
+        {
+            "id": 2354,
+            "name": "Gracie Humaita New Jersey",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lebanon",
+            "responsible": "David Adiv",
+            "address": "56 Payne Rd - Suite 15  , , Lebanon, NJ, United States of America",
+            "website": "gracienewjersey.com"
+        },
+        {
+            "id": 7822,
+            "name": "Gracie Humaita Niterói",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niteroi",
+            "responsible": "Carlos Augusto de Jesus Vicente",
+            "address": "Rua Professor Carlos Cortes Qd20 Lt06, Itaipu, Niteroi, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 2983,
+            "name": "Gracie Humaita North Carolina",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Waynesville",
+            "responsible": "Armando Rafael Basulto",
+            "address": "205 Kelly Spring Road  , , Waynesville, NC, United States of America",
+            "website": "www.gracienorthcarolina.com"
+        },
+        {
+            "id": 7942,
+            "name": "Gracie Humaita Palmas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palmas ",
+            "responsible": "Alessandro Brandão Bogado",
+            "address": "606 Sul Av Lo 13 Lote 15 Sala 02, Palmas , Tocantins , Brasil",
+            "website": null
+        },
+        {
+            "id": 3521,
+            "name": "Gracie Humaita Philadelphia",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Philadelphia",
+            "responsible": "Brian A. Rago",
+            "address": "1231 Bainbridge St., Philadelphia, PA, United States of America",
+            "website": "phlbjj.com"
+        },
+        {
+            "id": 2017,
+            "name": "Gracie Humaita Phoenix",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Glendale",
+            "responsible": "Wellington Leal Dias",
+            "address": "5307 W Cheryl dr  , , Glendale, AZ, United States of America",
+            "website": ""
+        },
+        {
+            "id": 6322,
+            "name": "Gracie Humaita Poway",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Poway",
+            "responsible": "Rodrigo Munduruca",
+            "address": "12635-12641 Poway Rd, Poway, CA, United States of America",
+            "website": "www.graciepoway.com"
+        },
+        {
+            "id": 8238,
+            "name": "Gracie Humaita Redlands",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Redlands ",
+            "responsible": "Marcus Vinicius Barros Norat",
+            "address": "1902 Orange Tree Ln, Ste 150, Redlands , California , United States of America",
+            "website": "Www.graciehumaitajiujitsuredlands.com"
+        },
+        {
+            "id": 2126,
+            "name": "Gracie Humaita Reunion",
+            "federationAbbr": "IBJJF",
+            "country": "Reunion",
+            "countryAbbr": "RE",
+            "city": "Ile de La Reunion",
+            "responsible": "Thiago de Guimarães",
+            "address": "Rue du Grand Hotel 03 AP 95, St. Gilles Les Bains, Ile de La Reunion, X, Reunion",
+            "website": null
+        },
+        {
+            "id": 3036,
+            "name": "Gracie Humaita San Diego Competition Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Régis da Silveira Lebre",
+            "address": "7976 Enginer Dr.  , , San Diego, CA, United States of America",
+            "website": "www.thegraciesandiego.com"
+        },
+        {
+            "id": 9707,
+            "name": "Gracie Humaita Semo",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jackson",
+            "responsible": "Brian Matthew Imholz",
+            "address": "Gracie Humaita Semo, 3210 Old Cape Road, Jackson, Mo, United States of America",
+            "website": "www.graciesemo.com"
+        },
+        {
+            "id": 3637,
+            "name": "Gracie Humaita South Bay",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "National City",
+            "responsible": "Leticia Ribeiro Neves dos Santos",
+            "address": "340 W 26th Street, Suites G/H  , , National City, CA, United States of America",
+            "website": "www.graciesouthbay.com"
+        },
+        {
+            "id": 10238,
+            "name": "Gracie Humaita St Petersburg - Fl",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "St Petersburg",
+            "responsible": "Leandro L. Massaro",
+            "address": "1941 34th St N, St Petersburg, Florida, United States of America",
+            "website": "graciejiujitsustpete.com"
+        }
+    ]
+}

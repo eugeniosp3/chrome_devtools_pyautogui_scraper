@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 129,
+        "from": 2560,
+        "to": 2580,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4103,
+            "name": "Flavio Behring Association - Paraná",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Flavio Schmidt Behring",
+            "address": "Rua Padre Agostinho, 2885, Apto2104, Curitiba, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 10340,
+            "name": "Flavio Behring Association - Rio Grande Do Sul",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Flavio Schmidt Behring",
+            "address": "Avenida Nilópolis,176, Bela Vista, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 9207,
+            "name": "Flavio Behring Association - São Paulo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itararé",
+            "responsible": "Flavio Schmidt Behring",
+            "address": "Rua Dr. Jose Luciano De Mello, 396, Itararé, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 5326,
+            "name": "Flávio Caverna Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Francisco Beltrão",
+            "responsible": "Flavio Rodrigo de Oliveira Santos",
+            "address": "Rua Tenente Camargo, N° 2331 - Apartamento 102, Francisco Beltrão, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 10644,
+            "name": "Flávio Firmino Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Flávio Firmino dos Santos",
+            "address": "Rua Santa Sofia 76, João Pessoa, Paraiba, Brasil",
+            "website": null
+        },
+        {
+            "id": 5306,
+            "name": "Flavio Leal Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Luiz Flavio Leal",
+            "address": "Rua Fagundes Varela n: 221, Bairro: Ceramica, Nova Iguaçu, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 1036,
+            "name": "Flavio Teixeira Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Flavio Teixeira Dias Neto",
+            "address": "Rua Caconde, Nova Floresta, Belo Horizonte, Mg, Brasil",
+            "website": "www.kimurajj.com.br"
+        },
+        {
+            "id": 9770,
+            "name": "Flexible Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Jaehee Kwak",
+            "address": "Nowon-gu, 27dongil-ro 217ga-gil B1f Jiu-jitsu, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7807,
+            "name": "FLG Goiás",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiatuba",
+            "responsible": "Wemerson Soares da Silva",
+            "address": "Rua Minas Gerais, 1300, Goiatuba, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 10084,
+            "name": "FLJJA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Manassas",
+            "responsible": "Ricardo Sampaio Ribeiro",
+            "address": "9223 Sudley Rd, Manassas, Va, United States of America",
+            "website": "www.frontlinejiujitsuacademy.com"
+        },
+        {
+            "id": 2742,
+            "name": "Florian Martial Arts Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brookline",
+            "responsible": "Keith Jason Florian",
+            "address": "6 Webster Street  , , Brookline, MA, United States of America",
+            "website": "www.florianmartialartscenter.com"
+        },
+        {
+            "id": 7396,
+            "name": "Florida Combat Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Melbourne",
+            "responsible": "Dennis Jonathan Davidson",
+            "address": "843 Adger Smith Lane, Melbourne, FL, United States of America",
+            "website": "www.attrockledge.com"
+        },
+        {
+            "id": 10539,
+            "name": "Floripa Top Fight BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Sandro Souza Limeira da Silveira",
+            "address": "Rua Vale Do Sol, 77c, Casa C, Florianópolis, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 5831,
+            "name": "Floripa Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José",
+            "responsible": "Sandré Domingos",
+            "address": "Rua Estoril N: 4303 - Atras Da Padaria, Forquilhas, São José, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 4755,
+            "name": "Flow",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Roma",
+            "responsible": "Andrea Verdemare",
+            "address": "via della farnesina 52, , Roma, ., Italy",
+            "website": "www.flowjiujitsu.it"
+        },
+        {
+            "id": 5044,
+            "name": "Flow Martial Arts - Gold Coast",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Gold Coast",
+            "responsible": "Paulo Henrique Polimeno",
+            "address": "Shop 105, 87 Griffith Street, Coolangatta, Gold Coast, QLD, Australia",
+            "website": "www.flowmartialarts.com.au"
+        },
+        {
+            "id": 7593,
+            "name": "Flow State BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dover",
+            "responsible": "Scott Ryan Chiriboga",
+            "address": "155 Commerce Way Suite L, Dover, DE, United States of America",
+            "website": null
+        },
+        {
+            "id": 6799,
+            "name": "Flow Theory Grappling",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Spring",
+            "responsible": "Matheau Carlson Smith",
+            "address": "21631 Rhodes Rd, Spring, TX, United States of America",
+            "website": "https://www.flowtheorygrappling.com/"
+        },
+        {
+            "id": 8625,
+            "name": "Flow´n Roll Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Paterna",
+            "responsible": "João Luiz Barreto Baoventura",
+            "address": "Calle Ginesta 1, Piso 3, Puerta 11, Paterna, Valencia, Spain",
+            "website": "www.flownrolljiujitsu.com"
+        },
+        {
+            "id": 9142,
+            "name": "Flowing Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sendai City",
+            "responsible": "Mikio Oga",
+            "address": "Aoba Ku Honmachi1-15-8, Miyota Bld. 3f, Sendai City, Miyagi Ken, Japan",
+            "website": "https://flowjiu-jitsu.jp/"
+        }
+    ]
+}

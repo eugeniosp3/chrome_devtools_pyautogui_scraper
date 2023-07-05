@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 42,
+        "from": 820,
+        "to": 840,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9946,
+            "name": "Beerjj The Gym",
+            "federationAbbr": "IBJJF",
+            "country": "Austria",
+            "countryAbbr": "AT",
+            "city": "Innsbruck",
+            "responsible": "Daniel Prantner",
+            "address": "Egger-lienz-straße 96, Innsbruck, Tirol, Austria",
+            "website": "www.beerjj-thegym.com"
+        },
+        {
+            "id": 3647,
+            "name": "Behring Israel",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Beer Sheva",
+            "responsible": "Flavio Schmidt Behring",
+            "address": "Harav Hertzog 21/8  , , Beer Sheva, --, Israel",
+            "website": "www.mmaisrael.co.il"
+        },
+        {
+            "id": 2976,
+            "name": "Behring Jiu-Jitsu USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Salt Lake City",
+            "responsible": "Robert Lawrence Handley",
+            "address": "1338 West 7800 South West Jordan  , , Salt Lake City, UT, United States of America",
+            "website": "www.flaviobehring.com"
+        },
+        {
+            "id": 7025,
+            "name": "Behring Last Stand",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Merced",
+            "responsible": "Marcos Teixeira Tome Jr.",
+            "address": "1630 Patricia ln., Merced, CA, United States of America",
+            "website": "www.MMAMERCED.com"
+        },
+        {
+            "id": 2127,
+            "name": "Behring Puerto Rico",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Trujillo alto",
+            "responsible": null,
+            "address": "  , , Trujillo alto, PR, United States of America",
+            "website": ""
+        },
+        {
+            "id": 3121,
+            "name": "Behring Romania",
+            "federationAbbr": "IBJJF",
+            "country": "Romania",
+            "countryAbbr": "RO",
+            "city": "RM. Vilcea",
+            "responsible": "Flavio Schmidt Behring",
+            "address": "Ale Cocorilor NR.G Bl.19 SC.C AP.16  , , RM. Vilcea, Romania",
+            "website": "www.flaviobehring.com"
+        },
+        {
+            "id": 4093,
+            "name": "Behring Spain",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Elche",
+            "responsible": "Flavio Schmidt Behring",
+            "address": "C/PIO BAROJA number 6  , Elche, Alicante, Spain",
+            "website": "behringjiujitsuspain.es"
+        },
+        {
+            "id": 3133,
+            "name": "Bellatleo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Hokkaido",
+            "responsible": "Tsutomu Fujimoto",
+            "address": "402-4 Kikyocho Hakodate City, , Hokkaido, --, Japan",
+            "website": "bellatleo.com"
+        },
+        {
+            "id": 8004,
+            "name": "Belleville Infinite Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Belleville",
+            "responsible": "Jason John Chin-Leung",
+            "address": "Unit 3, 315 Bell Boulevard, Belleville, Ontario, Canada",
+            "website": "infinite-mma.com"
+        },
+        {
+            "id": 7816,
+            "name": "Bellicose Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Crofton",
+            "responsible": "Charles W Cherry",
+            "address": "2146 Priest Bridge Ct, Suite 7, Crofton, Maryland, United States of America",
+            "website": "www.bellicosemartialarts.com"
+        },
+        {
+            "id": 7815,
+            "name": "Bellingham BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bellingham ",
+            "responsible": "Mauro Felipe de Oliveira Soares",
+            "address": "205 W Holly St , Bellingham , Washington , United States of America",
+            "website": "bellinghambjj.com"
+        },
+        {
+            "id": 7606,
+            "name": "Belsito BJJ Parma",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Parma",
+            "responsible": "Joao Henrique Belsito de Almeida",
+            "address": "Via P . Cardani 19, Parma, Parma, Italy",
+            "website": null
+        },
+        {
+            "id": 7072,
+            "name": "Belt Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Luiz Antônio Nunes de Oliveira Filho",
+            "address": "Av. Epitacio Pessoa n: 2142/403, Bairro: Ipanema, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10057,
+            "name": "Benaia Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gama",
+            "responsible": "Robert Marley Almeida Lima",
+            "address": "Quadra 05, Casa 104, Gama, Df, Brasil",
+            "website": null
+        },
+        {
+            "id": 10407,
+            "name": "Benaion Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Diogo Benaion da Silva",
+            "address": "Rua Neferson Clair Moraes, 308, Campo Grande, Ms, Brasil",
+            "website": null
+        },
+        {
+            "id": 7963,
+            "name": "Benmabrouk RF Team",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Creil",
+            "responsible": "Karim Benmabrouk",
+            "address": "3 Rue Léon Jouhaux, Creil, Oise, France",
+            "website": null
+        },
+        {
+            "id": 7735,
+            "name": "Bera Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cascavel",
+            "responsible": "José Everaldo Gonçalves",
+            "address": "Rua Tranqüilo Noro, 642 - Casa 450, Parque Verde, Cascavel, Parana, Brasil",
+            "website": null
+        },
+        {
+            "id": 10753,
+            "name": "Berg Brazilian Jiu Jitsu - MA",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Luis",
+            "responsible": "Josemberg de Sousa Garces",
+            "address": "Av. Acre, 159 - Chácara Brasil, São Luis, Maranhão, Brasil",
+            "website": null
+        },
+        {
+            "id": 7956,
+            "name": "Bernardo Lopez Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Bernardo Adriano Lopes da Silva",
+            "address": "Rua José Gonçalves 226, Casa, Porto Alegre, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 8109,
+            "name": "Bernardo Magalhaes - Life BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Balgownie",
+            "responsible": "Bernardo Fuks Magalhães",
+            "address": "10-14, Ruger, Balgownie, New South Wales, Australia",
+            "website": "www.lifebjj.com"
+        }
+    ]
+}

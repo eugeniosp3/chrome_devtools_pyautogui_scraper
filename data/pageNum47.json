@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 47,
+        "from": 920,
+        "to": 940,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5450,
+            "name": "BJJF - Jose Luis Figueroa",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Santiago",
+            "responsible": "José Luis Figueroa Pacheco",
+            "address": "Alameda 2489, Piso 3, Santiago, RM, Chile",
+            "website": "www.bjjf.cl"
+        },
+        {
+            "id": 8908,
+            "name": "Bjjslovakia",
+            "federationAbbr": "IBJJF",
+            "country": "Slovakia",
+            "countryAbbr": "SK",
+            "city": "Bratislava",
+            "responsible": "Lubomir Repasky",
+            "address": "Budatínska 29, Bratislava, Slovenská Republika, Slovakia",
+            "website": null
+        },
+        {
+            "id": 6184,
+            "name": "Black Anaconda Team",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Sogny Aux Moulins",
+            "responsible": "David Giorsetti",
+            "address": "18 Grande Rue, Sogny Aux Moulins, --, France",
+            "website": null
+        },
+        {
+            "id": 4122,
+            "name": "Black Arrow",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brainerd",
+            "responsible": "Jared Eugene Feierabend",
+            "address": "217 Washington St., Brainerd, MN, United States of America",
+            "website": "http://blackarrowmartialarts.com/"
+        },
+        {
+            "id": 10101,
+            "name": "Black Belt Padilha Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Piracicaba",
+            "responsible": "Daniel Alves Padilha",
+            "address": "Rua Regente Feijo 653, Piracicaba, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6628,
+            "name": "Black Diamond BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Reno",
+            "responsible": "John Anthony Villarruel",
+            "address": "1445 South Meadows Parkway, Reno, NV, United States of America",
+            "website": null
+        },
+        {
+            "id": 5204,
+            "name": "Black Flag Submission Company",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Glendale",
+            "responsible": "Carlos Andres Rojas",
+            "address": "6960 North 57th Drive, , Glendale, Az, United States of America",
+            "website": "www.blackflagjiujitsuclub.com"
+        },
+        {
+            "id": 10074,
+            "name": "Black Gold Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Spruce Grove",
+            "responsible": "Michael Lorne Hay",
+            "address": "#123 20 Westwind Drive, Spruce Grove, Alberta, Canada",
+            "website": "https://blackgoldbjj.sites.zenplanner.com/calendar.cfm"
+        },
+        {
+            "id": 436,
+            "name": "Black Helmet",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Mauricio Cabral de Melo",
+            "address": "Rua Amazonas n: 2300 sala 1, Centro, Blumenau, SC, Brasil",
+            "website": "www.blackhelmet.com.br"
+        },
+        {
+            "id": 7964,
+            "name": "Black Hills Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rapid City",
+            "responsible": "Jeremy John Schunneman",
+            "address": "431 City Springs Ln, Rapid City, Sd, United States of America",
+            "website": "bhbjj.com "
+        },
+        {
+            "id": 4672,
+            "name": "Black Hole Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fishkill",
+            "responsible": "Michael Thomas Wacker",
+            "address": "831 Main Street  , , Fishkill, NY, United States of America",
+            "website": "www.blackholejiujitsu.net"
+        },
+        {
+            "id": 2100,
+            "name": "Black House Jiu-jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "redondo beach",
+            "responsible": "Ricardo Cerri Arrivabene",
+            "address": "2416 artesia blvd  , , redondo beach, ca, United States of America",
+            "website": "blackhouseredondo.com"
+        },
+        {
+            "id": 9127,
+            "name": "Black House Jiu-Jitsu Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recreio",
+            "responsible": "Ricardo Cerri Arrivabene",
+            "address": "Rua Odilon Duarte Braga N26 A, Recreio, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6292,
+            "name": "Black Label Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Charleston",
+            "responsible": "Malachy Tormey Friedman",
+            "address": "1850 Wallace School Rd. , Charleston, SC, United States of America",
+            "website": "www.blacklabelmartialarts.com"
+        },
+        {
+            "id": 6569,
+            "name": "Black Line Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Montreal ",
+            "responsible": "Benoit Décary-secours",
+            "address": "215 Jean-Talon, Montreal , Quebec, Canada",
+            "website": "www.Thailong.ca"
+        },
+        {
+            "id": 6464,
+            "name": "Black Lions Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barbacena",
+            "responsible": "Cleberson Luiz Farias",
+            "address": "Rua: Amilcar Savassi, 454, Bairro Campo, Proximo ao colégio Amilcar Savassi, Barbacena, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 5023,
+            "name": "Black Norte Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macará",
+            "responsible": "Antonio Ney da Silva Lourinho",
+            "address": "Rua Hamilton Silva 2469, Trem, Macará, AP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4887,
+            "name": "Black Panther",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araguari",
+            "responsible": "Carlos Romero Euripedes",
+            "address": "Rua Quinca Mariano 832 , Centro, Araguari, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9955,
+            "name": "BLACK RAVEN BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Dores De Campos",
+            "responsible": "Chander Bruno Arruda Ferreira",
+            "address": "Rua Francisco De Assis Neto, 133, Dores De Campos, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 10200,
+            "name": "Black Rhinos",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campinas",
+            "responsible": "Amaury Dionisio Lima Fernandes",
+            "address": "R. Ana Jacinta De Andrade Couto, 461, Parque Industrial, Campinas, São Paulo, Brasil",
+            "website": null
+        }
+    ]
+}

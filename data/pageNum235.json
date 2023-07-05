@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 235,
+        "from": 4680,
+        "to": 4700,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2607,
+            "name": "MJJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Linhares",
+            "responsible": "Edvaldo Oliveira Santos",
+            "address": "Rua Borba Gato 469, Interlagos, Linhares, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 9917,
+            "name": "MJN São Paulo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Fabio Roberto Rodrigues",
+            "address": "Rua Piranguinho 393a, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 3677,
+            "name": "Mjolnir",
+            "federationAbbr": "IBJJF",
+            "country": "Iceland",
+            "countryAbbr": "IS",
+            "city": "Reykjavik",
+            "responsible": "Gunnar Ludvik Nelson",
+            "address": "Seljavegur 2  , Reykjavik, --, Iceland",
+            "website": "www.mjolnir.is"
+        },
+        {
+            "id": 4053,
+            "name": "MKBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Marco Antonio Karam Júnior",
+            "address": "Rua Professor Hilario Veiga de Carvalho n : 85/191, Morumbi, São Paulo, SP, Brasil",
+            "website": "@MKBJJ"
+        },
+        {
+            "id": 7049,
+            "name": "MKOJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tucson",
+            "responsible": "Michael MacGregor",
+            "address": "7831 E Broadway Blvd, Tucson, AZ, United States of America",
+            "website": "Makobjj.org"
+        },
+        {
+            "id": 9457,
+            "name": "ML Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Antonio Marcos Farias Lira",
+            "address": "Rua Mestre Manoel 225, Salvador, Ba, Brasil",
+            "website": null
+        },
+        {
+            "id": 5755,
+            "name": "ML Combatives Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Springfield",
+            "responsible": "Matthew Larsen",
+            "address": "7702A Backlick Road, Springfield, VA, United States of America",
+            "website": "www.combatfit.com"
+        },
+        {
+            "id": 4956,
+            "name": "MMA \u0026 BJJ Dojo Cobrakai",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka-shi",
+            "responsible": "Yoshitomi Mishima",
+            "address": "4-26-8 Yoshino, Fukushiwa-ku  , Osaka-shi, Osaka, Japan",
+            "website": "http://cobraki.jp"
+        },
+        {
+            "id": 4642,
+            "name": "MMA Masters",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Miami",
+            "responsible": "Daniel Fontes Valverde",
+            "address": "7245 N.W. 25th Street, Miami, FL, United States of America",
+            "website": "mmamasters.com"
+        },
+        {
+            "id": 6092,
+            "name": "MMA Spirit / Mixed Martial Arts GmbH",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Frankfurt",
+            "responsible": "Sascha Rankovic",
+            "address": "Hanauer Landstrasse 291, Frankfurt, Germany",
+            "website": "mmaspirit.tv"
+        },
+        {
+            "id": 9439,
+            "name": "MMT - Marcos Moreno Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Marcos Paulo Cardoso da Silva",
+            "address": "Rua Dr. Zelito Pamplona, 430, Casa 10, Fortaleza, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 3397,
+            "name": "MNBJJ Glasgow",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Glasgow",
+            "responsible": "Marcos Bueno Nardini",
+            "address": "53 Kilbirnie Street, , Glasgow, --, United Kingdom",
+            "website": "www.mnbjjglasgow.co.uk"
+        },
+        {
+            "id": 2200,
+            "name": "MNunes BJJ Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Burlington",
+            "responsible": "Marcio Nunes Rodrigues",
+            "address": "5432 Windermere Dr, , Burlington, ON, Canada",
+            "website": "www.mnbjj.ca"
+        },
+        {
+            "id": 5220,
+            "name": "Mobius BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Suwon",
+            "responsible": "Jewoo Choi",
+            "address": "Ingye-dong, Paldal-gu, 1038-18  , , Suwon, Korea, South",
+            "website": ""
+        },
+        {
+            "id": 10616,
+            "name": "Mogwai Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Jose",
+            "responsible": "Lawrence Cordero Jr.",
+            "address": "6204 Barb Warner Lane, San Jose, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 5946,
+            "name": "Moi Bahrain",
+            "federationAbbr": "IBJJF",
+            "country": "Bahrain",
+            "countryAbbr": "BH",
+            "city": "Manama",
+            "responsible": "Hamidou Dabo",
+            "address": "Ministry of Interior P.O. Box 13, Manama, --, Bahrain",
+            "website": null
+        },
+        {
+            "id": 10672,
+            "name": "Molinaro Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chicago",
+            "responsible": "Alexandre Faria Molinaro",
+            "address": "3260 N Clark Street, Chicago, Il, United States of America",
+            "website": "https://www.molinarojiujitsu.com"
+        },
+        {
+            "id": 6332,
+            "name": "Momentum BJJ Iceland",
+            "federationAbbr": "IBJJF",
+            "country": "Iceland",
+            "countryAbbr": "IS",
+            "city": "Reykjavik",
+            "responsible": "Luigi Emile Mondelli",
+            "address": "Armuli 17a, Reykjavik, --, Iceland",
+            "website": "momentumbjj.is"
+        },
+        {
+            "id": 7997,
+            "name": "Monalisa Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Wellington Miranda de Oliveira",
+            "address": "R. Waldemar Ouríques, 1027, Florianópolis, Capoeiras, Brasil",
+            "website": "www.monalisafightteam.com.br"
+        },
+        {
+            "id": 6567,
+            "name": "Monarchy MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Malaysia",
+            "countryAbbr": "MY",
+            "city": "Kuala Lumpur ",
+            "responsible": "Diego Vargas da Silva",
+            "address": "Jalan Raja Chulan, Wisma MPL, Unit 146 , Kuala Lumpur , KL, Malaysia",
+            "website": "www.monarchymma.com"
+        }
+    ]
+}

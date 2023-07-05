@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 78,
+        "from": 1540,
+        "to": 1560,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4849,
+            "name": "Checkmat Shenzhen",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Shenzhen",
+            "responsible": "Leonardo Alcantara Vieira",
+            "address": "1F huakang building, Huafu Road 1064-4, futian district, Shenzhen, Guangdong, China",
+            "website": "www.checkmatbjj.com"
+        },
+        {
+            "id": 9950,
+            "name": "Checkmat South Minneapolis",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Minneapolis",
+            "responsible": "Melor Sturua",
+            "address": "1362 Lasalle Ave, Minneapolis, Minnesota, United States of America",
+            "website": "instagram.com/dangerroom612"
+        },
+        {
+            "id": 7975,
+            "name": "Checkmat South Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pharr",
+            "responsible": "Danian Torres",
+            "address": "1000 E Center Circle, Pharr, Texas, United States of America",
+            "website": null
+        },
+        {
+            "id": 8799,
+            "name": "Checkmat Surrey",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Reigate",
+            "responsible": "Martin Philip Hollis",
+            "address": "Europe House, Bancroft Road, Reigate, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 4503,
+            "name": "Checkmat Switzerland",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "SION",
+            "responsible": "Edvaldo da Mota Ferreira",
+            "address": "Route de la Blancherie 45  , , SION, VS , Switzerland",
+            "website": ""
+        },
+        {
+            "id": 8800,
+            "name": "Checkmat Talmor",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Rishon Lezion",
+            "responsible": "Sahar Shay Talmor",
+            "address": "Stephan Weiss 18, Rishon Lezion, Central, Israel",
+            "website": null
+        },
+        {
+            "id": 8231,
+            "name": "Checkmat Tapejara",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Tapejara",
+            "responsible": "Roger Roberto Ribas dos Santos",
+            "address": "Avenida 7 De Setembro 1371 Centro, Tapejara, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 9944,
+            "name": "Checkmat Team FSG",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Leonardo Queiroz da Cunha",
+            "address": "552 Kingsland Road, London, Unit 15b, London, England, United Kingdom",
+            "website": "www.londongrapplingschool.co.uk"
+        },
+        {
+            "id": 10680,
+            "name": "Checkmat Temecula Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Temecula",
+            "responsible": "Helio Barthem Neto",
+            "address": "27315 Jefferson Avenue, Ste E, Temecula, California, United States of America",
+            "website": "www.temeculabjj.com"
+        },
+        {
+            "id": 6427,
+            "name": "CheckMat TMTeam",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Thyago Oliveira de Souza Costa",
+            "address": "Rua Sgt Pedro Gomes de Lira n: 510, Bairro: Ernesto Geisel, João Pessoa, Paraiba, Brasil",
+            "website": null
+        },
+        {
+            "id": 9610,
+            "name": "Checkmat Twin Cities",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Roseville",
+            "responsible": "David James Margraf",
+            "address": "2480 Fairview Ave N Suite #11, Roseville, Mn, United States of America",
+            "website": "The Cellar Gym"
+        },
+        {
+            "id": 5580,
+            "name": "Checkmat UK - Leo Queiroz Team",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Leonardo Queiroz da Cunha",
+            "address": "32 Stanley Road, Harrow, London, United Kingdom",
+            "website": "http://moderncombatmartialarts.com/"
+        },
+        {
+            "id": 2149,
+            "name": "CheckMat USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Signal Hill",
+            "responsible": "Leonardo Alcantara Vieira",
+            "address": "2400 Gundry Ave   , , Signal Hill, CA, United States of America",
+            "website": "www.leoviera.com"
+        },
+        {
+            "id": 6318,
+            "name": "Checkmat Valencia Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Valencia",
+            "responsible": "Alessandra Vieira Jamgochian",
+            "address": "28059 Avenue Stanford, Valencia, CA, United States of America",
+            "website": "www.checkmatvalencia.com"
+        },
+        {
+            "id": 8323,
+            "name": "Checkmat Valentina",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Luis Renato Tavares de Sales",
+            "address": "Dr. Valdevino Gregório De Andrade, 525, João Pessoa, Pb, Brasil",
+            "website": null
+        },
+        {
+            "id": 6716,
+            "name": "Checkmat Vancouver",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Vancouver",
+            "responsible": "Christopher James Dealy",
+            "address": "4707 Ne Minnehaha St. #103, Vancouver, WA, United States of America",
+            "website": "www.TheBaseVancouver.com"
+        },
+        {
+            "id": 6691,
+            "name": "Checkmat Vida Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mandeville",
+            "responsible": "Gregory Alan Lapin",
+            "address": "4420 Hwy 22 , Mandeville, LA, United States of America",
+            "website": "www.vidabjj.com"
+        },
+        {
+            "id": 9205,
+            "name": "CheckMat Vila Da Penha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Lidio Henrique da Silva Santos",
+            "address": "Rua Ararai 356, A, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5228,
+            "name": "Checkmat Vilas Do Atlântico",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lauro de Freitas",
+            "responsible": "Enock Carteado C. de Albuquerque Neto",
+            "address": "Avenida Praia de Itamaraca  Vilas Tênis Clube, Lauro de Freitas (Vilas do Atlantico), Lauro de Freitas, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9041,
+            "name": "Checkmat Waterford",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Waterford",
+            "responsible": "Wagner Eduardo Gonzaga de Lemos Luvezuti",
+            "address": "Unit 5, Johnstown Business Park, Johnstown, Waterford, Waterford, Ireland",
+            "website": null
+        }
+    ]
+}

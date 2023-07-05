@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 212,
+        "from": 4220,
+        "to": 4240,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4068,
+            "name": "L.A. Jiu Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Ricardo Wilke",
+            "address": "7901 Melrose Ave ste 205 , , Los Angeles, CA, United States of America",
+            "website": "lajiujitsuacademy.com"
+        },
+        {
+            "id": 5749,
+            "name": "La Colonia Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Santa Maria Colotepec",
+            "responsible": "Magid Hage IV",
+            "address": "Jacalon #130 , La Barra de Navidad, Santa Maria Colotepec, Oaxaca, Mexico",
+            "website": null
+        },
+        {
+            "id": 8516,
+            "name": "La Guardia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araruama",
+            "responsible": "Rodrigo dos Santos Lima",
+            "address": "Mário De Vasconcellos, 10, Araruama, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9140,
+            "name": "LA Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Culver City",
+            "responsible": "Ricardo  Cardoso da Rosa",
+            "address": "6295 Bristol Parkway, Culver City, Ca, United States of America",
+            "website": "www.jiujitsu.la"
+        },
+        {
+            "id": 9943,
+            "name": "La Superba",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Genova",
+            "responsible": "Andrea Lavaggi",
+            "address": "Via Bobbio 7, Genova, Italy",
+            "website": null
+        },
+        {
+            "id": 7136,
+            "name": "Lab 33",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Mundingburra",
+            "responsible": "Gustavo Falciroli",
+            "address": "5 Buna Avenue, Mundingburra, Qld, Australia",
+            "website": "lab33.com.au"
+        },
+        {
+            "id": 6635,
+            "name": "Lacanaria Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Honolulu",
+            "responsible": "Blaine Lacanaria",
+            "address": "137-A Kaeleloi Place, Honolulu, HI, United States of America",
+            "website": null
+        },
+        {
+            "id": 8089,
+            "name": "Lagasca BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Robert Villaluna Lagasca",
+            "address": "10045 Mystic Dance St, Las Vegas, Nv, United States of America",
+            "website": null
+        },
+        {
+            "id": 7528,
+            "name": "LAJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Medord",
+            "responsible": "Peter T. Loncarevich",
+            "address": "259 E. Barnett Rd., Medord, OR, United States of America",
+            "website": "lotusacademymedford.com"
+        },
+        {
+            "id": 9865,
+            "name": "Lake District BJJ Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Kendal",
+            "responsible": "Samuel Ross Kaye",
+            "address": "Lake District Bjj Academy, Parkside Rd, Kendal, United Kingdom",
+            "website": "www.lakesbjj.co.uk"
+        },
+        {
+            "id": 6081,
+            "name": "Lake Effect Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Depew",
+            "responsible": "Michael Robert Katilus",
+            "address": "2106 George Urban Blvd., Depew, NY, United States of America",
+            "website": "www.lakeeffectbjj.com"
+        },
+        {
+            "id": 6395,
+            "name": "Lakewood DM Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lakewood",
+            "responsible": "Rigan Machado",
+            "address": "5543 Woodruff Ave, Lakewood, CA, United States of America",
+            "website": "DMBJJ.com"
+        },
+        {
+            "id": 7550,
+            "name": "Lang Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao vicente de Paula",
+            "responsible": "Rafael Lang",
+            "address": "Rua Tapajós n: 15, Sala 301, Sao vicente de Paula, Cachoeirinha, Brasil",
+            "website": null
+        },
+        {
+            "id": 4189,
+            "name": "Lange's Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "North Manly",
+            "responsible": "Anthony Thomas Byron Lange",
+            "address": "Unit 7 - 380 Pittwater Rd, North Manly, NSW, Australia",
+            "website": "LangesMMA.com"
+        },
+        {
+            "id": 6216,
+            "name": "Langley Revolution Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Langley",
+            "responsible": "Bibiano Fernandes da Silva Neto",
+            "address": "104-20460 Langley Bypass, Langley, BC, Canada",
+            "website": "rftmma.com"
+        },
+        {
+            "id": 4126,
+            "name": "Lansang Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Long Beach",
+            "responsible": "Michael dela Cruz Lansang",
+            "address": "3000 Santa Fe Avenue  , , Long Beach, CA, United States of America",
+            "website": "--"
+        },
+        {
+            "id": 7834,
+            "name": "Lapel Arts Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Vancouver",
+            "responsible": "Lucas Wilhan",
+            "address": "1850 Lorne St, Unit 104, Vancouver, Bc, Canada",
+            "website": "lapelarts.ca"
+        },
+        {
+            "id": 10199,
+            "name": "Laque - Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra Mansa",
+            "responsible": "Leandro Marcio Rodrigues Laque",
+            "address": "Avenida Albo Chiesse, Bloco 18 Apto 401, Barra Mansa, Rio De Janeiro, Brasil",
+            "website": "@infinityart_jiu_jitsu"
+        },
+        {
+            "id": 8543,
+            "name": "Laranjeiras Jiu-Jitsu Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro ",
+            "responsible": "Cleber de Souza Ferreira",
+            "address": "Rua Alice 160, Rio De Janeiro , Rio De Janeiro , Brasil",
+            "website": null
+        },
+        {
+            "id": 7416,
+            "name": "Larry Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barcarena",
+            "responsible": "Felipe Larry Matias Oliveira",
+            "address": "Travessa Ezequiel Jose da França n:04 Quadra: 388, Vila dos Cabanos, Barcarena, Pará, Brasil",
+            "website": null
+        }
+    ]
+}

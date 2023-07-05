@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 108,
+        "from": 2140,
+        "to": 2160,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4866,
+            "name": "Equipe A",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Novo Hamburgo",
+            "responsible": "Márcio Marques Mendonça",
+            "address": "Av. Vereador Adão Rodrigues de Oliveira 1381, Novo Hamburgo, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 2594,
+            "name": "Equipe ACJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarujá",
+            "responsible": "Antônio Carlos Fagundes Cicconi",
+            "address": "Rua Cubatão  335 Fundos, Barra Funda, Guarujá, SP, Brasil",
+            "website": "www.acjj.com.br"
+        },
+        {
+            "id": 6785,
+            "name": "Equipe Aliados",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Vasco Bento Filho",
+            "address": "Rua Prefeito José de Moraes Dias lote 28 qd BB, Parque Paraído, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4800,
+            "name": "Equipe André Batata",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo dos Goitacazes",
+            "responsible": "Vandêrlei Quitete Ribeiro",
+            "address": "R. João Sobral Bitencourt 071 Casa, Parque Tamandaré, Campo dos Goitacazes, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7419,
+            "name": "Equipe Andre Soares JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Matozinhos",
+            "responsible": "Andre Soares Pontes",
+            "address": "Praça Carlos Martins Sobrinho n: 14, Bairro: Centro, Matozinhos, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9362,
+            "name": "Equipe Armatta BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Eduardo Augusto Lopes",
+            "address": "Rua Guerreiro De Farias 263, Casa, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10747,
+            "name": "Equipe AVV Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Alexandre Souza Lima",
+            "address": "Avenida Dos Mananciais 1248, Bairro Taquara, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 124,
+            "name": "Equipe Behring",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": null,
+            "address": "Praça Restier Gonçalves 1000 Bl 04 ap 103, Recreio, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9437,
+            "name": "Equipe BJJ LM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Leonardo Honorio de Menezes",
+            "address": "Rua Paschoal Palladino, N° 11, Nova Iguaçu, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9565,
+            "name": "EQUIPE BJJ RZ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Guilherme do Nascimento Leandro",
+            "address": "Rua Silvestre Francisco, 53 B, Vila Mirante, Pirituba, São Paulo, Sp, Brasil",
+            "website": "-"
+        },
+        {
+            "id": 3688,
+            "name": "Equipe Bravo Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araguari",
+            "responsible": "José Eduardo de Oliveira",
+            "address": "Av. Dr. Osvaldo Pierucetti 251, Interlagos 1, Araguari, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 9552,
+            "name": "Equipe Bravo Jiu-jitsu / Cárcara",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Tupaciguara",
+            "responsible": "José Eduardo de Oliveira",
+            "address": "Rua Carmo Martins Prudente N. 131, Tupaciguara, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 2009,
+            "name": "Equipe Búfalo JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": null,
+            "address": "Santa Mônica, Belo Horizonte, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 2135,
+            "name": "Equipe Careca Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José Dos Campos",
+            "responsible": "Luiz Carlos Dagmar",
+            "address": "Rua Elmano Ferreira Veloso, 461, Jardim Estoril, Sobreloja, São José Dos Campos, SP, Brasil",
+            "website": "www.instagram.com/teamcarecajiujitsu"
+        },
+        {
+            "id": 8228,
+            "name": "Equipe Choquepoa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Iraja Passos de Oliveira",
+            "address": "Rua Silvado, 630, Partenon, Porto Alegre, Rs, Rua Pedro Álvares Cabral, 524, Lomba Do Pinheiro, Porto Alegre, Rs, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 8206,
+            "name": "Equipe Claudão Machado",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Claudio Lisias Teixeira Machado",
+            "address": "Travessa Barão Do Triunfo, N1427, Próximo A Rua Antônio Everdosa / Pedreira, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 10408,
+            "name": "Equipe Cyborg Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jacareí",
+            "responsible": "Marcelo de Siqueira Santos",
+            "address": "Rua Dr. Pompílio Mercadante, 91, Praça Conde Frontin, Jacarei, Sp, Jacareí, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8450,
+            "name": "Equipe De Jiu Jitsu Efesios 6",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarapari",
+            "responsible": "Robert Dutra Moreira",
+            "address": "Rua Esmeraldo De Oliveira Coutinho Nº 230 - Jardim Boa Vista , Escola , Guarapari, Espirito Santo , Brasil",
+            "website": null
+        },
+        {
+            "id": 6240,
+            "name": "Equipe de Jiu-Jitsu Top Das Galaxias Viseu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Viseu",
+            "responsible": "Jefferson Costa Pinto",
+            "address": "Rua Palacio do Gelo, Viseu, Portugal",
+            "website": null
+        },
+        {
+            "id": 2909,
+            "name": "Equipe Edinho Silva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Edison José da Silva",
+            "address": "Rua Graciliano Manoel Gomes, 530 - 1° Andar, Ingleses, Florianópolis, SC, Brasil",
+            "website": "www.equipeedinhosilva.com.br"
+        }
+    ]
+}

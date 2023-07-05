@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 66,
+        "from": 1300,
+        "to": 1320,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5026,
+            "name": "Carlson Gracie São Paulo - Capital",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Guilherme Assad Teixeira",
+            "address": "Av. Lins De Vasconcelos 1315, Aclimação, São Paulo, São Paulo, Brasil",
+            "website": "www.carlsongraciesaopaulo.com.br"
+        },
+        {
+            "id": 6416,
+            "name": "Carlson Gracie South Bay",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Torrance",
+            "responsible": "Andre Luis Vasconcellos",
+            "address": "20305 Anza Ave #c, Torrance, CA, United States of America",
+            "website": "www.CarlsonGracieSouthBay.com"
+        },
+        {
+            "id": 206,
+            "name": "Carlson Gracie SP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "José Henrique Saraiva Nascimento",
+            "address": "Rua São Paulo n: 904, Conchal, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8779,
+            "name": "Carlson Gracie Switzerland",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Wallisellen",
+            "responsible": "Felipe Thiago Pereira da Silva",
+            "address": "Neugutstrasse 12, Wallisellen, Zurich, Switzerland",
+            "website": "www.carlsongracie.ch"
+        },
+        {
+            "id": 2597,
+            "name": "Carlson Gracie Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Murrieta",
+            "responsible": "Carlson Gracie Júnior",
+            "address": "38397 Innovation Ct #103  , , Murrieta, CA, United States of America",
+            "website": "www.carlsongracietemecula.com"
+        },
+        {
+            "id": 8073,
+            "name": "Carlson Gracie Team - Chile",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Santiago - Nuñoa",
+            "responsible": "Eduardo Arruda Camara Campos",
+            "address": "Av. Irarrazaval, 2031, Santiago - Nuñoa, Chile",
+            "website": "carlsongraciejiujitsuteamchile.wordpress.com"
+        },
+        {
+            "id": 2736,
+            "name": "Carlson Gracie Team - CT / Cesar Pereira BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Stamford",
+            "responsible": "Cesar de Paula Pereira",
+            "address": "1130 East Main St.  , , Stamford, CT, United States of America",
+            "website": "bjjstamfordct.com"
+        },
+        {
+            "id": 4005,
+            "name": "Carlson Gracie Team Alberta",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Sherwood Park",
+            "responsible": "Carlson Gracie Júnior",
+            "address": "73 Sioux Road  , Sherwood Park, AB, Canada",
+            "website": "www.frontlinebjj.com"
+        },
+        {
+            "id": 8629,
+            "name": "Carlson Gracie Team At Triple Crown Athletic",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Walton",
+            "responsible": "Damian Tanenbaum",
+            "address": "11075 Dixie Hwy, Walton, Ky, United States of America",
+            "website": "www.triplecrownathletic.com"
+        },
+        {
+            "id": 3840,
+            "name": "Carlson Gracie Team Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Windsor",
+            "responsible": "Benjamin A Hall",
+            "address": "9 Duke Street  , , Windsor, VIC, Australia",
+            "website": "http://www.graciejiujitsu.com.au/"
+        },
+        {
+            "id": 6821,
+            "name": "Carlson Gracie Team Italia",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Alessandria",
+            "responsible": "Ari Fernando Araujo Rocha",
+            "address": "VIA GIRGENTI 3 , c/o  AQUAELIBRIUM FITNESS SPA, Alessandria, Italy",
+            "website": "www.palestra.alessandria.it"
+        },
+        {
+            "id": 10272,
+            "name": "Carlson Gracie Team Perú",
+            "federationAbbr": "IBJJF",
+            "country": "Peru",
+            "countryAbbr": "PE",
+            "city": "Pueblo Libre",
+            "responsible": "Carlson Gracie Júnior",
+            "address": "Parque San Martin 298, Pueblo Libre, Lima, Peru",
+            "website": "www.carlsongracieteamperu.com"
+        },
+        {
+            "id": 9344,
+            "name": "Carlson Gracie Tucson",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tucson",
+            "responsible": "André Felipe Maciel Freire",
+            "address": "8822 E Broadway Boulevard, Tucson, Arizona, United States of America",
+            "website": "Carlsongracietucson.com"
+        },
+        {
+            "id": 4256,
+            "name": "Carlson Gracie UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Wilson Cretaro da Luz Junior",
+            "address": "89 Richford Street  , , London, --, United Kingdom",
+            "website": "www.bjjlondon.com"
+        },
+        {
+            "id": 5886,
+            "name": "Carlson Gracie Vale do Jaguaribe Al Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Limoeiro do Norte",
+            "responsible": "Aleandro Lemos da Silva",
+            "address": "Avenida Dom Aureliano Matos n: 3051, Centro, Limoeiro do Norte, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8446,
+            "name": "Carlson Gracie Way3",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Juiz De Fora",
+            "responsible": "William Sales da Costa",
+            "address": "Rua José Lourenço, 464 Sala 201, Juiz De Fora, Minas Gerais, Brasil",
+            "website": "@carlsongracieway3"
+        },
+        {
+            "id": 10281,
+            "name": "Carlson Gracie Whittier",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Whittier",
+            "responsible": "Fredrick Gumm",
+            "address": "12612 Philadelphia St, Unit C, Whittier, Ca, United States of America",
+            "website": "carlsongraciewhittier.com"
+        },
+        {
+            "id": 10078,
+            "name": "Carlson Gracie Winter Haven",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Winter Haven",
+            "responsible": "Andrew E. Kinchen",
+            "address": "622 Ave O Sw, Winter Haven, Fl, United States of America",
+            "website": null
+        },
+        {
+            "id": 4984,
+            "name": "Carlson Gracie Zurich",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Wallisellen",
+            "responsible": "Felipe Thiago Pereira da Silva",
+            "address": "Neugutstrasse 12, Wallisellen, ZH, Switzerland",
+            "website": "www.carlsongracie.ch"
+        },
+        {
+            "id": 209,
+            "name": "Carlson Queiroz Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": "Carlson Maia Queiroz",
+            "address": "Rua Joel Da Cunha Mendes, 1066, Bloco C, Apto 302. Residencial Monte Castelo, Bairro Monte Castelo, Teresina, PI, Brasil",
+            "website": ""
+        }
+    ]
+}

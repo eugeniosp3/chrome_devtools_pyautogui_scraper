@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 229,
+        "from": 4560,
+        "to": 4580,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4940,
+            "name": "Master Japan Fukuoka",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Fukuoka",
+            "responsible": "Kuniyoshi Hironaka",
+            "address": "c/o Gold's Gym Commercial Mall Hakata Branch, 2/F, Toukoujicho 2-6-40, Hakata-ku  , Fukuoka, Fukuoka, Japan",
+            "website": "masterjapan.jp"
+        },
+        {
+            "id": 9823,
+            "name": "Masterless",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Anglet",
+            "responsible": "Christophe Antoine Pierre Savoca",
+            "address": "2 Allee De Cassiopee, Anglet, Aquitaine-limousin-poitou-charentes, France",
+            "website": null
+        },
+        {
+            "id": 6800,
+            "name": "Mastermind Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hesperia",
+            "responsible": "Daniel Paul Pollaccia",
+            "address": "17189 Bear Valley Road #120 , Hesperia, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 6351,
+            "name": "Masterskya",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brooklyn",
+            "responsible": "Alex Ecklin",
+            "address": "130 Palmetto Street, Brooklyn, NY, United States of America",
+            "website": "www.Masterskya.com"
+        },
+        {
+            "id": 4962,
+            "name": "Mat Chess MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Seattle",
+            "responsible": "Andrew S. Perkins",
+            "address": "5508 35th Ave NE, Seattle, WA, United States of America",
+            "website": "matchessmma.com"
+        },
+        {
+            "id": 9089,
+            "name": "Mat Fischer Academy BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Juan Les Pins",
+            "responsible": "Matthieu G. C. Fischer",
+            "address": "1410 Chemin De Vallauris, Rés. Ambroisie - Les Camélias, Juan Les Pins, France",
+            "website": null
+        },
+        {
+            "id": 4640,
+            "name": "Mat JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo ",
+            "responsible": "Reinaldo Dutra",
+            "address": "Rua Dom Antônio de Alvarenga, 287 , Vila Gumercindo, São Paulo , SP, Brasil",
+            "website": "martialartsteam.com.br"
+        },
+        {
+            "id": 7475,
+            "name": "Mat Lab Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Columbus",
+            "responsible": "Travis T. Haynes",
+            "address": "6903 E. Broad Street, Columbus, OH, United States of America",
+            "website": "www.matlabbjj.com"
+        },
+        {
+            "id": 8651,
+            "name": "Mateus Toledo Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Taubaté",
+            "responsible": "Mateus de Moura Toledo",
+            "address": "Av. Helvino De Moraes N° 1000, Bloco 10 / Ap 203, Taubaté, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8880,
+            "name": "Math of Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Cancún",
+            "responsible": "Orlando Guadalupe Yeh López",
+            "address": "Sm221 M1 L5 Loc.3, Cancún, Quintata Roo, Mexico",
+            "website": null
+        },
+        {
+            "id": 7862,
+            "name": "Mathers Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bentonville",
+            "responsible": "Anthony Mathers",
+            "address": "1110 N Walton, Bentonville, Ar, United States of America",
+            "website": null
+        },
+        {
+            "id": 2757,
+            "name": "Mathias Ribeiro Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Madrid",
+            "responsible": "Mathias Fernandes Ribeiro",
+            "address": "Calle Sanchez Preciado 39 - 8 piso - pt 7, , Madrid, ES, Spain",
+            "website": "www.mathiasribeirobjj.com"
+        },
+        {
+            "id": 9735,
+            "name": "Mathouse BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Reading",
+            "responsible": "Dominik Milosz Debiec",
+            "address": "12 Kiln Ride, Upper Basildon, Reading, West Berkshire, United Kingdom",
+            "website": "https://www.mathousebjjreading.com/"
+        },
+        {
+            "id": 4034,
+            "name": "Mato Grosso Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cuiabá",
+            "responsible": "Francisco José P. Fernandes Júnior",
+            "address": "Brigadeiro Eduardo Gomes 608 , Popular , Cuiabá, MT, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9547,
+            "name": "Matrix Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Nashville",
+            "responsible": "Bryan Douglas Tidwell",
+            "address": "400 Davison St, Nashville, Tennessee, United States of America",
+            "website": null
+        },
+        {
+            "id": 4301,
+            "name": "MatSide Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Nugola - Collesalvetti (LI)",
+            "responsible": "Bernardo Serrini",
+            "address": "Via Degli Ulivi  22, Nugola - Collesalvetti (LI), it, Italy",
+            "website": "www.branquino.blogspot.it"
+        },
+        {
+            "id": 6273,
+            "name": "Matside Jiu-Jitsu Romania",
+            "federationAbbr": "IBJJF",
+            "country": "Romania",
+            "countryAbbr": "RO",
+            "city": "Bucharest",
+            "responsible": null,
+            "address": "STR. Constantin Voda NR 6-8 A, Ap. 45 Etaj 4 Sector 5, Bucharest, --, Romania",
+            "website": "www.MatsideJiuJitsu.com"
+        },
+        {
+            "id": 4630,
+            "name": "Matsumoto JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarulhos",
+            "responsible": "Roberto Matsumoto",
+            "address": "Av. Júlio Prestes 99 , , Guarulhos, SP, Brasil",
+            "website": "www.academiagavioes.com.br"
+        },
+        {
+            "id": 6756,
+            "name": "Matsushita Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Thiago Massao Matsushita",
+            "address": "Av. Juscelino Kubitscheck, 300., Jardim Santo Antonio, Londrina, Paraná, Brasil",
+            "website": "matsushitajiujitsu.com.br"
+        },
+        {
+            "id": 8172,
+            "name": "Matt Holland Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Elgin",
+            "responsible": "Matthew John Holland",
+            "address": "@ Focus Martial \u0026 Fitness, 175a High Street, Elgin, Moray, United Kingdom",
+            "website": "Www.Matthollandbjj.co.uk"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 100,
+        "from": 1980,
+        "to": 2000,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7110,
+            "name": "Dojô André Lisbôa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Garopaba",
+            "responsible": "Andre Lisboa",
+            "address": "Estrada Geral Do Ouvidor, N.202 - Bairro Campo Duna, Sala 03, Garopaba, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 10413,
+            "name": "Dojo Caio Pontes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Caio Pontes da Costa",
+            "address": "Rua Hermance Paiva, 13 Miramar, João Pessoa, Paraíba, Brasil",
+            "website": null
+        },
+        {
+            "id": 8784,
+            "name": "Dojo Campeões BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Caucaia",
+            "responsible": "Antonio Marlen de Oliveira Gomes",
+            "address": "Rua Santa Terezinha 378, A, Caucaia, Ceará, Brasil",
+            "website": "yarageymy@hotmail.com"
+        },
+        {
+            "id": 8126,
+            "name": "Dojo Dragão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araraquara",
+            "responsible": "Jader Bernardo de Oliveira",
+            "address": "Rua José Manoel De Mattos, 1155, Jd Athenas, Araraquara, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9410,
+            "name": "Dojô Fabio Oliveira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Suzano",
+            "responsible": "Fabio de Carvalho  Oliveira",
+            "address": "Rua Expedicionário João De Carvalho, 248, Suzano, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 3565,
+            "name": "Dojo Ilhabela",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ilha Bela",
+            "responsible": "Kevin Scott Albertini",
+            "address": "Rua Pernambuco 449, Barra Velha, Ilha Bela, SP, Brasil",
+            "website": "facebook.com/dojoilhabelacentrodelutas"
+        },
+        {
+            "id": 6685,
+            "name": "Dojo Irmãos Oliveira Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Hallison Lima de Oliveira",
+            "address": "Av. C N: 267 2 Etapa, Bairro: Conjunto Ceará, Fortaleza, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 993,
+            "name": "Dojo J. Baptista",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaituba",
+            "responsible": "Jackson Silva Santos",
+            "address": "Estrada do DNER S/N - Em frente a vila Militar, Bom Jardim, Itaituba, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 309,
+            "name": "Dojo James Adler",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Luis",
+            "responsible": "José Mário Sperry",
+            "address": "Rua dos Ipês  03 Quadra 76, Renascença, São Luis, MA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4680,
+            "name": "Dojô Jiu-Jitsu CF",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Formoso",
+            "responsible": "Sergio Raimundo Rios da Silva",
+            "address": "Rua Dr. Armindo Simões 104, Centro, Campo Formoso, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5567,
+            "name": "Dojo Leo Iturralde",
+            "federationAbbr": "IBJJF",
+            "country": "Ecuador",
+            "countryAbbr": "EC",
+            "city": "Guayaquil",
+            "responsible": "Leonardo I. Iturralde Aguirre",
+            "address": "Edificio Elite Apt 1016 Junto a Mall del Sol, Guayaquil, Guayas, Ecuador",
+            "website": "leoiturralde.com"
+        },
+        {
+            "id": 9072,
+            "name": "Dojo Marcos Silva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vila Velha",
+            "responsible": "Mario Marcos da Silva",
+            "address": "Rua Jasmim 209, Vila Velha, E.s, Brasil",
+            "website": "www.dojomarcossilva"
+        },
+        {
+            "id": 6665,
+            "name": "Dojo Mestre Alfredo Marques",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Alfredo Marques da Silva Neto",
+            "address": "Rua Antonio Rego n: 226 Frente, Olaria, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8818,
+            "name": "Dojô Moinho De Vento",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João Da Barra",
+            "responsible": "Luiz Fernando Cardoso Ferraz",
+            "address": "Rua João Pereira 39, Altos, São João Da Barra, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 8885,
+            "name": "Dojô Primavera Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Primavera",
+            "responsible": "Hadhamés Fernandes da Silva",
+            "address": "Rua Marechal Rondon - 121 - Centro, Primavera, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8736,
+            "name": "Dojô Raphael Paiva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Raphael Gondim de  Paiva",
+            "address": "Rua Frei Mansueto 1291 Altos, Fortaleza, Ce, Brasil",
+            "website": null
+        },
+        {
+            "id": 9100,
+            "name": "Dojo Semear P S",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao Paulo",
+            "responsible": "Jorge Luiz dos Santos de Almeida",
+            "address": "Rua Ouro Grosso, 918, Parque Peruche, Sao Paulo, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 9260,
+            "name": "Dojo Valencia",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Valencia",
+            "responsible": "Jaime Luis del Castillo Arroyo",
+            "address": "Desiderio Gallego 13, Valencia, Spain",
+            "website": null
+        },
+        {
+            "id": 8928,
+            "name": "Dom - Jiu-Jitsu  Dojô Magalhães",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Breno Santos Barbosa Magalhaes",
+            "address": "Rua 7 Lote 38 Unidade 201 Parque Atheneu, Goiânia, Goiás, Brasil",
+            "website": "https://instagram.com/dojomagalhaes?utm_medium=copy_link"
+        },
+        {
+            "id": 9367,
+            "name": "Dominance",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Abbotsford",
+            "responsible": "David G. Hart",
+            "address": "9 Harper Street, Abbotsford, Victoria, Australia",
+            "website": "www.dominance.com.au"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 257,
+        "from": 5120,
+        "to": 5140,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3256,
+            "name": "Paraestra Chiba",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Chiba",
+            "responsible": null,
+            "address": "1-29-4 Nagasu Chuuouku Chibashi  , , Chiba, --, Japan",
+            "website": "www.parachiba.com"
+        },
+        {
+            "id": 3269,
+            "name": "Paraestra Fukuoka Ide Dojo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nakagawa",
+            "responsible": "Tomohiro Ide",
+            "address": "2-40 Watanabe No.2 Bdg 2f Douzen, , Nakagawa, Fukuoka, Japan",
+            "website": "idedojo.com"
+        },
+        {
+            "id": 3258,
+            "name": "Paraestra Gifu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Gifu",
+            "responsible": "Sougen Shimizu",
+            "address": "4-5-5 Takada, Gifu-shi, , Gifu, --, Japan",
+            "website": "www.paragifu.com"
+        },
+        {
+            "id": 3259,
+            "name": "Paraestra Hachinohe",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aomori",
+            "responsible": "Takehito Nishiduka",
+            "address": "17-498 Wanomaeyama. Ichikawamachi, Hachinohe-shi  , , Aomori, --, Japan",
+            "website": "www.geocities.jp/tdpass/"
+        },
+        {
+            "id": 3260,
+            "name": "Paraestra Hachioji",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Ayumu Shioda",
+            "address": "3-16-17 Koyasu-chyo Hachioji-si   , , Tokyo, --, Japan",
+            "website": "www.gozo503.com"
+        },
+        {
+            "id": 3262,
+            "name": "Paraestra Higashiosaka",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka",
+            "responsible": "Kazuyoshi Minami",
+            "address": "1-3-14 Tokuyasa Bdg 8, Higashiosaka  , , Osaka, --, Japan",
+            "website": "www.para-h.com"
+        },
+        {
+            "id": 3263,
+            "name": "Paraestra Ikebukuro",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": null,
+            "address": "2-14-10-BIF Ikebukuro Toshima-ku  , , Tokyo, --, Japan",
+            "website": "http://paraestra-ikebukuro.com"
+        },
+        {
+            "id": 3264,
+            "name": "Paraestra Izumi",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka",
+            "responsible": "Hiroaki Yoshioka",
+            "address": "95-1 Mancho Izumishi  , , Osaka, --, Japan",
+            "website": "wwww.geocities.jp/paraestra_izumi/"
+        },
+        {
+            "id": 3265,
+            "name": "Paraestra Joetsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Niigata",
+            "responsible": "Yohei Nashimoto",
+            "address": "N-bldg. 2F 3-10-6 Higashi shiro-cho, Joetsu-shi  , , Niigata, --, Japan",
+            "website": "www.paraestra-joetsu.com"
+        },
+        {
+            "id": 3070,
+            "name": "Paraestra Kawasaki",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kanagawa",
+            "responsible": "Takuya Kitade",
+            "address": "3-23-12 Oohira Building 2F Takatsu Mizonokuthi  , , Kanagawa, Japan",
+            "website": "www.paraestra-kawasaki.com"
+        },
+        {
+            "id": 3126,
+            "name": "Paraestra Kichijoji",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Satoshi Kotani",
+            "address": "1-11-20 Kamorhita Bdg. F Kichijojihiggshicho Musashino  , , Tokyo, Japan",
+            "website": "www.shibukichi.com"
+        },
+        {
+            "id": 3074,
+            "name": "Paraestra Kitakyushu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Fukuoka",
+            "responsible": "Tomikazu Goto",
+            "address": "1-6-3 Daini Oka Bdg Sangamori Yahatanisku Kitakyushu  , , Fukuoka, Japan",
+            "website": "www.para-kitakyu.com"
+        },
+        {
+            "id": 3266,
+            "name": "Paraestra Koga",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Ibaraki",
+            "responsible": "Satoshi Kotani",
+            "address": "Kogasi Chuouchou 3-1-6  , , Ibaraki, --, Japan",
+            "website": "blog.livedoor.jp/paraestra-koga/"
+        },
+        {
+            "id": 2599,
+            "name": "Paraestra Koiwa",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Takashi Ouchi",
+            "address": "2-17-1  101 Nishi-koiwa Edogawaku  , , Tokyo, --, Japan",
+            "website": "www.paraestrakoiwa.com"
+        },
+        {
+            "id": 4790,
+            "name": "Paraestra Korea",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Cheongju-si",
+            "responsible": "Yong-Jae Jun",
+            "address": "B1, 1189, Gagyeong-dong, Heungdeok-gu  , , Cheongju-si, Chungcheongbuk-do, Korea, South",
+            "website": "www.paraestr.kr"
+        },
+        {
+            "id": 3267,
+            "name": "Paraestra Machida",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Machida-shi",
+            "responsible": "Yuki Nakai",
+            "address": "  2-27-13 Tosyo bdg 17, Machida-shi, Tokyo, Japan",
+            "website": "k-1gym-dragon.com"
+        },
+        {
+            "id": 8563,
+            "name": "Paraestra Morinomiya",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osakafu",
+            "responsible": "Kazuyoshi Minami",
+            "address": "Nakamiti1-12-9, Osakashi-higashinariku, Osakafu, Japan",
+            "website": null
+        },
+        {
+            "id": 10400,
+            "name": "Paraestra Moriya",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Moriya",
+            "responsible": "Yusuke Tabata",
+            "address": "983-7, Tatsuzawa, Moriya, Ibaraki, Japan",
+            "website": "https://studiowellside.com/"
+        },
+        {
+            "id": 3268,
+            "name": "Paraestra Muroran",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Hokkaido",
+            "responsible": "Masatoshi Kudo",
+            "address": "1-18-3 Bokoikitamachi Muroran City, , Hokkaido, --, Japan",
+            "website": "www.geocities.jp/paramuro"
+        },
+        {
+            "id": 3233,
+            "name": "Paraestra Nakayoshi",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nagasaki-shi",
+            "responsible": "Yuki Nakai",
+            "address": "1295-3 Nishiumimachi  , Nagasaki-shi, Nagasaki, Japan",
+            "website": "https://www.facebook.com/paraestranakayoshi"
+        }
+    ]
+}

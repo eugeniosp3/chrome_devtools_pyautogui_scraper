@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 341,
+        "from": 6800,
+        "to": 6820,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 996,
+            "name": "Universidade Católica de Brasília",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Jose Luiz de Queiroz",
+            "address": "QS 07 Lote 01 EPCT 01 Cian 03, Taguatinga, Brasília, DF, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2032,
+            "name": "Universidade da Luta de Goiás",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": null,
+            "address": "Rua 2008 172 AP 903, Pedro Ludovico, Goiânia, GO, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9695,
+            "name": "Universidade De Jiu-Jitsu Brasileiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Helder Medeiros da Silva",
+            "address": "Av. Esperança, Nº 117 Sala 101 1º Andar, Empresarial Manaíra Trade Center, João Pessoa, Paraíba, Brasil",
+            "website": null
+        },
+        {
+            "id": 5632,
+            "name": "University of Ground Fighting",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New Lenox",
+            "responsible": "Steven J. Patterson",
+            "address": "13150 E. Lincoln Hwy Ste 4, New Lenox, IL, United States of America",
+            "website": "uofgf.com"
+        },
+        {
+            "id": 9264,
+            "name": "Unlimited Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Barreiro",
+            "responsible": "Rui Gabriel Isidoro da Silva",
+            "address": "Rua Dos Operários,  Edifício Bulis, Armazém B, 2830-237, Barreiro, Setúbal, Portugal",
+            "website": null
+        },
+        {
+            "id": 9668,
+            "name": "Uno Dojo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Noge Cho, Naka-ku, Yokohama-shi",
+            "responsible": "Naoya Uematsu",
+            "address": "3-125-2,, Noge Cho, Naka-ku, Yokohama-shi, Kanagawa-ken, Japan",
+            "website": "https://unodojo.com/"
+        },
+        {
+            "id": 5579,
+            "name": "Uonuma Jiu-Jitsu Club",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Uonuma",
+            "responsible": "Makoto Sawada",
+            "address": "3874-5 Horinochi, Uonuma, Niigata, Japan",
+            "website": ""
+        },
+        {
+            "id": 5433,
+            "name": "Up Top Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wayne",
+            "responsible": "Ioannis Hronakis",
+            "address": "87 Berdan Ave., Wayne, NJ, United States of America",
+            "website": "www.uptopmartialarts.com"
+        },
+        {
+            "id": 10647,
+            "name": "Up Winners Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Toledo",
+            "responsible": "Maximiliano Augusto Della Costa",
+            "address": "Rua Sarandi 1160, Toledo, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 10510,
+            "name": "UPBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Passos",
+            "responsible": "Dione Wellington Soares",
+            "address": "Rua Campos Altos 273, Passos, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 7804,
+            "name": "Upper Valley Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Enfield",
+            "responsible": "Serge Joseph Severenchuk",
+            "address": "502 Us Route 4, Enfield, Nh, United States of America",
+            "website": "www.uppervalleybjj.com"
+        },
+        {
+            "id": 4821,
+            "name": "Uprising BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Al Ain",
+            "responsible": "Carlos Alexandre de C. Rodrigues",
+            "address": "Al Falah Street 43  , PO Box 83429, Al Ain, Abu Dhabi, United Arab Emirates",
+            "website": ""
+        },
+        {
+            "id": 2276,
+            "name": "Urban Jungle Self-Defense",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "Anthony Torres Aponte",
+            "address": "707 Yale St.  , , Houston, TX, United States of America",
+            "website": "www.urbanselfdefense.com"
+        },
+        {
+            "id": 5647,
+            "name": "Urbana Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Monrovia",
+            "responsible": "Cesar Ivan Paredes Morejon",
+            "address": "11791 Fingerboard Rd, Monrovia, MD, United States of America",
+            "website": "www.urbanaacademy.com"
+        },
+        {
+            "id": 8181,
+            "name": "Ursa Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ann Arbor",
+            "responsible": "Kristan J. Magers",
+            "address": "3981 Varsity Dr., Ann Arbor, Michigan, United States of America",
+            "website": "ursaacademy.com"
+        },
+        {
+            "id": 7030,
+            "name": "Urutum Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Quatro Barras",
+            "responsible": "Silvio Rodrigues de Souza",
+            "address": "Rua Rio Taquari n: 53/02, Jd. São Pedro, Quatro Barras, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 9864,
+            "name": "US Rio Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Aurora",
+            "responsible": "Eduardo Cipriano Dias",
+            "address": "7450 S. Gartrell Rd. Suite A1, Aurora, Co, United States of America",
+            "website": "www.riojiujitsu.com"
+        },
+        {
+            "id": 8873,
+            "name": "USA Onyx Combat Sports",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Newtown Square",
+            "responsible": "Zachary Green",
+            "address": "4653 West Chester Pike, Newtown Square, Pennsylvania (pa), United States of America",
+            "website": "onyxcombatsports.com"
+        },
+        {
+            "id": 3566,
+            "name": "USGO",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itumbiara",
+            "responsible": "Arthur Claudino Rocha",
+            "address": "Av Paranaíba, 1332, Bairro Centro, Itumbiara, GO, Brasil",
+            "website": "www.usgo.com.br"
+        },
+        {
+            "id": 4735,
+            "name": "Ushirobira JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ribeirão Preto",
+            "responsible": "André Luis Monroy Ushirobira",
+            "address": "Rua Piraja da Silva 236 , Alto da Boa Vista, Ribeirão Preto, SP, Brasil",
+            "website": ""
+        }
+    ]
+}

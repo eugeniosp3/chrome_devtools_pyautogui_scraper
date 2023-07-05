@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 284,
+        "from": 5660,
+        "to": 5680,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10330,
+            "name": "Rodrigo Elias's Team JJB",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santo André",
+            "responsible": "Rodrigo Elias da Silva",
+            "address": "Cáucaso 635, Santo André, São Paulo, Brasil",
+            "website": "@panteherblack_belt"
+        },
+        {
+            "id": 8449,
+            "name": "Rodrigo Figueiredo Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaboraí",
+            "responsible": "Rodrigo Figueiredo Chagas",
+            "address": "Rua Padre Aloizio Beranger, N 408, Nova Cidade Itaboraí, Itaboraí, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4612,
+            "name": "Rodrigo Freitas Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hawthorne",
+            "responsible": "Rodrigo Lamounier de Freitas",
+            "address": "5225 West Rosecrans Ave  , Hawthorne, CA, United States of America",
+            "website": "www.rodrigofreitasbjj.com"
+        },
+        {
+            "id": 2549,
+            "name": "Rodrigo Gracie Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Redondo Beach",
+            "responsible": null,
+            "address": "389 Palos Verdes blvd #1  , , Redondo Beach, CA, United States of America",
+            "website": "www.rodrigogracie.com"
+        },
+        {
+            "id": 9501,
+            "name": "RODRIGO MENDES - RAIZES  JIU JITSU BRASILEIRO",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belem",
+            "responsible": "Robson Rodrigo Macedo Mendes",
+            "address": "Passagem São Marcos Entre Barão Do Triunfo E Angustura, Casa Rosa N: 15 Próximo A Angustura, Belem, Para, Brasil",
+            "website": null
+        },
+        {
+            "id": 2641,
+            "name": "Rodrigo Pinheiro BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Rodrigo Pinheiro Breves",
+            "address": "4553 N Loop 1604 W Ste 1215  , San Antonio, TX, United States of America",
+            "website": "www.rpbjj.com"
+        },
+        {
+            "id": 4865,
+            "name": "Rodrigo Reis Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sobradinho",
+            "responsible": "Rodrigo Ferreira Reis",
+            "address": "Cond. Bela Vista Area de Lazer  , Grande Colorado, Sobradinho, DF, Brasil",
+            "website": ""
+        },
+        {
+            "id": 3678,
+            "name": "Rodrigo Resende Team",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Spruce Grove ",
+            "responsible": "Rodrigo de Campos Resende",
+            "address": "64 Hamilton Court  , , Spruce Grove , AB, Canada",
+            "website": "www.jiujitsuedmonton.com"
+        },
+        {
+            "id": 7905,
+            "name": "Rodrigo Romualdo Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Rodrigo Romualdo",
+            "address": "Rua Flórida, 571, Blumenau, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 4244,
+            "name": "Rodrigo Santana Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Formiga",
+            "responsible": "Rodrigo Santana de Oliveira",
+            "address": "Rua Dr. Teixeira Soares 10161 Comercial, Engenho de Serra, Formiga, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 5186,
+            "name": "Rodrigo Silveira Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Rodrigo Dinorá Silveira da Silva",
+            "address": "Avenida Independência s/n qd 43 lote 10, Parque Industrial João Braz, Goiânia, GO, Brasil",
+            "website": "ct-atlanta.negocios.site"
+        },
+        {
+            "id": 2367,
+            "name": "Rodrigo Vaghi BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ellisville",
+            "responsible": "Rodrigo Vaghi",
+            "address": "15739 Manchester Rd  , Suite A , Ellisville, MO, United States of America",
+            "website": "www.teamvaghi.com"
+        },
+        {
+            "id": 7744,
+            "name": "Rodrigo Vieira Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itacaré",
+            "responsible": "Rodrigo Vieira Reis",
+            "address": "Rua João Coutinho, 123, Prédio, Itacaré, Ba, Brasil",
+            "website": null
+        },
+        {
+            "id": 5836,
+            "name": "Rodriguez Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Royal Palm Beach",
+            "responsible": "Fernando Rodriguez Jr.",
+            "address": "111 Mill Pond Lane, Royal Palm Beach, FL, United States of America",
+            "website": "www.rodriguezbjj.com"
+        },
+        {
+            "id": 2767,
+            "name": "Roger Coelho - Costa Rica",
+            "federationAbbr": "IBJJF",
+            "country": "Costa Rica",
+            "countryAbbr": "CR",
+            "city": "Escazú",
+            "responsible": "Roger Dias Coelho",
+            "address": "Trejos Montealegre (del Rostipollos 500 mts Nordeste mano derecha)  , , Escazú, --, Costa Rica",
+            "website": "www.unitcr.com"
+        },
+        {
+            "id": 2296,
+            "name": "Roger Gracie Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Roger Gracie",
+            "address": "Ground Floor, Glen House, 22-24 Glenthorne Rd. , London, --, United Kingdom",
+            "website": "www.rogergracie.com"
+        },
+        {
+            "id": 3803,
+            "name": "Roger Gracie Academy Italy",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Cagliari",
+            "responsible": null,
+            "address": "VIA SANNA RANDACCIO  36 , , Cagliari, ., Italy",
+            "website": "rogergracieacademysardegna.blogspot.com"
+        },
+        {
+            "id": 7789,
+            "name": "Roger Gracie Academy Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Plano",
+            "responsible": "Alex Martins Faria",
+            "address": "5000 Whitestone Ln, #513, Plano, Texas, United States of America",
+            "website": "http://rogergracietx.com/"
+        },
+        {
+            "id": 4201,
+            "name": "Roger Gracie Academy Vienna",
+            "federationAbbr": "IBJJF",
+            "country": "Austria",
+            "countryAbbr": "AT",
+            "city": "Vienna",
+            "responsible": "Orlando Machado Neto",
+            "address": "Wiedner Gurtel 12  , , Vienna, --, Austria",
+            "website": "www.backyardvienna.at"
+        },
+        {
+            "id": 3632,
+            "name": "Roger Gracie España",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Malaga",
+            "responsible": "Pablo Cabo Medina",
+            "address": "C/ Sierra de Grazalema No. 37, Piz Za, Malaga, --, Spain",
+            "website": "www.costadelsolff.com"
+        }
+    ]
+}

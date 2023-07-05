@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 268,
+        "from": 5340,
+        "to": 5360,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9573,
+            "name": "PT JJ",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Cascais",
+            "responsible": "Sem Professor",
+            "address": "Rua Sacadura Cabral 59, 1dto, Cascais, LIS, Portugal",
+            "website": null
+        },
+        {
+            "id": 9858,
+            "name": "Pulga Team",
+            "federationAbbr": "IBJJF",
+            "country": "Benin",
+            "countryAbbr": "BJ",
+            "city": "Cotonou",
+            "responsible": "Danilo Barbosa Moreira",
+            "address": "Hotel De L Etoile Rouge 9cc5+34w, Rue 560, Cotonou, Cotonou, Littoral Atlantique, Benin",
+            "website": "https://www.danilobpulga.com/"
+        },
+        {
+            "id": 5586,
+            "name": "Puma Club No Limit",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Champs sur Marne",
+            "responsible": "Francisco Jose Mansor",
+            "address": "4 Allee de la Clairiere, Champs sur Marne, France",
+            "website": null
+        },
+        {
+            "id": 8609,
+            "name": "Punk Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Naborabner Guimarães Soares",
+            "address": "Av Henrique Valadares 139/141 Sala 401, Rua Engenheiro Gama Lobo 650 Casa 51, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "www.punkjiujitsu.com.br"
+        },
+        {
+            "id": 8588,
+            "name": "Pure Life Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Indialantic",
+            "responsible": "Felipe Portela Santos de Queiroz",
+            "address": "800 N Miramar Ave, Indialantic, Florida, United States of America",
+            "website": "Purelifemartialarts.com"
+        },
+        {
+            "id": 6524,
+            "name": "Pure Mixed Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rockaway",
+            "responsible": "Michael D. Main",
+            "address": "41 Pine Street, Rockaway, NJ, United States of America",
+            "website": "puremma.com"
+        },
+        {
+            "id": 2674,
+            "name": "Purebred Jiu-Jitsu Academy Guam",
+            "federationAbbr": "IBJJF",
+            "country": "Guam",
+            "countryAbbr": "GU",
+            "city": "Tumon",
+            "responsible": "Jared B. Weiner",
+            "address": "144 Fujita Road  , Tumon, GU, Guam",
+            "website": "www.purebredbjjguam.com"
+        },
+        {
+            "id": 3068,
+            "name": "Purebred Kawaguchi Redips",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Saitama",
+            "responsible": "Tatsuya Onose",
+            "address": "4-5-8 Kawaguchi House 105, Kawaguchi  , , Saitama, Japan",
+            "website": "www.redips-bjj.com"
+        },
+        {
+            "id": 2368,
+            "name": "Purebred Omiya",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Saitama",
+            "responsible": "Takuma Tokito",
+            "address": "2919-1, Marugasaki minumaku Saitamashi  , , Saitama, --, Japan",
+            "website": "http:/www.purebred.co.jp"
+        },
+        {
+            "id": 4586,
+            "name": "Purebred Sapporo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sapporo",
+            "responsible": "Stephen Roberto",
+            "address": "2-1-13-16 Kotoni L Bill Underground First Floor, Nishiku-Kotoni  , , Sapporo, Hokkaido, Japan",
+            "website": ""
+        },
+        {
+            "id": 9714,
+            "name": "Puro Chão BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jaboatão Dos Guararapes",
+            "responsible": "Derval Luciano Rêgo",
+            "address": "Rua São Salvador,89, Santo Aleixo, Jaboatão Dos Guararapes, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 10605,
+            "name": "Puro's Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ubatuba",
+            "responsible": "Jony Andrade Barbosa",
+            "address": "Av. Rio Grande Do Sul, 650, Umuarama, Ubatuba, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8808,
+            "name": "Pyramid Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bartlett",
+            "responsible": "Eric Thomas Ingram",
+            "address": "6498 Summer Ave, Bartlett, Tennessee, United States of America",
+            "website": "www.pyramidathletics.com"
+        },
+        {
+            "id": 7571,
+            "name": "Pythag Team BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Edeson Luiz das Neves",
+            "address": "Rua Delegano Naby Paraná 254 Torre B Ap 104b, Capão Raso, Curitiba, Paraná, Brasil",
+            "website": "https://www.pythagorasteam.com.br/"
+        },
+        {
+            "id": 5931,
+            "name": "Q23 Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Thailand",
+            "countryAbbr": "TH",
+            "city": "Wattana, Bangkok",
+            "responsible": "Antonio Ricardo Jardim Liborio",
+            "address": "Ambassader Hotel Bangkok Fitness Centre, 171, Sukhumxit 11, Klongtoei Nuea, Wattana, Bangkok, BKK, Thailand",
+            "website": "www.q23academy.com"
+        },
+        {
+            "id": 9498,
+            "name": "Qatar Alpha Sports Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Qatar",
+            "countryAbbr": "QA",
+            "city": "Abu Hamour",
+            "responsible": "Abdel Aziz Cherigui",
+            "address": "Zone 56, Street 995, Bldg 200, Abu Hamour, Doha, Qatar",
+            "website": "www.qscqa.com"
+        },
+        {
+            "id": 4266,
+            "name": "Qatar BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Qatar",
+            "countryAbbr": "QA",
+            "city": "Doha",
+            "responsible": "Fabricio Feliciano Souza Moreira",
+            "address": "Nasser's Village compound, 11 Halul St Abu Hamour, Doha, --, Qatar",
+            "website": "qatarmma.com"
+        },
+        {
+            "id": 7940,
+            "name": "Qatar BJJ / Vision",
+            "federationAbbr": "IBJJF",
+            "country": "Qatar",
+            "countryAbbr": "QA",
+            "city": "Doha",
+            "responsible": "Fabricio Feliciano Souza Moreira",
+            "address": "Unit 63, Bldg. 8, Al-hambra Street Medina Centrale, The Pearl, Doha, Doha, Qatar",
+            "website": "bjjvision.com"
+        },
+        {
+            "id": 7962,
+            "name": "Qatar BJJ / Vision Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Sebastião ",
+            "responsible": "Fabricio Feliciano Souza Moreira",
+            "address": "Rua Armando Salles De Oliveira , 758 Vila Amélia , São Sebastião , São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 5641,
+            "name": "Qatar BJJ Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pocos De Caldas",
+            "responsible": "Paulo Cesar Rezende",
+            "address": "Avenida Champagnat, 1420, Vila Cruz, Pocos De Caldas, MG, Brasil",
+            "website": null
+        }
+    ]
+}

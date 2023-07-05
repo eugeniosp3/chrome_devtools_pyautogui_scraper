@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 106,
+        "from": 2100,
+        "to": 2120,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5992,
+            "name": "Eleuterio Combat BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "PA",
+            "responsible": "Marcelo Rodrigues  Eleuterio",
+            "address": "Rua Amazonas n: 4708, Centro, PA, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 6864,
+            "name": "Elevate Jiu-Jitsu Team",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Liam Adam Resnekov",
+            "address": "390 Eastern Valley Way, Unit 19b, Sydney, NSW, Australia",
+            "website": "www.VT1MMA.com.au"
+        },
+        {
+            "id": 5691,
+            "name": "Elite Force BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lighthouse Point",
+            "responsible": "Alexandre Concieiro Pimentel",
+            "address": "4754 N Federal Hwy, Lighthouse Point, FL, United States of America",
+            "website": "eliteforceBJJ.com"
+        },
+        {
+            "id": 2005,
+            "name": "Elite Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Chapecó",
+            "responsible": "Adinan Patrik de Campos",
+            "address": "Rua Santo Antonio n: 544 E, Ed. Esplanada apt 301, Chapecó, SC, Brasil",
+            "website": "www.elitejiujitsu.com.br"
+        },
+        {
+            "id": 2288,
+            "name": "Elite Mixed Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "Eric Williams",
+            "address": "10640 Westheimer  , , Houston, TX, United States of America",
+            "website": "www.elite-martialarts.com"
+        },
+        {
+            "id": 3767,
+            "name": "Elizandro Beda",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Folsom",
+            "responsible": "Elizandro Leite Beda",
+            "address": "316 Natoma Street, , Folsom, California, United States of America",
+            "website": "www.bedabjj.com"
+        },
+        {
+            "id": 10244,
+            "name": "Elleve BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marília",
+            "responsible": "João Guilherme Antonio",
+            "address": "Avenida Campinas 400, Marília, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7246,
+            "name": "Elmntsjj Bahrain",
+            "federationAbbr": "IBJJF",
+            "country": "Bahrain",
+            "countryAbbr": "BH",
+            "city": "Tubli",
+            "responsible": "Ali Seena E. A. Munfaradi",
+            "address": "Building 3578, Road 186, Block 701, Tubli, Bahrain",
+            "website": null
+        },
+        {
+            "id": 8866,
+            "name": "Elo Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Castanhal",
+            "responsible": "Robnilson Rocha da Silva",
+            "address": "2714 Travessa Uruguai, Casa, Castanhal, Pará, Brasil",
+            "website": "CT ELO JIU JISTU- PROXIMO KAZUOIMA"
+        },
+        {
+            "id": 9126,
+            "name": "Elói Ferreira Jiu-jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Elói dos Santos Ferreira",
+            "address": "Rua Doutor Paulo César, Bl 4/1405, Niterói, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 2060,
+            "name": "Elvys / Osvaldo Alves - AM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Elvys Damasceno Nascimento",
+            "address": "Rua Adalberto Vale S/N , Betânia, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 8102,
+            "name": "Em Busca De Campeões",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santos Dumont",
+            "responsible": "Leandro da Costa Oliveira",
+            "address": "Rua Travessa Tamoios 21, Bairro São Sebastião, Santos Dumont, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 5718,
+            "name": "EM Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Eduardo de Souza Marinho",
+            "address": "Rua Francisco Motta numero: 10, Senador Vasconcelos, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7723,
+            "name": "Emanuel Silva Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vitória",
+            "responsible": "Emanuel Silva Gomes",
+            "address": "Rua Leonel Fernandes, 145 - Grande Vitória, Travessa Maria Estela de Novaes, 21 - Grande vitória, Vitória, Espírito santo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8517,
+            "name": "Embaixada Do Jiu-Jitsu Brasileiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João De Meriti",
+            "responsible": "Isaac Araujo Ramos",
+            "address": "Rua Joana Kalil, Número 365, São João De Meriti, Rj, Brasil",
+            "website": "CT GFTEAM BAIXADA"
+        },
+        {
+            "id": 6230,
+            "name": "Embrace Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wake Forest",
+            "responsible": "Joel Paula Garcia Jr.",
+            "address": "1608 Heritage Commerce Ct, Wake Forest, NC, United States of America",
+            "website": "www.embracemartialarts.com"
+        },
+        {
+            "id": 10714,
+            "name": "Emerson Lopes BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Brockville",
+            "responsible": "Emerson Lopes Junior",
+            "address": "908 Sharpe's Ln Room #103, Brockville, Ontario, Canada",
+            "website": "lopesbjj.ca"
+        },
+        {
+            "id": 10596,
+            "name": "Emerson Ribeiro Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Emerson Ribeiro da Purificação",
+            "address": "André Olindo Lednik 90, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 2362,
+            "name": "Emerson Souza BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Baldin",
+            "responsible": "Emerson Carlos Souza",
+            "address": "851 Merrick Rd  , , Baldin, NY, United States of America",
+            "website": "www.emersonsouzabjj.com"
+        },
+        {
+            "id": 2521,
+            "name": "Emirates Jiu-Jitsu Center",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Dubai",
+            "responsible": null,
+            "address": ", Dubai, --, United Arab Emirates",
+            "website": "www.emirates-jiujitsu-center.com"
+        }
+    ]
+}

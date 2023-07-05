@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 282,
+        "from": 5620,
+        "to": 5640,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8334,
+            "name": "RJJC Shelby",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Shelby",
+            "responsible": "Gilson dos Santos Fernandes",
+            "address": "48796 Van Dyke Ave, Shelby, Michigan, United States of America",
+            "website": "www.academiarjjc.com"
+        },
+        {
+            "id": 8271,
+            "name": "RJJC USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jacksonville",
+            "responsible": "Gilson dos Santos Fernandes",
+            "address": "7422 Olene Street , Jacksonville, Ar, United States of America",
+            "website": "www.academiarjjc.com"
+        },
+        {
+            "id": 9578,
+            "name": "RJJT - Rua Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Paulo Henrique Guimarães Rett",
+            "address": "Av Parana, 2737, Curitiba, Paraná, Brasil",
+            "website": "www.shogunteam.com"
+        },
+        {
+            "id": 3294,
+            "name": "RJS",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Mie",
+            "responsible": "Yoichi Suzuki",
+            "address": "4283-3 Kouago-machi, Shima-shi, Mie, Japan",
+            "website": null
+        },
+        {
+            "id": 3375,
+            "name": "RL Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Ricardo Luiz Silva",
+            "address": "Rua Nilo  25 Academia em Forma, Bairro:  São Salvador, Belo Horizonte, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8066,
+            "name": "RM Brazilian Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Arcoverde",
+            "responsible": "Raphael da Silva Teixeira",
+            "address": "R. Antônio Napoleão Pacheco, 330, Arcoverde, Pe, Brasil",
+            "website": null
+        },
+        {
+            "id": 2699,
+            "name": "RMA GFTeam Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Nolensville",
+            "responsible": "Marcelo Ribeiro",
+            "address": "7180 Nolensville Road, Suite 2f, Nolensville, TN, United States of America",
+            "website": "www.rmajiujitsu.com"
+        },
+        {
+            "id": 2957,
+            "name": "Rmac Manama",
+            "federationAbbr": "IBJJF",
+            "country": "Bahrain",
+            "countryAbbr": "BH",
+            "city": "Manama",
+            "responsible": "Redha Ebrahim A H Munfaredi",
+            "address": "House Number 1987 ,road 4562, Block 545, Al Qurayyah, , Manama, Bahrain",
+            "website": "www.rezamartialarts.com"
+        },
+        {
+            "id": 2578,
+            "name": "RMBJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Delray Beach",
+            "responsible": "Rodrigo de Mattos Mendes",
+            "address": "1490 South Federal HWY  , , Delray Beach, FL, United States of America",
+            "website": "rmbjj.com"
+        },
+        {
+            "id": 4839,
+            "name": "RMNU Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ribeirão Preto",
+            "responsible": "Jean Bervique Rotondaro",
+            "address": "Av. Carlos Eduardo de Gasperi Consoni 1900 Casa 112, JD. Botanico, Ribeirão Preto, SP, Brasil",
+            "website": "www.rmnubrasil.com.br"
+        },
+        {
+            "id": 9230,
+            "name": "RN BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Stuart",
+            "responsible": "Randy Nash",
+            "address": "8337 Sw Marin Dr., Stuart, Florida, United States of America",
+            "website": null
+        },
+        {
+            "id": 8096,
+            "name": "RnR BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orlando",
+            "responsible": "Ray Anthony Robles",
+            "address": "8260 Lexington View Lane, Orlando, Fl, United States of America",
+            "website": null
+        },
+        {
+            "id": 7727,
+            "name": "ROAD BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Andre Rudolfo",
+            "address": "Rua Vicente De Carvalho, 113 - Cajuru, Curitiba, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 7021,
+            "name": "Roan Jucão BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Wonju-Si, Gang Won-Do",
+            "responsible": "Roan Carneiro Brandão Pereira",
+            "address": "187-58 Neulpum-Ro, Wonju-Si, Gang Won-Do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 9840,
+            "name": "Rob Taylor Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Cardiff",
+            "responsible": "Robert James Taylor",
+            "address": "Unit 3a Gulf Works, Penarth Road, Cardiff, United Kingdom",
+            "website": "www.cardiffbjj.co.uk"
+        },
+        {
+            "id": 5003,
+            "name": "Roberto Araujo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Roberto Araujo",
+            "address": "CNB 13 Lote 2 Loja 5  , Iaguatinga norte, Brasília, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 9663,
+            "name": "Roberto Guilhotina",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Roberto Bernardo",
+            "address": "Calcedonia 247 Prado, Galpão, Belo Horizonte, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 3864,
+            "name": "Roberto Kaelin Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Keller",
+            "responsible": "Robert S. Kaelin-Goldin",
+            "address": "5700 Kroger Dr., 2nd Floor, Keller, TX, United States of America",
+            "website": "www.kellermma.com"
+        },
+        {
+            "id": 3053,
+            "name": "Roberto Luna Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vila Velha",
+            "responsible": "Antônio Roberto Luna de Souza",
+            "address": "Rua Ita N:460, Bairro: São conrado, Vila Velha, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 9221,
+            "name": "Roberto Paiva Team BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Roberto de França Paiva",
+            "address": "Pass. Olinto Meiras, 226 -guanabara, Guanabara, Belém, Pa, Brasil",
+            "website": null
+        }
+    ]
+}

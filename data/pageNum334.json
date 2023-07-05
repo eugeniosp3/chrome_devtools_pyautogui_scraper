@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 334,
+        "from": 6660,
+        "to": 6680,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2833,
+            "name": "Tri State Martial Arts / Godoi JJ Club",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": " Langhorne",
+            "responsible": "Roberto Godoi",
+            "address": "1323 E - Lincoln Hwy. Langhorne, PA   , ,  Langhorne, PA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 3365,
+            "name": "Triad Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cullman",
+            "responsible": "Daniel Ray O'Brien",
+            "address": "1708 Tally Ho Street NW  , , Cullman, AL, United States of America",
+            "website": "www.triadmartialarts.com"
+        },
+        {
+            "id": 9201,
+            "name": "Tríade Escola De Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sobral",
+            "responsible": "Emerson Eleno Melo da Silva",
+            "address": "Rua Francisco Bezerra De Vasconcelos, 156,campo Dos Velhos, Ao Lado Da Cetus Crossfit, Sobral, Ceará, Brasil",
+            "website": "https://instagram.com/triadebjj?utm_medium=copy_link"
+        },
+        {
+            "id": 3328,
+            "name": "Trial \u0026 Error",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Shizuoka",
+            "responsible": "Yuji Takahashi",
+            "address": "60-1-303 Nakatogari Nagaizumi-cho Suntougun, Shizuoka, --, Japan",
+            "website": "www.nagaizumibjj.lolipop.jp/"
+        },
+        {
+            "id": 9445,
+            "name": "Triangle Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Durham",
+            "responsible": "Rodrick Lars Hanson",
+            "address": "124 Latta Rd, Durham, North Carolina, United States of America",
+            "website": "https://trianglejiujitsu.com/"
+        },
+        {
+            "id": 9697,
+            "name": "Triângulo Brothers",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Vagner Bruno Martins",
+            "address": "Rua Emilio Goeldi 236 Coelho Neto, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "WWW.TRIANGULOBROTHERS.COM"
+        },
+        {
+            "id": 4500,
+            "name": "Tribal Gym",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Lauderdale",
+            "responsible": "Kevin Scott Albertini",
+            "address": "1138 N Flagler Drive, Fort Lauderdale, FL, United States of America",
+            "website": ""
+        },
+        {
+            "id": 2273,
+            "name": "Tribe Jiu-Jitsu",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Roma",
+            "responsible": null,
+            "address": "Via Delle Alpi  12 , , Roma, --, Italy",
+            "website": "www.tribejiujitsu.com"
+        },
+        {
+            "id": 6590,
+            "name": "Tribe Jiu-Jitsu - Roma Nord",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Rome",
+            "responsible": "Emiliano Alfani",
+            "address": "via dei Due Ponti 115, Rome, it, Italy",
+            "website": "-"
+        },
+        {
+            "id": 6607,
+            "name": "Tribe Jiu-Jitsu Bari",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Mola di Bari",
+            "responsible": "Federico Tisi",
+            "address": "Via Nino Rota n. 35, Mola di Bari, BA, Italy",
+            "website": null
+        },
+        {
+            "id": 6646,
+            "name": "Tribe Jiu-Jitsu Brunico / Sport Academy ASD",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Brunico",
+            "responsible": "Massimo Brunetti",
+            "address": "via dei Campi 8/c, Brunico, bz, Italy",
+            "website": "-"
+        },
+        {
+            "id": 6874,
+            "name": "Tribe Jiu-Jitsu Chieti",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Pescara",
+            "responsible": "Federico Tisi",
+            "address": "Viale Pindaro 85, Pescara, Italy",
+            "website": null
+        },
+        {
+            "id": 6541,
+            "name": "Tribe Jiu-Jitsu Firenze Nord",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Firenze",
+            "responsible": "Luca Caracciolo",
+            "address": "Via Pratese 24, Firenze, Firenze, Italy",
+            "website": "www.tribejiujitsu.com"
+        },
+        {
+            "id": 6561,
+            "name": "Tribe Jiu-Jitsu Firenze Sud",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Firenze",
+            "responsible": "Federico Tisi",
+            "address": "Via del Stadonnine 47, Firenze, IT, Italy",
+            "website": "www.rua67.it"
+        },
+        {
+            "id": 6529,
+            "name": "Tribe Jiu-Jitsu Imperia",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Imperia",
+            "responsible": "Federico Tisi",
+            "address": "via del  Gelsomini 8, Imperia, --, Italy",
+            "website": "www.tribejiujitsu.com"
+        },
+        {
+            "id": 6654,
+            "name": "Tribe Jiu-Jitsu Ladispoli",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Ladispoli",
+            "responsible": "Gianluca Palombi",
+            "address": "Largo Bolticelli 10, Ladispoli, Italy",
+            "website": "www.tribejiujitsu.com"
+        },
+        {
+            "id": 6610,
+            "name": "Tribe Jiu-Jitsu Messina",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Messina",
+            "responsible": "Federico Tisi",
+            "address": "Via Rotonda, 32 Tremestieri, Messina, IT, Italy",
+            "website": "www.tribejiujitsu.com"
+        },
+        {
+            "id": 6747,
+            "name": "Tribe Jiu-Jitsu Padova",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Padova",
+            "responsible": "Michele Bovo",
+            "address": "Via Faggin 21, Padova, Italy",
+            "website": "www.tribejiujitsu.com"
+        },
+        {
+            "id": 6861,
+            "name": "Tribe Jiu-Jitsu Pescara",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "San Giovanni Teatino",
+            "responsible": "Giuseppe Petrini",
+            "address": "Via Belvedere 69, San Giovanni Teatino, Italy",
+            "website": null
+        },
+        {
+            "id": 6748,
+            "name": "Tribe Jiu-Jitsu Pordenone",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Pordenone",
+            "responsible": "Andrea Stoppa",
+            "address": "via Molinari 37, Pordenone, --, Italy",
+            "website": "www.shinbudokai.it"
+        }
+    ]
+}

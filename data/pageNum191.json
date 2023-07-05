@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 191,
+        "from": 3800,
+        "to": 3820,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3813,
+            "name": "Immersion Mixed Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Glen Waverley",
+            "responsible": "David Nicholas Marinakis",
+            "address": "655c Waverley Road, , Glen Waverley, VIC, Australia",
+            "website": "www.immersionmma.com"
+        },
+        {
+            "id": 2593,
+            "name": "Impact Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Beaverton",
+            "responsible": "Michael Edward Chapman",
+            "address": "4240 SW Cedar Hills Blvd (PO Box 978, Beaverton Oregon 97075)  , , Beaverton, OR, United States of America",
+            "website": "www.impactjj.com"
+        },
+        {
+            "id": 9188,
+            "name": "Impact Zone",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "West Lafayette",
+            "responsible": "Carlos L. Soto",
+            "address": "2781 Klondike Road, West Lafayette, Indiana, United States of America",
+            "website": "www.ImpactZoneTrainingCenter.com"
+        },
+        {
+            "id": 2920,
+            "name": "Impacto BJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Minokamo-shi",
+            "responsible": "Rogerio Yoski Suto",
+            "address": "Ota Cho 2869-1, , Minokamo-shi, --, Japan",
+            "website": "https://impactobjj.jimdofree.com/"
+        },
+        {
+            "id": 9514,
+            "name": "Impacto BJJ Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Claro",
+            "responsible": "Rogerio Yoski Suto",
+            "address": "Rua Dois Número 1616, Centro, Rio Claro, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9039,
+            "name": "Impacto BJJ China",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Beijing",
+            "responsible": "Ali Abdulbaset Y. Elezzabi",
+            "address": "Tian Yuan He Ping Shang Ye Da Sha Block 19 Office 215, ŒsÌ-W)CŒsF\u001a'¦,19\u000b215, Beijing, Beijing, China",
+            "website": "http://www.impactochina.com/"
+        },
+        {
+            "id": 9040,
+            "name": "Impacto BJJ Espanã",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Figueires",
+            "responsible": "Rogerio Yoski Suto",
+            "address": "Calle De La Closa Rasa N 16, Figueires, Girona, Spain",
+            "website": null
+        },
+        {
+            "id": 9034,
+            "name": "Impacto BJJ Korea",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Suwon",
+            "responsible": "Rogerio Yoski Suto",
+            "address": "4f, 929, Deogyeong-daero, Paldal-gu,, Suwon, Gyeonggi, Korea, South",
+            "website": null
+        },
+        {
+            "id": 10401,
+            "name": "Imperator",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Sangju-si",
+            "responsible": "Yusuke Homma",
+            "address": "282, Sangsan-ro, 4f, Sangju-si, Gyeongsangbuk-do, Korea, South",
+            "website": "blog.naver.com/siroinecco"
+        },
+        {
+            "id": 10427,
+            "name": "Imperial Jitz",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ephrata",
+            "responsible": "Luis Hugo Alvarez",
+            "address": "112 Division Ave W, Ephrata, Washington, United States of America",
+            "website": "https://imperialjitz.com"
+        },
+        {
+            "id": 5139,
+            "name": "Imperio Fight Team - IF Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra de São João ",
+            "responsible": "Hermes Ciardulli Fernandes",
+            "address": "Rodovia Amaral Peixoto, 699, Centro, Barra de São João , RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6452,
+            "name": "Império Team Olive",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macaé",
+            "responsible": "Ernesto Bacellar Olive",
+            "address": "Rua Padre Vicente Cariou n: 50, Parque Aeroporto, Macaé, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9928,
+            "name": "Imperium 22 BJJ",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Viseu",
+            "responsible": "Jefferson Costa Pinto",
+            "address": "Rua Do Palácio Do Gelo, N° 3 Piso - 2, Palácio Do Gelo, Viseu, Portugal, Portugal",
+            "website": null
+        },
+        {
+            "id": 7831,
+            "name": "Impulse BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Peterborough",
+            "responsible": "Fabio Ferrari",
+            "address": "50 Culley Court, Drybread, Peterborough, United Kingdom",
+            "website": "www.ImpulseBJJ.co.uk"
+        },
+        {
+            "id": 8743,
+            "name": "Inabaláveis Team Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Adriano de Souza Cota",
+            "address": "Av Antônio Francisco Lisboa, 2761, Loja, Belo Horizonte, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9518,
+            "name": "Inácio Team Bjj",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bauru",
+            "responsible": "Daniel Inácio",
+            "address": "Av Duque De Caxias 24-37, Em Cima Loja De Carro, Bauru, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 4213,
+            "name": "Incognito BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Warsaw",
+            "responsible": "Jason C. Fox",
+            "address": "2437 S. Southwood Dr.  , , Warsaw, IN, United States of America",
+            "website": ""
+        },
+        {
+            "id": 6049,
+            "name": "Independent BJJ Hungary",
+            "federationAbbr": "IBJJF",
+            "country": "Hungary",
+            "countryAbbr": "HU",
+            "city": "Budapest",
+            "responsible": "Milton Carlos Bastos P. do Nascimento",
+            "address": "Garay utca 3., Budapest, --, Hungary",
+            "website": null
+        },
+        {
+            "id": 8267,
+            "name": "Indio Dojo",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Scott Township ",
+            "responsible": "Danillo Andrade Villefort da Silva",
+            "address": "393 Vanadium Road Suit 102, Scott Township , Pa, United States of America",
+            "website": "IndioDojo.com"
+        },
+        {
+            "id": 9131,
+            "name": "Inertia Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Vancouver",
+            "responsible": "Justin Neil Bendsneyder",
+            "address": "212 Ne 164th Avenue, Suite 4, Vancouver, Wa, United States of America",
+            "website": null
+        }
+    ]
+}

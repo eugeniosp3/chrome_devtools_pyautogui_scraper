@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 114,
+        "from": 2260,
+        "to": 2280,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3961,
+            "name": "Escola Bragantina de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bragança Paulista",
+            "responsible": "Alessandro Aparecido Capodeferro",
+            "address": "Rua Juvenal Da Silva Guimarães, 12, Bragança Paulista, Sp, Brasil",
+            "website": "www.ebjj.com.br"
+        },
+        {
+            "id": 8876,
+            "name": "Escola CF BJJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Francisco Maciel de Sousa",
+            "address": "Estrada Do Pacuí 888, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8927,
+            "name": "Escola da luta Mogi Guaçu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mogi Guaçu",
+            "responsible": "Juliano Rodrigo da Silva",
+            "address": "Rua Aguaí 557 Vila São Carlos, 557, Mogi Guaçu, Sp, Brasil",
+            "website": "julianoazuljiujitsu@gmail.com"
+        },
+        {
+            "id": 6040,
+            "name": "Escola Darcio Lira de Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Livermore",
+            "responsible": "Bruno Kethellen Barros Nunes",
+            "address": "1601 Railroad Ave, Livermore, CA, United States of America",
+            "website": "www.darciolirajiujitsu.com"
+        },
+        {
+            "id": 10171,
+            "name": "Escola De Gladiadores  Grapping  Figth",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Fabio Candido Bezerra",
+            "address": "Estrada Do Pacuí, 888, Segundo Andar, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 4344,
+            "name": "Escola De Jiu Jitsu Julião",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Walter Rogério Neves Julião",
+            "address": "Rua Joa 67, Vila sobrinho, Campo Grande, MS, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9443,
+            "name": "Escola De Jiu Jitsu Waldir Ribeiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Waldir da Cunha Ribeiro",
+            "address": "Rua 2 Qd-3 Lote-3 S/0 - Bairro Chácaras Anhanguera, Em Frente Ao Condominio San Marino, Goiânia, Goias, Brasil",
+            "website": "www.waldirribeiro.com.br"
+        },
+        {
+            "id": 10162,
+            "name": "ESCOLA DE JIU JITSU WF",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Pedro Henrique Maia Costa",
+            "address": "Rua 3 Ch 81, St. Hab. Vicente Pires, Brasília, Distrito Federal, Brasil",
+            "website": "@weflowjiujitsu"
+        },
+        {
+            "id": 9958,
+            "name": "Escola De Jiu-Jitsu Biquinho BJJ Ltda",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ribeirão Preto",
+            "responsible": "Alex Freire Correa",
+            "address": "Rua Padre Anchieta, 1719, Ribeirão Preto, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 6153,
+            "name": "Escola de Jiu-Jitsu Bruno Alves",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaperuna",
+            "responsible": "Bruno Alves Ferreira Nogueira",
+            "address": "Br 356 Km 01 640 Loja 16, Cidade Nova, Itaperuna, Rio de Janeiro, Brasil",
+            "website": "escolabrunoalves.com.br"
+        },
+        {
+            "id": 9268,
+            "name": "Escola De Jiu-jitsu Carlos Brothers",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Matheus Carlos Oliveira",
+            "address": "Rua Elcias Lopes 699, Fortaleza, Ce, Brasil",
+            "website": null
+        },
+        {
+            "id": 6017,
+            "name": "Escola de Jiu-Jitsu Douglas Fernandes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Juiz de Fora",
+            "responsible": "Douglas Fernandes da Silva",
+            "address": "Rua Paracatu n: 909, Bandeirantes, Juiz de Fora, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9059,
+            "name": "Escola de Jiu-Jitsu Eberson Mesquita",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cotia",
+            "responsible": "Eberson Gomes Mesquita",
+            "address": "Av. Ivo Mário Isaac Pires, 850 - Sala 22, Cotia, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9726,
+            "name": "Escola De Jiu-jitsu Elo Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cariacica",
+            "responsible": "Eloir Ferreira do Nascimento Junior",
+            "address": "Rua: Afonso Claudio 288, Próximo A Igreja Quadrangular., Cariacica, Es, Brasil",
+            "website": null
+        },
+        {
+            "id": 4734,
+            "name": "Escola de Jiu-Jitsu Fábio Carvalho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Fabio Luiz Carvalho da Silva",
+            "address": "Av. Engenheiro João Hélio Alves Rocha n: 2175, Planalto, Natal, RN, Brasil",
+            "website": "fabioengmec8.wixsite.com/jujitsufabiocarvalho"
+        },
+        {
+            "id": 8355,
+            "name": "Escola De Jiu-Jitsu Farney Alves",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Farney Alves Fernandes",
+            "address": "Rua Ernesto Regatieri N\" 584, Segundo Andar, Nova Iguaçu, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8827,
+            "name": "Escola De Jiu-jitsu J. G.",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Serrana",
+            "responsible": "Júlio Gomes de Almeida Júnior",
+            "address": "Rua Procópio Mário Lacerda, 861 - Bairro Boa Vista, 861, Nova Serrana, Mg, Brasil",
+            "website": "academia-jg-fight.negocio.site"
+        },
+        {
+            "id": 7972,
+            "name": "Escola De Jiu-Jitsu Leandro Schmitz | BMA  BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Canoas",
+            "responsible": "Leandro Schmitz Farias",
+            "address": "Rua Dr Alfredo Angelo Filho  1635, 1635, Canoas, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 4465,
+            "name": "Escola de Jiu-Jitsu Lelo Campos",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Julio Cesar de Souza Campos",
+            "address": "Rua Ponta Porã,  592 Casa, Vila Palmira, Campo Grande, MS, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7906,
+            "name": "Escola De Jiu-Jitsu Marcelo Azevedo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Marcelo Silva de Azevedo",
+            "address": "Rua Miguel De Frias, 115 - Sobreloja, Em Cima Do Ponto Jovem, Niterói, Rio De Janeiro, Brasil",
+            "website": "@escoladejiujitsuma"
+        }
+    ]
+}

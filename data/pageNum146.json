@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 146,
+        "from": 2900,
+        "to": 2920,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5107,
+            "name": "GJ Team  Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marabá",
+            "responsible": "Gilberto Pereira de Carvalho",
+            "address": "F 26 Qd 04 Lt 26, Nova Maraba, Marabá, PA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2781,
+            "name": "Gladiator BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Belchertown",
+            "responsible": "Gabriel Santos Gonçalves",
+            "address": "671 Franklin Street  , , Belchertown, MA, United States of America",
+            "website": "www.gabrielgladiator.com"
+        },
+        {
+            "id": 8358,
+            "name": "Gladium BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Garanhuns",
+            "responsible": "Lincon Costa da Silva",
+            "address": "Rua Capitão José Jardim, 27 - Boa Vista, Garanhuns, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 4634,
+            "name": "Glam Team - Israel",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Ariel",
+            "responsible": "Mordechai Glam",
+            "address": "Yamit 13/2  , , Ariel, Israel",
+            "website": ""
+        },
+        {
+            "id": 8187,
+            "name": "Glazer Training Grounds",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Crows Nest",
+            "responsible": "Fabio Glazer",
+            "address": "382 Pacific Highway, Crows Nest, Nsw, Australia",
+            "website": "https://traininggrounds.com.au"
+        },
+        {
+            "id": 6836,
+            "name": "Gleison Oliveira Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vitória da Conquista",
+            "responsible": "Anselmo dos Santos Gomes",
+            "address": "Rua Irênio dos Santos n: 149, Bairro: Recreio, Vitória da Conquista, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 10402,
+            "name": "Glimario Junior",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Legnano",
+            "responsible": "Glimario João dos Santos Junior",
+            "address": "Via Giacomo Matteotti, 3, Legnano, Milano, Italy",
+            "website": null
+        },
+        {
+            "id": 10182,
+            "name": "Global1bjj",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Naples",
+            "responsible": "Denis Mitchel Batista Pinto",
+            "address": "4584 Enterprise Avenue, Bay 12, Naples, Fl, United States of America",
+            "website": "www.Global1BJJ.com"
+        },
+        {
+            "id": 5953,
+            "name": "Globe Fight Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "João Marcos Caciano de Souza",
+            "address": "Av. Presidente Roosevelt 1665 Bl 7 apt 201, Barra Do Imbui, Teresópolis, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 2507,
+            "name": "Gloglo Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Jose",
+            "responsible": "Leonardo Parreiras Horta de Seixas",
+            "address": "95 Phelan Ave Suite 3, San Jose, CA, United States of America",
+            "website": "gloglobjj.com"
+        },
+        {
+            "id": 4746,
+            "name": "GMA - Rocian Gracie Jr Branch USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gallatin",
+            "responsible": "Rocian Gracie Junior",
+            "address": "130 N Locust Ave, Gallatin, TN, United States of America",
+            "website": "www.gmagallatin.com"
+        },
+        {
+            "id": 8988,
+            "name": "GMAC",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brooklyn",
+            "responsible": "Omar Kadi",
+            "address": "268 Bay Ridge Avenue, Brooklyn, New York, United States of America",
+            "website": "glorymacenter.com"
+        },
+        {
+            "id": 10598,
+            "name": "GNS Academy BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Saint Cloud",
+            "responsible": "Marcel  Amorim Portilho",
+            "address": "900 Ohio Avenue, Saint Cloud, Florida, United States of America",
+            "website": "Www.genesisbrazlianjj.com"
+        },
+        {
+            "id": 6191,
+            "name": "Go Fight BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Atibaia",
+            "responsible": "Hercio Teofilo de Souza",
+            "address": "Rua Josias Rocha n: 277, Jd. Maristela, Atibaia, São Paulo, Brasil",
+            "website": "gofight.com.br"
+        },
+        {
+            "id": 4415,
+            "name": "Go Team Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra da Estiva",
+            "responsible": "Edson Silva Nascimento Filho",
+            "address": "Praça Padre Folha 170 , Centro, Barra da Estiva, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5875,
+            "name": "Godô Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Valfredo Sousa Teixeira Junior",
+            "address": "Rua das Pitangueiras n: 35, Em frente a Piatã - FM Bairro: Matatu - Brotas, Salvador, Bahia , Brasil",
+            "website": null
+        },
+        {
+            "id": 6570,
+            "name": "Gokcehan Kirbac Team",
+            "federationAbbr": "IBJJF",
+            "country": "Turkey",
+            "countryAbbr": "TR",
+            "city": "Istanbul",
+            "responsible": "Gokcehan Kirbac",
+            "address": "Barbaros Mah, Veysi Pasa Sok, Yuce Kent Sitesi B/12 , Istanbul, Istanbul, Turkey",
+            "website": "www.brazilianjiujitsuistanbul.com"
+        },
+        {
+            "id": 2371,
+            "name": "Gokudo",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Courbevoie",
+            "responsible": "Thibaut François Léo Olivier",
+            "address": "17 Place de L'Iris  , , Courbevoie, FR, France",
+            "website": "www.gokudo.fr"
+        },
+        {
+            "id": 10469,
+            "name": "Gold Crew - Linke Bros Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Szczecin",
+            "responsible": "Maciej Ireneusz Linke",
+            "address": "Mickiewicza 34, Szczecin, Poland",
+            "website": null
+        },
+        {
+            "id": 7614,
+            "name": "Gold Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bauru",
+            "responsible": "Jonathan Thieris da Silva",
+            "address": "Rua Antônio garbi de mattos 5-06, Bauru, SP, Brasil",
+            "website": null
+        }
+    ]
+}

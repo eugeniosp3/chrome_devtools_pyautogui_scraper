@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 219,
+        "from": 4360,
+        "to": 4380,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6115,
+            "name": "Loughan Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Bruno Vieira Viana",
+            "address": "Av. Vilarinho N: 3851, Galpão - Bairro: Leticia, Belo Horizonte, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 4009,
+            "name": "Louis Vintaloro Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fair Lawn",
+            "responsible": "Louis Vintaloro",
+            "address": "23-12 Broadway  , , Fair Lawn, NJ, United States of America",
+            "website": "armlock.com"
+        },
+        {
+            "id": 8981,
+            "name": "Lourenço Zimmermann Dojo Kaizen",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "José Lourenço Munaretto Zimmermann",
+            "address": "Estrada Costa Gama ,5930, Porto Alegre, Rs, Brasil",
+            "website": "Porto Alegre- rs"
+        },
+        {
+            "id": 7481,
+            "name": "Louva a Deus BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Gildo Vitório da Silva",
+            "address": "Rua Itapejara do Oeste n: 49, Auto Boqueirão, Curitiba, PR, Brasil",
+            "website": "Itapejara do Oeste"
+        },
+        {
+            "id": 2026,
+            "name": "Lovato Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Oklahoma  City",
+            "responsible": "Rafael Lovato Jr.",
+            "address": "10944 N. May Ave., , Oklahoma  City, OK, United States of America",
+            "website": "www.okbjj.com"
+        },
+        {
+            "id": 3933,
+            "name": "Lovato Jiu-Jitsu International",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Surrey",
+            "responsible": "Rafael Lovato Jr.",
+            "address": "12066 86 Avenue  , , Surrey, BC, Canada",
+            "website": "www.kaboombjj.com"
+        },
+        {
+            "id": 7188,
+            "name": "Loyalty BJJ Vila-Seca",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Vila-Seca",
+            "responsible": "Guilherme Faria de Paiva",
+            "address": "Calle Sant Josep 45 Local 3, Vila-Seca, Tarragona, Spain",
+            "website": "-"
+        },
+        {
+            "id": 7909,
+            "name": "LS BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ipatinga",
+            "responsible": "João Paulo Alves Freitas",
+            "address": "R Topázio, N° 120, Iguaçu , Ipatinga, Ipatinga, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9527,
+            "name": "LS Lion Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Windermere",
+            "responsible": "Leonardo Teixeira Silva",
+            "address": "12357 Via Derna Pl, Windermere, Florida, United States of America",
+            "website": null
+        },
+        {
+            "id": 5968,
+            "name": "LTBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Varginha",
+            "responsible": "Lucas Tavares  Pereira",
+            "address": "Rua Domingos de Resende 218, Centro, Varginha, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 8583,
+            "name": "Lubomir Guedjev BJJ Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Bulgaria",
+            "countryAbbr": "BG",
+            "city": "Sofia",
+            "responsible": "Lubomir Roumenov Guedjev",
+            "address": "Simeonovsko shose 110, building 27, floor 1, apartment 1, Sofia, Sofia, Bulgaria",
+            "website": "www.guedjevbjj.com"
+        },
+        {
+            "id": 5770,
+            "name": "Lucas Campos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Isabel do Pará",
+            "responsible": "Lucas Diogo da Silva Campos",
+            "address": "Av. Mata Bacelar - 1082, Physical Academia, Santa Isabel do Pará, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 10576,
+            "name": "Lucas Orsi Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vacaria",
+            "responsible": "Lucas Orsi Rodrigues",
+            "address": "Ramiro Barcelos 457, Ap 1, Vacaria, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 3031,
+            "name": "Lucero Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mohave Valley",
+            "responsible": "Richard William Lucero",
+            "address": "1781 Boundry Cone Road, Mohave Valley, AZ, United States of America",
+            "website": "www.lucerobjj.com"
+        },
+        {
+            "id": 9300,
+            "name": "Luciano Cristovam Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Luciano Cristovam Rodrigues Jr.",
+            "address": "45 Holmes Road, London, United Kingdom",
+            "website": "lucianocristovam.com"
+        },
+        {
+            "id": 4371,
+            "name": "Luciano Gazen Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cachoeira de Macacu",
+            "responsible": "Luciano Gazen da Cunha",
+            "address": "Rua Padre Antônio C. Carvalho S/N, Loja - Ribeira/Papucaia, Cachoeira de Macacu, RJ, Brasil",
+            "website": "gazenluciano@gmail.com"
+        },
+        {
+            "id": 7454,
+            "name": "Luciano Pinto Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Montenegro",
+            "responsible": "Luciano Pinto da Silva",
+            "address": "Rua Buarque de Macedo n: 797, Térreo, Montenegro, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 7124,
+            "name": "Lúcio Flávio JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos dos Goytacazes",
+            "responsible": "Lucio Flavio de Campos",
+            "address": "Rua Carmita Serafim n: 09 casa 01, Alphaville II, Campos dos Goytacazes, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 3545,
+            "name": "Ludus BJJ Russia",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Moscow",
+            "responsible": null,
+            "address": "Generala Belo Bedoura Street 19  , , Moscow, MO, Russia",
+            "website": "www.ludusteam.ru"
+        },
+        {
+            "id": 8417,
+            "name": "Luis AP Gil Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New York",
+            "responsible": "Luis Gil",
+            "address": "920 Riverside Drive , Apt 25, New York, New York, United States of America",
+            "website": null
+        }
+    ]
+}

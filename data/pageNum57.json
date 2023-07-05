@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 57,
+        "from": 1120,
+        "to": 1140,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3551,
+            "name": "Brother's For Life",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Huelva",
+            "responsible": "Manasses Rodrigues de Paula Filho",
+            "address": "Calle Vazquez Lopez 39  , , Huelva, --, Spain",
+            "website": "www.bjjhuelva.com"
+        },
+        {
+            "id": 7563,
+            "name": "Brothers Of Mat",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Balneário Camboriú",
+            "responsible": "Aldo Max Bastos de Azevedo",
+            "address": "Rua 1401, N.384, Bairro: Centro, Balneário Camboriú, Santa Catarina, Brasil",
+            "website": "www.brothersofmat.com"
+        },
+        {
+            "id": 3495,
+            "name": "Brother's Ramos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Joás Ramos da Silva",
+            "address": "Rua Radialista Enoque Pelágio Do Carmo, 146, Mangabeira I, João Pessoa, PB, Brasil",
+            "website": "www.brothersramosjiu-jitsu.com.br"
+        },
+        {
+            "id": 4539,
+            "name": "Brow Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Visconde do Rio Branco",
+            "responsible": "Thalles Guimarães Moreira",
+            "address": "Rua Maria Madalena Batalha, 99 , Alto Santo Antonio, Visconde do Rio Branco, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 4820,
+            "name": "Bruno Bastos BJJ Bulgaria",
+            "federationAbbr": "IBJJF",
+            "country": "Bulgaria",
+            "countryAbbr": "BG",
+            "city": "Varna",
+            "responsible": "Bruno Bastos Cruz",
+            "address": "Selioulu St. 39A  , , Varna, VA, Bulgaria",
+            "website": "bastosbjjmidland.com"
+        },
+        {
+            "id": 3903,
+            "name": "Bruno Bastos BJJ Midland",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Midland",
+            "responsible": null,
+            "address": "1000 N. Midkiff #4A , , Midland, TX, United States of America",
+            "website": "www.bastosbjjmidland.com"
+        },
+        {
+            "id": 3959,
+            "name": "Bruno Bastos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Bruno Bastos Cruz",
+            "address": "Rua General Barreto Viana 129 , Realengo, Rio de Janeiro, RJ, Brasil",
+            "website": "www.bastosbjjmidland.com"
+        },
+        {
+            "id": 5569,
+            "name": "Bruno Bomba Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lavras",
+            "responsible": "Bruno Silva Souza",
+            "address": "Iraceles Medeiros, 44, Pitangui, Lavras, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 8795,
+            "name": "Bruno Buakaw",
+            "federationAbbr": "IBJJF",
+            "country": "Taiwan",
+            "countryAbbr": "TW",
+            "city": "Taipei City",
+            "responsible": "Bruno Silva dos Santos",
+            "address": "No. 27, Section 1, Anhe Road, Daan District, Taipei City B1,, (ufc Gym Taiwan), Taipei City, Taipei, Taiwan",
+            "website": null
+        },
+        {
+            "id": 10567,
+            "name": "Bruno Duque Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jequié",
+            "responsible": "Bruno Borges Duque",
+            "address": "Avenida Adolfo, Ct Cidade Sol, Jequié, Ba, Brasil",
+            "website": "@brunoduquejj"
+        },
+        {
+            "id": 6943,
+            "name": "Bruno Guimaraes BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Leander",
+            "responsible": "Paulo Bruno Bortkievicz Guimaraes",
+            "address": "10960 E Crystal Falls, Bldg 2 Ste200, Leander, TX, United States of America",
+            "website": "brunoguimaraesbjj.com"
+        },
+        {
+            "id": 7805,
+            "name": "Bruno Lima Brazilian Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chico",
+            "responsible": "Bruno Apolinario de Lima",
+            "address": "2145 Park Ave suite 1, Chico, California, United States of America",
+            "website": "Brunolimabjj.com"
+        },
+        {
+            "id": 4224,
+            "name": "Bruno Mamute Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orange",
+            "responsible": "Bruno Rodrigues Paulista",
+            "address": "1315 N. Tustin Street Suite I, Orange, CA, United States of America",
+            "website": "mamutebjj.com"
+        },
+        {
+            "id": 9006,
+            "name": "Bruno Sales JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos Dos Goytacazes",
+            "responsible": "Bruno da Silva Sales",
+            "address": "R. Anfilóquio De Lima, 166 - Fundos, Campos Dos Goytacazes, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6052,
+            "name": "Brutal Jiu-Jitsu",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Roma",
+            "responsible": "Moreno Guerrisi",
+            "address": "via Della Riserva Grande 76, Roma, Italy",
+            "website": null
+        },
+        {
+            "id": 8857,
+            "name": "Bruteam Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Elvis Rogério da Conceição",
+            "address": "Rua Da Praça Nelson Corso, Brasília, Df, Brasil",
+            "website": null
+        },
+        {
+            "id": 7966,
+            "name": "Brutus",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marechal Deodoro",
+            "responsible": "Eder Paiva Alves de Lima",
+            "address": "Rua Do Sol , Barra Nova, Anexo 33a, Marechal Deodoro, Alagoas, Brasil",
+            "website": null
+        },
+        {
+            "id": 2527,
+            "name": "BSB Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Danilo Queiroz Moura de Oliveira",
+            "address": "QNA 30 lote 04, Taguatinga Norte, Brasília, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 10564,
+            "name": "BTF Brazilian Total Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ibitinga",
+            "responsible": "Renato Pires",
+            "address": "Rua João Carlos Longuini 710 Jd Aurora, Ibitinga, São Paulo, Brasil",
+            "website": "Www.braziliantotalfight.com.br"
+        },
+        {
+            "id": 8989,
+            "name": "BTSBJJ ACADEMY",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": "Dawê Kessiley Torres de Sousa",
+            "address": "Av. Território Fernando De Noronha, 1576, Primavera, Teresina, Piauí, Brasil",
+            "website": null
+        }
+    ]
+}

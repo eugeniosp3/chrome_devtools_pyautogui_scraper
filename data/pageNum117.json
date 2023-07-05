@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 117,
+        "from": 2320,
+        "to": 2340,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5821,
+            "name": "Esquadrão de Jiu-Jitsu Brasileiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Luiz Guilherme Fernandes de Jesus",
+            "address": "Av. Jorge João Saad n: 152, Bairro: Vila Nova Progredir, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8162,
+            "name": "Esquadrão Força E Honra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Rafael Alan Costa Silva",
+            "address": "R. Marcos De Macedo, Nº 124, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6378,
+            "name": "Essence BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araruama",
+            "responsible": "Ricardo Alberto Tavares Viana",
+            "address": "Rua José Rascão S/N, São José, São Pedro da Aldeia, Araruama, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7284,
+            "name": "Essence BJJ / International",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Bragança",
+            "responsible": "Ricardo Alberto Tavares Viana",
+            "address": "Rua dos Jesuitas , Numero 3 R/C esq., Bragança, --, Portugal",
+            "website": null
+        },
+        {
+            "id": 9422,
+            "name": "Essência Evolutiva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santo Estevão",
+            "responsible": "Laudeci Conceição de Santana",
+            "address": "Rua Pedro De Souza Gomes, 295, Centro, Santo Estevão, Bahia, Brasil",
+            "website": "www.essenciaevolutiva.com.br"
+        },
+        {
+            "id": 5361,
+            "name": "Essential Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hartsdale",
+            "responsible": "Jonathan Torres",
+            "address": "218 E. Hartsdale Ave, Hartsdale, NY, United States of America",
+            "website": "www.essentialbjj.com"
+        },
+        {
+            "id": 10351,
+            "name": "Estavel  Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Layton",
+            "responsible": "Ricardo Rocha Lima",
+            "address": "70 S Fairfield Road, Layton Utah, 70 S Fairfield Road, Layton Utah, Layton, Utah, United States of America",
+            "website": "www.estaveljiujitsu.com"
+        },
+        {
+            "id": 8802,
+            "name": "Esteban Bonaveri BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Sant Vicenç De Montalt",
+            "responsible": "Esteban Gonzalo Bonaveri",
+            "address": "Carrer Montnegre, 13, Sant Vicenç De Montalt, Barcelona, Spain",
+            "website": null
+        },
+        {
+            "id": 8493,
+            "name": "Estilo Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Washington",
+            "responsible": "Luis Geronimo Pantoja",
+            "address": "2639 Connecticut Ave Nw, Suite C-104, Washington, Dc, United States of America",
+            "website": "www.estilojiujitsu.com"
+        },
+        {
+            "id": 9352,
+            "name": "Estrela Do Oriente Jiu-jítsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Adeilson Oliveira Santos",
+            "address": "Rua Luiz Ferreira De Araújo, 96 - Parque São Pedro, Belo Horizonte, Minas Gerais, Brasil",
+            "website": "https://www.estrelajiujitsu.com.br/"
+        },
+        {
+            "id": 9789,
+            "name": "Estrellado Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Fabio Estrellado de Magalhães",
+            "address": "Rua Amazonas 664, Ap 702 Pituba, Edf Verdes Mares, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 9846,
+            "name": "Estum Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Estonia",
+            "countryAbbr": "EE",
+            "city": "Tallinn",
+            "responsible": "Robert Tomingas",
+            "address": "Ehitajate Tee 91/2-23, Tallinn, Estonia",
+            "website": "estumjiujitsu.ee"
+        },
+        {
+            "id": 10475,
+            "name": "Ethos Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Praia Grande",
+            "responsible": "Mauricio Duarte Mormille",
+            "address": "Rua Mococa 743, Praia Grande, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7876,
+            "name": "Ethos Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fullerton",
+            "responsible": "Jerardo Linares",
+            "address": "618 N Harbor Blvd Unit A, Fullerton, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 10727,
+            "name": "Eulen Viana Tigers Legion BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Eulen Castro Viana",
+            "address": "Rua Bernardo Michellis 307 Petrópolis, Ao Lado Do Posto Ipiranga, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 8340,
+            "name": "Eurasian Jiu-Jitsu Collective",
+            "federationAbbr": "IBJJF",
+            "country": "Ukraine",
+            "countryAbbr": "UA",
+            "city": "Kiev",
+            "responsible": "Bryan Patrick Daly",
+            "address": "Kharkivske Highway, 19 #927, Inside Studio 927, Kiev, Kiev, Ukraine",
+            "website": null
+        },
+        {
+            "id": 10313,
+            "name": "Europe Nova Jiu-Jitsu Team",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Moenchengladbach",
+            "responsible": "Alexander Sak",
+            "address": "Korschenbroicher Str. 160, Moenchengladbach, Germany",
+            "website": null
+        },
+        {
+            "id": 8178,
+            "name": "Everaldo Penco Jiu-Jitsu (EPJJ)",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Everaldo Silva Penco",
+            "address": "Rua Desembargador Paulo Alonso, 501 Recreio Dos Bandeirantes, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 5081,
+            "name": "Everlast Barata Spirit Team",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Dalian",
+            "responsible": "Andre Luiz de Oliveira",
+            "address": "Zhongshan District Kunming Street Aichengbao Square 2nd Floor  , , Dalian, Liaoning, China",
+            "website": ""
+        },
+        {
+            "id": 7983,
+            "name": "Evermove",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Toyama-shi",
+            "responsible": "Koji Shimasaki",
+            "address": "302,nakagawara, Toyama-shi, Toyama-ken, Japan",
+            "website": "http://evermove.jp"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 253,
+        "from": 5040,
+        "to": 5060,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2284,
+            "name": "One Jiu-Jitsu USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Irvine",
+            "responsible": "Givanildo Santana do Nascimento",
+            "address": "17895 Sky Park Circle #A  , , Irvine, Ca, United States of America",
+            "website": "www.onebjjfitness.com"
+        },
+        {
+            "id": 9804,
+            "name": "One Love Jiu-Jitsu Club",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hixson",
+            "responsible": "Flávio Sales da Costa",
+            "address": "1011 Gadd Road, Hixson, TN, United States of America",
+            "website": null
+        },
+        {
+            "id": 6961,
+            "name": "One Purpose BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Salisbury / Brisbane",
+            "responsible": "Roberto Dib Frias",
+            "address": "172 Evans Road, Building A, Unit 3, Salisbury / Brisbane, QLD, Australia",
+            "website": "www.onepbjj.com"
+        },
+        {
+            "id": 9752,
+            "name": "One Way Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alexandria",
+            "responsible": "Mahamed Aly Santos da Silva",
+            "address": "5923 Highdale Circle, Apt L, Alexandria, Virginia, United States of America",
+            "website": "onewaybjj.com"
+        },
+        {
+            "id": 2710,
+            "name": "One World Jiu Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Union City",
+            "responsible": "Michael Peter Prudencio",
+            "address": "33425 Western Ave  , , Union City, CA, United States of America",
+            "website": "www.oneworldjiujitsu.com"
+        },
+        {
+            "id": 9123,
+            "name": "OneEllite BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Rodrigo Peres Lima",
+            "address": "Rua Ana Maria Nunes 110, Florianópolis, Santa Catarina, Brasil",
+            "website": "www.academiaellite.com.br"
+        },
+        {
+            "id": 8913,
+            "name": "Oneonta Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Schenevus",
+            "responsible": "Matthew C. Martindale",
+            "address": "5366 Main Street, Schenevus, Ny, United States of America",
+            "website": "www.oneontajiujitsuacademy.com"
+        },
+        {
+            "id": 9325,
+            "name": "Oni BJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nagareyama",
+            "responsible": "Jerry Imasa",
+            "address": "1-451-1 Mukaikogane Premist Minami Kashiwa 311, Nagareyama, Chiba, Japan",
+            "website": null
+        },
+        {
+            "id": 10468,
+            "name": "Only BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Bucheon-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "2f, 43, Beoman-ro 95beon-gil, Bucheon-si, Gyeonggi-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 9856,
+            "name": "Onya International",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Echuca",
+            "responsible": "Thiago Stefanutti",
+            "address": "81 Service Street, Echuca, Victoria, Australia",
+            "website": null
+        },
+        {
+            "id": 9540,
+            "name": "Onya Martial Arts",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Indaiatuba",
+            "responsible": "Thiago Stefanutti",
+            "address": "Av Coronel Antônio Estanislau Do Amaral, 211, Indaiatuba, São Paulo, Brasil",
+            "website": "www.onya.com.br"
+        },
+        {
+            "id": 9021,
+            "name": "Open Source Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Asheville",
+            "responsible": "Robert Leroy McMasters V",
+            "address": "357 Gorman Bridge Rd, Asheville, Nc, United States of America",
+            "website": "www.opensourcebjj.net"
+        },
+        {
+            "id": 9665,
+            "name": "Open Sparring",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Hope Ellen Douglass",
+            "address": "Lower Basement, 27 Park St, Sydney, New South Wales, Australia",
+            "website": "www.opensparring.com"
+        },
+        {
+            "id": 3090,
+            "name": "OpenMat Mixed Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Toronto",
+            "responsible": "Shawn Michael Williams",
+            "address": "593 Yonge Street #302  , , Toronto, ON, Canada",
+            "website": "www.openmat.ca"
+        },
+        {
+            "id": 8634,
+            "name": "Optimus BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Laguna Niguel",
+            "responsible": "Grant Wolfgang Collins",
+            "address": "31151 Niguel Rd., Laguna Niguel, Ca, United States of America",
+            "website": "www.optimusbjj.com"
+        },
+        {
+            "id": 10316,
+            "name": "Oregon Grappling Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Portland",
+            "responsible": "Hannah Sharp",
+            "address": "4830 Ne Martin Luther King Jr. Blvd, Portland, Oregon, United States of America",
+            "website": "https://www.oregongrapplingarts.com/"
+        },
+        {
+            "id": 5041,
+            "name": "Orelha Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu ",
+            "responsible": "Leonardo Ramos Teixeira",
+            "address": "Av. Abílio Augusto Távaro 28 , Jardim Paraiso, Nova Iguaçu , RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 5565,
+            "name": "Origem Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Bondi Junction",
+            "responsible": "Leonardo Magalhaes Machado",
+            "address": "Suite 2, 1st Floor, 452 Oxford Street, Bondi Junction Nsw 2022, 282 Crown Street, Wollongong Nsw 2500, Bondi Junction, Nsw, Australia",
+            "website": "www.origembjj.com.au"
+        },
+        {
+            "id": 4712,
+            "name": "Original Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Victor Bastos Rosa",
+            "address": "Clnw 10/11 Bloco D Loja 04, Setor Noroeste, Brasília, Df, Brasil",
+            "website": "www.originaljj.com.br"
+        },
+        {
+            "id": 2444,
+            "name": "Orlando Brazilian Jiu-Jitsu LLC",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orlando",
+            "responsible": "Bradley Francis Thompson",
+            "address": "28 W. Michigan St.  , , Orlando, FL, United States of America",
+            "website": "www.orlandobjj.com"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 61,
+        "from": 1200,
+        "to": 1220,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5917,
+            "name": "Calasans BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Lleida",
+            "responsible": "Claudio Calasans Camargo Júnior",
+            "address": "C/ Rio Llobregat Cap Pont, Lleida, --, Spain",
+            "website": null
+        },
+        {
+            "id": 9637,
+            "name": "CALDEIRÃO BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Almir Dantas da Costa Junior",
+            "address": "Rua Walter Porto, 700, Fortaleza, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 9800,
+            "name": "California Mixed Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gardena",
+            "responsible": "Chad George",
+            "address": "1617 W Rosecrans Ave, F, Gardena, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 7485,
+            "name": "Calixto BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Port Orange",
+            "responsible": "Regis Calixto de Lima",
+            "address": "3830 South Nova Rd, B3, Port Orange, FL, United States of America",
+            "website": "www.RalphGracieFL.com"
+        },
+        {
+            "id": 3932,
+            "name": "Camarillo Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bakersfield",
+            "responsible": "Daniel James Camarillo",
+            "address": "811 19th Street  , , Bakersfield, CA, United States of America",
+            "website": "www.camarillojj.com"
+        },
+        {
+            "id": 6293,
+            "name": "Camboinhas Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Marcus Vinicius Mendes de Freitas",
+            "address": "Av. Prof. Carlos Nelson Ferreira n: 125 sala 218/219, Bairro: Camboinhas, Niterói, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9305,
+            "name": "Cambridge BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Cambridge",
+            "responsible": "Kelvin Bezerra de Almeida",
+            "address": "55 Raglin Pl, Unit 6, Cambridge, Ontario, Canada",
+            "website": "Www.CambridgeBJJ.ca"
+        },
+        {
+            "id": 8955,
+            "name": "Camp Humphreys Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Apo",
+            "responsible": "Jonathan Chase Richardson",
+            "address": "Psc 333 Box 4663, Apo, Ap, United States of America",
+            "website": "www.cobrakaijiujitsu.com"
+        },
+        {
+            "id": 9065,
+            "name": "Campanha Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Cruz Do Rio Pardo",
+            "responsible": "Marcio Flavio Campanha",
+            "address": "Avenida Batista Botelho, Santa Cruz Do Rio Pardo, Sp, Brasil",
+            "website": "www.moovitacademia.com.br"
+        },
+        {
+            "id": 10581,
+            "name": "Campeão United Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Acworth",
+            "responsible": "George L. Samuelson III",
+            "address": "3335 Cobb Pkwy Nw, Suite 520, Acworth, Ga, United States of America",
+            "website": "https://campeaojiujitsu.com"
+        },
+        {
+            "id": 10341,
+            "name": "Campeões Do Amanhã",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "João Luiz Lima dos Santos",
+            "address": "Rua Sargento Pedro Nazaré Rodrigues Machado, João Pessoa, Paraiba, Brasil",
+            "website": null
+        },
+        {
+            "id": 3796,
+            "name": "Campeões Esperança Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Jeremias Cassemiro Alves Silva",
+            "address": "Rua Maracanã 74 Casa 2, V. Ipojuca, São Paulo, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6105,
+            "name": "Campeon BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mission Viejo",
+            "responsible": "Gregory Anthony Lopez",
+            "address": "24451 Mue Ln, Mission Viejo, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 988,
+            "name": "Campos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos dos Goytacazes",
+            "responsible": "Leandro Ribeiro Gomes Guimarães",
+            "address": "Rua Barão de Miracema  306 Altos, Centro, Campos dos Goytacazes, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6470,
+            "name": "Canada Boa Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Kamloops",
+            "responsible": "Chadd Richard Freeman",
+            "address": "177 Tranquille Rd, Kamloops, BC, Canada",
+            "website": "www.BoaMartialArts.com"
+        },
+        {
+            "id": 7353,
+            "name": "Canada Pura BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Hamilton",
+            "responsible": "Paul Joseph O'Sullivan",
+            "address": "88 Westminster Ave, Hamilton, ON, Canada",
+            "website": "www.GlobalMartialArts.ca"
+        },
+        {
+            "id": 4867,
+            "name": "Cancão Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jaboatao Dos Guararapes",
+            "responsible": "André Carlos Barbosa da Silva",
+            "address": "R Índia, 191, Casa B, Jaboatao Dos Guararapes, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 10442,
+            "name": "Caneca Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos Dos Goytacazes",
+            "responsible": "Maycon Caneca dos Santos",
+            "address": "Rua Serafim Saldanha 9, Campos Dos Goytacazes, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9620,
+            "name": "Cantagalo Congo",
+            "federationAbbr": "IBJJF",
+            "country": "Congo, The Democratic Republic of The",
+            "countryAbbr": "CD",
+            "city": "Kinshasa",
+            "responsible": "Félicien Matoko",
+            "address": "17/20 Avenue Bumba, Kinshasa, Ngaliema, Congo, The Democratic Republic of The",
+            "website": null
+        },
+        {
+            "id": 6133,
+            "name": "Cantagalo International",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Jarna",
+            "responsible": "Bruno Matias Soares",
+            "address": "Hagagatan 10A, Jarna, --, Sweden",
+            "website": "--"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 265,
+        "from": 5280,
+        "to": 5300,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7301,
+            "name": "Power Lótus Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Rodrigo Candido de Oliveira",
+            "address": "Av. Governador Adhemar Pereira de Barros n: 190, Jardim Aricanduva, São Paulo, São Paulo, Brasil",
+            "website": "www.powerlotusteam.com.br"
+        },
+        {
+            "id": 10416,
+            "name": "Pragma Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hutto",
+            "responsible": "Daniel Marcos Alves de Andrade",
+            "address": "2535 Farm To Market 686 Suite 375, Hutto, Texas, United States of America",
+            "website": "Pragmajiujitsu.com"
+        },
+        {
+            "id": 7397,
+            "name": "Praia Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Costa Mesa",
+            "responsible": "Thiago Pierre Mota de Alencar",
+            "address": "1125 Victoria St., Suite T, Costa Mesa, CA, United States of America",
+            "website": "www.praiabjj.com"
+        },
+        {
+            "id": 6511,
+            "name": "Prana Family",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Saint Jean de Vedas",
+            "responsible": "David Giorsetti",
+            "address": "2, rue des courrejols, Saint Jean de Vedas, --, France",
+            "website": null
+        },
+        {
+            "id": 4233,
+            "name": "Praxis Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Seattle",
+            "responsible": "Larry James King",
+            "address": "300 Fairview Ave N  , , Seattle, WA, United States of America",
+            "website": "praxisbjj.com"
+        },
+        {
+            "id": 2786,
+            "name": "Precision Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "King of Prussia ",
+            "responsible": "Robert Nicholas Scheier",
+            "address": "303 E. Church Road (2nd and 3rd Floors)  , , King of Prussia , PA, United States of America",
+            "website": "www.precisionjj.com"
+        },
+        {
+            "id": 3827,
+            "name": "Predators MMA",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Manchester",
+            "responsible": "Rodrigo Antunes Guimarães",
+            "address": "15 Chantley Street   , , Manchester, --, United Kingdom",
+            "website": "www.manchester-mma.com"
+        },
+        {
+            "id": 4718,
+            "name": "Premier Combat Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Omaha",
+            "responsible": "Ryan James Jensen",
+            "address": "13540 Discovery Drive, Omaha, NE, United States of America",
+            "website": "premiercombatcenter.com"
+        },
+        {
+            "id": 4329,
+            "name": "Presa BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Corpus Christi",
+            "responsible": "Aurelio Gallegos Jr.",
+            "address": "6313 Wooldridge  #8 , Corpus Christi, TX, United States of America",
+            "website": "www.presabjj.com"
+        },
+        {
+            "id": 7763,
+            "name": "Preta Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Venezuela",
+            "countryAbbr": "VE",
+            "city": "Valencia",
+            "responsible": "Ronald Josue Sanchez Cordero",
+            "address": "Calle Codecido 100-102 Torre Preta, Valencia, Carabobo, Venezuela",
+            "website": "@pretafitnessbjj"
+        },
+        {
+            "id": 824,
+            "name": "Prev Ilha Bela",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": null,
+            "address": "Av. São Paulo 10 Casa 01, Barra Velha, São Paulo, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 10306,
+            "name": "Pride Esportes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Saquarema",
+            "responsible": "Mayara de Pádua Cazeiro Bravo",
+            "address": "Av.saquarema 1465, Casa, Saquarema, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 4997,
+            "name": "Pride Lands BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "La Plume",
+            "responsible": "Jason Thomas Ratchford",
+            "address": "Dalton Carpet Plaza, US-6  , , La Plume, PA, United States of America",
+            "website": "pridelandsbjj.com"
+        },
+        {
+            "id": 2614,
+            "name": "Primal Training Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Darnell D. D. Davis",
+            "address": "9811 Mira Mesa Vlvd  , , San Diego, CA, United States of America",
+            "website": "www.primaljiujitsu.com"
+        },
+        {
+            "id": 7422,
+            "name": "Primate Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tulsa",
+            "responsible": "Matthew Vernon",
+            "address": "5557 E. 41st Street, Tulsa, OK, United States of America",
+            "website": "primatebjj.com"
+        },
+        {
+            "id": 8302,
+            "name": "Primatta Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro ",
+            "responsible": "Esdras de Oliveira Santos Silva",
+            "address": "Rua 8w , Quadra Poliesportiva, Rio De Janeiro , Rio De Janeiro , Brasil",
+            "website": null
+        },
+        {
+            "id": 4912,
+            "name": "Prime BJJ MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Kamloops",
+            "responsible": "Marcelo dos Santos Motta",
+            "address": "#340 12th Ave  , , Kamloops, BC, Canada",
+            "website": "www.primebjjmartialarts.com"
+        },
+        {
+            "id": 3413,
+            "name": "Prime Jiu-Jitsu Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Colorado Springs",
+            "responsible": "Marcelo dos Santos Motta",
+            "address": "1424 Kelly Johnson Blvd  , , Colorado Springs, CO, United States of America",
+            "website": "www.primebjj.com"
+        },
+        {
+            "id": 8773,
+            "name": "Primetime Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Salem",
+            "responsible": "Brandon Thomas Hornby",
+            "address": "3238 Locust Grove Lane, Salem, VA, United States of America",
+            "website": null
+        },
+        {
+            "id": 7439,
+            "name": "Primordial Move",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarulhos",
+            "responsible": "Ricardo Matsumoto",
+            "address": "Av. Gaivota Preta 181, H 24 Jardim Valéria, Guarulhos, São Paulo, Brasil",
+            "website": null
+        }
+    ]
+}

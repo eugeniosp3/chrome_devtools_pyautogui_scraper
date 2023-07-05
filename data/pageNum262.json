@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 262,
+        "from": 5220,
+        "to": 5240,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6290,
+            "name": "Perugia Scorpion Team",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Perugia",
+            "responsible": "Rogério Olegário",
+            "address": "Via teano 66, Perugia, PG, Italy",
+            "website": null
+        },
+        {
+            "id": 2219,
+            "name": "Pesadelo BJJ ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dallas",
+            "responsible": "Stephen Vincent Hall",
+            "address": "1607 W. Mockingbird  , , Dallas, TX, United States of America",
+            "website": "www.pbjj.net"
+        },
+        {
+            "id": 9349,
+            "name": "Pescadores De Vidas Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Emanuel Augusto Heleno Costa",
+            "address": "Rua Imperatriz, 37, Salvador, Bahia, Brasil",
+            "website": "@pescadoresdevidasjiujitsu"
+        },
+        {
+            "id": 6346,
+            "name": "Peso Pesado",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Otávio de Almeida Júnior",
+            "address": "Rua Guamiuna n: 74, Vila Guarani, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 5668,
+            "name": "Pete Snider BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Peachtree City",
+            "responsible": "Peter Lane Snider",
+            "address": "665 Dividend Dr. Suite 425, Peachtree City, GA, United States of America",
+            "website": "ptccombatfitness.com"
+        },
+        {
+            "id": 4977,
+            "name": "Petronio Batista Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Serrana",
+            "responsible": "Petrônio Batista Gonçalves",
+            "address": "Getulio Vargas 5 , Centro, Nova Serrana, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8649,
+            "name": "Pg Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Eduardo Oliveira Rodrigues",
+            "address": "Pereira Passos 520, Porto Alegre, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 7518,
+            "name": "PGT Ireland",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Gorey",
+            "responsible": "Adonias Miranda Filho",
+            "address": "3, Twin Oaks - Glonattin Upper, Gorey, Wedford, Ireland",
+            "website": null
+        },
+        {
+            "id": 7638,
+            "name": "PGT Spain",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Burgos",
+            "responsible": "Leonardo da Silva da Costa",
+            "address": "barriada inmaculada bloque J , número 2 bajo , Burgos, Burgos , Spain",
+            "website": null
+        },
+        {
+            "id": 8553,
+            "name": "Phantom Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Maple Valley",
+            "responsible": "Ronald Blaine Crook",
+            "address": "26207 Maple Valley Black Diamond Road Se, A, Maple Valley, Wa, United States of America",
+            "website": "Phantombjj.com"
+        },
+        {
+            "id": 4775,
+            "name": "Phelippe Lira Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Coronel Fabriciano",
+            "responsible": "Phelippe Lira de Souza",
+            "address": "Rua Copacabana - N°1475 - Bairro Giovanini, Academia Via Prime Dinos Crossfit, Coronel Fabriciano, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 3511,
+            "name": "Phenom Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mission Hills",
+            "responsible": "Christian Bello",
+            "address": "15230 San Fernando Mission Blvd.  , , Mission Hills, CA, United States of America",
+            "website": "www.phenombjj.com"
+        },
+        {
+            "id": 3947,
+            "name": "Phenom Brazilian Jiu-Jitsu - Orange County",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Irvine",
+            "responsible": "Jose Martin Morachimo",
+            "address": "16782 Hale Ave.  , , Irvine, CA, United States of America",
+            "website": "www.phenombjjoc.com"
+        },
+        {
+            "id": 6934,
+            "name": "Philippine Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Taguig",
+            "responsible": "Allan Marcus Ong Co",
+            "address": "Ground Flr Avida Towers Cityflex, 7th St Corner Lane , T, Taguig, - Ncr, Philippines",
+            "website": "www.fightfactoryph.com"
+        },
+        {
+            "id": 6726,
+            "name": "Philoktetes",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Niigata-City",
+            "responsible": "Yasushi Ookubo",
+            "address": "Konanku Asahi 2-1-4, Niigata-City, Niigata, Japan",
+            "website": "http://philokniigata.jimdo.com/"
+        },
+        {
+            "id": 10500,
+            "name": "Phoenix BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Marlborough",
+            "responsible": "Daniel Phoenix",
+            "address": "160 Apex Drive, Suite C, Marlborough, Ma, United States of America",
+            "website": "www.phoenix-jj.com"
+        },
+        {
+            "id": 4366,
+            "name": "Physical Space Jiu-Jitsu Academy",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Hiroaki Otsuka",
+            "address": "5-30-6 Ogikubo, Suginamii  , Tokyo, --, Japan",
+            "website": "psogkb.com"
+        },
+        {
+            "id": 7367,
+            "name": "Piaseczno Ipanema BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Warsaw",
+            "responsible": "William Bruce Shepherd",
+            "address": "ul. Geodetow 176, Piaseczno, Warsaw, Mazowieckie wojewodztwo, Poland",
+            "website": "ipanema24.pl"
+        },
+        {
+            "id": 297,
+            "name": "Piazza Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Roberto Piazza",
+            "address": "Rua:souza Dutra, N°508, Estreito, Florianópolis, SC, Brasil",
+            "website": "https://instagram.com/piazzajiujitsu"
+        },
+        {
+            "id": 10299,
+            "name": "Piezi Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Valparaíso De Goiás",
+            "responsible": "Eliezer Dutra Ribeiro Junior",
+            "address": "Quadra 18, Area Especial, Valparaíso De Goiás, Go, Brasil",
+            "website": null
+        }
+    ]
+}

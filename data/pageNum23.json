@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 23,
+        "from": 440,
+        "to": 460,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7240,
+            "name": "Alvorada Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Arlisson Melo dos Santos",
+            "address": "Rua Violeta Areosa, N.107, Bairro: Alvorada 1, Manaus, Am, Brasil",
+            "website": null
+        },
+        {
+            "id": 8229,
+            "name": "ALXM JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Alexandre Mello de Oliveira",
+            "address": "Serra Alta 163, Bloco 24 Ap102, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 8668,
+            "name": "AM Combate",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santo Antônio Do Tauá",
+            "responsible": "Alex Maciel Marreiros",
+            "address": "Tv. Damásio De Oliveira - 245 - Centro, Academia, Santo Antônio Do Tauá, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8881,
+            "name": "Amado Jiu-jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Sesimbra",
+            "responsible": "Daniel Amado Scerni",
+            "address": "Rua Dos Aviários, 29 C, Sesimbra, Setúbal, Portugal",
+            "website": "@amadojiujitsu"
+        },
+        {
+            "id": 8344,
+            "name": "Amaterazu Brasil Jiu-Jitisu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mage",
+            "responsible": "Sidney Bruno Farias de Mello",
+            "address": "Rua Do Sapateiro 151, Fragoso, Mage, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9135,
+            "name": "Amazing Serpente Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Panama",
+            "countryAbbr": "PA",
+            "city": "Panama",
+            "responsible": "Cesar Ivan Perez Astudillo",
+            "address": "Galerias Obarrio, Panama, Panama",
+            "website": "https://serpentepanama.com"
+        },
+        {
+            "id": 10719,
+            "name": "Amazon BJJ / Sandro Silva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belem",
+            "responsible": "Sandro Carvalho da Silva",
+            "address": "Rua Belem 309, Cabanagem, Belem, Para, Brasil",
+            "website": "https://www.facebook.com/metodoamazonfit             http://amazoncrossemma.comunidades.net/"
+        },
+        {
+            "id": 9413,
+            "name": "Amazon School - Escola de Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Erick Guaraci Barbosa",
+            "address": "Avenida Engenheiro George Corbisier,927, São Paulo, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 7953,
+            "name": "Amazon Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Moju",
+            "responsible": "Eduardo da Silva Conceição",
+            "address": "Condomínio Otto Gomes, Quadra 9 / Casa 15, Moju, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 2687,
+            "name": "Amazonas Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Airton Pereira dos Santos",
+            "address": "Av. Rio Negro 338, Mauazinho, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 4890,
+            "name": "Amazonia Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Lattes",
+            "responsible": "Nicolas Anthony Mathurin Marcho",
+            "address": "909 Avenue des Platanes  , , Lattes, France",
+            "website": "www.amazoniajiujitsu.fr"
+        },
+        {
+            "id": 4607,
+            "name": "AMBJJ - Alex Martins Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dallas",
+            "responsible": "Alex Martins do Nascimento",
+            "address": "2318 Beatrice St, , Dallas, TX, United States of America",
+            "website": "ambjja.com"
+        },
+        {
+            "id": 5853,
+            "name": "AMC Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kirkland",
+            "responsible": "Bibiano Fernandes da Silva Neto",
+            "address": "427 Sixth Street South, Kirkland, WA, United States of America",
+            "website": "http://www.mmawizard.com/amc/"
+        },
+        {
+            "id": 8713,
+            "name": "American Absolute BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alpharetta",
+            "responsible": "Julio Cesar Vieira",
+            "address": "6321 Maid Marion Close, Alpharetta, Ga, United States of America",
+            "website": "absolutebjj.us"
+        },
+        {
+            "id": 8748,
+            "name": "American Combat Gym, Llc",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Deerfield Beach",
+            "responsible": null,
+            "address": "252 Sw 12th Ave, Deerfield Beach, Florida, United States of America",
+            "website": "americancombatgym.com"
+        },
+        {
+            "id": 3462,
+            "name": "American Elite MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Edmond",
+            "responsible": "Renato Sampaio Tavares Filho",
+            "address": "404 Wimbledon Rd  , , Edmond, OK, United States of America",
+            "website": "www.edmondbjj.com"
+        },
+        {
+            "id": 9454,
+            "name": "American Grappling Academy - Elk Grove",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Elk Grove",
+            "responsible": "Shawn Paul Hoehne",
+            "address": "9414 Elk Grove Florin Rd., Elk Grove, Ca, United States of America",
+            "website": "www.theamericangrapplingacademy.com"
+        },
+        {
+            "id": 3489,
+            "name": "American Jiu-Jitsu Syndicate",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Redding",
+            "responsible": "Tanner Wade Rice",
+            "address": "2445 Athens Ave, Redding, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 2801,
+            "name": "American Top Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Coconut Creek",
+            "responsible": "Marcos da Matta Meira",
+            "address": "5750 N. State Rd. 7, Coconut Creek, FL, United States of America",
+            "website": "www.americantopteam.com"
+        },
+        {
+            "id": 5283,
+            "name": "American Top Team - Reyzinho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra da Tijuca",
+            "responsible": "Reynaldo Walter Duarte",
+            "address": "Av. Olegario Maciel, 195 , 202, Barra da Tijuca, RJ, Brasil",
+            "website": null
+        }
+    ]
+}

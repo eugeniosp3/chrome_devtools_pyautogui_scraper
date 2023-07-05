@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 195,
+        "from": 3880,
+        "to": 3900,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6289,
+            "name": "ISJA",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aichi",
+            "responsible": "Atsushi Kudo",
+            "address": "Inuyamasi, Nakyammati 2-86, Aichi, Japan",
+            "website": "https://inuyamabjj.localinfo.jp"
+        },
+        {
+            "id": 10232,
+            "name": "Isla Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Federal Way",
+            "responsible": "Jeff Macatangay",
+            "address": "2016 S 320th St, Suite C, Federal Way, Wa, United States of America",
+            "website": "islajiujitsu.com"
+        },
+        {
+            "id": 3837,
+            "name": "Island Top Team",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Nanaimo",
+            "responsible": "Robert Piotr Biernacki",
+            "address": "2525 McCullough Rd Unit #7, Nanaimo, BC, Canada",
+            "website": "www.islandtopteam.com"
+        },
+        {
+            "id": 8812,
+            "name": "Ismael Pinho JJ | GF Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Ismael de Pinho Nogueira",
+            "address": "Avenida Guilherme De Almeida 250 S/l, Camelódromo Zona Sul, Londrina, Pr, Brasil",
+            "website": null
+        },
+        {
+            "id": 4393,
+            "name": "Isshin Jiu-jitsu Academy",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Yuji Goto",
+            "address": "Nishikamata 7-4-5 2F Ota-ku  , , Tokyo, Tokyo, Japan",
+            "website": "isshinjiujitsu.com"
+        },
+        {
+            "id": 5308,
+            "name": "Itaborai Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaborai",
+            "responsible": "Andre Luiz Marins de Souza",
+            "address": "Rua Mato Grosso - Lote 30 Quadra 03, CS02, Itaborai, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2653,
+            "name": "Itadaki Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": null,
+            "address": "Higashi Nippori Bld 1F 5-9-21 Higashi Nippori Arakawa-ku  , Tokyo, --, Japan",
+            "website": "http://itadakijiujitsu.blogspot.com"
+        },
+        {
+            "id": 8057,
+            "name": "Italian Fight Factory",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Turin",
+            "responsible": "Alberto Ceretto",
+            "address": "Strada Del Lauro 38/14, Turin, Italy, Italy",
+            "website": "www.bjjitaly.com"
+        },
+        {
+            "id": 10686,
+            "name": "Italian Iron Team",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Adro",
+            "responsible": "Nicola Ferrari",
+            "address": "Via Provinciale, 2, Adro, Brescia, Italy",
+            "website": "https://www.ironjiujitsu.it/"
+        },
+        {
+            "id": 7747,
+            "name": "ITJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Thiago Henrique Borges de Faria",
+            "address": "SHIS Qi 25 Chácara 12 , Brasília, Brasil",
+            "website": null
+        },
+        {
+            "id": 7778,
+            "name": "Iturralde Arte Suave",
+            "federationAbbr": "IBJJF",
+            "country": "Ecuador",
+            "countryAbbr": "EC",
+            "city": "Daule",
+            "responsible": "Leonardo I. Iturralde Aguirre",
+            "address": "La Rioja Etapa Asturias , Mz 16 V 4, Daule, Guayas, Ecuador",
+            "website": null
+        },
+        {
+            "id": 7056,
+            "name": "Iuri Team Porto Alegre",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Iuri Cilenti",
+            "address": "Rua Brasiliano Indio de Moraes n: 38 - 5 andar, Bairro: Iapi, Porto Alegre, RS, Brasil",
+            "website": "www.iuriteam.com.br"
+        },
+        {
+            "id": 10710,
+            "name": "Ivan Sakamoto BJJ Okinawa",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Okinawa City",
+            "responsible": "Ivan T S da Silva",
+            "address": "Okinawa State Okinawa City, Shimada Bdg 1f, Okinawa City, Okinawa State, Japan",
+            "website": "ASJJF"
+        },
+        {
+            "id": 10212,
+            "name": "Ivc - Instituto Vencedores Em Cristo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Gonçalo",
+            "responsible": "Fabrício Nascimento de Moraes",
+            "address": "Rua Simplicio Da Veiga 0 Lt 12 Qd 7, Pacheco, São Gonçalo, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 3490,
+            "name": "Ivey League Mixed Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Arnold",
+            "responsible": "Daniel Robert Ives",
+            "address": "1517 Ritchie Highway Suite 1-G  , , Arnold, MD, United States of America",
+            "website": "www.iveyleaguemma.com"
+        },
+        {
+            "id": 6256,
+            "name": "Ivo Neto Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Ivo Santos da Silva Neto",
+            "address": "Rua Leopoldo Neves s/n, Santa Luzia , Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 7254,
+            "name": "IVT Team BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Taguatinga Sul",
+            "responsible": "Fernando Gyovanne Ferreira de Morais",
+            "address": "Qsc 19 Ch 28b Casa 60 A, Casa 60a, Taguatinga Sul, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 3206,
+            "name": "Iwaki K-3",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Fukushima",
+            "responsible": "Yujiro Igari",
+            "address": "43 Miyasawa, Miyamachi, Uchigou, Iwaki city  , Fukushima, --, Japan",
+            "website": "http://lineblog.me/khizzo/"
+        },
+        {
+            "id": 9791,
+            "name": "Izaguirre Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Uruguaiana",
+            "responsible": "Carlos Eduardo Izaguirre da Silva",
+            "address": "Rua 13 De Maio, 4023 - Bairro Alexandre Záchia, Uruguaiana, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 9760,
+            "name": "Izaguirre Jiu-Jitsu Internacional",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Paso De Los Libres",
+            "responsible": "Carlos Eduardo Izaguirre da Silva",
+            "address": "Rua Adolfo Montaña,1050, Paso De Los Libres, Corrientes, Argentina",
+            "website": null
+        }
+    ]
+}

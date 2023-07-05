@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 248,
+        "from": 4940,
+        "to": 4960,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6828,
+            "name": "Nova União Pernambuco",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Gesse Francisco de Oliveira Filho",
+            "address": "Av. 17 de agosto n: 09/502, Bairro: Parnamirim, Recife, PE, Brasil",
+            "website": "www.novauniao.com"
+        },
+        {
+            "id": 8909,
+            "name": "Nova União Quesada",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Brunnen/ingenbohl",
+            "responsible": "Philipp Francisco Quesada Stauffer",
+            "address": "Alte Kantonsstrasse 3, Brunnen/ingenbohl, Schwyz, Switzerland",
+            "website": "www.novauniao.ch"
+        },
+        {
+            "id": 7405,
+            "name": "Nova União Rafael Carino",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Carlos Andre Pederneiras de Castro",
+            "address": "Rua das Laranjeiras n:82, Bairro: Laranjeiras, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9293,
+            "name": "Nova União Recife",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Bruno José Novais Veloso da Silveira",
+            "address": "Av. 17 De Agosto, 09 / Sl 502, Recife, Pernambuco, Brasil",
+            "website": "www.NovaUniaoPe.com"
+        },
+        {
+            "id": 6428,
+            "name": "Nova União Rio da Prata",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Jobel Teixeira dos Santos Neto",
+            "address": "Rua Vitória,  152, Bangu, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": "www.novauniao.com"
+        },
+        {
+            "id": 10571,
+            "name": "Nova União Santa Cruz",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "João Paulo da Conceição Santos",
+            "address": "Rua Sofia Barreto - Lote 16, Quadra 35 Santa Cruz, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5661,
+            "name": "Nova União Sul de Minas - Douglas Plata",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itajubá",
+            "responsible": "Douglas Iakimoff E. de Oliveira",
+            "address": "Rua Tenente José Cabral Renno, 165A, São Vicente, Itajubá, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 2117,
+            "name": "Nova União USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tempez",
+            "responsible": "Carlos Andre Pederneiras de Castro",
+            "address": "1848 E. University Dr. #108   , , Tempez, AZ, United States of America",
+            "website": ""
+        },
+        {
+            "id": 6035,
+            "name": "Nova União Vila da Penha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Carlos Vinicius Pereira dos Santos",
+            "address": "Rua Professor Paula Aquiles 90, Vila da Penha, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": "@morangonovauniao.viladapenha"
+        },
+        {
+            "id": 8869,
+            "name": "Nova Uniao Wendell Alexander",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos Dos Goytacaze",
+            "responsible": "Wendell Alexander C. Lago",
+            "address": "Av Alberto Torres 435 Altos Prq Leopoldina, Campos Dos Goytacaze, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5783,
+            "name": "Nova Vida Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ceilândia Sul",
+            "responsible": "Luciano Batista da Silva",
+            "address": "QNM 03 Conjunto B casa 03, Vila Leste, Ceilândia Sul, Brasília, Brasil",
+            "website": null
+        },
+        {
+            "id": 3749,
+            "name": "Novus Academy Metro",
+            "federationAbbr": "IBJJF",
+            "country": "Norway",
+            "countryAbbr": "NO",
+            "city": "Lørenskog",
+            "responsible": "Christopher James Hermanstad",
+            "address": "Boecks Gate 12, 3 Etg., Lørenskog, Viken, Norway",
+            "website": "www.novusacademy.no"
+        },
+        {
+            "id": 9393,
+            "name": "Now Or  Never",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Koutou Ku Kameido",
+            "responsible": "Takashi Sugimoto",
+            "address": "5-22-10, Koutou Ku Kameido, Tokyo To, Japan",
+            "website": "https://www.nowornever-bjj.com/"
+        },
+        {
+            "id": 3254,
+            "name": "NR Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nara",
+            "responsible": "Kouichi Uhara",
+            "address": "1-2-32 Shijouooji  , Nara, --, Japan",
+            "website": null
+        },
+        {
+            "id": 9672,
+            "name": "Nrfight",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Nicolas Jean Paul Renier",
+            "address": "185 Rue De Tolbiac, Paris, France",
+            "website": "www.nrfight.com"
+        },
+        {
+            "id": 9294,
+            "name": "NS Brotherhod DestakBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Davi Francisco de Lima",
+            "address": "Rua João Frederico Agrícola N 12, Rua Ushikichi Kamiya 1990, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4772,
+            "name": "Ns Brotherhood",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarulhos",
+            "responsible": "Augusto Ferrari Amaro de Andrade",
+            "address": "Av Dr Timóteo Penteado 560, Vila Progresso, Guarulhos, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8137,
+            "name": "Ns Brotherhood - Ct Brothers",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarulhos",
+            "responsible": "Emerson Gomes da Silva",
+            "address": "Rua Marilene Lima Pereira,  180 - Jardim Adriana, Guarulhos, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9662,
+            "name": "Ns Brotherhood - Ct Champions Team Ft",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Paracatu",
+            "responsible": "Fabio Faria de Oliveira",
+            "address": "Rua Das Palmeiras N51, Casa, Paracatu, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 5346,
+            "name": "NS Brotherhood International",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Bree",
+            "responsible": "Augusto Ferrari Amaro de Andrade",
+            "address": "Genastraat 17, Bree, Belgium",
+            "website": null
+        }
+    ]
+}

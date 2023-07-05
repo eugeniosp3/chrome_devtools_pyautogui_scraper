@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 86,
+        "from": 1700,
+        "to": 1720,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5022,
+            "name": "Conexão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jaguariúna",
+            "responsible": "Fernão José de Campos S. Zanon",
+            "address": "Rua Carlos Luporini 64 , Cruzeiro do Sul, Jaguariúna, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4443,
+            "name": "Connect BJJ Peru",
+            "federationAbbr": "IBJJF",
+            "country": "Peru",
+            "countryAbbr": "PE",
+            "city": "Lima",
+            "responsible": "Gustavo Ernesto C. Caceres",
+            "address": "Av. Benavides 250 Int 223 , , Lima, Lima, Peru",
+            "website": ""
+        },
+        {
+            "id": 4169,
+            "name": "Connect Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "South Gate",
+            "responsible": "Gustavo Ernesto C. Caceres",
+            "address": "13228 Paramount Blvd. , , South Gate, CA, United States of America",
+            "website": "www.connectbjj.com"
+        },
+        {
+            "id": 9149,
+            "name": "Connection Paulista BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Osmar Santos Rodrigues",
+            "address": "Avenida Itaberaba, 3793, São Paulo, São Paulo, Brasil",
+            "website": "São Paulo"
+        },
+        {
+            "id": 5769,
+            "name": "Connection Rio Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bend",
+            "responsible": "Dennis Albion Asche",
+            "address": "61470 SE Hwy. 97 Suite 3a, Bend, OR, United States of America",
+            "website": "www.connectionriobjj.com"
+        },
+        {
+            "id": 3532,
+            "name": "Connors MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Norwood",
+            "responsible": "John Joseph Connors",
+            "address": "180 Keny Place  , , Norwood, MA, United States of America",
+            "website": "www.connorsma.com"
+        },
+        {
+            "id": 7582,
+            "name": "Conriocht MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Athenry",
+            "responsible": "Timothy Fergal Noel Murphy",
+            "address": "Unit 10, Bridgewater Shopping Centre, Athenry, Ireland",
+            "website": null
+        },
+        {
+            "id": 7907,
+            "name": "Consagrados No Tatame BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Queimados ",
+            "responsible": "João Marcos Fernandes",
+            "address": "Rua Alencar Vinhas, Lote 27 Qd 07, Queimados , Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4139,
+            "name": "Constantino Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Adriano Pinto Constantino Junior",
+            "address": "Av Sargento Geraldo Santana 563, 1 Andar, Jardim Marajoara, São Paulo, Sp, Brasil",
+            "website": "www.espacodojo.com.br"
+        },
+        {
+            "id": 4533,
+            "name": "Constrictor Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Ataide Ludgero Junior",
+            "address": "Parque da Cidade, estacionamento `8`, Asa Sul, Brasilia, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 10047,
+            "name": "Contra Ataque BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Vitor Lucchesi",
+            "address": "Av. Hermelino Matarazzo 810, Sorocaba, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8220,
+            "name": "Control Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Moose Jaw",
+            "responsible": "Jason E. Church",
+            "address": "244a River Street West, Moose Jaw, Saskatchewan, Canada",
+            "website": null
+        },
+        {
+            "id": 8917,
+            "name": "Copa Gorilla BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Yongin-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "6f, 8, Pungdeokcheon-ro 139beon-gil, Suji-gu, Yongin-si, Gyeonggi-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 9129,
+            "name": "Copa Niles Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Niles",
+            "responsible": "Mark J. Daley",
+            "address": "111 E Main St, Niles, Michigan, United States of America",
+            "website": "www.copajiujitsu.com"
+        },
+        {
+            "id": 6339,
+            "name": "Copa TG BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Yongin-si",
+            "responsible": "Byeong-Gyu Choi",
+            "address": "3, Pungdeokcheon-ro 139 Beon-gil, Suji-gu, Yongin-si, --, Korea, South",
+            "website": "https://sujibjj.modoo.at/"
+        },
+        {
+            "id": 5206,
+            "name": "Coppa BJJ Association",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Clevedon",
+            "responsible": "Marcelo de Oliveira Copa",
+            "address": "1 Leagrove Road  , Highcliff Cottage, Clevedon, United Kingdom",
+            "website": ""
+        },
+        {
+            "id": 6050,
+            "name": "Coracao Valente Academy of Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Edinburgh",
+            "responsible": "David Juliano Lemes",
+            "address": "27 The Causeway, Edinburgh, --, United Kingdom",
+            "website": "www.cvajiujitsu.com"
+        },
+        {
+            "id": 8055,
+            "name": "Coral Springs Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Coral Springs",
+            "responsible": "Jason Joseph Baron",
+            "address": "9645 W Sample Rd, Coral Springs, Florida, United States of America",
+            "website": "Coral Springs Jiu-Jitsu"
+        },
+        {
+            "id": 10167,
+            "name": "Corassa Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Penapolis",
+            "responsible": "Diego Corassa Passarine",
+            "address": "Rua Jose De Castilho Lima, Penapolis, Sao Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6222,
+            "name": "CORE BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Sérgio Ignacio",
+            "address": "Av. Dom Helder Camara n: 2066, Cid. Pol. bloco 04 - Jacarezinho, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        }
+    ]
+}

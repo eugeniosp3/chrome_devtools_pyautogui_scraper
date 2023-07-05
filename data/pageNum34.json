@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 34,
+        "from": 660,
+        "to": 680,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4512,
+            "name": "Atos Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Mannheim",
+            "responsible": "Andre Luiz Leite Galvão",
+            "address": "Friesenheimer str. 23  , , Mannheim, --, Germany",
+            "website": "www.fight-fitness-fabrik.de"
+        },
+        {
+            "id": 8815,
+            "name": "Atos Honolulu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Honolulu",
+            "responsible": "Jason Christopher Vigil",
+            "address": "3120 Makini Street, Honolulu, Hi, United States of America",
+            "website": "Island Jiu Jitsu LLC"
+        },
+        {
+            "id": 8657,
+            "name": "Atos Houston",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "Jonatas Eliaquim da Silva",
+            "address": "5221 Center Street, Houston, Texas, United States of America",
+            "website": "www.horsnormeshouston.com"
+        },
+        {
+            "id": 7169,
+            "name": "Atos Itatiba",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itatiba",
+            "responsible": "Airton Alves de Andrade",
+            "address": "Rua Angela Fatori Del Forno N: 271, Jd. Del Forno, Itatiba, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4581,
+            "name": "Atos Jerusalem",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Jerusalem",
+            "responsible": "Fabio Jonas Schucman",
+            "address": "1 Rabbi Akiva  , , Jerusalem, Israel",
+            "website": ""
+        },
+        {
+            "id": 9248,
+            "name": "Atos Jiu Jitsu Bauru",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bauru",
+            "responsible": "Paulo César Ledesma",
+            "address": "Anehmbi 2-14, 2-14, Bauru, Sp, Brasil",
+            "website": "www.atosjiujitsubauru.com.br"
+        },
+        {
+            "id": 9306,
+            "name": "Atos Jiu Jitsu Pernambuco",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Floresta",
+            "responsible": "Henrique Marques Torres Novaes Goyanna",
+            "address": "Rua Cap. Euclídes De Souza Ferraz, 98, Centro, Diocesano Colégio E Curso, Floresta, Pernambuco, Brasil",
+            "website": "https://atosjiujitsuhq.com/"
+        },
+        {
+            "id": 2262,
+            "name": "Atos Jiu Jitsu USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Andre Luiz Leite Galvão",
+            "address": "4425 Convoy st.  216 , , San Diego, CA, United States of America",
+            "website": "www.galvaojiujitsu.com"
+        },
+        {
+            "id": 2148,
+            "name": "Atos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Claro",
+            "responsible": "Luiz Carlos Dagmar",
+            "address": "Rua 6 2004 , Centro, Rio Claro, SP, Brasil",
+            "website": "www.atosbjj.com.br"
+        },
+        {
+            "id": 10072,
+            "name": "Atos Jiu-Jitsu Barcelona",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Barcelona",
+            "responsible": "Luis Gustavo Leite Galvão",
+            "address": "Calle Enteça 63 Baixos, Barcelona, Spain",
+            "website": null
+        },
+        {
+            "id": 9182,
+            "name": "Atos Jiu-Jitsu Guam",
+            "federationAbbr": "IBJJF",
+            "country": "Guam",
+            "countryAbbr": "GU",
+            "city": "Tumon",
+            "responsible": "Michael-Justin Carbullido",
+            "address": "941 Pale San Vitores Rd, Tumon, Guam, Guam",
+            "website": "Www.atosjiujitsuguam.com"
+        },
+        {
+            "id": 10195,
+            "name": "Atos Jiu-Jitsu Lisboa",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Lisboa",
+            "responsible": "Jorge Luiz dos Santos de Almeida",
+            "address": "Rua Alberto Barbosa, 3, Ameixoeira, Lisboa, Lisboa, Portugal",
+            "website": null
+        },
+        {
+            "id": 9288,
+            "name": "Atos Jiu-Jitsu Michigan - Ronaldo Candido Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Novi",
+            "responsible": "Ronaldo Cândido Oliveira",
+            "address": "22002 Novi Rd, Novi, Michigan, United States of America",
+            "website": "www.rcabjj.com"
+        },
+        {
+            "id": 10708,
+            "name": "Atos Jiu-Jitsu Philippines",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Mandaluyong City",
+            "responsible": "Carlo Angelo Peña",
+            "address": "2nd Floor, Gatorade Hoops Center, Mandala Park, 312 Shaw Blvd, Liberty Center, Pleasant Hills, Mandaluyong City, Ncr, Philippines",
+            "website": "www.atosjiujitsu.ph"
+        },
+        {
+            "id": 8154,
+            "name": "Atos Jiu-Jitsu Rio",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Davi Ramos Pinheiro da Silva",
+            "address": "Estrada Do Pontal 6833, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 7436,
+            "name": "Atos Jiu-Jitsu San Antonio - Verus BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alamo Heights",
+            "responsible": "Nuno Manuel N. F. Martins",
+            "address": "6403 Broadway Street, Alamo Heights, TX, United States of America",
+            "website": "AtosJJSA.com"
+        },
+        {
+            "id": 9420,
+            "name": "Atos Jiu-Jitsu São Paulo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Caetano Do Sul",
+            "responsible": "Douglas Toyoshi Ono",
+            "address": "Rua Maranhão, 366, São Caetano Do Sul, Sp, Brasil",
+            "website": "https://www.academiaono.com.br"
+        },
+        {
+            "id": 10093,
+            "name": "Atos Jiu-Jitsu Uberlândia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Uberlândia",
+            "responsible": "Rodrigo Guimarães Oliveira",
+            "address": "Av. Araguari N.1900 (academia Baluxfit), Uberlândia, Minas Gerais, Brasil",
+            "website": "https://atosjiujitsuhq.com/affiliate/uberlandia/"
+        },
+        {
+            "id": 9404,
+            "name": "Atos Jiu-Jitsu Zürich",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Zurich",
+            "responsible": "Jonatas Eliaquim da Silva",
+            "address": "Josef Strasse 53, Zurich, Zurich, Switzerland",
+            "website": "www.atosjiujitsuzurich.ch"
+        },
+        {
+            "id": 2265,
+            "name": "Atos JJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "International",
+            "responsible": null,
+            "address": "  , , International, IB, Philippines",
+            "website": ""
+        }
+    ]
+}

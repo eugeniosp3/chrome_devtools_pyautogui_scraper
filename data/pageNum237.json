@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 237,
+        "from": 4720,
+        "to": 4740,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7910,
+            "name": "Moscow Titan Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Moscow",
+            "responsible": "Ivan Chumakov",
+            "address": "Osennaya Street 23, Moscow, Moscow, Russia",
+            "website": "www.titanbjj.ru"
+        },
+        {
+            "id": 4006,
+            "name": "Mota Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "chicago",
+            "responsible": "Rodrigo Leite de Medeiros",
+            "address": "2929 S. Archer   , , chicago, IL, United States of America",
+            "website": ""
+        },
+        {
+            "id": 733,
+            "name": "Motta Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barretos",
+            "responsible": "Huelder Benedito Motta",
+            "address": "Rua 38, 774, Entre Avenidas 29x31, Barretos, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 9459,
+            "name": "Moul Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ribeirão Preto",
+            "responsible": "Vanderlei Lombardi Junior",
+            "address": "Rua Hilário Azollini, 368, Ribeirão Preto, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6385,
+            "name": "Mount Dora BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Eustis",
+            "responsible": "David Alverto Iturrino",
+            "address": "2750 Dillard Rd #1, Eustis, FL, United States of America",
+            "website": "www.mountdorabjjacademy.com"
+        },
+        {
+            "id": 10566,
+            "name": "Mount Zion Bjj",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Luciano Mattos da Silva",
+            "address": "Rua Líbero Giancarlo Castiglial, 33, Conjunto Urucânia, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8580,
+            "name": "Mountain Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Whistler",
+            "responsible": "Marco Tulio Santos Vieira",
+            "address": "1420 Alpha Lake Rd 212, Whistler, British Columbia, Canada",
+            "website": "mntjj.ca"
+        },
+        {
+            "id": 8117,
+            "name": "Mountain Tribe Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Prescott",
+            "responsible": "Robert M. Johnson",
+            "address": "218 N Granite St, Mountain Tribe Brazilian Jiu Jitsu, Prescott, Arizona, United States of America",
+            "website": "www.bjjprescott.cpm"
+        },
+        {
+            "id": 6238,
+            "name": "Moura Jiu-Jitsu Clube",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "José Jairo Moura",
+            "address": "Rua Laranjeiras n: 1348, Getúlio Vargas, Aracaju, Sergipe, Brasil",
+            "website": null
+        },
+        {
+            "id": 8465,
+            "name": "Moutinho Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "João Bosco Cantuaria Moutinho Junior",
+            "address": "Rua Do Mundurucus, N1265 / Altos, Entre, Avenida Roberto Camelier E Travessa Tupinambás / Bairro: Batista Campos, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8891,
+            "name": "Movement Art",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Richboro",
+            "responsible": "Daniel Maira",
+            "address": "879 Bustleton Pike, Richboro, Pa, United States of America",
+            "website": "Movementart.online"
+        },
+        {
+            "id": 2956,
+            "name": "Movimento",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chicago",
+            "responsible": "Israel Reyes",
+            "address": "2139 W. Damen Ave., Chicago, IL, United States of America",
+            "website": "www.movimentobjj.com"
+        },
+        {
+            "id": 8811,
+            "name": "MP Team Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Marcelo da Silva Portela",
+            "address": "Estrada De Campinas, Numero 403, 3º Andar, São Caetano, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 5870,
+            "name": "MPJJ Marcos Patricio Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Marcos José Sena Patrício",
+            "address": "Rua José Furtuoso n: 112, Nova Esperança, Manaus, Manaus, Brasil",
+            "website": "www.mpjj.com.br"
+        },
+        {
+            "id": 5498,
+            "name": "MPR Endurance",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Langhorne",
+            "responsible": "Erik J Purcell",
+            "address": "864 Town Center Dr., Langhorne, PA, United States of America",
+            "website": "mprendurance.com"
+        },
+        {
+            "id": 6810,
+            "name": "MR JJ Marcel Ribeiro JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Vicente",
+            "responsible": "Marcel Ferreira Ribeiro",
+            "address": "Rua Gonçalo Monteiro n: 146/FDS, Bairro: Boa Vista, São Vicente, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9054,
+            "name": "MRK",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Daniel Marcos Alves de Andrade",
+            "address": "15150 Blanco Rd, San Antonio, Texas, United States of America",
+            "website": null
+        },
+        {
+            "id": 8221,
+            "name": "MR-Scorpion BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Petah Tikva",
+            "responsible": "Mashiah Robinov",
+            "address": "Hasitvanit 2, Petah Tikva, Israel, Israel",
+            "website": null
+        },
+        {
+            "id": 8577,
+            "name": "MS BJJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Castanhal",
+            "responsible": "Hadhamés Fernandes da Silva",
+            "address": "Rua Monsenhor José Maria Do Lago, 1089, Cristo Redentor, Castanhal, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8598,
+            "name": "MTA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Jose",
+            "responsible": "William Max Evon",
+            "address": "375-b Saratoga Avenue, Suite B, San Jose, Ca, United States of America",
+            "website": null
+        }
+    ]
+}

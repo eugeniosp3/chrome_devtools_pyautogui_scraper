@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 322,
+        "from": 6420,
+        "to": 6440,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2319,
+            "name": "Team Perosh Mixed Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Five Dock",
+            "responsible": "Anthony Jason Perosh",
+            "address": "Ground Floor, 97 Queens Rd, Five Dock, NSW, Australia",
+            "website": "teamperoshmma.com.au"
+        },
+        {
+            "id": 3992,
+            "name": "Team Perrault",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Caluire et Cuire",
+            "responsible": "Alain Perrault",
+            "address": "52 Quai Georges Clemenceau  , , Caluire et Cuire, --, France",
+            "website": ""
+        },
+        {
+            "id": 4631,
+            "name": "Team Pitbull Israel",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Tel Aviv",
+            "responsible": "Adilson Jorge de Lima",
+            "address": "King George 84 apt 1  , , Tel Aviv, Israel",
+            "website": ""
+        },
+        {
+            "id": 9364,
+            "name": "Team Prazeres",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Anderson Marques Prazeres",
+            "address": "Rua: Sidney Nocetti, 111, Florianópolis, Santa Catarina, Brasil",
+            "website": "www.teamprazeres.com.br"
+        },
+        {
+            "id": 5120,
+            "name": "Team Predador Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Saint'Clair Cabral Soares",
+            "address": "Estrada Roberto Burle Marx 136 Casa, Ìlha de Guaratiba, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6393,
+            "name": "Team Predador JIu-Jitsu Colombia",
+            "federationAbbr": "IBJJF",
+            "country": "Colombia",
+            "countryAbbr": "CO",
+            "city": "Cali",
+            "responsible": "Fabrício Marllos S. da Silva",
+            "address": "Av. Vazquez Cobo ZBN #28N-71-Piso 2, Cali, --, Colombia",
+            "website": "www,TeamPredador.com.ec"
+        },
+        {
+            "id": 2686,
+            "name": "Team Predador Jiu-Jitsu Ecuador",
+            "federationAbbr": "IBJJF",
+            "country": "Ecuador",
+            "countryAbbr": "EC",
+            "city": "Quayaquil",
+            "responsible": "Fabrício Marllos S. da Silva",
+            "address": "Urbanizacion Tornero 3 km 2.1/2 Samborondon, Quayaquil, Quaya, Ecuador",
+            "website": "www.teamPredador.com.ec"
+        },
+        {
+            "id": 4154,
+            "name": "Team Rabadi Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Round Rock",
+            "responsible": "Robby Farah Rabadi",
+            "address": "1004 Jack Bradley Cv, Round Rock, TX, United States of America",
+            "website": "www.rrbjj.com"
+        },
+        {
+            "id": 3714,
+            "name": "Team Rafael Jovet - RJBJJA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Spring Lake",
+            "responsible": "Rafael Jovet-Ramos",
+            "address": "1113 N. Bragg Blvd.  , Spring Lake, NC, United States of America",
+            "website": " https://www.rafaelbjjacademy.com/"
+        },
+        {
+            "id": 5933,
+            "name": "Team Randori Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Annapolis",
+            "responsible": "Alfred Hogan",
+            "address": "1989 West Street, Annapolis, MD, United States of America",
+            "website": "TeamRandori.com"
+        },
+        {
+            "id": 3518,
+            "name": "Team Redzovic",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chicago",
+            "responsible": "Meho Eddie Redzovic",
+            "address": "4900 N Lincoln Ave  , , Chicago, IL, United States of America",
+            "website": "www.chicagojiujitsu.com/"
+        },
+        {
+            "id": 9079,
+            "name": "Team Redzovic Bosnia \u0026 Herzegovina Europe",
+            "federationAbbr": "IBJJF",
+            "country": "Bosnia and Herzegovina",
+            "countryAbbr": "BA",
+            "city": "Chicago",
+            "responsible": "Meho Eddie Redzovic",
+            "address": "4908 N Lincoln, Lincoln, Lincoln, Chicago, Il, Bosnia and Herzegovina",
+            "website": null
+        },
+        {
+            "id": 8555,
+            "name": "Team Reginaldo Carneiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Reginaldo Aguiar Carneiro",
+            "address": "Marques De Oliveira, Bloco 5,6°andar, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "@Reginaldo Carneiro"
+        },
+        {
+            "id": 7338,
+            "name": "Team Remedy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Milton",
+            "responsible": "Bernard Comelinch Alidor III",
+            "address": "4241 Avalon Blvd. , Milton, FL, United States of America",
+            "website": "www.miltonflbjj.com"
+        },
+        {
+            "id": 3942,
+            "name": "Team RG",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palmas",
+            "responsible": "Jefferson Costa Pinto",
+            "address": "Quadra 305 Norte Avenida Lo 08 Lote 325, Plano Diretor Norte - Academia Rg Fitness, Palmas, TO, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7106,
+            "name": "Team Rhodes BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manhaçu",
+            "responsible": "Antonio Carlos Rhodes de Souza",
+            "address": "Rua Júlio Bueno n: 283, Sobreloja - Bairro Santo Antonio, Manhaçu, Minas Gerais, Brasil",
+            "website": "teamrhodesjiujitsubrasileiro"
+        },
+        {
+            "id": 5017,
+            "name": "Team Richard Norton BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "South Melborne",
+            "responsible": "Richard J. Norton",
+            "address": "103 Cobden Street  , South Melborne, VIC, Australia",
+            "website": "www.richardnortonbjj.net"
+        },
+        {
+            "id": 4614,
+            "name": "Team Rivas Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Montgomery",
+            "responsible": "Daniel F. Rivas",
+            "address": "18417 HWY 105 W. #8, Montgomery, TX, United States of America",
+            "website": "www.teamrivas.com"
+        },
+        {
+            "id": 4058,
+            "name": "Team Robson Moura",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tampa",
+            "responsible": "Robson Moura Fonseca",
+            "address": "11220 Hillsborough ave  , , Tampa, FL, United States of America",
+            "website": "www.robsonmoura.com"
+        },
+        {
+            "id": 5010,
+            "name": "Team Rodrigo Silva BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaguaí ",
+            "responsible": "Rodrigo Silva Barbosa",
+            "address": "Rua Carmen De Oliveira Reis, 222, Vila Margarida, Itaguaí , RJ, Brasil",
+            "website": null
+        }
+    ]
+}

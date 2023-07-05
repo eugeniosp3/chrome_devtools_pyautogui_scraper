@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 285,
+        "from": 5680,
+        "to": 5700,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9589,
+            "name": "Roger Gracie Moorgate",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Antonio Henriques Junior",
+            "address": "35 Chiswell Street, Entrance By Lamb's Road, London, City Of London, United Kingdom",
+            "website": "www.rogergraciemoorgate.com"
+        },
+        {
+            "id": 6120,
+            "name": "Roger Gracie Oslo",
+            "federationAbbr": "IBJJF",
+            "country": "Norway",
+            "countryAbbr": "NO",
+            "city": "Oslo",
+            "responsible": "Paulo Roberto dos Santos Peixoto",
+            "address": "Innspurten 16 Valhall Arena, Oslo, --, Norway",
+            "website": "www.FMT.no"
+        },
+        {
+            "id": 8750,
+            "name": "Roger Gracie Sevilla",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Sevilla",
+            "responsible": "Angel Revuelta Cabrera",
+            "address": "Calle Lope De Vega 6, Sevilla, Sevilla, Spain",
+            "website": "www.rogergraciesevilla.com"
+        },
+        {
+            "id": 9897,
+            "name": "Roger Gracie West Bristol",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Bristol",
+            "responsible": "Luke Chamberlain",
+            "address": "The Youth Centre, Greystoke Avenue, Bristol, United Kingdom",
+            "website": "www.rogergraciewestbristol.com"
+        },
+        {
+            "id": 10630,
+            "name": "Rogério Borges  Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Dourados",
+            "responsible": "Rogerio da Silva Borges",
+            "address": "Rua Ediberto Celestino De Oliveira, 1850 B, Dourados, Mato Grosso Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 8570,
+            "name": "Rogério Bracalentti JiuJitsu Rilion Gracie Vinhedo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vinhedo",
+            "responsible": "Rogerio Bracalentti",
+            "address": "Rua Dos Bandeirantes 25, Vinhedo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6364,
+            "name": "Rogerio Marshal Brazilian Jiu-Jitsu Espanha",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Zaragaza",
+            "responsible": "Rogério Marshal Conceição Oliveira",
+            "address": "Camino de Asiron 43. Garrapinillos, Zaragaza, --, Spain",
+            "website": null
+        },
+        {
+            "id": 6091,
+            "name": "Rogério Marshal Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ilheús",
+            "responsible": "Rogério Marshal Conceição Oliveira",
+            "address": "Rua Bela Vista n: 310, Nelson Costa, Ilheús, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 856,
+            "name": "Rogério Olegário",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": null,
+            "responsible": null,
+            "address": "Brasil",
+            "website": null
+        },
+        {
+            "id": 9577,
+            "name": "Rogue Wave Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Yuma",
+            "responsible": "Daniel Viriato da Silva",
+            "address": "280 West 32nd Street, Yuma, Az, United States of America",
+            "website": null
+        },
+        {
+            "id": 858,
+            "name": "Roleta Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Roberto A. de O. Magalhães Junior",
+            "address": "Av. Sernambetiba  3600 Bl 05, Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": "www.roletabjj.com"
+        },
+        {
+            "id": 4857,
+            "name": "Roll Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "North Vancouver",
+            "responsible": "Cleves Filip Goiano de Matos",
+            "address": "286 Pembenton Ave, , North Vancouver, Canada",
+            "website": "rjja.ca"
+        },
+        {
+            "id": 6254,
+            "name": "Rolles Gracie Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Old Bridge",
+            "responsible": "Rolles Gracie",
+            "address": "2333 County Road 516, Old Bridge, NJ, United States of America",
+            "website": "rollesgracieacademy.com"
+        },
+        {
+            "id": 5454,
+            "name": "Rolling JJ",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Forli",
+            "responsible": "Angelo Marino",
+            "address": "Viale Della Libertà N. 46, Forli, IT, Italy",
+            "website": "www.rollingjj.it"
+        },
+        {
+            "id": 7241,
+            "name": "Rolling JJ Roma",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Roma",
+            "responsible": "Gianfranco Delli Paoli",
+            "address": "Via Valmontone 16, Roma, --, Italy",
+            "website": "https://haka-sport-italy.business.site/"
+        },
+        {
+            "id": 9184,
+            "name": "Rollstar Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Windsor Mill",
+            "responsible": "Hernan Guadalupe",
+            "address": "1728 N. Rolling Rd, Windsor Mill, Md, United States of America",
+            "website": "www.rollstarbjj.com"
+        },
+        {
+            "id": 6572,
+            "name": "Roma Jiu-Jitsu Academy / Atos Hilo",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hilo",
+            "responsible": "Kawika Wayne Yoneda",
+            "address": "224 Kamehameha Ave, Ste 202, Hilo, HI, United States of America",
+            "website": "romajiujitsuacademy.com"
+        },
+        {
+            "id": 10196,
+            "name": "Romana Fight Team",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Almada",
+            "responsible": "Pedro David Mendes Romana",
+            "address": "Rua Manuel José Gomes Nº81, Almada, Portugal",
+            "website": null
+        },
+        {
+            "id": 7658,
+            "name": "Romero Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Andre Gomes Costa",
+            "address": "Segunda Travessa Esperança da Massaranduba, N 69, 2º Andar, Salvador, Bahia, Brasil",
+            "website": "@romerojiujitsu"
+        },
+        {
+            "id": 861,
+            "name": "Romeu Bertho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Carlos",
+            "responsible": "Romeu Bertho",
+            "address": "Rua D. Pedro II, 2451, Centro, São Carlos, SP, Brasil",
+            "website": null
+        }
+    ]
+}

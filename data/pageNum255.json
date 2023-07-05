@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 255,
+        "from": 5080,
+        "to": 5100,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9952,
+            "name": "Outlaw Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Francisco",
+            "responsible": "Ronal S H Mendez",
+            "address": "1029 Geneva Ave, San Francisco, California, United States of America",
+            "website": "California"
+        },
+        {
+            "id": 10428,
+            "name": "Outliers Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santee",
+            "responsible": "Jeremy Michael Barden",
+            "address": "10251 Mast Blvd., Santee, California, United States of America",
+            "website": null
+        },
+        {
+            "id": 9730,
+            "name": "Outpost",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New York",
+            "responsible": "Pablo El Carela",
+            "address": "405 East 105th Street, Apt. #4-c, New York, Ny, United States of America",
+            "website": "outpostjiujitsu.com"
+        },
+        {
+            "id": 10059,
+            "name": "Outvision BJJ Argentina",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Rosario",
+            "responsible": "Jander Pereira Gomes",
+            "address": "Carriego 1415, Rosario, Santa Fé, Argentina",
+            "website": null
+        },
+        {
+            "id": 10060,
+            "name": "Outvision BJJ Iran",
+            "federationAbbr": "IBJJF",
+            "country": "Iran, Islamic Republic of",
+            "countryAbbr": "IR",
+            "city": "Sanandaj",
+            "responsible": "Jander Pereira Gomes",
+            "address": "32 Hedayat Ave, Hasan Abad Street, Sanandaj, Kurdestan, Iran, Islamic Republic of",
+            "website": null
+        },
+        {
+            "id": 4771,
+            "name": "Outvision Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santo Antônio de Pádua",
+            "responsible": "Jander Pereira Gomes",
+            "address": "Rua Hamilton Abreu Leite 46 Loja, Alequecis, Santo Antônio de Pádua, RJ, Brasil",
+            "website": "Facebook: Jander Team"
+        },
+        {
+            "id": 2585,
+            "name": "Over Limit BJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Konosu Shi",
+            "responsible": "Edison Kagohara",
+            "address": "Miyamae 397-4, , Konosu Shi, Saitama Ken, Japan",
+            "website": "www.over-limit.com"
+        },
+        {
+            "id": 5998,
+            "name": "Over Limit BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Cebu",
+            "responsible": "Edison Kagohara",
+            "address": "Astron Gestus BLDG 3F, 25 Gorordo ave, Cebu, --, Philippines",
+            "website": null
+        },
+        {
+            "id": 7643,
+            "name": "Over Limit BJJ Korea",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "daejeon",
+            "responsible": "Sungmin Cho",
+            "address": "seogu baejaero 180  3floor bajaejiujitsuclub35329, daejeon, daejeon, Korea, South",
+            "website": null
+        },
+        {
+            "id": 9392,
+            "name": "Over Limit Chiba Sakura Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Chiba-city",
+            "responsible": "Akihito Igusa",
+            "address": "Tarumi Bldg. 3f, Chuo-ku 1-24-2, Chiba-city, Chiba-ken, Japan",
+            "website": "https://sakura-jiu-jitsu.com/"
+        },
+        {
+            "id": 7161,
+            "name": "Overmatch BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cachoeirinha",
+            "responsible": "Jefferson dos Anjos da Rosa",
+            "address": "Av. Teoronio Vilela n: 2145, Granja Esperança, Cachoeirinha, RS, Brasil",
+            "website": "@overmatchbjj"
+        },
+        {
+            "id": 8903,
+            "name": "Oxford Jiu-Jitsu Republic",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Oxford",
+            "responsible": "Lee Renaut",
+            "address": "Saint Ebbe's Church Of England Primary School, Whitehouse Rd, Oxford, United Kingdom",
+            "website": "oxfordbjj.com"
+        },
+        {
+            "id": 2430,
+            "name": "OXY",
+            "federationAbbr": "IBJJF",
+            "country": "Norway",
+            "countryAbbr": "NO",
+            "city": "Sandnes",
+            "responsible": "Felipe Mota Dias",
+            "address": "Langgata 91, Sandnes, RG, Norway",
+            "website": "www.oxygym.no"
+        },
+        {
+            "id": 8475,
+            "name": "Ozawa Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasil Novo",
+            "responsible": "Lenno Carneiro Ozawa",
+            "address": "Rua Rio Branco 972, Brasil Novo, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8157,
+            "name": "Ozone Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Florence",
+            "responsible": "Clifford Elwood White",
+            "address": "3426 W. Palmetto St, Florence, SC, United States of America",
+            "website": null
+        },
+        {
+            "id": 10375,
+            "name": "P.J.J",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Guilherme do Nascimento Leandro",
+            "address": "Avenida Raimundo Pereira De Magalhães, 3622, Pirituba, São Paulo, Sp, Brasil",
+            "website": "-"
+        },
+        {
+            "id": 8676,
+            "name": "P11 Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Joinville",
+            "responsible": "Henrique Marcos",
+            "address": "Antônio Ramos Alvin 1044, Joinville, Santa Catarina, Brasil",
+            "website": "Joinville"
+        },
+        {
+            "id": 6745,
+            "name": "Pablo Forlan Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Patos",
+            "responsible": "Pablo Forlan Claudino Amorim",
+            "address": "Rua Pedro Peixoto n: 334 Térreo, Jardim Queiroz, Patos, PB, Brasil",
+            "website": null
+        },
+        {
+            "id": 2290,
+            "name": "Pablo Popovitch BJJ Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "ss",
+            "responsible": "Pablo Popovitch",
+            "address": "  , , ss, ss, United States of America",
+            "website": ""
+        },
+        {
+            "id": 4492,
+            "name": "Pablo Silva BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bellaire",
+            "responsible": "Pablo da Silva Santos",
+            "address": "5233 Bellaire Blvd, Bellaire, TX, United States of America",
+            "website": "pablosilvabjj.com"
+        }
+    ]
+}

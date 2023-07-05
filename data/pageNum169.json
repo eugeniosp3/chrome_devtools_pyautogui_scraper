@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 169,
+        "from": 3360,
+        "to": 3380,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9880,
+            "name": "Gracie Barra Sandy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sandy",
+            "responsible": "Duayne Vincent Bowers Jr",
+            "address": "8912 South 700 East, Sandy, Utah, United States of America",
+            "website": "gbsandy.com"
+        },
+        {
+            "id": 2208,
+            "name": "Gracie Barra Santa Ana",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Ana",
+            "responsible": null,
+            "address": "1717 Old Tustin Ave  , , Santa Ana, CA, United States of America",
+            "website": "www.gbsantaana.com"
+        },
+        {
+            "id": 2141,
+            "name": "Gracie Barra Santa Barbara",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Barbara",
+            "responsible": "Rodrigo Clark",
+            "address": "121 E. Mason St.  , , Santa Barbara, CA, United States of America",
+            "website": "www.gbsantabarbara.com"
+        },
+        {
+            "id": 6207,
+            "name": "Gracie Barra Santa Cruz RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Fábio Braga da Silva",
+            "address": "Rua Lopes de Moura n: 90, Em frente ao Centro Ortopédico, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 3670,
+            "name": "Gracie Barra Santa Fe",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Fe",
+            "responsible": "Thomas C Pless",
+            "address": "1121 Calle La Resolana  , , Santa Fe, NM, United States of America",
+            "website": "gbsantafebjj.com"
+        },
+        {
+            "id": 6383,
+            "name": "Gracie Barra Santa Fe - Argentina\t",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Santa Fe",
+            "responsible": "Andres Esteban Legallais",
+            "address": "Domingo Sila 3055, Santa Fe, STA FE, Argentina",
+            "website": null
+        },
+        {
+            "id": 7170,
+            "name": "Gracie Barra Santa Regina - Camboriú",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Camboriú",
+            "responsible": "Pablo Henrique Battu de Oliveira",
+            "address": "Rua Roma N 253 Sala 101, Bairro Santa Regina, Camboriú, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 5676,
+            "name": "Gracie Barra Santa Rosa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Seidler Rodrigo S. Ziser",
+            "address": "Rua Noronha Torrezão, 145, Santa Rosa, Niterói, RJ, Brasil",
+            "website": "Facebook.com/Graciebarrasantarosa"
+        },
+        {
+            "id": 9317,
+            "name": "Gracie Barra Santa Rosa, California, USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Rosa",
+            "responsible": "Natalie Anne Van Hamersveld",
+            "address": "3501 Industrial Drive, Suit D, Santa Rosa, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 9044,
+            "name": "Gracie Barra Santo Amaro Da Imperatriz",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santo Amaro Da Imperatriz",
+            "responsible": "José Edinir de Oliveira",
+            "address": "Rua: Natividade, 3117, Mezanino - Supermercado Santo Amaro, Santo Amaro Da Imperatriz, Santa Catarina, Brasil",
+            "website": "gbarrasc@gmail.com"
+        },
+        {
+            "id": 4069,
+            "name": "Gracie Barra Santos",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santos",
+            "responsible": "Alexandre Ranieri do Carmo",
+            "address": "Rua Carvalho de Mendonça 379 Altos, Vila Belmiro, Santos, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 6446,
+            "name": "Gracie Barra São Fidelis",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Fidelis",
+            "responsible": "Roberta Menezes Ribeiro",
+            "address": "Rua Antonio de Oliveira Guimarães n: 70,  Barão de Macaúbas , São Fidelis, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10248,
+            "name": "Gracie Barra São Francisco De Assis - Camboriú",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Camboriú",
+            "responsible": "Pablo Henrique Battu de Oliveira",
+            "address": "Rua Santo Antonio N 37, Camboriú, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 4558,
+            "name": "Gracie Barra São Gabriel BH",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Hugo Leonardo Alves Martins",
+            "address": "Rua Anaporuz, 16 Sobre Loja, São Gabriel, Belo Horizonte, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6131,
+            "name": "Gracie Barra São João Del Rei",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João Del Rei",
+            "responsible": "Ronaldo de Souza",
+            "address": "Av. Oito de Dezembro n: 10, Centro, São João Del Rei, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 6406,
+            "name": "Gracie Barra São José SC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José",
+            "responsible": "André Rachadel",
+            "address": "Rua Gerôncio Thives n: 1079, Bairro: Campinas, São José, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 2681,
+            "name": "Gracie Barra Saudi Arabia",
+            "federationAbbr": "IBJJF",
+            "country": "Saudi Arabia",
+            "countryAbbr": "SA",
+            "city": "Dhahran",
+            "responsible": null,
+            "address": "Saudi Arabia - Easternprovence - Dhahran 31311  Box - 7119, , Dhahran, SA, Saudi Arabia",
+            "website": ""
+        },
+        {
+            "id": 10259,
+            "name": "Gracie Barra Savassi",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Hélio Costa Pôncio",
+            "address": "Rua Levindo Lopes, 373 Savassi, Belo Horizonte, Minas Gerais, Brasil",
+            "website": "https://www.instagram.com/graciebarrasavassi/"
+        },
+        {
+            "id": 3504,
+            "name": "Gracie Barra Seattle",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Seattle",
+            "responsible": "Rodrigo Grespan Lopes",
+            "address": "270 S. Hanford Street #201  , , Seattle, WA, United States of America",
+            "website": "www.gbseattle.com"
+        },
+        {
+            "id": 4455,
+            "name": "Gracie Barra Setor Sul - Goiânia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gôiania",
+            "responsible": "Miogre Tavares Coronheiro",
+            "address": "Av. 86 n: 605, Setor Sul, Gôiania, GO, Brasil",
+            "website": null
+        }
+    ]
+}

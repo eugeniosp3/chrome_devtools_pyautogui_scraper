@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 344,
+        "from": 6860,
+        "to": 6880,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9867,
+            "name": "Veneration BJJ Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Garmishc-partenkirchen",
+            "responsible": "David Scott Rosenmarkle",
+            "address": "Alderstrasse 9, Garmishc-partenkirchen, Bavaria, Germany",
+            "website": null
+        },
+        {
+            "id": 9235,
+            "name": "Veneration BJJ Jonesboro",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jonesboro",
+            "responsible": "Jason Lee McClellan",
+            "address": "2704 Alexander Drive Suite F, Jonesboro, Ar, United States of America",
+            "website": "jonesborojiujitsu.com"
+        },
+        {
+            "id": 9320,
+            "name": "Veneration Brazilian Jiu-Jitsu Kenosha",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kenosha",
+            "responsible": "Jameel B. Massouh",
+            "address": "11300 75th Street  #103,, Kenosha, Wi, United States of America",
+            "website": null
+        },
+        {
+            "id": 5723,
+            "name": "Vento Sul Saquarema Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Luiz Fernando Fagundes Silveira",
+            "address": "Rua dos Sambaquis número: 509, Itauna - Saquarema, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5527,
+            "name": "Veríssimo BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Abaetetuba",
+            "responsible": "Thiago Bezerra Gois Verissimo",
+            "address": "Rua Emercindo Maues 110, Bairro Mutirão : Em Frete Ao Mendes Artigos Militares, Abaetetuba, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 8700,
+            "name": "Veritas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brea",
+            "responsible": "Bryan Fabros Clavecilla",
+            "address": "2375 East Imperial Hwy #1021, Brea, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 7589,
+            "name": "Verum Jamanta Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José Dos Pinhais",
+            "responsible": "Jaquesson Luis de Oliveira",
+            "address": "Avenida Das Américas, 1897, São José Dos Pinhais, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 9351,
+            "name": "Vespinha Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Videira",
+            "responsible": "Carlos Yago Machado ",
+            "address": "Rua Iomerê, 702, Videira, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 9691,
+            "name": "VF Company jiu jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sp",
+            "responsible": "Marcelo Valencio",
+            "address": "Rua Caruanense, 10, Sp, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 4478,
+            "name": "VFL Wolfsburg e.V. BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Wolfsburg",
+            "responsible": "Yavuz Bozkurt Ögüt",
+            "address": "Elsterweg 5  , , Wolfsburg, Germany",
+            "website": "www.vfl-wob.de"
+        },
+        {
+            "id": 8223,
+            "name": "VGrappling Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Soeul",
+            "responsible": "Jangwon Byeon",
+            "address": "B1, 18, Gangseo-ro 12-gil, Gangseo-gu, Soeul, Soeul, Korea, South",
+            "website": "https://cafe.daum.net/bjjkorea"
+        },
+        {
+            "id": 2125,
+            "name": "Vianna Brothers BJJ \u0026 MMA Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chicago",
+            "responsible": "Pedro Barbosa Vianna",
+            "address": "2128 N. Milwaukee Ave  , , Chicago, IL, United States of America",
+            "website": "www.viannabrothers.com"
+        },
+        {
+            "id": 2438,
+            "name": "Vicente Jr. BJJ Pennsylvania",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Millersville",
+            "responsible": null,
+            "address": "311 Serendipity Drive  , , Millersville, Maryland, United States of America",
+            "website": "finalresultsfitness.com"
+        },
+        {
+            "id": 3088,
+            "name": "Vicente Jr. Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palmeira dos Índios",
+            "responsible": "Luíz Vicente da Silva Júnior",
+            "address": "Av. Holanda 40 , São Cristovão, Palmeira dos Índios, AL, Brasil",
+            "website": "teamvicentejuniorbjj.com"
+        },
+        {
+            "id": 8215,
+            "name": "Vickery Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Myers",
+            "responsible": "Carl Lee Vickery",
+            "address": "1469 Colonial Blvd #130, Fort Myers, Fl, United States of America",
+            "website": "vickerybjj.com"
+        },
+        {
+            "id": 6555,
+            "name": "Victor Huber BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Atlantic Beach",
+            "responsible": "Victor Alexandre Huber Filho",
+            "address": "45-A Donner Road, Atlantic Beach, FL, United States of America",
+            "website": "VictorHuberBJJ.com"
+        },
+        {
+            "id": 8526,
+            "name": "Victor Tartaruga Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Victor Monteiro de Carvalho",
+            "address": "Rua Maria Luzia Gomes Da Costa, Casa, Lt17, Qd58, Niterói, Rj, Brasil",
+            "website": "www.tartarugajiujitsu.com"
+        },
+        {
+            "id": 8499,
+            "name": "Victorious",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Maia",
+            "responsible": "Nuno André Pereira Sampaio",
+            "address": "Rua Augusto Simões 1182, Maia, Porto, Portugal",
+            "website": null
+        },
+        {
+            "id": 6352,
+            "name": "Victorum Athletics",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lancaster",
+            "responsible": "Ian Stephen Salinas",
+            "address": "1125 W. Ave L-8 Ste 103, Lancaster, CA, United States of America",
+            "website": "www.VictorumAthletics.com"
+        },
+        {
+            "id": 8868,
+            "name": "Victrous Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ico",
+            "responsible": "Victor Hugo Terrinha Luz",
+            "address": "Rua Padre Vieira Número 365, Academia Bio Fitness, Ico, Ceará, Brasil",
+            "website": "https://instagram.com/victrousteam?utm_medium=copy_link"
+        }
+    ]
+}

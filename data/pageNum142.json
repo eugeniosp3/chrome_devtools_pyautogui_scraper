@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 142,
+        "from": 2820,
+        "to": 2840,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10474,
+            "name": "GFTeam Bento Ribeiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Renato de Lima Rodrigues",
+            "address": "Rua João Vicente, 1155, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 10237,
+            "name": "GFTeam Braunschweig",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Braunschweig",
+            "responsible": "Onur Yasar",
+            "address": "Hamburger Strasse 268, Braunschweig, Germany",
+            "website": null
+        },
+        {
+            "id": 8133,
+            "name": "Gfteam Bulgaria",
+            "federationAbbr": "IBJJF",
+            "country": "Bulgaria",
+            "countryAbbr": "BG",
+            "city": "Sofia",
+            "responsible": "Konstantin Atanasov",
+            "address": "E.georgiev 38 Bul., Sofia, Sofia, Bulgaria",
+            "website": null
+        },
+        {
+            "id": 10433,
+            "name": "GFTeam Campo Grande - RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Paulo André Ribeiro",
+            "address": "Estrada Do Cabuçu, 2049, Sobrado, Rio De Janeiro, Rj, Brasil",
+            "website": "https://instagram.com/gfteamcg.rj?igshid=ZDdkNTZiNTM="
+        },
+        {
+            "id": 6213,
+            "name": "GFTeam Canada",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Burnaby",
+            "responsible": "Rafael La Porta de Oliveira",
+            "address": "5528 Kingsway, Burnaby, BC, Canada",
+            "website": "www.gfteamcanada.ca"
+        },
+        {
+            "id": 10261,
+            "name": "GFTeam Cavalcanti",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Walney Silva Cavalcanti",
+            "address": "Estrada Vivenda Três Marias, 1357, Teresópolis, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9640,
+            "name": "GFTeam Charlotte",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Charlotte",
+            "responsible": "Gialysson Adão Silva Freitas",
+            "address": "13340 S Point Blvd, Charlotte, North Carolina, United States of America",
+            "website": "https://artesuavejiujitsuacademy.com/"
+        },
+        {
+            "id": 9964,
+            "name": "GFTeam Clube Recanto Das Águas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Viçosa",
+            "responsible": "Paulo Alexandre de Souza",
+            "address": "Avenida Marechal Humberto Castelo Branco, Clube Recanto Das Águas, Viçosa, Minas Gerais, Brasil",
+            "website": "https://instagram.com/gfteamcra"
+        },
+        {
+            "id": 8083,
+            "name": "Gfteam Colônia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Marcelo Siqueira de Souza",
+            "address": "Rua Clodomir Lucas Dos Reis , Numero 6, Rio De Janeiro, Rj, Brasil",
+            "website": "www.instagram.com/gfteamcolonia/?hl=pt"
+        },
+        {
+            "id": 9314,
+            "name": "Gfteam Colorado",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Grand Junction",
+            "responsible": "Denilson de Carvalho Pimenta",
+            "address": "573 South Commercial Dr., Unit #2, Grand Junction, Colorado, United States of America",
+            "website": "grandvalleybjj@gmail.com"
+        },
+        {
+            "id": 9513,
+            "name": "GFTeam Cruz Das Almas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cruz Das Almas",
+            "responsible": "Joanderson Almeida Souza",
+            "address": "Rua Crisogno Fernandes, 359, 1 Andar, Cruz Das Almas, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 6719,
+            "name": "GFTeam DC",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Takoma Park",
+            "responsible": "Julio Cesar Pereira",
+            "address": "720 Erie Ave, Takoma Park, MD, United States of America",
+            "website": "www. wdcbjj.com"
+        },
+        {
+            "id": 8458,
+            "name": "GFTeam Detroit",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "St Clair Shores",
+            "responsible": "William Wayne Konkel",
+            "address": "29325 Harper, St Clair Shores, Michigan, United States of America",
+            "website": "voyagemartialarts.com"
+        },
+        {
+            "id": 9517,
+            "name": "GFTeam Feitoza",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Aleksandro Marcelino Feitoza",
+            "address": "Rua Juranda Lt. 18 Qd. 111, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10409,
+            "name": "GFTeam Freguesia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "João Victor Juca Ferro",
+            "address": "Rua Xingu 241, Sala 201 A 206, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10235,
+            "name": "GFTeam Greece",
+            "federationAbbr": "IBJJF",
+            "country": "Greece",
+            "countryAbbr": "GR",
+            "city": "Athens",
+            "responsible": "Georgios Katsinopoulos",
+            "address": "Leoforos Amarousiou 58, Athens, Iraklio, Greece",
+            "website": "Trainbox.gr"
+        },
+        {
+            "id": 8529,
+            "name": "GFTeam Harker Heights Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Harker Heights",
+            "responsible": "Jeane Anne Saari-Ruiz",
+            "address": "217 Cox Dr, Harker Heights, Texas, United States of America",
+            "website": "www.twmma.com"
+        },
+        {
+            "id": 8960,
+            "name": "Gfteam Hawaii",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pearl City",
+            "responsible": "Richard de los Reyes",
+            "address": "425 Kamehameha Hwy Unit 2, Pearl City, Hawaii, United States of America",
+            "website": null
+        },
+        {
+            "id": 10692,
+            "name": "GFTeam Itaigara",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Assad Jorge Schoucair Filho",
+            "address": "Rua Érico Veríssimo, Itaigara, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 10098,
+            "name": "GFTeam Itaipuaçu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maricá",
+            "responsible": "Assed Macedo Felix",
+            "address": "Rua Das Cravinas 106, Barroco Itaipuaçu, Maricá, Rio De Janeiro, Brasil",
+            "website": null
+        }
+    ]
+}

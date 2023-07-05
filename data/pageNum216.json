@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 216,
+        "from": 4300,
+        "to": 4320,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5141,
+            "name": "LG System",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Evandro Alves Nascimento",
+            "address": "Rua Pedro Gama 35 Casa, Federação, Salvador, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9315,
+            "name": "LGA Tucson",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tucson",
+            "responsible": "Santos Rene Bruckner Rivera",
+            "address": "190 W Ft Lowell Rd, Tucson, Arizona, United States of America",
+            "website": null
+        },
+        {
+            "id": 8974,
+            "name": "Liberatus Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fulshear",
+            "responsible": "Jonathan Andrew Naranjo",
+            "address": "6610 Fm 359 Rd S, Suite 300, Fulshear, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 5846,
+            "name": "Liborio BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orlando",
+            "responsible": "Antonio Ricardo Jardim Liborio",
+            "address": "1064 Fountain Coin Loop, Orlando, FL, United States of America",
+            "website": "liboriobjj.com"
+        },
+        {
+            "id": 10478,
+            "name": "Life Is Flow - Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Indaial",
+            "responsible": "Juliano Ghizoni",
+            "address": "Rua Engenheiro Emílio Odebrecht, Sala 05, Indaial, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 9035,
+            "name": "Life Jiu-Jitsu Reno",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Reno",
+            "responsible": "Frederico Jorge da Eira",
+            "address": "9350 Double R Blvd., Apt. 3611, Reno, Nevada, United States of America",
+            "website": "www.lifebjjreno.com"
+        },
+        {
+            "id": 7224,
+            "name": "Lifelab BJJ Paraestra Koganei",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Kouichiro Karu",
+            "address": "3-40-20-104 Maeharacho, Tokyo, Koganei, Japan",
+            "website": "http://www.lifelab-koganei.com/"
+        },
+        {
+            "id": 9467,
+            "name": "Ligeiro Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Alberto Bastos da Silva Ligeiro",
+            "address": "Rua Emílio Zaluar, 42, Petrópolis, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8902,
+            "name": "Like Water Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Maurício Togni Antunes",
+            "address": "5770 Melrose Ave Unit 205, Los Angeles, California, United States of America",
+            "website": "www.likewaterjj.com"
+        },
+        {
+            "id": 8208,
+            "name": "LikeOss",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dublin",
+            "responsible": "Eduardo Marinho Baião",
+            "address": "7980 Fall Creek Rd #305, Dublin, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 5251,
+            "name": "Lilius Barnatt Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Torrenolinos",
+            "responsible": "Santeri Lilius",
+            "address": "C. Antonio Alcalde Sanchez, 3  , , Torrenolinos, Spain",
+            "website": "www.liliusbarnatt.com"
+        },
+        {
+            "id": 6283,
+            "name": "Lima Brothers Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarujá",
+            "responsible": "Marcelo Ricci Coelho",
+            "address": "Rua Hermenegildo de Azevedo n: 440, Parque Enseada, Guarujá, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9141,
+            "name": "Limitless BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cincinnati",
+            "responsible": "Robert G. Malof",
+            "address": "2300 Florence Ave., Cincinnati, Ohio, United States of America",
+            "website": "www.limitlessbjj.com"
+        },
+        {
+            "id": 2744,
+            "name": "Lin Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Markham",
+            "responsible": "Steve C. H. Lin",
+            "address": "100 Steelcase Rd East Suite 201  , , Markham, ON, Canada",
+            "website": "www.linmartialarts.com"
+        },
+        {
+            "id": 10335,
+            "name": "Lince Gold Team Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Balsas",
+            "responsible": "Miguel dos Santos Barros",
+            "address": "Rua Melquiades Moreira, 415, Centro Balsas, 2º Piso Academia Decatlhon, Balsas, Maranhão, Brasil",
+            "website": "https://www.instagram.com/lincegoldteam/"
+        },
+        {
+            "id": 4145,
+            "name": "Lincoln Brazilian Jiu-Jitsu Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lincoln",
+            "responsible": "Gregory R Lawson",
+            "address": "4009 \"O\" Street  , , Lincoln, NE, United States of America",
+            "website": "lincolnbjj.com"
+        },
+        {
+            "id": 6835,
+            "name": "Linhagem Real",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Vinicius Paula Bastos",
+            "address": "Rua Das Casas Populares 221, Muro De Pedra, Teresópolis, Rj, Brasil",
+            "website": "Rua das casas populares 221"
+        },
+        {
+            "id": 9432,
+            "name": "Linköpings Budoklubb",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Linköping",
+            "responsible": "Lars Karlsson",
+            "address": "Björnkärrsgatan 14, Linköping, Sweden",
+            "website": "https://www.linkopingbudo.se/"
+        },
+        {
+            "id": 2877,
+            "name": "Lion Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Moscow",
+            "responsible": "Leonid Gatovskiy",
+            "address": "Skakovaya 36, Moscow, --, Russia",
+            "website": "www.LionAcademy.ru"
+        },
+        {
+            "id": 6642,
+            "name": "Lion Bros",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Osasco",
+            "responsible": "Jefferson Mendes Moreno de Oliveira",
+            "address": "Av. José Barbosa De Siqueira, 1065, Padroeira, Osasco, São Paulo, Brasil",
+            "website": null
+        }
+    ]
+}

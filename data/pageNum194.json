@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 194,
+        "from": 3860,
+        "to": 3880,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7835,
+            "name": "Iranian Hokubjj",
+            "federationAbbr": "IBJJF",
+            "country": "Iran, Islamic Republic of",
+            "countryAbbr": "IR",
+            "city": "Iran ",
+            "responsible": "Jari Pere",
+            "address": "College Crossroad Hafez Street, Teheran,  No. 381 Fith Floor, Iran , Iran, Islamic Republic of",
+            "website": null
+        },
+        {
+            "id": 9255,
+            "name": "Iredell Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Statesville",
+            "responsible": "Bradley Stephen Harper",
+            "address": "240 Signal Hill Dr., Statesville, Nc, United States of America",
+            "website": null
+        },
+        {
+            "id": 7200,
+            "name": "Ireland Beyond Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Balbriggan / Dublin",
+            "responsible": "Wayne Paul Fagan",
+            "address": "51 Hampton Street, Balbriggan / Dublin, Ireland",
+            "website": "www.beyondjiu-jitsuacademy.com"
+        },
+        {
+            "id": 9853,
+            "name": "Ireland Grappling University BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Dublin",
+            "responsible": "Lucas Giovani Garibaldi",
+            "address": "Firhouse Community \u0026 Leisure Club, Ballycullen Dr, Tallaght, Firhouse, Dublin, Dublin, Ireland",
+            "website": "http://www.gu-bjj.com"
+        },
+        {
+            "id": 10716,
+            "name": "Ireland Infinity Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Dublin",
+            "responsible": "Fabiano Costa Luz",
+            "address": "Blackwood Ln, Sainthelens, Dublin, Dublin, Ireland",
+            "website": "https://infinityjiujitsu.com/"
+        },
+        {
+            "id": 10360,
+            "name": "Ireland Origins BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Limerick",
+            "responsible": "Dimitri Corneliu Andrei",
+            "address": "Wickham Street, Limerick, Limerick, Limerick, Ireland",
+            "website": "dimitricandrei@gmail.com"
+        },
+        {
+            "id": 5503,
+            "name": "Irmãos Moreira BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Magé",
+            "responsible": "Luciano Moreira da Silva",
+            "address": "Rua A - 87, Parque Caçula, Magé, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 8914,
+            "name": "Irogane Studio",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New Canaan",
+            "responsible": "Edward Hohl",
+            "address": "40 Vitti Street, New Canaan, Connecticut, United States of America",
+            "website": "www.escudojiujitsu.com"
+        },
+        {
+            "id": 5217,
+            "name": "Iron Brothers",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Caetano",
+            "responsible": "Francisco Santana Souza Junior",
+            "address": "Rua Cerará 393 , Fundação, São Caetano, SP, Brasil",
+            "website": "ironbrothersworld.com.br"
+        },
+        {
+            "id": 7780,
+            "name": "Iron Grip Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fairhope",
+            "responsible": "Adriano Knebl",
+            "address": "21611 State Highway 181, Suite B, Fairhope, Al, United States of America",
+            "website": "www.irongripmma.com"
+        },
+        {
+            "id": 8440,
+            "name": "Iron Guard BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pine Bush",
+            "responsible": "Thomas H. Ficarotta",
+            "address": "65 Main Street, Pine Bush, Ny, United States of America",
+            "website": null
+        },
+        {
+            "id": 7777,
+            "name": "Iron Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Corumbá",
+            "responsible": "Ariadne de Oliveira",
+            "address": "Rua Tenente Melquiades 1249, Corumbá, Mato Grosso do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 2831,
+            "name": "Iron Lion Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dalton Gardens",
+            "responsible": "Derek Robert Cleveland",
+            "address": "76352 N. Government Way St F, , Dalton Gardens, ID, United States of America",
+            "website": "www.ironlionjiujitsu.com"
+        },
+        {
+            "id": 8189,
+            "name": "Iron Roots BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Colorado Springs",
+            "responsible": "Daniel Markley Ries",
+            "address": "5006 N Academy Blvd, Colorado Springs, Co, United States of America",
+            "website": "www.ironrootsbjj.com"
+        },
+        {
+            "id": 9167,
+            "name": "Ironshore Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Cayman Islands",
+            "countryAbbr": "KY",
+            "city": "George Town, Grand Cayman",
+            "responsible": "Robert Scott Schwartz",
+            "address": "115 Cannon Place, George Town, Grand Cayman, Cayman Islands",
+            "website": "www.Ironshorebjj.com"
+        },
+        {
+            "id": 2478,
+            "name": "Ironside MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bedford",
+            "responsible": "Sina Hadad",
+            "address": "1805 Airport Freeway  , , Bedford, TX, United States of America",
+            "website": "www.ironsidemartialarts.com"
+        },
+        {
+            "id": 7323,
+            "name": "Isaac Magrão Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista ",
+            "responsible": "Isaac Fernandes Abreu",
+            "address": "Alameda Sd 06, 3002 - Residencia, Bairro - Aeroporto, Boa Vista , Roraima , Brasil",
+            "website": null
+        },
+        {
+            "id": 565,
+            "name": "Isaias JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": null,
+            "responsible": "Luiz Claudio Isaias Sousa",
+            "address": "Brasil",
+            "website": null
+        },
+        {
+            "id": 8254,
+            "name": "Isaque Santos Brazilian Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Maria",
+            "responsible": "Isaque Pereira Santos",
+            "address": "Área Especial 1 - Clube. Residencial Santos Dumont., Santa Maria, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 3205,
+            "name": "Ishida Dojo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nagoya  ",
+            "responsible": "Masaaki Ishida",
+            "address": "Mukaigaokai 1-612, Tempaku-ku, , Nagoya  , Aichi, Japan",
+            "website": "ishida-dojo.com"
+        }
+    ]
+}

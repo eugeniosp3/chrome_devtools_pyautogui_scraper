@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 43,
+        "from": 840,
+        "to": 860,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3086,
+            "name": "Bernardo Pitel BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gulfport",
+            "responsible": "Bernardo Pitel",
+            "address": "145 HARDY COURT  , , Gulfport, MS, United States of America",
+            "website": "www.bernardopitel.com"
+        },
+        {
+            "id": 8443,
+            "name": "Bernardo Pitel Guarapari",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarapari ",
+            "responsible": "Bernardo Pitel",
+            "address": "Bairro Parque Da Areia Preta Rua Horácio Santana N595  , Guarapari , Es , Brasil",
+            "website": null
+        },
+        {
+            "id": 4316,
+            "name": "Berserker Team Magdeburg",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Magdeburg",
+            "responsible": "Felipe Pinto da Costa e Silva",
+            "address": "Halberstädter Str. 37  , , Magdeburg, Germany",
+            "website": "www.39er-magdeburg.de"
+        },
+        {
+            "id": 3742,
+            "name": "BETA Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Washington",
+            "responsible": "Nakapan Phungephorn",
+            "address": "1353 Florida Ave NW  , , Washington, D.C., United States of America",
+            "website": "www.betaacademy.com"
+        },
+        {
+            "id": 8336,
+            "name": "Betinho Vital Jiu-Jitsu Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Adalberto Maia Vital Júnior",
+            "address": "Rua Teerã 15 Quadra 12 Planaldo Conj. Campos Eliseos, Manaus, Am, Brasil",
+            "website": null
+        },
+        {
+            "id": 10480,
+            "name": "Beto Araújo Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bocaiuva",
+            "responsible": "Carlos Alberto Araújo Ferreira",
+            "address": "Rua Antônio Alves Carneiro, 379, Califórnia, Bocaiuva, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 999,
+            "name": "Beto e Companhia JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Roberto Ferreira da Silva",
+            "address": "Av. do Contorno 8000 1 Andar - Pilotis, Lourdes, Belo Horizonte, MG, Brasil",
+            "website": "www.betoeciajj.com.br"
+        },
+        {
+            "id": 5712,
+            "name": "Beto Mumia Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Lima",
+            "responsible": "José Roberto Santiago de Souza",
+            "address": "Rua Davydoff Lessa número: 56, Bairro: Centro, Nova Lima, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 3836,
+            "name": "Beto Nunes Brazilian Jiu-Jitsu Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lake City",
+            "responsible": "Norberto de Carvalho Nunes",
+            "address": "366 SW Knox Road Suite #102  , , Lake City, FL, United States of America",
+            "website": "www.betonunesbjjteam.com"
+        },
+        {
+            "id": 9939,
+            "name": "Beto Pinheiro JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra Mansa Rj",
+            "responsible": "Roberto Loureiro Pinheiro Neto",
+            "address": "Rua José Moisés 755 Mora Da Granja, Casa, Barra Mansa Rj, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9537,
+            "name": "Betoneira Team",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Hereford",
+            "responsible": "Fabio Bertoli",
+            "address": "4 Green Ash Close, Hereford, Hertfordshire, United Kingdom",
+            "website": "https://site-5264111-6531-5196.mystrikingly.com/"
+        },
+        {
+            "id": 2623,
+            "name": "Beverly Hills Jiu Jitsu Club",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Marcus Vinicius Vieira Di Lucia",
+            "address": "1080 S LA Cienega Blvd #106  , , Los Angeles, CA, United States of America",
+            "website": "www.bhjjc.com"
+        },
+        {
+            "id": 8001,
+            "name": "Bezerra JJ Performance",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Renato Bezerra de Souza",
+            "address": "Rua Santa Clara 145, Sobreloja, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5422,
+            "name": "BF - MMA",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kasugai",
+            "responsible": "Yoshitaro Niimi",
+            "address": "8-2-1-2F Mizuhodori, Kasugai, Aichi, Japan",
+            "website": "buffalo-mma.jp"
+        },
+        {
+            "id": 6494,
+            "name": "BFIT Jiu-Jitsu Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Badalona",
+            "responsible": "Jesus Lopez Garcia",
+            "address": "Grupo Virgen la salud bloque 20 8° 1°, Badalona, --, Spain",
+            "website": null
+        },
+        {
+            "id": 3693,
+            "name": "BG Team (La Oficina Madrid)",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Madrid",
+            "responsible": "Bruno Garcia Cerqueira",
+            "address": "Calle Pasaje de Ancora Nr. 12, 1-A  , Madrid, --, Spain",
+            "website": null
+        },
+        {
+            "id": 7158,
+            "name": "BGJ Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiania",
+            "responsible": "Augusto Pinto Araújo",
+            "address": "Rua T65 N: 599, Quadra 159 lote 01 Setor Bueno, Goiania, Goiás, Brasil",
+            "website": "www.instagram.com/bgjbueno"
+        },
+        {
+            "id": 4198,
+            "name": "BHJJC - Russia",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Rybinsk",
+            "responsible": "Marcus Vinicius Vieira Di Lucia",
+            "address": "Kirova street, building 11, apartment 227  , , Rybinsk, 76, Russia",
+            "website": "bjjr.ru"
+        },
+        {
+            "id": 2991,
+            "name": "Bibiano Fernandes BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Langley",
+            "responsible": null,
+            "address": "19-20159 68th Ave  , , Langley, BC, Canada",
+            "website": ""
+        },
+        {
+            "id": 5443,
+            "name": "Bicudo Jiu-Jitsu School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça",
+            "responsible": "Marcos Maciel de Oliveira",
+            "address": "Rua Bonfim 05, Passa Vinte, Palhoça, SC, Brasil",
+            "website": null
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 74,
+        "from": 1460,
+        "to": 1480,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7088,
+            "name": "Charlie Brown Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Vinicius dos Santos Fonseca",
+            "address": "Travessa Libânia n: 47, Cruzeiro do Sul - Bairro: Mesquita, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4322,
+            "name": "Charlotte Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Charlotte",
+            "responsible": "John James Piper",
+            "address": "2508 N Davidson St, Charlotte, NC, United States of America",
+            "website": "https://charlotte-bjj.com/"
+        },
+        {
+            "id": 3009,
+            "name": "Charlottesville BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Charlottesville",
+            "responsible": "Gordon Emery",
+            "address": "601 Concord Avenue  , , Charlottesville, VA, United States of America",
+            "website": "www.cvillebjj@com"
+        },
+        {
+            "id": 10326,
+            "name": "Chattanooga HQ - Agoge Combatives",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rossville",
+            "responsible": "Sterling Stalone Peace",
+            "address": "95 Hunt Dr, Rossville, Ga, United States of America",
+            "website": null
+        },
+        {
+            "id": 6752,
+            "name": "Chave de Ouro",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Canberra",
+            "responsible": "Renato Lima Vieira",
+            "address": "144 Gladstone Street, Canberra, ACT, Australia",
+            "website": "www.chavedeouro.com.au"
+        },
+        {
+            "id": 2078,
+            "name": "CheckMat",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Leonardo Alcantara Vieira",
+            "address": "  Rua Santa Catarina n: 33  conj. 03, Água Verde, Rio de Janeiro, RJ, Brasil",
+            "website": "checkmatbrasil.com.br"
+        },
+        {
+            "id": 4042,
+            "name": "CheckMat - Marília",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marília",
+            "responsible": "Adhemar Beretta Júnior",
+            "address": "Lourival Freire 113 A, Fragata, Marília, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8952,
+            "name": "Checkmat - Science Of Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Harvey",
+            "responsible": "Marcus Owen Dempsey",
+            "address": "1821 Commercial Dr Ste W/x/y/z, Harvey, La, United States of America",
+            "website": "Scienceofjiujitsu.net"
+        },
+        {
+            "id": 8199,
+            "name": "Checkmat - VKTeam",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Taboão Da Serra",
+            "responsible": "Vagner Kuroiwa",
+            "address": "Rua-santa Luzia 104, Vila Santa Luzia, Taboão Da Serra, São Paulo, Brasil",
+            "website": "@vkteam_checkmat"
+        },
+        {
+            "id": 9757,
+            "name": "Checkmat / Bjjholics",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Limoges",
+            "responsible": "Marcelo Bruno de Souza",
+            "address": "47 Rue De L'ancienne École Normale D'instituteurs, Ajl, Limoges, France",
+            "website": "https://www.bjjholics.com"
+        },
+        {
+            "id": 5987,
+            "name": "Checkmat / Life Academy",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Bordeaux",
+            "responsible": "Ricardo Alcantara Vieira",
+            "address": "49 Avenue du Docteur Schinazi, Bordeaux, France",
+            "website": "www.lifeacademybordeaux.com"
+        },
+        {
+            "id": 7630,
+            "name": "Checkmat / VA Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wylie",
+            "responsible": "Vinicius Agudo Silva",
+            "address": "711 Business Way, Wylie, TX, United States of America",
+            "website": "www.vabjj.com"
+        },
+        {
+            "id": 6444,
+            "name": "Checkmat Aalborg",
+            "federationAbbr": "IBJJF",
+            "country": "Denmark",
+            "countryAbbr": "DK",
+            "city": "Aalborg",
+            "responsible": "Camilla Kerstine Elnegaard Hansen",
+            "address": "Skydebanevej 1, Aalborg, --, Denmark",
+            "website": "AalborgSelvforsvar.dk"
+        },
+        {
+            "id": 6212,
+            "name": "Checkmat Alan FinFou",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Nykvarn",
+            "responsible": "Alan Douglas Pereira do Nascimento",
+            "address": "Bruksparken 1 , Nykvarn, Sodermanland, Sweden",
+            "website": "AllStarsTrainingCenter.se"
+        },
+        {
+            "id": 8642,
+            "name": "Checkmat Araraquara",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araraquara",
+            "responsible": "Marlon Campos Fontana",
+            "address": "Rua Castro Alves, 2915, Vila Santana, Araraquara, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9360,
+            "name": "CheckMat Bessa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Gilberto Gonçalves Medeiros Queiroz",
+            "address": "R. José Alfredo Nóbrega, 86A - Bessa, João Pessoa, Paraíba, Brasil",
+            "website": null
+        },
+        {
+            "id": 9266,
+            "name": "Checkmat BJJ Garden",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Pedro Henrique Tragueta Petry",
+            "address": "Samuel Cezar 934, Curitiba, Parana, Brasil",
+            "website": "www.bjjgarden.com"
+        },
+        {
+            "id": 3893,
+            "name": "CheckMat Bordeaux",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Bordeaux",
+            "responsible": "Ricardo Alcantara Vieira",
+            "address": "59 Impasse Saint-Louis  , , Bordeaux, --, France",
+            "website": "www.checkmat-bordeaux.fr"
+        },
+        {
+            "id": 6520,
+            "name": "Checkmat Buena Park",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Buena Park",
+            "responsible": "Robson Camargo Rodrigues",
+            "address": "6161 Lincoln Avenue, Buena Park, CA, United States of America",
+            "website": "CheckmatBuenaPark.com"
+        },
+        {
+            "id": 9375,
+            "name": "CheckMat Campo Largo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Largo",
+            "responsible": "Paulo Roberto Batista",
+            "address": "Avenida Padre Natal Pigato, 645, Entrada Pela Rua Santos Dumont, Campo Largo, Paraná, Brasil",
+            "website": "https://checkmatcampolargo.wixsite.com/jiujitsu"
+        }
+    ]
+}

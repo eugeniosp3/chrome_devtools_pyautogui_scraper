@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 281,
+        "from": 5600,
+        "to": 5620,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5295,
+            "name": "Rio Combat Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alameda",
+            "responsible": "Carlos Diogo Gomes",
+            "address": "800 West Tower Ave Bld 40, Alameda, CA, United States of America",
+            "website": "www.riocombat.com"
+        },
+        {
+            "id": 8268,
+            "name": "Rio de Janeiro Bushido JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Luis Flavio de Britto Nobre",
+            "address": "Rua Haddock Lobo, 71, Sobrado., Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 6380,
+            "name": "Rio Fighters",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Bruno Fornari",
+            "address": "Rua Maria Eugênia n: 300, Clube Casa de Espanha - Humaitá, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 2016,
+            "name": "Rio Grappling Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Pedro da Aldeia",
+            "responsible": "Roberto de Moraes Atalla",
+            "address": "Rua Francisco Santos n: 178, Estação, São Pedro da Aldeia, RJ, Brasil",
+            "website": "riograpplingclub.net"
+        },
+        {
+            "id": 2530,
+            "name": "Rio Grappling Club Europe",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Wroclaw",
+            "responsible": "Roberto de Moraes Atalla",
+            "address": "Hermanowska 10, Wroclaw, Poland",
+            "website": "riograpplingclub.pl"
+        },
+        {
+            "id": 3539,
+            "name": "Rio Grappling Club Italia",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Bologna",
+            "responsible": "Gianluca Boni",
+            "address": "via Ermete Bacconi 3, ., Bologna, ., Italy",
+            "website": "joaolucabjj.blogspot.com"
+        },
+        {
+            "id": 2506,
+            "name": "Rio Grappling Club Portugal",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Albufeira",
+            "responsible": "Mauro Sergio C. da Silva",
+            "address": "  , , Albufeira, --, Portugal",
+            "website": ""
+        },
+        {
+            "id": 2704,
+            "name": "Rio Pro Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Beachwood",
+            "responsible": "José Antônio Diago Dias",
+            "address": "24000 Wecantice rd suite 5  , , Beachwood, OH, United States of America",
+            "website": "www.ricardopiresbjj.com"
+        },
+        {
+            "id": 7079,
+            "name": "Rios Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Distrito Federal",
+            "responsible": "Leandro Filipe Macedo Rios",
+            "address": "QNM 12 Lote 03 Apt: 905, Edificio Terrazo Vivere - Bairro: Ceilandia Norte, Distrito Federal, Brasilia, Brasil",
+            "website": null
+        },
+        {
+            "id": 4431,
+            "name": "Rise",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Echirolles",
+            "responsible": "Cedric Stephane Rutty",
+            "address": "2 Allée Des Vosges, , Echirolles, --, France",
+            "website": ""
+        },
+        {
+            "id": 4770,
+            "name": "Rising Sun BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ridgefield Pk",
+            "responsible": "Dennis J. Melone",
+            "address": "81 Christie St., Ridgefield Pk, NJ, United States of America",
+            "website": "risingsunacademy.com"
+        },
+        {
+            "id": 10314,
+            "name": "Rivaldo Junior BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Rivaldo Goncalves de Araujo Junior",
+            "address": "7923 Hanging Branch, San Antonio, TX, United States of America",
+            "website": null
+        },
+        {
+            "id": 8569,
+            "name": "Rivals BJJ Las Vegas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Reese Edward Idica",
+            "address": "7770 Dean Martin  Drive Suite#304, Las Vegas, Nevada, United States of America",
+            "website": "www.ryukotrainjngcenter.com"
+        },
+        {
+            "id": 8650,
+            "name": "River Dogs",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Rafael Lima Miranda",
+            "address": "Rua Aurelino Silva, Amaralina, Salvador, Ba, Brasil",
+            "website": null
+        },
+        {
+            "id": 7167,
+            "name": "Rivers BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lawrence",
+            "responsible": "Trevor J. Rivers",
+            "address": "911 Massachusetts St., Suit B4, Lawrence, KS, United States of America",
+            "website": "https://www.riversjiujitsu.com"
+        },
+        {
+            "id": 4601,
+            "name": "Riyadh Combat / Riyadh BJJ Team",
+            "federationAbbr": "IBJJF",
+            "country": "Saudi Arabia",
+            "countryAbbr": "SA",
+            "city": "Riyadh",
+            "responsible": "Sergio Fernandes",
+            "address": "P.O. Box 4067, , Riyadh, Riyadh, Saudi Arabia",
+            "website": ""
+        },
+        {
+            "id": 2643,
+            "name": "RJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Saitama",
+            "responsible": "Yuji Okamoto",
+            "address": "1-625 Nisshin-cho Kita-ku Saitama-shi  , Saitama, --, Japan",
+            "website": "https://www.rjjbjj.com"
+        },
+        {
+            "id": 5827,
+            "name": "RJJC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Gilson dos Santos Fernandes",
+            "address": "Rua Campo Belo n: 150, Laranjeiras, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8351,
+            "name": "RJJC CT - MWGP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Rafael Diego Ribeiro Lopes",
+            "address": "Rua Cruzeiro Do Sul, Casa, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9450,
+            "name": "RJJC Qatar",
+            "federationAbbr": "IBJJF",
+            "country": "Qatar",
+            "countryAbbr": "QA",
+            "city": "Doha",
+            "responsible": "Rafael Diego Ribeiro Lopes",
+            "address": "Khalid Bin Qais,street Building 22, Doha, Al Mansoura - Doha, Qatar",
+            "website": null
+        }
+    ]
+}

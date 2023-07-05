@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 105,
+        "from": 2080,
+        "to": 2100,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6679,
+            "name": "Eduardo Vieyra Jiu-Jitsu Argentina",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Parana ",
+            "responsible": "Eduardo Sebastian Vieyra",
+            "address": "San Juan 835, Parana , Entre Rios, Argentina",
+            "website": null
+        },
+        {
+            "id": 9942,
+            "name": "EEM",
+            "federationAbbr": "IBJJF",
+            "country": "Morocco",
+            "countryAbbr": "MA",
+            "city": "Casablanca",
+            "responsible": "Hicham Hakam",
+            "address": "66, Av Mly Hassan 1er Etage 4 Appt 7, Casablanca, Morocco",
+            "website": null
+        },
+        {
+            "id": 10657,
+            "name": "Efa Fight Academy",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Shenzhen",
+            "responsible": "Juarez Harles Martins Nunes",
+            "address": "Longzhu 4th Street, Golden Valley, Gcross Building , Level 4. Efa Fight Academy, Shenzhen, Guangdong, China",
+            "website": "Nanshan"
+        },
+        {
+            "id": 10388,
+            "name": "Efeito Alavanca Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Peru",
+            "countryAbbr": "PE",
+            "city": "Lima",
+            "responsible": "Eduardo Hooker De La Peña",
+            "address": "Av. Luis Banchero Rossi, San Miguel, Lima, Lima, Peru",
+            "website": "alavancaperu.com"
+        },
+        {
+            "id": 8152,
+            "name": "EFPJR Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Claro",
+            "responsible": "Edson Francisco de Paula  Junior",
+            "address": "Rua 17 776, Rio Claro, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8739,
+            "name": "Ega Concept BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sapezal",
+            "responsible": "Eberson Godofredo",
+            "address": "Rua Pirambe, Sapezal, Mato Grosso, Brasil",
+            "website": null
+        },
+        {
+            "id": 8964,
+            "name": "Egypt Beyond Submissions",
+            "federationAbbr": "IBJJF",
+            "country": "Egypt",
+            "countryAbbr": "EG",
+            "city": "Smouha",
+            "responsible": "Said Khatib",
+            "address": "Green Plaza Mall, 14 Of May Road, Smouha, Alexandria, Egypt",
+            "website": null
+        },
+        {
+            "id": 8710,
+            "name": "Egyptian Top Fighters",
+            "federationAbbr": "IBJJF",
+            "country": "Egypt",
+            "countryAbbr": "EG",
+            "city": "Damietta",
+            "responsible": "Tarek M Mohamed Mater",
+            "address": "Egypt Damietta Damietta Youth Center, Damietta, Egypt, Egypt",
+            "website": "Egypt"
+        },
+        {
+            "id": 5713,
+            "name": "EH Jiu-Jitsu Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Amelio Arruda Camara",
+            "address": "Rua da candelária n: 86 3º andar, Centro, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5729,
+            "name": "EH Jiu-Jitsu International Team",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Rosrath",
+            "responsible": "Amelio Arruda Camara",
+            "address": "Dammelsfurther 48, Rosrath, Germany",
+            "website": null
+        },
+        {
+            "id": 5705,
+            "name": "EJB - Escola de Jiu-Jitsu Brasileiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Edigar Guimarães de Souza",
+            "address": "Rua Doutor Leo Carvalho 74, Sala 1605, Velha, Blumenau, SC, Brasil",
+            "website": "www.ejbbrasil.com"
+        },
+        {
+            "id": 6689,
+            "name": "EJD - RGT",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Anselmo",
+            "responsible": "Teuira E. Crivello",
+            "address": "1525 San Anselmo Ave, San Anselmo, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 7949,
+            "name": "EJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sete Lagoas",
+            "responsible": "Rodrigo Lagoeiro Reis",
+            "address": "Rua Rondônia, 83, Sobreloja, Sete Lagoas, Minas Gerais, Brasil",
+            "website": "essencejiujitsu.com"
+        },
+        {
+            "id": 8709,
+            "name": "EJJ Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Perth",
+            "responsible": "Jake F. O'driscoll",
+            "address": "1/46 Abernethy Road, Perth, Wa, Australia",
+            "website": null
+        },
+        {
+            "id": 10635,
+            "name": "EJJRA",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Anderson Marques Santos",
+            "address": "Rua Ray Charles, Casa, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 3989,
+            "name": "El Club De La Lucha Barcelona",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Barcelona",
+            "responsible": "Jordi Lloveras",
+            "address": "Carrer Casp 147  , , Barcelona, --, Spain",
+            "website": "www.elclubdelaluchabarcelona.com"
+        },
+        {
+            "id": 7938,
+            "name": "Electric JJ / Checkmat Huntington Beach",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Huntington Beach",
+            "responsible": "João Francisco de Moraes Assis",
+            "address": "4972 Warner Ave, #103, Huntington Beach, Ca, United States of America",
+            "website": "electricjiujitsu.com"
+        },
+        {
+            "id": 9763,
+            "name": "Electric North Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lake Stevens",
+            "responsible": "Gregory Lionel Anderson",
+            "address": "3910 127th Dr Ne, Lake Stevens, Wa, United States of America",
+            "website": "https://www.theelectricnorth.com"
+        },
+        {
+            "id": 4569,
+            "name": "Elements BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Brighton",
+            "responsible": "Mohammed Yousuf Nabi",
+            "address": "59 Sunning Hill Ave  , , Brighton, United Kingdom",
+            "website": "elementsmartialarts.co.uk"
+        },
+        {
+            "id": 7392,
+            "name": "Elementum Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Winter Park",
+            "responsible": "Tarsis da Gama e Paula Neto",
+            "address": "1154 Solana Ave, Winter Park, FL, United States of America",
+            "website": "www.elementumjiujitsu.com"
+        }
+    ]
+}

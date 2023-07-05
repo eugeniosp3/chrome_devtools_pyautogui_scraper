@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 19,
+        "from": 360,
+        "to": 380,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4304,
+            "name": "Alliance Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Freiberg",
+            "responsible": "Fabio Duca Gurgel do Amaral",
+            "address": "Fraupnsteinpr Strasse 23b  , , Freiberg, --, Germany",
+            "website": "www.bjj-freiberg.de"
+        },
+        {
+            "id": 4955,
+            "name": "Alliance Goiânia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Diego Marinho de Godoy Marques",
+            "address": "Av. T-1 N. 185 Setor Bueno, Parque Anhanguera, Goiânia, GO, Brasil",
+            "website": "www.alliancegoiania.com.br"
+        },
+        {
+            "id": 9753,
+            "name": "Alliance Gravataí",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gravatai",
+            "responsible": "Kleber Mario Kliutsnicoff de Oliveira",
+            "address": "Avenida Brasil, 188, Gravatai, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 7853,
+            "name": "Alliance Greenville",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Greenville",
+            "responsible": "Rafael Rosendo dos Santos",
+            "address": "117 Haywood Road, Greenville, Sc, United States of America",
+            "website": null
+        },
+        {
+            "id": 3752,
+            "name": "Alliance Henderson Kentucky",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Henderson",
+            "responsible": "Romero Cavalcanti",
+            "address": "238 North Main Street  , , Henderson, KY, United States of America",
+            "website": ""
+        },
+        {
+            "id": 2266,
+            "name": "Alliance International",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "1",
+            "responsible": null,
+            "address": "  , , 1, 1, Canada",
+            "website": ""
+        },
+        {
+            "id": 9979,
+            "name": "Alliance Itabira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itabira",
+            "responsible": "Luiz Ricardo Correia Silva",
+            "address": "Av. Carlos Drumond De Andrade, Loja, Itabira, Minas Gerais, Brasil",
+            "website": "https://allianceitabira.com.br"
+        },
+        {
+            "id": 10561,
+            "name": "Alliance Itajaí",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itajaí",
+            "responsible": "Emerson Meneghetti",
+            "address": "Avenida Sete De Setembro, 1413, 2º Piso, Itajaí, Santa Catarina, Brasil",
+            "website": "Allianceitajai.com.br"
+        },
+        {
+            "id": 7051,
+            "name": "Alliance Jiu-Jitsu Arkansas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Little Rock",
+            "responsible": "Lindsey C. Clyburn",
+            "address": "8020 A Counts Massie Rd, North Little Rock, AR, United States of America",
+            "website": "www.f4martialartsacademy.com"
+        },
+        {
+            "id": 10017,
+            "name": "Alliance Jiu-Jitsu Auckland",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Auckland",
+            "responsible": "Paulo Rogerio Oliveira",
+            "address": "213 Dominion Road, Mount Eden, Auckland, New Zealand",
+            "website": "www.alliancejiujitsu.nz"
+        },
+        {
+            "id": 5176,
+            "name": "Alliance Jiu-Jitsu Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Brisbane",
+            "responsible": "Bruno Lemos Bezerra De Paula",
+            "address": "51 Nariel St Albion  , , Brisbane, QLD, Australia",
+            "website": "bjjbrisbane.com.au"
+        },
+        {
+            "id": 6347,
+            "name": "Alliance Jiu-Jitsu DFW",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Keller",
+            "responsible": "Samuel Seth Snow",
+            "address": "1961 South Main, suite 400, Keller, TX, United States of America",
+            "website": "www.alliancejj.com"
+        },
+        {
+            "id": 8863,
+            "name": "Alliance Jiu-Jitsu DXB",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Dubai",
+            "responsible": "Rogel Alexander Monsalve",
+            "address": "Kojak Bulding ,motor City , Dubai, United Arab Emirates, Unit 201, Dubai, Dubai, United Arab Emirates",
+            "website": "alliancebjjdxb.com"
+        },
+        {
+            "id": 4099,
+            "name": "Alliance Jiu-Jitsu Indonesia",
+            "federationAbbr": "IBJJF",
+            "country": "Indonesia",
+            "countryAbbr": "ID",
+            "city": "Jakarta Selatan",
+            "responsible": "Deddy Wigraha",
+            "address": "Tapout Fitness South Jakarta, Jalan Wijaya 1 No 71, Kebayoran Baru, Jakarta Selatan, Jakarta, Indonesia",
+            "website": "http://www.alliancebjjindo.com/"
+        },
+        {
+            "id": 9749,
+            "name": "Alliance Jiu-Jitsu Oceania",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Brisbane",
+            "responsible": "Bruno Lemos Bezerra De Paula",
+            "address": "65 Sandgate Road Albion, Brisbane, Queensland, Australia",
+            "website": "www.lemosbjjbrisbane.com.au"
+        },
+        {
+            "id": 2281,
+            "name": "Alliance Jiu-Jtsu Greece",
+            "federationAbbr": "IBJJF",
+            "country": "Greece",
+            "countryAbbr": "GR",
+            "city": "Athens",
+            "responsible": null,
+            "address": "Metsovou 20, Ano Chifada  , , Athens, Attika, Greece",
+            "website": ""
+        },
+        {
+            "id": 21,
+            "name": "Alliance JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Fabio Duca Gurgel do Amaral",
+            "address": ", São Paulo, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 10557,
+            "name": "Alliance João Jorge",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campinas",
+            "responsible": "Marcos Guilherme Robatini Del Campo",
+            "address": "Rua Vitoriano Dos Anjos, 512, Campinas, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8251,
+            "name": "Alliance Joinville",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Joinville",
+            "responsible": "Jeferson Sperandio da Cruz",
+            "address": "Rua Recife, 230, Joinville, Sc, Brasil",
+            "website": "www.alliancejoinville.com.br"
+        },
+        {
+            "id": 10457,
+            "name": "Alliance Keller",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Keller",
+            "responsible": "Jean Petrik Ferreira de Lima",
+            "address": "459 Keller Pkwy, Keller, Texas, United States of America",
+            "website": "76248"
+        }
+    ]
+}

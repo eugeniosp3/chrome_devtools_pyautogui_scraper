@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 234,
+        "from": 4660,
+        "to": 4680,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6910,
+            "name": "Milliken Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Casey Alan Milliken",
+            "address": "5752 S. Fort Apache Rd., #125, Las Vegas, NV, United States of America",
+            "website": "tribevegas.com"
+        },
+        {
+            "id": 4706,
+            "name": "Milton Bastos BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mountain View",
+            "responsible": "Milton Carlos Bastos P. do Nascimento",
+            "address": "175 E. El Camino Real, C  , , Mountain View, CA, United States of America",
+            "website": "bjjmountainview.com"
+        },
+        {
+            "id": 9608,
+            "name": "Milton Cristiano Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Milton Cristiano Gomes",
+            "address": "Rua Boninal, Nº 91a, Jardim São Paulo, Recife, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 10386,
+            "name": "Milton Regis BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Oakdale",
+            "responsible": "Milton Regis de Almeida",
+            "address": "96 Biltmore Ave, Oakdale, Ny, United States of America",
+            "website": "Kiotobjj.com"
+        },
+        {
+            "id": 5766,
+            "name": "Miná Dojo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campina Grande",
+            "responsible": "Alberto Hipacio Mina de Araujo",
+            "address": "Rua Tomás Soares de Souza - 431, Bairro: Catolé, Campina Grande, PB, Brasil",
+            "website": null
+        },
+        {
+            "id": 7415,
+            "name": "MIND",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Costa da Caparica",
+            "responsible": "Monica Vanessa Fonseca da Silva",
+            "address": "Rua jerónimo dias,  n1, Costa da Caparica, Costa da Caparica, Portugal",
+            "website": null
+        },
+        {
+            "id": 6936,
+            "name": "Mindão Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Madre de Deus",
+            "responsible": "Evandro Alves Nascimento",
+            "address": "Rua Ernani Rocha S/N, Estádio Municipal - Centro, Madre de Deus, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 9741,
+            "name": "Mindset Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Merida",
+            "responsible": "Jorge Armando Montero Mejia",
+            "address": "Gran Santa Fe Norte, Merida, Mexico",
+            "website": null
+        },
+        {
+            "id": 4842,
+            "name": "Minhoca Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Carazinho",
+            "responsible": "Diogo Villodre",
+            "address": "Rua Expedicionário Claudino Pinheiro, 144 Apto 301, Centro, Carazinho, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 10403,
+            "name": "Mini Masters",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kailua",
+            "responsible": "Leandro Moreira Nyza",
+            "address": "270 Kuulei Road, Apt: 202, Kailua, Hawaii, United States of America",
+            "website": "https://mastersmartialartsschool.com/"
+        },
+        {
+            "id": 9425,
+            "name": "Minnesota School Of Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chisago",
+            "responsible": "Marvin Ellard Blumer",
+            "address": "11217 Lake Blvd Suite B,, Chisago, Minnesota, United States of America",
+            "website": "https://www.minnesotaschoolmartialarts.com/"
+        },
+        {
+            "id": 3599,
+            "name": "Miquinho Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Botucatu",
+            "responsible": "Anderson Silva",
+            "address": "Rua Jorge Calixto 21 , Cohab I, Botucatu, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 3611,
+            "name": "Mirkovic BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Croatia",
+            "countryAbbr": "HR",
+            "city": "Zagreb",
+            "responsible": "Ricardo Paranhos Murgel",
+            "address": "Hrvoja Macanovica 9  , , Zagreb, --, Croatia",
+            "website": "www.wct.hbjjs.hr"
+        },
+        {
+            "id": 10684,
+            "name": "Missionmma",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chicago",
+            "responsible": "Said Hatim",
+            "address": "1620 W, Chicago, Il, United States of America",
+            "website": "missionmmachicago.com"
+        },
+        {
+            "id": 10544,
+            "name": "Mississippi Precision",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Flowood",
+            "responsible": "Joshua Berry Kennon",
+            "address": "624 Grants Ferry Rd, Flowood, Ms, United States of America",
+            "website": "https://mississippijiujitsu.com/"
+        },
+        {
+            "id": 9198,
+            "name": "Mit Moura jiu-jitsu.",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ananindeua",
+            "responsible": "Mitsael da Rocha Moura",
+            "address": "Rua: Sn1 / Bloco: 4 / Quadra: Q / Apartamento: 106, Conjunto Stelio Maroja / Bairro: Coqueiro, Ananindeua, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 6641,
+            "name": "Mitra BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Ivan Danielewicz Junior",
+            "address": "Rua Francisco Lachowski n: 23, Campina do Siqueira, Curitiba, Paraná, Brasil",
+            "website": "www.MitraBJJ.com.br"
+        },
+        {
+            "id": 5914,
+            "name": "Mixed Grappling Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Elk Grove",
+            "responsible": "Michael Donald Uhlinger Jr.",
+            "address": "9414 Elk Grove Florin Rd., Elk Grove, CA, United States of America",
+            "website": "www.MixedGrapplingArts.com"
+        },
+        {
+            "id": 8951,
+            "name": "Mizu Studio",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Montréal",
+            "responsible": "Valery Astraverkhau",
+            "address": "4767 Rue Dagenais #106b, Montréal, Quebec, Canada",
+            "website": "http://mizustudio.ca"
+        },
+        {
+            "id": 6729,
+            "name": "MJAM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bairro: Federaçao",
+            "responsible": "Andre Gomes Costa",
+            "address": "Rua Caetano Moura n: 20, Galeria 20, Bairro: Federaçao, Salvador, Brasil",
+            "website": null
+        }
+    ]
+}

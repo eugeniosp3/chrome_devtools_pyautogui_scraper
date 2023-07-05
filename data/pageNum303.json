@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 303,
+        "from": 6040,
+        "to": 6060,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4662,
+            "name": "Soul Fighters Itaperuna",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaperuna",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Rua Primeiro de Maio n: 1310, Niterói, Itaperuna, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 5806,
+            "name": "Soul Fighters Jacarepaguá",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Rua Candido Benicio n: 2339, Praça Seca, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 9061,
+            "name": "Soul Fighters Mato Grosso Do Sul",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Dourados",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Rua Belo Horizonte, 1005 - Bairro Jardim Italia, Dourados, Ms, Brasil",
+            "website": null
+        },
+        {
+            "id": 5975,
+            "name": "Soul Fighters Mississippi",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "D'iberville",
+            "responsible": "Rafael Monteiro Barbosa",
+            "address": "10418A Seymour Avenue, D'iberville, MS, United States of America",
+            "website": "http://www.amaabjj.com/"
+        },
+        {
+            "id": 4518,
+            "name": "Soul Fighters Porto Alegre",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Rua Cavalhada, 4611, Sala 107, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": "www.imperiodaluta.com.br"
+        },
+        {
+            "id": 3973,
+            "name": "Soul Fighters Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Allen",
+            "responsible": "Bruno Lopes Mendes",
+            "address": "1314 W Mcdermott Dr  , , Allen, TX, United States of America",
+            "website": ""
+        },
+        {
+            "id": 6119,
+            "name": "Soul Fighters Tijuca",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Rua Conde de Bonfim 685 loja 207, Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 10033,
+            "name": "Soul Fighters Wasatch",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orem",
+            "responsible": "Reese Dylan Hall",
+            "address": "972 N 1430 W, Orem, Utah, United States of America",
+            "website": "wasatchcombatsports.com"
+        },
+        {
+            "id": 6190,
+            "name": "Soul Fighters Zona Sul",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Av. Juca Batista n: 3309, Hipica, Porto Alegre, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 5318,
+            "name": "Soul Fighters/Clara Team BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Americana ",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Rua Sao Vito n: 1384, Santa Cruz, Americana , SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 3731,
+            "name": "Soul Fighters/Delta Gold Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Centro Sul - Teresina",
+            "responsible": "Alvaro Mansor Guarçoni",
+            "address": "Rua Área Leão - n: 705 apt 102, Ed. Gon Goyo, Centro Sul - Teresina, PI, Brasil",
+            "website": null
+        },
+        {
+            "id": 10094,
+            "name": "Soul Hunter Jiu-jitsu/ Agnaldo Goes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Serra",
+            "responsible": "Adriano Cazagranda",
+            "address": "Rua José Arrivabeni, Casa, Serra, Espírito Santo, Brasil",
+            "website": "@soulhunterjj"
+        },
+        {
+            "id": 10446,
+            "name": "Soul Of Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Saudi Arabia",
+            "countryAbbr": "SA",
+            "city": "Dhahran",
+            "responsible": "Jassim Ali Alarfah",
+            "address": "2924, Dhahran, Eastern Province, Saudi Arabia",
+            "website": null
+        },
+        {
+            "id": 8716,
+            "name": "Soul Rollers",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Sankt Leon-Rot",
+            "responsible": "Sebastian Hans-Jakob Heuser",
+            "address": "Speyerer Straße 26, Sankt Leon-Rot, Baden-Württemberg, Germany",
+            "website": null
+        },
+        {
+            "id": 8935,
+            "name": "Soulfighters SMAA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bossier City",
+            "responsible": "Wayne A. Knudsen II",
+            "address": "3068 Knolin Dr, Bldg 4, Bossier City, Louisiana, United States of America",
+            "website": null
+        },
+        {
+            "id": 8264,
+            "name": "Sousa Moura Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Águas Lindas De Goiás ",
+            "responsible": "Adão de Sousa Moura Neto",
+            "address": "Quadra 02, Lote 03 , Jardim Brasília Ii, Águas Lindas De Goiás , Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 8364,
+            "name": "South Boston Bjj",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boston",
+            "responsible": "Ruben Enrique Coronado",
+            "address": "107 South Street, Unit Bb, Boston, Ma, United States of America",
+            "website": "www.southbostonbjj.com"
+        },
+        {
+            "id": 4251,
+            "name": "South Island BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Mill Bay ",
+            "responsible": "Henry Panek",
+            "address": "850 Shawnigan Road  , , Mill Bay , BC, Canada",
+            "website": "http://www.sibjj.com/"
+        },
+        {
+            "id": 8701,
+            "name": "South Jersey Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Berlin",
+            "responsible": "Steven M. Bongiorno",
+            "address": "2 Rt. 73 S,, K, Berlin, Nj, United States of America",
+            "website": "www.sjbjj.com"
+        },
+        {
+            "id": 6858,
+            "name": "South Texas Grappling Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Benito",
+            "responsible": "Juan  Caballero Jr",
+            "address": "2402 W. Highway 77, San Benito, TX, United States of America",
+            "website": null
+        }
+    ]
+}

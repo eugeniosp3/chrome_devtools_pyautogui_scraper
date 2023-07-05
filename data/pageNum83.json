@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 83,
+        "from": 1640,
+        "to": 1660,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10653,
+            "name": "Clube Neves Jiu-Jitsu BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Denilson Oliveira das Neves",
+            "address": "Rua B-07, 1601 - Japiim 2, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 2059,
+            "name": "Clube Orley Lobato",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Orley Lobato Pinheiro",
+            "address": "Rua 07  80 Conj. 31 de Março, Japiim I, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 4346,
+            "name": "Clube Orley Lobato Porto Velho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Velho",
+            "responsible": "Almir Marcelo Oliveira Viana",
+            "address": "Rua Crato 7105 , Lagoinha, Porto Velho, RO, Brasil",
+            "website": null
+        },
+        {
+            "id": 263,
+            "name": "Clube Paes JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaboraí",
+            "responsible": "Cirval Justino da Silva",
+            "address": "Rua A Lote 24 Quadra 01 - Número 3.033, New Park - Manilha Bairro: Vila Brasil, Itaboraí, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 5387,
+            "name": "Clube Paineiras do Morumby",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Adriano Pinto Constantino Junior",
+            "address": "Av. Dr. Alberto Penteado, 605, Morumbi, São Paulo, SP, Brasil",
+            "website": "www.clubepaineiras.com.br"
+        },
+        {
+            "id": 8143,
+            "name": "Clube Titão De Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Mauricio Jose Neves de Araujo",
+            "address": "Rua Ferreira Dias, N° 29 - Bairro De Flores, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 7191,
+            "name": "Clube Ulisses Paixão Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Ulisses Rodrigues Paixão",
+            "address": "Rua A1 N: 1060 A Conjunto 31 de Março 2, Bairro: Japiim , Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 10454,
+            "name": "CMJJ Headquarters",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Carrollton",
+            "responsible": "Carlos Machado",
+            "address": "2201 Midway Rd. Ste. 312, Carrollton, Texas, United States of America",
+            "website": "www.carlosmachado.net"
+        },
+        {
+            "id": 10456,
+            "name": "CMJJ Pure Jiu-Jitsu Southern Highlands",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Tony Thomas Pycroft",
+            "address": "6/10 Davy Street, Mittagong, Sydney, Nsw, Australia",
+            "website": "www.purebjj.com.au"
+        },
+        {
+            "id": 7221,
+            "name": "CMT12 Escola de Lutas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Marcos Maciel de Oliveira",
+            "address": "Rua Porto das Pedras n: 419 apt 102, Bairro: Bangu, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9784,
+            "name": "CN Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Claudio Nohan Avila",
+            "address": "Servidão Lua Branca 395, Florianópolis, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 2771,
+            "name": "Coachella Valley BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Palm Desert",
+            "responsible": "Anthony Mantanona",
+            "address": "71760 Country Club Drive Ste. C, Palm Desert, CA, United States of America",
+            "website": "www.cvbjj.com"
+        },
+        {
+            "id": 10479,
+            "name": "Coala BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Thiago Vieira Israel",
+            "address": "Rua Veiga Cabral 1118 - 2º Andar, Entre São Pedro E São Francisco, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 2619,
+            "name": "Coalition 95",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Cruz",
+            "responsible": "Claudio Franca",
+            "address": "1658 Soquel Dr, Suite C  , , Santa Cruz, CA, United States of America",
+            "website": "www.claudiofrancabjj.com"
+        },
+        {
+            "id": 6121,
+            "name": "Coalizão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Bruno Campos Fernandes de Souza",
+            "address": "Rua Estrada Da Cabrita, 722, Bloco 04 Ap 202 Cond. Reserva Alto Verde, Aracaju, Sergipe, Brasil",
+            "website": "www.fitcombatbjj.com.br"
+        },
+        {
+            "id": 3607,
+            "name": "Cobra Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Plano",
+            "responsible": "Eduardo Ricardo de Carvalho",
+            "address": "1441 Coit Road #6 , Plano, TX, United States of America",
+            "website": "www.cobrabjj.com"
+        },
+        {
+            "id": 8321,
+            "name": "Cobra Dagua Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Três Pontas",
+            "responsible": "Marcelo Tavares Lima",
+            "address": "Sebastião Xavier De Brito, 820, Três Pontas, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 10389,
+            "name": "Cobrinha Brazilian Jiu-Jitsu Sunninghill",
+            "federationAbbr": "IBJJF",
+            "country": "South Africa",
+            "countryAbbr": "ZA",
+            "city": "Sunninghill",
+            "responsible": "Rubens Charles Maciel",
+            "address": "1 Kikuyu Rd, Sunninghill, Johannesburg, South Africa",
+            "website": "www.quanwessels.co.za"
+        },
+        {
+            "id": 2496,
+            "name": "Coelhao Jiu-Jitsu Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Lahr",
+            "responsible": "Michael Haselein",
+            "address": "Huberweg 23  , , Lahr, --, Germany",
+            "website": ""
+        },
+        {
+            "id": 7586,
+            "name": "Coelho Artes Marciais Prof Ian Coelho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Ianary Farias Norat Vasconcelos Jr",
+            "address": "Teófilo Condurú, 908 - Altos, Guamá, Belém, PA, Brasil",
+            "website": null
+        }
+    ]
+}

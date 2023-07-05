@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 312,
+        "from": 6220,
+        "to": 6240,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8596,
+            "name": "Tac Team Chicago - The Academy Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Northfield",
+            "responsible": "Ashur Sami Darmo",
+            "address": "193 Northfield Rd, Northfield, Il, United States of America",
+            "website": "Academybjj.com"
+        },
+        {
+            "id": 4380,
+            "name": "Tactics",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tampa",
+            "responsible": "Joseph Edward Best",
+            "address": "718 E Henderson Ave, , Tampa, FL, United States of America",
+            "website": ""
+        },
+        {
+            "id": 10597,
+            "name": "Taipei Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Taiwan",
+            "countryAbbr": "TW",
+            "city": "Taipei",
+            "responsible": "Christopher S Ng",
+            "address": "No. 33, Lane 82, Section 3, Xinsheng N. Rd, Zhongshan District, Taipei, Taiwan",
+            "website": null
+        },
+        {
+            "id": 3312,
+            "name": "Taisho Jiu-Jitsu Academy",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Handa",
+            "responsible": "Tomomi Iwama",
+            "address": "2-28 Kasuga-machi, Handa, Aichi, Japan",
+            "website": "www.barbosajapan.com"
+        },
+        {
+            "id": 3080,
+            "name": "Taiwan BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Taiwan",
+            "countryAbbr": "TW",
+            "city": "Taipei",
+            "responsible": "Makoto Ogasawara",
+            "address": "B1F, No 12-3, Jilin Rd. Zhongshan Dist.   , , Taipei, Taiwan",
+            "website": "www.taiwanbjj.org"
+        },
+        {
+            "id": 6661,
+            "name": "Takado",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Espoo",
+            "responsible": "Markku Juhani Juntunen",
+            "address": "Pihatorma 1D, Espoo, Finland",
+            "website": "www.takado.fi"
+        },
+        {
+            "id": 5663,
+            "name": "Takamoto Dojo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Hirokazu Takamoto",
+            "address": "1-89-12, Ogawachou, Kodairashi, Tokyo, Japan",
+            "website": "http://tkmt-dojo.com/"
+        },
+        {
+            "id": 3308,
+            "name": "Takatsuki Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka",
+            "responsible": "Yoshikazu Azuma",
+            "address": "10-5 Flora Heights Takatsuki 1 floor, Nishiyosumi-cho, Takatsuki-shi  , Osaka, --, Japan",
+            "website": "www.takatsuki-jiujitsu.com"
+        },
+        {
+            "id": 6337,
+            "name": "Takayas Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": null,
+            "address": "Rua Doutor Jorge Melick n: 05, Corta Vento, Teresópolis, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8841,
+            "name": "Take It Easy Natural Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Alex Gil Braga de Figueiredo Costa",
+            "address": "Rua Dallas Bairro Flores 545, Condominio Morumbi Casa 28, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 7343,
+            "name": "Talmid Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Davi Valdir de Faria Junior",
+            "address": "Rua Santos Saraiva, 1746 - 702 B, bairro: Capoeiras, Florianópolis, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8129,
+            "name": "TAM -  Team Alpha Male",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao Bernardo Do Campo",
+            "responsible": "Fabio Nascimento do Prado",
+            "address": "Avenida César Magnani 840, Sao Bernardo Do Campo, Sao Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 10426,
+            "name": "TAM - Team Alpha Male HQ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sacramento",
+            "responsible": "Fabio Nascimento do Prado",
+            "address": "6700 Folsom Blvd, Sacramento, California, United States of America",
+            "website": "Teamalphamale.Com"
+        },
+        {
+            "id": 3310,
+            "name": "Tani Team",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "--",
+            "responsible": "Tadeu Takao Tani",
+            "address": "34-13 Shimoeda Toyosato-cho I, --, Shiga-ken, Japan",
+            "website": "-"
+        },
+        {
+            "id": 10751,
+            "name": "Tannuri Academy Brasília",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília Df",
+            "responsible": "Luiz Gustavo J. Tannuri de Almeida",
+            "address": "Shis Qi 05 Conjunto 19 Casa 23, Brasília Df, Df, Brasil",
+            "website": "tannuriacademy.com"
+        },
+        {
+            "id": 4384,
+            "name": "Tannuri Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Luiz Gustavo J. Tannuri de Almeida",
+            "address": "shis Qi O5 Conj 19 Casa 23, , Brasilia, DF, Brasil",
+            "website": "www.tannuri.com"
+        },
+        {
+            "id": 921,
+            "name": "Tanque Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Ricardo Pinheiro Reis",
+            "address": "SGAS QD 905 Conjunto B, Asa Sul, Brasília, DF, Brasil",
+            "website": "www.facebook.com/tanquejiujitsu"
+        },
+        {
+            "id": 8432,
+            "name": "Tao Bjj",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Dubai",
+            "responsible": "Alexandre Altenburg O. M. Frota",
+            "address": "Dubai Marina, Dubai, United Arab Emirates",
+            "website": null
+        },
+        {
+            "id": 7692,
+            "name": "Target Team",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Francisco Fodé Sanuci Baió",
+            "address": "224 Rodenhurst Road, Clapham, London, LONDON, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 10696,
+            "name": "Tarouco Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lajeado",
+            "responsible": "Vitor Hugo Rodrigues Tarouco",
+            "address": "R. Roberto Fridolino Kolling, 140,  Bairro: Florestal, Megarace Centro Fitness, Lajeado, Rs, Brasil",
+            "website": null
+        }
+    ]
+}

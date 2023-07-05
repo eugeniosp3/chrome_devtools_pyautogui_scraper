@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 324,
+        "from": 6460,
+        "to": 6480,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4918,
+            "name": "Team Vanderson Gomes USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "O'Fallon",
+            "responsible": "Vanderson Gomes Dias dos Santos",
+            "address": "4261 Keaton Crossing blvd  , , O'Fallon, MO, United States of America",
+            "website": "vandersongomesbjj.com"
+        },
+        {
+            "id": 9512,
+            "name": "Team Vanu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palmas",
+            "responsible": "Evanuel Silva Andrade",
+            "address": "806 Sul, Alameda 12, Lote 07, Plano Diretor Sul, Palmas, To, Brasil",
+            "website": null
+        },
+        {
+            "id": 5314,
+            "name": "Team Vasques Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Gilberto Bez Batti Vasques",
+            "address": "Rodovia Armando Calil Bulos 410 , Vargem Grande, Florianópolis, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 10662,
+            "name": "Team Velho Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Adolwando Aluizio Marques de Souza",
+            "address": "Rua Jaguari, 170, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6543,
+            "name": "Team Vira-Lata",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "--",
+            "responsible": "Tomomi Iwama",
+            "address": "148-2 Kurotaki Tsuchiyamacho Koukashi, --, Shiga, Japan",
+            "website": "https://vira-latajiujtsu.jimdo.com"
+        },
+        {
+            "id": 7904,
+            "name": "Team Vugner Silva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Senhor Do Bonfim",
+            "responsible": "Vugner Amador da Silva",
+            "address": "Rua Dom Pedro Ii, 731, Senhor Do Bonfim, Ba, Brasil",
+            "website": "www.teamnovauniao.com.br"
+        },
+        {
+            "id": 10651,
+            "name": "Team Wagner Alves",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Juazeiro Do Norte",
+            "responsible": "Cicero Wagner de Sousa Alves ",
+            "address": "Rua Cicera Patrícia 41, Juazeiro Do Norte, Ce, Brasil",
+            "website": null
+        },
+        {
+            "id": 7291,
+            "name": "Team Wyvern",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Incheon",
+            "responsible": "Seung-Jae Lee",
+            "address": "Team Wyvern, 4f, 2, Bongjaesan-ro 44beon-gil, Yeonsu-gu, Incheon, Incheon, Korea, South",
+            "website": null
+        },
+        {
+            "id": 4537,
+            "name": "Team Yuri Carlton",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Evandro Alves Nascimento",
+            "address": "Professor Pinto de Aguiar, 22 3 andar, Boca do Rio, Salvador, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 10041,
+            "name": "Team Zapata",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Clearwater",
+            "responsible": "Benjamin Joel Zapata",
+            "address": "5047 Ulmerton Road, Clearwater, Fl, United States of America",
+            "website": "gracielargo.com"
+        },
+        {
+            "id": 6194,
+            "name": "Team Zurab Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Roston on Don",
+            "responsible": "Ademir Pereira de Oliveira",
+            "address": "St, Stachky 225-64, Roston on Don, --, Russia",
+            "website": null
+        },
+        {
+            "id": 3834,
+            "name": "Team-Choco",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "APO AE",
+            "responsible": "Vincent Angelo Carlucci",
+            "address": "CMR 467 Box 6163  , , APO AE, --, United States of America",
+            "website": "www.teamchoco.net"
+        },
+        {
+            "id": 10227,
+            "name": "Team-Choco Costa Rica",
+            "federationAbbr": "IBJJF",
+            "country": "Costa Rica",
+            "countryAbbr": "CR",
+            "city": "La Fortuna De San Carlos",
+            "responsible": "Vincent Angelo Carlucci",
+            "address": "Apdo Postal 001-4417, La Fortuna De San Carlos, Alajuela, Costa Rica",
+            "website": "http://www.teamchoco.net"
+        },
+        {
+            "id": 9850,
+            "name": "Team-nso",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Nogent-sur-oise",
+            "responsible": "Seral Yilar",
+            "address": "8 Rue De La Paix 60180 Nogent Sur Oise, Nogent-sur-oise, France",
+            "website": null
+        },
+        {
+            "id": 4529,
+            "name": "Teampact",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Hulon",
+            "responsible": "David Ben Zaken",
+            "address": "Eilat 27/6  , , Hulon, Israel",
+            "website": "www.teampact.co.il"
+        },
+        {
+            "id": 5009,
+            "name": "Teampacto Stuttgart",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Stuttgart",
+            "responsible": "Daniel Teodoro Da Silva",
+            "address": "Haussmannstr. 146 B, , Stuttgart, Germany",
+            "website": "www.impactoteam.com"
+        },
+        {
+            "id": 6678,
+            "name": "Techne",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Hyeon Rae Lee",
+            "address": "Techne Bjj 4th,8, Muhak-ro, Seongdong-gu, Seoul, Republic Of Korea, Seoul, Korea, South",
+            "website": "technestudio.co.kr"
+        },
+        {
+            "id": 2274,
+            "name": "Teixeira Garcia Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Covina",
+            "responsible": "Sammy Garcia",
+            "address": "4706 N. Grand Ave.  , , Covina, CA, United States of America",
+            "website": "teixeiragarciabjj.com"
+        },
+        {
+            "id": 8535,
+            "name": "Teknica Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pinecrest",
+            "responsible": "Renny Daniel Gonzalez",
+            "address": "11829 S Dixie Hwy, Pinecrest, Florida, United States of America",
+            "website": "www.TeknicaBJJ.com"
+        },
+        {
+            "id": 9051,
+            "name": "Temecula Lokahi Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Temecula",
+            "responsible": "Rudy Galima",
+            "address": "27580 Ynez Road, Suite B, Temecula, Ca, United States of America",
+            "website": null
+        }
+    ]
+}

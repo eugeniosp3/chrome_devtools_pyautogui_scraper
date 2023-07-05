@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 209,
+        "from": 4160,
+        "to": 4180,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2581,
+            "name": "KnuckleUp Buckhead",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Atlanta",
+            "responsible": "Jaime Abrille",
+            "address": "4540 Roswell Rd., Atlanta, GA, United States of America",
+            "website": "www.knuckleupfitness.com"
+        },
+        {
+            "id": 9179,
+            "name": "KOA Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Francisco Gabriel de Abreu Camelo",
+            "address": "Rua N 547, Fortaleza, Ce, Brasil",
+            "website": null
+        },
+        {
+            "id": 7244,
+            "name": "Kobukan Martial Arts Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Norfolk",
+            "responsible": "Ronald Manes",
+            "address": "9563 Shore Drive, Norfolk, VA, United States of America",
+            "website": "www.kmadojo.org"
+        },
+        {
+            "id": 3719,
+            "name": "Koch Team",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Szczecin",
+            "responsible": "Leonardo Francisco Lopes Neves",
+            "address": "UL. Jagiellonska 2/1  , Szczecin, --, Poland",
+            "website": "www.kochteam.pl"
+        },
+        {
+            "id": 6790,
+            "name": "Kogaion Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Arlington",
+            "responsible": "Vasile Ciocoiu",
+            "address": "2788 South Arlington Mill Drive, Arlington, VA, United States of America",
+            "website": "www.kogaionacademy.com"
+        },
+        {
+            "id": 10460,
+            "name": "Kohaku Jiu-Jitsu Tactics \u0026 Combatives",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pine Mountain Mountain Club",
+            "responsible": "Juan Carlos Bonilla",
+            "address": "16236 Pine Valley Lane, Pine Mountain Mountain Club, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 8327,
+            "name": "Koishikawahakusan Jiu-jitsu-bu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Bunkyo-ku",
+            "responsible": "Keita Takahashi",
+            "address": "1-6-5 Hakusan,, #103 Shiruba-purazahakusan, Bunkyo-ku, Tokyo, Japan",
+            "website": "Japan"
+        },
+        {
+            "id": 8160,
+            "name": "Koks BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Marcello Viktor Cavalcanti Morais",
+            "address": "Avenida Hilton Souto Maior, 6501, João Pessoa, Paraíba, Brasil",
+            "website": "www.kokbjj.com.br"
+        },
+        {
+            "id": 10709,
+            "name": "Kola Ajose Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hercules",
+            "responsible": "Kola T. Ajose",
+            "address": "718 Alfred Nobel Drive, Hercules, California, United States of America",
+            "website": null
+        },
+        {
+            "id": 8546,
+            "name": "Komainu Gym Reno",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Reno",
+            "responsible": "Jerel Steven Hallert",
+            "address": "3865 Mira Loma Dr, Reno, Nv, United States of America",
+            "website": "bjjrenotahoe.com"
+        },
+        {
+            "id": 2445,
+            "name": "Kombat Klub",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Amadora",
+            "responsible": null,
+            "address": "Av.ª Dr. Armando Romão n.º 6 r/c  , Amadora, Amadora, x, Portugal",
+            "website": ""
+        },
+        {
+            "id": 3476,
+            "name": "Kombat Klub Riachos",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Riachos",
+            "responsible": "Basílio Alves Leal",
+            "address": "Largo da Estação, nr 4, Riachos, Portugal",
+            "website": null
+        },
+        {
+            "id": 10140,
+            "name": "Kombat Matão",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Matão",
+            "responsible": "Douglas Ari Batista dos Santos",
+            "address": "Rua São Lourenço 670 Centro, Matão, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8889,
+            "name": "Konjaku Yawara-dô",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Abelardo Luz",
+            "responsible": "Guilherme Babo Sedlacek",
+            "address": "Rua Frei Bruno 412, Centro, Abelardo Luz, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 5106,
+            "name": "Konk Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Thiago Monteiro de Araújo",
+            "address": "Conj. Promorar Q 81 R 32 a - Numero 71, Maracangalha, Belém, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 8177,
+            "name": "Konnen BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Adalberto de Souza Silva",
+            "address": "Estrada Independente, 27, Petrópolis, Independência, Brasil",
+            "website": null
+        },
+        {
+            "id": 4875,
+            "name": "Koral Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Luis",
+            "responsible": "Kleiton Jose Costa da Silva",
+            "address": "Rua 07, Quadra 15B 01 Residencial Filgueiras, Jardim São Cristóvão II, São Luis, MA, Brasil",
+            "website": "www.leaodourado.com.br"
+        },
+        {
+            "id": 3665,
+            "name": "Kore BJJ \u0026 MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Danbury",
+            "responsible": "Luigi Emile Mondelli",
+            "address": "16 Beaver Brook Rd #4  , , Danbury, CT, United States of America",
+            "website": "www.koremartialarts.com"
+        },
+        {
+            "id": 4855,
+            "name": "Korea Ansan Cicero Costha Team",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Ansan",
+            "responsible": "Kyeongmin Lee",
+            "address": "3F, 66, Banseok-ro, sangnok-gu, Ansan-si, Gyeonggi-do  , , Ansan, Korea, South",
+            "website": "cafe.naver.com/acbjj"
+        },
+        {
+            "id": 10109,
+            "name": "Korea Route BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Geoje-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "B1(route Bjj), 38, Gyeryong-ro, Geoje-si, Gyeongsangnam-do, Korea, South",
+            "website": null
+        }
+    ]
+}

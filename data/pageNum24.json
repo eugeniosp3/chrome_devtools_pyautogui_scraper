@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 24,
+        "from": 460,
+        "to": 480,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2201,
+            "name": "American Top Team - West Palm Beach",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "West Palm Beach",
+            "responsible": "Marcos da Matta Meira",
+            "address": "2260 Palm Beach Lakes Blvd #201  , , West Palm Beach, FL, United States of America",
+            "website": "www.attwpb.com"
+        },
+        {
+            "id": 3372,
+            "name": "American Top Team Atlanta",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Atlanta",
+            "responsible": "Roan Carneiro Brandão Pereira",
+            "address": "2110 Faulkner Road NE  , , Atlanta, GA, United States of America",
+            "website": "www.attatl.com"
+        },
+        {
+            "id": 9447,
+            "name": "American Top Team Aventura Nmb",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Miami",
+            "responsible": "Enrique Augusto March",
+            "address": "2148 Ne 164th Street, Miami, Fl, United States of America",
+            "website": null
+        },
+        {
+            "id": 2179,
+            "name": "American Top Team Boca Raton",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boca Raton",
+            "responsible": null,
+            "address": "  , Boca Raton, FL, United States of America",
+            "website": null
+        },
+        {
+            "id": 2544,
+            "name": "American Top Team Connecticut",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Danbury",
+            "responsible": "Luigi Emile Mondelli",
+            "address": "16 Beaver Brook Rd #3  , , Danbury, CT, United States of America",
+            "website": "www.americantopteamct.com"
+        },
+        {
+            "id": 8658,
+            "name": "American Top Team Coral Springs",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Deerfield Beach",
+            "responsible": "Bruno Maniaudet Bastos",
+            "address": "319 Nw 42nd Way, Deerfield Beach, Fl, United States of America",
+            "website": "www.attcoralsprings.com"
+        },
+        {
+            "id": 3441,
+            "name": "American Top Team Davie",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Davie",
+            "responsible": "Rodrigo Silva Ramos",
+            "address": "5929 S University Drive  , , Davie, FL, United States of America",
+            "website": "www.attdavie.com"
+        },
+        {
+            "id": 3824,
+            "name": "American Top Team Deerfield Beach",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Deerfield Beach",
+            "responsible": "Rafael Leondy Rebello",
+            "address": "1000 E. Hillsboro Blvd. STE 106 , , Deerfield Beach, FL, United States of America",
+            "website": "http://www.attdeerfield.com/"
+        },
+        {
+            "id": 2993,
+            "name": "American Top Team D'iberville",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "D'Iberville",
+            "responsible": "John Alan Belcher",
+            "address": "10380 Auto Mall Pkwy, , D'Iberville, MS, United States of America",
+            "website": "attdiberville.com"
+        },
+        {
+            "id": 7690,
+            "name": "American Top Team East Orlando",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orlando",
+            "responsible": "Jayson Alexis Patino",
+            "address": "422 S. Alafaya Trl., Suite 23, Orlando, Florida, United States of America",
+            "website": "www.mmaorlando.com"
+        },
+        {
+            "id": 8674,
+            "name": "American Top Team Gulfport",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gulfport",
+            "responsible": "Michael Charles Sanford",
+            "address": "12100 Hwy 49, Ste 210, Gulfport, Ms, United States of America",
+            "website": "gulfportmartialarts.com"
+        },
+        {
+            "id": 6176,
+            "name": "American Top Team Junior Fernandes",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Lauderdale",
+            "responsible": "Jorge Luiz de Mello Fernandes Junior",
+            "address": "582 SW Flagler Ave., Fort Lauderdale, FL, United States of America",
+            "website": "www.attftl.com"
+        },
+        {
+            "id": 3944,
+            "name": "American Top Team Portland",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Portland",
+            "responsible": "Fabiano Andre Scherner",
+            "address": "7200 Se 92nd ave Suite e, Portland, OR, United States of America",
+            "website": "www.attpdx.com"
+        },
+        {
+            "id": 9790,
+            "name": "American Top Team Shark",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Icaraí - Niteroi",
+            "responsible": "Emyr Bussade Neto",
+            "address": "Joaquim Távora 130 / Numero 1010, Icaraí - Niteroi, Rj, Brasil",
+            "website": "Www.sharkbjj.com"
+        },
+        {
+            "id": 7866,
+            "name": "American Top Team Warner Robins",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bonaire",
+            "responsible": "Jeremiah Cole Miller",
+            "address": "405 Hwy 96 Suite 700, Bonaire, Georgia, United States of America",
+            "website": "http://www.millermartialarts.us"
+        },
+        {
+            "id": 2313,
+            "name": "American Top Team Wellington",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wellington",
+            "responsible": "Emyr Bussade Neto",
+            "address": "10220 Forest Hill Boulevard #140, , Wellington, Fl, United States of America",
+            "website": "www.attwellington.com"
+        },
+        {
+            "id": 8886,
+            "name": "Amigos Juntos Constroem",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Alexissandro Rodrigues Pereira",
+            "address": "Rua Coelho Da Fonseca, 283, Academia Impacto Fitness, Fortaleza, Ceara, Brasil",
+            "website": null
+        },
+        {
+            "id": 10646,
+            "name": "Amintas Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Magé",
+            "responsible": "Amintas José Silva do Nascimento",
+            "address": "Rua Vista Alegre Nº 240, Sobreloja, Magé, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6583,
+            "name": "AMJ Academy",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Baoding City",
+            "responsible": "Ayres  Modesto Dias Neto",
+            "address": "1802, Building A, Diangu Yuansheng Plaza, 1898 Chaoyang North Street, High Tech Zone, 100m east of the road (3rd floor of the Lebo Robotics Institute) hao qian budokan, Baoding City, Hebei Province, China",
+            "website": null
+        },
+        {
+            "id": 10186,
+            "name": "Amsterdam Grappling Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Netherlands",
+            "countryAbbr": "NL",
+            "city": "Amsterdam",
+            "responsible": "Julio Mafaldo Vinke",
+            "address": "Pontsteiger, 171, Amsterdam, Noord Holland, Netherlands",
+            "website": "amsterdamgrappling.academy"
+        }
+    ]
+}

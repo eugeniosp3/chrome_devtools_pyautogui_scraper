@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 70,
+        "from": 1380,
+        "to": 1400,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8631,
+            "name": "Caveman HQ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Robert A. Brice",
+            "address": "11503 Jones-maltsberger Rd., Suite 1160, San Antonio, Texas, United States of America",
+            "website": null
+        },
+        {
+            "id": 8632,
+            "name": "Caya Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rockwall",
+            "responsible": "Hugo Mayer Lima",
+            "address": "811 E Yellow Jacket Ln, Suíte 130, Rockwall, Texas, United States of America",
+            "website": null
+        },
+        {
+            "id": 5513,
+            "name": "CAZA Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Noosa Heads",
+            "responsible": "Yoshinori Hasegawa",
+            "address": "153 Cooyar Street, Noosa Heads, QLD, Australia",
+            "website": "www.cazabjj.com.au"
+        },
+        {
+            "id": 9592,
+            "name": "Cazador Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Gimpo-si",
+            "responsible": "Hyunwoo Jang",
+            "address": "40, Gimpohangang 1-ro 51beon-gil, Gimpo-si, Gyeonggi-do, Republic Of Korea 3f Cazador Jiu-jitsu, Gimpo-si, Gyeonggi-do, Korea, South",
+            "website": "https://www.instagram.com/j_cazador_bjj"
+        },
+        {
+            "id": 6673,
+            "name": "CB Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Marcio Roberto da Silva Araujo",
+            "address": "Rua do Buzi n: 3184, Nova Natal - Lagoa Azul, Natal, RN, Brasil",
+            "website": null
+        },
+        {
+            "id": 8212,
+            "name": "Cbfamilybrasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro ",
+            "responsible": "Ronaldo Vieira dos Santos",
+            "address": "Rua Cabreúva 317, Rua Iracema 371, Rio De Janeiro , Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 10399,
+            "name": "CDA Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dalton Gardens",
+            "responsible": "Shawn Michael Lawrence",
+            "address": "7680 N Government Way Ste 2, Dalton Gardens, Idaho, United States of America",
+            "website": "cdajiujitsu.com"
+        },
+        {
+            "id": 5721,
+            "name": "CDK Team",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Aulnay s/s Bois",
+            "responsible": "Alain Boret Mandengué",
+            "address": "1 Allee Jacques Monod, Aulnay s/s Bois, FR, France",
+            "website": null
+        },
+        {
+            "id": 9532,
+            "name": "Cebu Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Mandaue",
+            "responsible": "Enrique Jingco",
+            "address": "3rd Floor Of The Flc Center, #888 Hernan Cortes St, Mandaue, Philippines",
+            "website": "www.cebujiujitsu.com"
+        },
+        {
+            "id": 10424,
+            "name": "Ceconi BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cypress",
+            "responsible": "Alexandro Ceconi de Souza",
+            "address": "20211 Longenbaugh Rd, 2204, Cypress, TX, United States of America",
+            "website": "Ceconibjj.com"
+        },
+        {
+            "id": 10724,
+            "name": "Ceconi BJJ Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Criciuma",
+            "responsible": "Alexandro Ceconi de Souza",
+            "address": "Rua Tuiuti 16 , Apto 702, Criciuma, Santa Catarina, Brasil",
+            "website": "Ceconibjj.com"
+        },
+        {
+            "id": 5281,
+            "name": "Ceconi KMKZ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Criciúma",
+            "responsible": "Marcos Eduardo Antunes Giusti",
+            "address": "Rua General Oswaldo Pinto da Veiga, 101, Criciúma, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 3026,
+            "name": "Cei Jiu-Jitsu International",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ceilândia Norte",
+            "responsible": "Claudio Márcio Nunes Meneses",
+            "address": "QNO - 03 Conjunto N Casa 19, Setor \"O\", Ceilândia Norte, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 4351,
+            "name": "Cemilton Reis",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Seguro",
+            "responsible": "Cemilton Reis Oliveira",
+            "address": "Rua Benedito Claudio 98, Centro, Porto Seguro, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8804,
+            "name": "Cens Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Bruxelles",
+            "responsible": "Khalid Houry",
+            "address": "Rue Des Goujons, 63 Bte 107, Bruxelles, Bruxelles, Belgium",
+            "website": "www.censacademy.com"
+        },
+        {
+            "id": 4523,
+            "name": "Central Fight Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Emilio Santos Nascimento",
+            "address": "Rua Paraíba, 1070 - Novo Paraíso, Jose Conrado de Araujo, Aracaju, Sergipe, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5189,
+            "name": "Central Maine Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lewiston",
+            "responsible": "Travis R. Wells",
+            "address": "760 Main St, Lewiston, ME, United States of America",
+            "website": "www.cmbjj.com"
+        },
+        {
+            "id": 3562,
+            "name": "Central Oahu Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wahiawa",
+            "responsible": "Kai Daniel Greenlee Garcia",
+            "address": "70 Kukui Street  , , Wahiawa, HI, United States of America",
+            "website": "http://www.cobjj.com"
+        },
+        {
+            "id": 7232,
+            "name": "Centriq Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Queijas",
+            "responsible": "Leonardo Cerqueira",
+            "address": "Av. Tomas Ribeiro 143, Queijas, Oeidas, Portugal",
+            "website": "www.FPTeamBJJ.com"
+        },
+        {
+            "id": 3812,
+            "name": "Centro de Artes Marciais Hadha-Dojô",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Igarape-Açu",
+            "responsible": "Hadhamés Fernandes da Silva",
+            "address": "Travessa 16 de Novembro,1675 Academia do Hadha, São Sebastião, Igarape-Açu, PA, Brasil",
+            "website": null
+        }
+    ]
+}

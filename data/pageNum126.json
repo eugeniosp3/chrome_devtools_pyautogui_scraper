@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 126,
+        "from": 2500,
+        "to": 2520,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4424,
+            "name": "Fight Gym Nürnberg",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Nürnberg",
+            "responsible": "Isaac da Conceicao Alves Poti",
+            "address": "Nimrodstrasse 10  , , Nürnberg, --, Germany",
+            "website": "fgnuernberg.de"
+        },
+        {
+            "id": 7347,
+            "name": "Fight Holic",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nonoichi-shi",
+            "responsible": "Koji Shimasaki",
+            "address": "23-23 Sumiyoshimachi, Nonoichi-shi, Ishikawa, Japan",
+            "website": "http://fightholic.jp/"
+        },
+        {
+            "id": 5938,
+            "name": "Fight House BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Casimiro De Abreu",
+            "responsible": "Rafael Bouckhorny Gonçalves",
+            "address": "Travessa Jovino Siqueira, 28, Casimiro De Abreu, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10384,
+            "name": "Fight Nation",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "St. Helier",
+            "responsible": "Vladimiro Miguel G.V.S. Afonso",
+            "address": "31 Albert Place, La Route Du Port Elizabeth, St. Helier, Jersey, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 3405,
+            "name": "Fight Prime Training Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Madison",
+            "responsible": "João Bosco da Silva Gouveia",
+            "address": "1810 South Park Street  , , Madison, WI, United States of America",
+            "website": "www.fightprimetc.com"
+        },
+        {
+            "id": 4370,
+            "name": "Fight School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Godofredo Castro de Oliveira",
+            "address": "Travessa Riachuelo, 99, Aeroporto, Fortaleza, CE, Brasil",
+            "website": null
+        },
+        {
+            "id": 8578,
+            "name": "Fight Skills Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Poços De Caldas",
+            "responsible": "Ives Emmanoel Oliveira Sacramento",
+            "address": "Rua Juscelino Barbosa, N265, Bairro Aparecida, Poços De Caldas, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 4021,
+            "name": "Fight Society Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Janaúba",
+            "responsible": "Eustáquio Cardoso de Carvalho",
+            "address": "Av. dos Inconfidentes 630, São Gonçalo, Janaúba, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 6976,
+            "name": "Fight Spirit Team Conde",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Lauderdale",
+            "responsible": "Michel da Silva Baggio",
+            "address": "3209 NE 28th St. #16, Fort Lauderdale, FL, United States of America",
+            "website": null
+        },
+        {
+            "id": 2300,
+            "name": "Fight Sports",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Miami Beach",
+            "responsible": "Roberto de Abreu Filho",
+            "address": "7437 Collins Ave.  , , Miami Beach, FL, United States of America",
+            "website": "www.fightsportsbeach.com"
+        },
+        {
+            "id": 3418,
+            "name": "Fight Sports Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Roberto de Abreu Filho",
+            "address": "Rua Euclides da Cunha 1774 , Santa Fé, Campo Grande, MS, Brasil",
+            "website": null
+        },
+        {
+            "id": 9336,
+            "name": "Fight Sports Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Luís",
+            "responsible": "Rômulo Fiquene Couto de Sousa",
+            "address": "Av. Presidente Juscelino Kubitschek, Qdr 19 L:13, São Luís, Ma, Brasil",
+            "website": null
+        },
+        {
+            "id": 3393,
+            "name": "Fight Sports International",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Miami",
+            "responsible": "Roberto de Abreu Filho",
+            "address": "2220 NE 2nd Ave  , Miami, FL, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 8707,
+            "name": "Fight Squad",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Bruno Fornari",
+            "address": "Rua Humaitá 45, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 8749,
+            "name": "Fight Team Toulon",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Toulon",
+            "responsible": "Amandine Cathy Nadege Layec",
+            "address": "46 Rue Saint Laurent, Toulon, France",
+            "website": null
+        },
+        {
+            "id": 2232,
+            "name": "Fight Tech Team Fefél",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Rafael Coelho de Brito",
+            "address": "Avenida 1 Radial n: 1165 qd 58 lote 01, Setor Pedro Ludovico, Goiânia, GO, Brasil",
+            "website": null
+        },
+        {
+            "id": 6018,
+            "name": "Fight Time",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sete Lagoas",
+            "responsible": "Washington Souza Pires",
+            "address": "Rua Gilson Assis Carvalho n: 455, Interlagos, Sete Lagoas, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 8941,
+            "name": "Fight TLV",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Tel Aviv",
+            "responsible": "Gal Shkedi",
+            "address": "167 Hayarkon St., Tel Aviv, Israel",
+            "website": "www.fighttlv.com"
+        },
+        {
+            "id": 10294,
+            "name": "Fight To Win Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Concord",
+            "responsible": "Steven Phillip Hall",
+            "address": "8230 Poplar Tent Rd, Unit 102, Concord, Nc, United States of America",
+            "website": "Www.ftwbjjacademy.com"
+        },
+        {
+            "id": 6420,
+            "name": "Fight University",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Paulo Alexandre Caldeira Deyllot",
+            "address": "Rua Santo Antonio n: 513, Bela Vista, São Paulo, São Paulo, Brasil",
+            "website": "www.academiacentralfitness.com.br"
+        }
+    ]
+}

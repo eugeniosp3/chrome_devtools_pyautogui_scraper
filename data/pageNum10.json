@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 10,
+        "from": 180,
+        "to": 200,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4157,
+            "name": "Academia Palumbo Jiu Jitsu - MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Mar del Plata",
+            "responsible": "Claudio Javier Palumbo",
+            "address": "Av. Juan Hector Jara 1443, , Mar del Plata, --, Argentina",
+            "website": "www.amjiujitsu.com.ar"
+        },
+        {
+            "id": 6890,
+            "name": "Academia Parabellum",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Bologna",
+            "responsible": "Masakazu Imanari",
+            "address": "Via Santo Stefano N99, Bologna, Italy",
+            "website": "-"
+        },
+        {
+            "id": 2263,
+            "name": "Academia PitBull USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": null,
+            "address": "  , , San Diego, CA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 9510,
+            "name": "Academia Ralph Nogueira Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jaboatão Dos Guararapes",
+            "responsible": "Ralph Nogueira Nepomuceno",
+            "address": "Rua Ernesto Souza Leao 777 Piedade, Lar Geriatico, Jaboatão Dos Guararapes, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 559,
+            "name": "Academia Reação JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Paulo Roberto da Silva Caruso",
+            "address": "Rua Bertha Luz n: 84, Complexo Esportivo - Bairro; Rocinha, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 4986,
+            "name": "Academia Robson Bezerra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Robson Bezerra Lima",
+            "address": "Rua Jasiel De Brito Cortez  08 Bl 03 Apt 02, Jabotiana, Aracaju, SE, Brasil",
+            "website": ""
+        },
+        {
+            "id": 864,
+            "name": "Academia Rostan Lacerda",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Rostan da Silva Lacerda",
+            "address": "Rua Feliciano De Melo 189 - A, Imbiribeira, Recife, Pe, Brasil",
+            "website": null
+        },
+        {
+            "id": 6929,
+            "name": "Academia Sankaco de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Flavio Maia dos Santos",
+            "address": "Rua Atilio Marotti n: 1020, Quarteirão Brasileiro, Petrópolis, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7080,
+            "name": "Academia SBA Sylvio Behring",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Sylvio da Matta Behring",
+            "address": "Rua Wilson Adnislen Freitas De Paiva Bueno, 41 Bloco G Ap 00528, Recreio dos Bandeirantes, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": "sbajj.com"
+        },
+        {
+            "id": 9545,
+            "name": "Academia Sene Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barcarena",
+            "responsible": "Arnaldo Aparecido de Sene Junior",
+            "address": "Rua Conego Silvestre P.serra, Proximo Tucunaré Pixaria, Barcarena, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 2663,
+            "name": "Academia Serrana Petrópolis de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Irineu Ravelli Junior",
+            "address": "Rua do Imperador 288 Sobreloja 11, Centro, Petrópolis, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 10572,
+            "name": "Academia T S  De Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Jose Tadeu Teixeira dos Santos",
+            "address": "Virgílio Alves Chaves 165, Campo Grande, Ms, Brasil",
+            "website": "Www.ttadeusantos.com.br"
+        },
+        {
+            "id": 3943,
+            "name": "Academia Tatuapu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Alan Regis de Assis",
+            "address": "Rua Antonio Correa 111 , Centro, Campo Grande, MS, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7089,
+            "name": "Academia Team Treta",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Monte Carmelo",
+            "responsible": "José Eduardo de Oliveira",
+            "address": "Avenida Braulino Martins Mundim 1597, Bairro: Belo Horizonte, Monte Carmelo, Belo Horizonte, Brasil",
+            "website": null
+        },
+        {
+            "id": 5303,
+            "name": "Academia Thai Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba ",
+            "responsible": "Igor Soares",
+            "address": "Avenida Presidente Affonso Camargo 2849, Curitiba , PR, Brasil",
+            "website": "www.thaibrasil.com"
+        },
+        {
+            "id": 4325,
+            "name": "Academia UK Northwest Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Manchester",
+            "responsible": "Lucio Sergio dos Santos",
+            "address": "217 Ashton Road , Manchester, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 9642,
+            "name": "Academia Washington Luis BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "Washington Luis do M. Lima",
+            "address": "7311  N Main St, Houston, TEXAS, United States of America",
+            "website": "www.washingtonluisbjj.com"
+        },
+        {
+            "id": 4160,
+            "name": "Academie Attila",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Savigny Sur Orge",
+            "responsible": "Alain Nagera",
+            "address": "70 Avenue des Marronniers  , , Savigny Sur Orge, --, France",
+            "website": ""
+        },
+        {
+            "id": 5272,
+            "name": "Academie Caio Terra",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Repentigny",
+            "responsible": "Caio Terra",
+            "address": "506 A Rue Lanaudiere, Repentigny, qc, Canada",
+            "website": "bjjmontreal.com"
+        },
+        {
+            "id": 10679,
+            "name": "Académie Connexion",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "St-amable",
+            "responsible": "Mathieu Daviault",
+            "address": "510 Charbonneau, St-amable, Qc, Canada",
+            "website": "academieconnexion.com"
+        }
+    ]
+}

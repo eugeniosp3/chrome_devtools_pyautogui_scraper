@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 309,
+        "from": 6160,
+        "to": 6180,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9934,
+            "name": "Studiofight BJJ - MT",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cuiabá",
+            "responsible": "Fabio Soares de Sousa",
+            "address": "Rua Somatra 249, Jardim Shangri-la, Cuiabá, Mt, Brasil",
+            "website": null
+        },
+        {
+            "id": 9805,
+            "name": "SU",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Chatenay Malabry",
+            "responsible": "Alexandre Bogunovic",
+            "address": "Creps Ile De France, 1 Rue Du Docteur Le Savoureux, Salle Barcelone, Chatenay Malabry, France",
+            "website": "https://sportuniversel.wixsite.com/chatenay"
+        },
+        {
+            "id": 10470,
+            "name": "Sua Sponte Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Edinburg",
+            "responsible": "Shad Christopher Schutte",
+            "address": "3728 Los Lagos Dr., Edinburg, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 8335,
+            "name": "Subconscious BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Hollywood",
+            "responsible": "Brent Allen Burniston",
+            "address": "4868 Lankershim Blvd, North Hollywood, Ca, United States of America",
+            "website": "www.subconsciousbjj.com"
+        },
+        {
+            "id": 10361,
+            "name": "Subconscious Jiu-Jitsu Europe",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Ayr",
+            "responsible": "Brent Allen Burniston",
+            "address": "2 Mccalls Ave, Ayr, Scotland, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 5414,
+            "name": "Subforce BJJ / Jiu-Jitsu For The People",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lyndhurst",
+            "responsible": "Marcos Duarte",
+            "address": "718 Ridge Rd, Lyndhurst, NJ, United States of America",
+            "website": "subforcebjj.com"
+        },
+        {
+            "id": 4942,
+            "name": "Submission Arts Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Barrie",
+            "responsible": "Spencer Lalonde",
+            "address": "112 Commerce Park Drive, 1, Barrie, ON, Canada",
+            "website": "www.SubmissionArtsAcademy.com"
+        },
+        {
+            "id": 5849,
+            "name": "Submission Lab",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Dunedin",
+            "responsible": "Benoit Auvray",
+            "address": "Flat 1/ 7 Bond St, Dunedin, New Zealand",
+            "website": "submissionlab.nz"
+        },
+        {
+            "id": 8452,
+            "name": "Submission Power Team",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Villenave D'ornon",
+            "responsible": "Pierre-yves Ferrer",
+            "address": "16 Rue Pablo Picasso, Villenave D'ornon, Gironde, France",
+            "website": "https://www.submissionpowerteam.com/"
+        },
+        {
+            "id": 2667,
+            "name": "Submission Specialties",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ridgecrest",
+            "responsible": "Philip Richard Surprenant",
+            "address": "459 S. China Lake Blvd.  STE J, Ridgecrest, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 3906,
+            "name": "Submission Team",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Joinville-le-Pont",
+            "responsible": "Dahnny Dehmous",
+            "address": "1 Rue Henri Barbusse  , , Joinville-le-Pont, --, France",
+            "website": "--"
+        },
+        {
+            "id": 10105,
+            "name": "Submit MMA",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Gotenba-shi",
+            "responsible": "Thiago Fellipe Lepore Taguchi",
+            "address": "Gumizawa 11-22 Floor 2, Gotenba-shi, Shizuoka-Ken, Japan",
+            "website": "https://submitmma.jp/"
+        },
+        {
+            "id": 7839,
+            "name": "Submit Your Friend Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brighton",
+            "responsible": "Bruno Ayolphi Braz",
+            "address": "600 Washington Street, Brighton, Ma, United States of America",
+            "website": null
+        },
+        {
+            "id": 9857,
+            "name": "Subterra BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Oudsbergen",
+            "responsible": "Bart Creemers",
+            "address": "Breekiezel 131, Oudsbergen, Limburg, Belgium",
+            "website": null
+        },
+        {
+            "id": 10606,
+            "name": "Subúrbio 071 Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Wagner Ferreira Junior",
+            "address": "Rua Formosa São João - N 22, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 9192,
+            "name": "Sucker Free Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Deer Park",
+            "responsible": "Weiss Sakhizada",
+            "address": "3 Cara Court, Deer Park, United States of America",
+            "website": "Suckerfreejiujitsu.com"
+        },
+        {
+            "id": 9008,
+            "name": "Sucuri Fight House 365",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Três Marias Mg",
+            "responsible": "Fabio Junior dos Santos Paixão",
+            "address": "Venceslau Pedroso, 25, Três Marias Mg, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 6627,
+            "name": "Sudbury MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Sudbury",
+            "responsible": "John A Cole",
+            "address": "428 Westmount Ave Unit 8-9, Sudbury, ON, Canada",
+            "website": "www.sudburymma.com"
+        },
+        {
+            "id": 6638,
+            "name": "Sudoeste Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Capão Bonito",
+            "responsible": "Alan de Souza Galvão",
+            "address": "Rua Francisco Barreto n: 944, Galpão, Capão Bonito, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7565,
+            "name": "Sugiyama Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fernandópolis",
+            "responsible": "Emilio Carlos da Silva Junior",
+            "address": "Rua Cel Aviador Carlos O. Guimarães n: 36, Bairro: Jardim Paraiso, Fernandópolis, São Paulo, Brasil",
+            "website": null
+        }
+    ]
+}

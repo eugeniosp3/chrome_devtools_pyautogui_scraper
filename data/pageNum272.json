@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 272,
+        "from": 5420,
+        "to": 5440,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3529,
+            "name": "RCJ Machado",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Farmers Branch",
+            "responsible": "Carlos Machado",
+            "address": "4887 Alpha Rd.  STE. 270 , , Farmers Branch, TX, United States of America",
+            "website": "www.carlosmachado.net"
+        },
+        {
+            "id": 6898,
+            "name": "RCJJ - Caporal",
+            "federationAbbr": "IBJJF",
+            "country": "Hong Kong",
+            "countryAbbr": "HK",
+            "city": "Hong Kong",
+            "responsible": "Rodrigo Benedito Caporal",
+            "address": "4/F 41-47 Jervois Street , So Hong Commercial Bldg, Sheung Wan H.K. , Hong Kong, Hong Kong",
+            "website": "espada.hk"
+        },
+        {
+            "id": 4030,
+            "name": "RCP Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Gilles Christian Arsene",
+            "address": "70 Rue Rene Boulanger  , , Paris, --, France",
+            "website": "www.maccabiparis.com"
+        },
+        {
+            "id": 4777,
+            "name": "RCT Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Fibrurgo",
+            "responsible": "Rodrigo Gonçalves Couto",
+            "address": "Rua São Sebastião 89 Parada Raquel, Chácara do Paraíso, Nova Fibrurgo, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7128,
+            "name": "RD Champions BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Renato de Freitas Dominguez",
+            "address": "Estrada do Colégio n: 1243, Irajá, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4085,
+            "name": "RD Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João de Meriti",
+            "responsible": "Ronaldo Vieira da Silva",
+            "address": "Avenida Urânio, Lote 23 Quadra 05 -  CEMACO - Parque Alian, Coelho da Rocha, São João de Meriti, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2739,
+            "name": "RDS TEAM, UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Surrey, Sutton",
+            "responsible": "Raphael Waszkiewicz Schmidt dos Santos",
+            "address": "103a Wrythe lane  , Carshalton , Surrey, Sutton, UK, United Kingdom",
+            "website": "www.cornwallbjj.com"
+        },
+        {
+            "id": 4468,
+            "name": "Reação Centro de Treinamento",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barreiras",
+            "responsible": "Marcos Silva de Brito",
+            "address": "Rua Dr. Augusto Ribeiro de Macedo s/nº 1º Andar, Morada Nobre, Barreiras, BA, Brasil",
+            "website": "www.facebook.com/gfteambarreiras"
+        },
+        {
+            "id": 8601,
+            "name": "Reaction MMA / SAS",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Nicholasville",
+            "responsible": "Robert James Nickerson III",
+            "address": "137 Eisenhower Ct., Nicholasville, Kentucky, United States of America",
+            "website": "www.reactionmma.com"
+        },
+        {
+            "id": 4992,
+            "name": "Real Fighting Chile",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Santiago",
+            "responsible": "Samir José Chantre Dahás",
+            "address": "Guillermo Mann 929, Nunoa  , , Santiago, RM, Chile",
+            "website": "http://www.rfcentrodeluchas.cl"
+        },
+        {
+            "id": 4900,
+            "name": "Real Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Abu Dhabi",
+            "responsible": "Flavio da Silva Kenup",
+            "address": "Rihan Heights, C305 - PO Box 131720  , , Abu Dhabi, United Arab Emirates",
+            "website": ""
+        },
+        {
+            "id": 8416,
+            "name": "Reason Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Eduardo Jorge Albuquerque da Silva",
+            "address": "Rua Bolivar, N 212, Recife, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 8456,
+            "name": "Rebel Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Minneapolis",
+            "responsible": "Timothy Harlan Blackstone",
+            "address": "5529 James Ave S, Minneapolis, Mn, United States of America",
+            "website": null
+        },
+        {
+            "id": 5278,
+            "name": "Reborn Fight Team",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Laranjeiras",
+            "responsible": "Basílio Alves Leal",
+            "address": "Rua Manuel Silva Leal lt. 10 A, Laranjeiras, Lisboa, Portugal",
+            "website": null
+        },
+        {
+            "id": 3357,
+            "name": "Red Lions BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Toledo",
+            "responsible": "Rodolfo Garcia de Morais",
+            "address": "Av. Parigot de Souza 2415 Próx, a Rodoviária, Centro, Toledo, PR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7375,
+            "name": "Red Lions BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Paraguay",
+            "countryAbbr": "PY",
+            "city": "Ciudad Del Este",
+            "responsible": "Rodolfo Garcia de Morais",
+            "address": "Av. Itaipu Oeste Area 1 Arena Shop N.1700, Ciudad Del Este, AP, Paraguay",
+            "website": null
+        },
+        {
+            "id": 8498,
+            "name": "Red Paw BJJ Club",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rutherfordton",
+            "responsible": "Robson Brasil Feitoza",
+            "address": "651 Vs Dalton Rd Rutherfordton Nc 28139, Rutherfordton, North Carolina, United States of America",
+            "website": "https://instagram.com/redpawbjjclub?utm_medium=copy_link"
+        },
+        {
+            "id": 10486,
+            "name": "Red River BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wichita Falls",
+            "responsible": "Rolando Ruben Lozano",
+            "address": "2526 Missile Road Suite 1, Wichita Falls, Texas, United States of America",
+            "website": null
+        },
+        {
+            "id": 2974,
+            "name": "Reding Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Denton",
+            "responsible": "Mark Patrick Reding",
+            "address": "407 FT. Worth Dr  , , Denton, TX, United States of America",
+            "website": "www.redingmartialarts.com"
+        },
+        {
+            "id": 9378,
+            "name": "Referência Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Anderson Marques Santos",
+            "address": "Rua Ray Charles, Casa, Salvador, Bahia, Brasil",
+            "website": null
+        }
+    ]
+}

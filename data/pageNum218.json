@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 218,
+        "from": 4340,
+        "to": 4360,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8898,
+            "name": "London Grapple - Ross Nicholls",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Ross Nicholls",
+            "address": "Unit 17, Ffinch Street, London, United Kingdom",
+            "website": "London"
+        },
+        {
+            "id": 8064,
+            "name": "Lone Star Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Amarillo",
+            "responsible": "Talles Horta Silva",
+            "address": "2516 Paramount Blvd, Amarillo, Texas, United States of America",
+            "website": "Www.lonestarbjj.com"
+        },
+        {
+            "id": 6321,
+            "name": "Long Beach Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Long Beach",
+            "responsible": "Marvin B Lee",
+            "address": "162 W Park Ave, Long Beach, NY, United States of America",
+            "website": "www.lbnyjj.com"
+        },
+        {
+            "id": 4073,
+            "name": "Long Island MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Farmingdale",
+            "responsible": "Gregg John DePasquale",
+            "address": "590 Smith Street  , , Farmingdale, NY, United States of America",
+            "website": "www.limixedmartialarts.com"
+        },
+        {
+            "id": 6568,
+            "name": "Loop Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Helsinki",
+            "responsible": "Juuso Petteri Harma",
+            "address": "Takkatie 7B, Helsinki, Helsinki, Finland",
+            "website": null
+        },
+        {
+            "id": 6856,
+            "name": "Los Angeles Dynamix MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Gustavo Severo Gasperin",
+            "address": "11870 Santa Monica Blvd #102, Los Angeles, CA, United States of America",
+            "website": "dynamixmma.com"
+        },
+        {
+            "id": 8534,
+            "name": "Lost Breed BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Neuchâtel",
+            "responsible": "Domingos de Moura Ciccarino",
+            "address": "Rue De La Dîme 19, Rue De Bourgone 50, Neuchâtel, Ne, Switzerland",
+            "website": "www.lostbreed.ch"
+        },
+        {
+            "id": 9861,
+            "name": "Lottatori Milano",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Pessano Con Bornago",
+            "responsible": "Simone Auricchio",
+            "address": "Via Luigi Einaudi,16, Pessano Con Bornago, Italy, Italy",
+            "website": "www.lottatorimilano.it/"
+        },
+        {
+            "id": 5861,
+            "name": "Lotus Cetepe Torres",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Torres",
+            "responsible": "Ricardo da Rocha Zanelato",
+            "address": "Travessa Flores da Cunha n: 200, Bairro: Getúlio Vargas, Torres, RS, Brasil",
+            "website": "lotusjiujitsutorres.com.br"
+        },
+        {
+            "id": 655,
+            "name": "Lótus Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": null,
+            "address": "Rua Carlos Escobar 254 , , São Paulo, SP, Brasil",
+            "website": "www.lotusjiujitsu.com"
+        },
+        {
+            "id": 8140,
+            "name": "Lotus Club Amapá",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macapa",
+            "responsible": "Tayna Trajano Feijão",
+            "address": "Av Raimundo Alvares Da Costa, 2398, Macapa, Amapá (ap), Brasil",
+            "website": null
+        },
+        {
+            "id": 9338,
+            "name": "Lotus Club Bragança / Hous3JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bragança Paulista",
+            "responsible": "Jorge Alberto Closel",
+            "address": "Coronel Teófilo Leme 627, Bragança Paulista, São Paulo, Brasil",
+            "website": "www.lotusclubbraganca.com br"
+        },
+        {
+            "id": 5912,
+            "name": "Lotus Club Brazilian Jiu-Jitsu Milano",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Milano",
+            "responsible": "Carlos Eduardo S. de Oliveira",
+            "address": "Via Napo Torriani, 19, Milano, MI, Italy",
+            "website": "www.jiujitsumilano.com"
+        },
+        {
+            "id": 7711,
+            "name": "Lotus Club China",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Shanghai",
+            "responsible": "Marcelo Vieira Nascimento",
+            "address": "501-51-51 Lijin Road, Pudong, Shanghai, Shanghai, China",
+            "website": null
+        },
+        {
+            "id": 2905,
+            "name": "Lotus Club International",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Madrid",
+            "responsible": "Carlos Eduardo S. de Oliveira",
+            "address": "Calle Braille, 6 5D  , , Madrid, Spain",
+            "website": ""
+        },
+        {
+            "id": 10039,
+            "name": "Lotus Club Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Abilene",
+            "responsible": "Frontin Cunha",
+            "address": "1989 Denton St Apto 89a, Abilene, Tx, United States of America",
+            "website": "Lotusclubtexas.com"
+        },
+        {
+            "id": 2193,
+            "name": "Lotus Club USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Astoria",
+            "responsible": "Carlos Eduardo S. de Oliveira",
+            "address": "28-02 Astoria Blvd , , Astoria, NY, United States of America",
+            "website": "www.gentleartstudio.com"
+        },
+        {
+            "id": 9077,
+            "name": "Lótus Clube / Cjjt",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belem",
+            "responsible": "Frontin Cunha",
+            "address": "Avenida, Major Seda 175, Belem, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7466,
+            "name": "Lotus Pepe Herrera",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Amparo",
+            "responsible": "João Clebe Herrera",
+            "address": "Rua Barão de Campinas n: 635, Centro, Amparo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4776,
+            "name": "Lotus Sensei Felix",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Embu das Artes",
+            "responsible": "Claudio Rubens Felix dos Santos",
+            "address": "Rua Babilonia  262 1 Andar, Santa Tereza, Embu das Artes, SP, Brasil",
+            "website": "www.lotussenseifelix.com.br"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 351,
+        "from": 7000,
+        "to": 7020,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2753,
+            "name": "WNY BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Buffalo",
+            "responsible": "Michael Anthony Dauenhauer",
+            "address": "80 Avery Ave  , , Buffalo, NY, United States of America",
+            "website": "www.wnymma.com"
+        },
+        {
+            "id": 7526,
+            "name": "Wolf Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lajinha",
+            "responsible": "Fabiano Teixeira Campos",
+            "address": "Av. Jacinto Miranda n: 125, Bairro: JK, Lajinha, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 3985,
+            "name": "Wolfgang Heindel Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Hessdorf",
+            "responsible": "Wolfgang Friedrich Heindel",
+            "address": "Schleifweg 12  , , Hessdorf, --, Germany",
+            "website": "www.sportschule.wolfgang-heindel.com"
+        },
+        {
+            "id": 8961,
+            "name": "Wolfhousemma",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Edmonton",
+            "responsible": "Alexander Pekez",
+            "address": "10074 151 St Nw, Edmonton, Alberta, Canada",
+            "website": "http://wolfhousemma.com"
+        },
+        {
+            "id": 10589,
+            "name": "Wolfhunter Jiu-Jitsu Club",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Griffin",
+            "responsible": "Robert Keith Howell",
+            "address": "1368 Experiment Street, Experiment Street, Griffin, GA, United States of America",
+            "website": "Wolfhunterjjc.com"
+        },
+        {
+            "id": 7233,
+            "name": "Wolfman Jits",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Burlington",
+            "responsible": "Jason C Compton",
+            "address": "3067 Petersburg Road, Burlington, KY, United States of America",
+            "website": null
+        },
+        {
+            "id": 2419,
+            "name": "Wolfpack BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Saratosa",
+            "responsible": null,
+            "address": "1211 38th St.  , , Saratosa, FL, United States of America",
+            "website": "www.wolfpackbjj.com"
+        },
+        {
+            "id": 10423,
+            "name": "Wolves Den Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Highland",
+            "responsible": "Matheus Teixeira Queiroz",
+            "address": "10929 N Alpine Hwy, Highland, Utah, United States of America",
+            "website": null
+        },
+        {
+            "id": 3050,
+            "name": "Workshop Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Portland",
+            "responsible": "Jin Yung",
+            "address": "833 N Shaver St., Portland, OR, United States of America",
+            "website": "www.workshopjiujitsu.com"
+        },
+        {
+            "id": 10125,
+            "name": "World Class Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Holmes",
+            "responsible": "Aaron Christopher Morris",
+            "address": "2133 Macdade Blvd, Holmes, Pa, United States of America",
+            "website": "www.wcma-usa.com"
+        },
+        {
+            "id": 8184,
+            "name": "WPJJM - Wolfpack Jiu-Jitsu Mexico",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Mexico",
+            "responsible": "Andres Bernal Vega",
+            "address": "Jose Maria Roa Barcenas 19a, Obrera, Mexico, Distrito Federal, Mexico",
+            "website": "https://www.facebook.com/Wolfpackbjjmx/"
+        },
+        {
+            "id": 4978,
+            "name": "WTBJJA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Spring Hill",
+            "responsible": "Walber Brito de Barros",
+            "address": "12410 County Line Rd., Spring Hill, FL, United States of America",
+            "website": ""
+        },
+        {
+            "id": 5335,
+            "name": "WV Jiu-Jitsu Team Manaus",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Wilson Vasconcelos da Silva",
+            "address": "Rua Demóstenes 12, Bairro Jorge Teixeira, Manaus, Am, Brasil",
+            "website": null
+        },
+        {
+            "id": 9981,
+            "name": "Wva Jiu-Jitsu Aeroclube",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Velho",
+            "responsible": "Washington Vilaça de Almeida",
+            "address": "Rua Modal Bairo Aero Club, Casa N Lote 32, Porto Velho, Ro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8352,
+            "name": "Wynne House MMA Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wynne",
+            "responsible": "Burge C Franks",
+            "address": "1024 Falls Blvd S, Wynne, Arkansas, United States of America",
+            "website": "www.wynnemma,com"
+        },
+        {
+            "id": 10138,
+            "name": "X ALPHA JIU-JITSU",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Tiangua",
+            "responsible": "Francisco Willian de Sa Brito",
+            "address": "Rua Zeca Teles De Menezes,, 153, Tiangua, Ce, Brasil",
+            "website": null
+        },
+        {
+            "id": 10560,
+            "name": "X Team - Centro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Alexandre Ribeiro Godoy",
+            "address": "Av. Dr. Afonso Vergueiro, 1221 - Centro, Sorocaba, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 6118,
+            "name": "X Team - Matriz",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Alexandre Ribeiro Godoy",
+            "address": "Av. Independência n: 5100, Éden, Sorocaba, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 10343,
+            "name": "X Team - Norte",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Lucas Alconso Teixeira Morais",
+            "address": "Rua: Major Gambeta, N° 127, Vila Tortelli, Sorocaba, São Paulo, Brasil",
+            "website": "https://www.xteamnorte.com.br/"
+        },
+        {
+            "id": 10565,
+            "name": "X Team - Wanel Ville",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Alexandre Ribeiro Godoy",
+            "address": "Av. Paulo Emanuel De Almeida, 1219 Wanel Ville, Sorocaba, Sp, Brasil",
+            "website": null
+        }
+    ]
+}

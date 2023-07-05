@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 56,
+        "from": 1100,
+        "to": 1120,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6652,
+            "name": "Breathe Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bayport",
+            "responsible": "Daniel-Shea Garcia Stolfi",
+            "address": "751 Montauk Highway, Bayport, NY, United States of America",
+            "website": "www.breathejiujitsu.com"
+        },
+        {
+            "id": 174,
+            "name": "Breda JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Carlison Breda da Costa",
+            "address": "Rua Ramos de Queiros 23 , Higienópolis, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2227,
+            "name": "Bremgartner Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ilha do Governador",
+            "responsible": "Alberto Bremgartner Neto",
+            "address": "Praia da Rosa n: 1257, Tauá, Ilha do Governador, RJ, Brasil",
+            "website": "www.ibamjiujitsu.blogspot.com"
+        },
+        {
+            "id": 5856,
+            "name": "Brian Beaury Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Watervliet",
+            "responsible": "Brian J. Beaury II",
+            "address": "711 3rd Ave, Watervliet, NY, United States of America",
+            "website": "brianbeauryjiujitsu.com"
+        },
+        {
+            "id": 3106,
+            "name": "Brigadeiro BJJ - Cascavel",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cascavel",
+            "responsible": "Eduardo Venancio D. da Silva",
+            "address": "Rua Pedro Ivo 1452 , Centro, Cascavel, PR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2927,
+            "name": "Brigadeiro BJJ - UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Hove",
+            "responsible": "Eduardo Venancio D. da Silva",
+            "address": "90 Bounsary Road  , , Hove, --, United Kingdom",
+            "website": "www.ivammaciel.com"
+        },
+        {
+            "id": 177,
+            "name": "Brigadeiro Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Eduardo Venancio D. da Silva",
+            "address": "Avenida Prefeito Dulcídio Cardoso 2500 Esplanada A, Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": "www.brigadeirojiujitsu.com.br"
+        },
+        {
+            "id": 5095,
+            "name": "Brigadeiro Brazilian Jiu-Jitsu USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jacksonvile",
+            "responsible": "Eduardo Venancio D. da Silva",
+            "address": "8650 Old Kings Rd South Ste 1, Jacksonvile, FL, United States of America",
+            "website": "www.brigadeirojiujitsu.com"
+        },
+        {
+            "id": 10016,
+            "name": "Brigadeiro Jiu-Jitsu Amsterdam",
+            "federationAbbr": "IBJJF",
+            "country": "Netherlands",
+            "countryAbbr": "NL",
+            "city": "Amsterdam",
+            "responsible": "Rodrigo Vasconcellos do Amaral",
+            "address": "Erich Salomonstraat 432 Amsterdam., Jan Olphert Vaillantlaan 28a, Amsterdam, Netherlands",
+            "website": "brigadeirojiujitsu.nl"
+        },
+        {
+            "id": 6302,
+            "name": "Brito Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Marcelo Eduardo Moreira de Brito",
+            "address": "Av. Presidente Keneddy n: 1225, Bairro: Água Verde, Curitiba, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 6842,
+            "name": "Broa BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Felipe Thiago Pereira da Silva",
+            "address": "Rua Jorge Couceiro da Costa Eiras n: 50 apt 102, Boa Viagem, Recife, PE, Brasil",
+            "website": null
+        },
+        {
+            "id": 3030,
+            "name": "Broadway Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boston",
+            "responsible": "Carlson Gracie Júnior",
+            "address": "36 West Broadway  , , Boston, MA, United States of America",
+            "website": "www.broadwayjiujitsu.com"
+        },
+        {
+            "id": 2233,
+            "name": "Broca Fight Team (BFT)",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Walter Pinto da Silva Júnior",
+            "address": "Avenida Gentil Bittencourt 1822 , Nazaré, Belém, PA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6259,
+            "name": "Bronx House BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Fabricio Silva Lima",
+            "address": "Rua On - Casa 04 - Aleixo, Conjunto Morada Do Sol, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 4664,
+            "name": "Bronx Martial Arts Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bronx",
+            "responsible": "Drgut Pelinkovic",
+            "address": "1051 Allerton Ave  , , Bronx, NY, United States of America",
+            "website": "BronxMartialArts.com"
+        },
+        {
+            "id": 4018,
+            "name": "Bronxs Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarujá",
+            "responsible": "Ericson Cardozo da Silva",
+            "address": "Avenida Tancredo Neves  1425, Cachoeira, Guarujá, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8985,
+            "name": "Brookfield Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brookfield",
+            "responsible": "Marcio Oliveira de Alencar",
+            "address": "994 Federal Rd Unit 1, Brookfield, Connecticut, United States of America",
+            "website": null
+        },
+        {
+            "id": 4623,
+            "name": "Brooklyn Mixed Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brooklyn",
+            "responsible": "Marcio Vasconcellos Bittencourt",
+            "address": "5012 Avenue N  , , Brooklyn, NY, United States of America",
+            "website": "www.brooklynmizedmartialarts.com"
+        },
+        {
+            "id": 9470,
+            "name": "Brothers Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarujá",
+            "responsible": "Carlos Augusto Campos da Silva",
+            "address": "Rua Araguaia, 285, Guarujá, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7037,
+            "name": "Brothers Company",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Cleresthon Farias de Oliveira",
+            "address": "Rua Pericles de Moraes n: 80, Prox. a Vila Militar, Manaus, Amazonas, Brasil",
+            "website": null
+        }
+    ]
+}

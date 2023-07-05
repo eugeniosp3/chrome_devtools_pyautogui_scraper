@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 71,
+        "from": 1400,
+        "to": 1420,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5004,
+            "name": "Centro de Artes Marciais Tubarão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ubá",
+            "responsible": "Ronald Condé de Carvalho",
+            "address": "Rua José Dias Paes, 455 455 Clube Derminas, Bela Vista, Ubá, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 10210,
+            "name": "Centro De Ensino Técnico De Artes Marciais - Aph",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça",
+            "responsible": "Fabio Yuzo Saito",
+            "address": "Ryan Euclides Da Cunha S/n, Ponte De Imaruim, Palhoça, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 7073,
+            "name": "Centro de Jiu-Jitsu Farroupilha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Farroupilha",
+            "responsible": "Andre Luis Schenatto",
+            "address": "Avenida Veneza n: 461, Medianeira, Farroupilha, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 8061,
+            "name": "Centro De Luta Gustavo Sampaio",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília ",
+            "responsible": "Gustavo Barbosa Sampaio",
+            "address": "Colônia Agrícola Águas Claras Chácara 54 Lote 5, Lote 5, Brasília , Df, Brasil",
+            "website": null
+        },
+        {
+            "id": 7357,
+            "name": "Centro de Lutas Sandrão Santana",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Miracema",
+            "responsible": "Sandro Batista de Santana",
+            "address": "Rua José Ribeiro Leite n: 131, Centro, Miracema, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7521,
+            "name": "Centro de Treinamento BPChoque",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Marcus Naves Barcelos",
+            "address": "SQNW 109 Bloco H n: 309, Setor Noroeste, Brasilia, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 10013,
+            "name": "Centro De Treinamento Delta 121",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Duque De Caxias",
+            "responsible": "Danilo Pagini",
+            "address": "Rua Lima Sucupira, 121 Saracuruna, Duque De Caxias, Rio De Janeiro, Brasil",
+            "website": "https://wa.me/c/5521980089881"
+        },
+        {
+            "id": 9361,
+            "name": "Centro De Treinamento Dojô Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Wagner Allen Saraiva Corrêa",
+            "address": "Rua Dalva De Oliveira 01, 1, Manaus, Am, Brasil",
+            "website": null
+        },
+        {
+            "id": 10045,
+            "name": "Centro De Treinamento Du Paraíba",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Limeira",
+            "responsible": "Eduardo Queiroz",
+            "address": "Rua Túlio Taques Lemos 585, Jd Ibirapuera, Limeira, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8490,
+            "name": "Centro de Treinamento Edevaldo França",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaituba",
+            "responsible": "Edevaldo Lopes França",
+            "address": "7 Travessa Do Liberdade N 1327, Entre 12 Rua Do Liberdade E 4 Rua Da Floresta, Itaituba, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 10556,
+            "name": "Centro De Treinamento Fire Brazilian Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Tulio Alberto Alves da Silva",
+            "address": "Av. Valência, Quadra 33 Lote 24 Setor Três Marias, Goiânia, Go, Brasil",
+            "website": null
+        },
+        {
+            "id": 9095,
+            "name": "Centro De Treinamento Giovane Pereira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarulhos",
+            "responsible": "Giovane Gioli Pereira",
+            "address": "Rua Mirinzal,61, Guarulhos, Sao Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9792,
+            "name": "Centro De Treinamento Gquima",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Glendsten Quima Vieira",
+            "address": "R. Letícia - Guaratiba 23031-191, Lote 24 Quadra 9, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 3896,
+            "name": "Centro de Treinamento Jorge Gonçalves",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio das Ostras",
+            "responsible": "Hermann Oliveira dos Santos",
+            "address": "Rua Itaocara  58 , Jardim Mariléa , Rio das Ostras, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9724,
+            "name": "Centro De Treinamento Juares Santos",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maringa",
+            "responsible": "Juares Lima dos Santos",
+            "address": "Rua Pioneiro José Fritzen 515, Casa, Maringa, Parana, Brasil",
+            "website": null
+        },
+        {
+            "id": 9472,
+            "name": "Centro De Treinamento Kachorro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Anderson Silveira Rocha",
+            "address": "Avinida Martins Felix Berta 1365, Número 35, Porto Alegre, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 9999,
+            "name": "Centro De Treinamento Lauro Luiz",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Águas Lindas De Goiás",
+            "responsible": "Lauro Luiz Alves Pereira",
+            "address": "Quadra 09 Lote 25 - Camping Club, Águas Lindas De Goiás, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 7138,
+            "name": "Centro de Treinamento Leandro Carvalho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaberaba",
+            "responsible": "Leandro Carvalho Soares",
+            "address": "R. Lauro Farâni de Freitas n: 740, Loteamento Bahia, Itaberaba, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 10521,
+            "name": "Centro de Treinamento Leão De Judá",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Gonçalo Do Amarante",
+            "responsible": "Wesley Monteiro Alves",
+            "address": "Rotatória Da Parada, Sn, Parada, São Gonçalo Do Amarante, Ceara, Brasil",
+            "website": "https://www.instagram.com/wesley_malves/"
+        },
+        {
+            "id": 8315,
+            "name": "Centro De Treinamento Leco Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jacarei",
+            "responsible": "Alexandre da Silva",
+            "address": "Rua Paraná 98, Jacarei, Sp, Brasil",
+            "website": null
+        }
+    ]
+}

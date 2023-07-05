@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 21,
+        "from": 400,
+        "to": 420,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10339,
+            "name": "Alliance Pouso Alegre",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pouso Alegre",
+            "responsible": "José Ribamar C. S. Júnior",
+            "address": "Bom Jesus 554, Centro, Pouso Alegre, Minas Gerais, Brasil",
+            "website": "https://instagram.com/alliancepousoalegremg?igshid=YmMyMTA2M2Y="
+        },
+        {
+            "id": 10695,
+            "name": "Alliance Real Parque",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Luis Sergio de Luca Costa Barra",
+            "address": "Rua Visconde De Nacar, 147, São Paulo, Sp, Brasil",
+            "website": "https://www.alliancerealparque.com/"
+        },
+        {
+            "id": 5982,
+            "name": "Alliance Rio Preto",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José do Rio Preto",
+            "responsible": "Pedro de Araujo Lois",
+            "address": "Rua Ruither Moreira Rodrigues n: 1474, São Francisco, São José do Rio Preto, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 23,
+            "name": "Alliance RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Alexandre Paiva Genovesi",
+            "address": "Rua Humberto de Campos 774 , Leblon, Rio de Janeiro, RJ, Brasil",
+            "website": "alliancerj.com.br"
+        },
+        {
+            "id": 3049,
+            "name": "Alliance San Diego",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Joao Paulo Faria",
+            "address": "8990 Miramar Rd ste 225  , San Diego, CA, United States of America",
+            "website": "www.alliancesandiego.com"
+        },
+        {
+            "id": 2659,
+            "name": "Alliance San Francisco",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Belmont",
+            "responsible": "Itabora Ferreira",
+            "address": "409-A Old County Road  , Belmont, CA, United States of America",
+            "website": "www.institutebrazilianfitness.com"
+        },
+        {
+            "id": 7524,
+            "name": "Alliance Saúde SP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "José dos Santos Júnior",
+            "address": "Praça Leonar Kauppa n:100, Shopping Plaza Sul, São Paulo, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 9484,
+            "name": "Alliance Scottsdale",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Scottsdale",
+            "responsible": "Thiago Veiga Ximenes",
+            "address": "2902 N. 68th Street Suite 105, Scottsdale, Arizona, United States of America",
+            "website": "ximenesbjj.com"
+        },
+        {
+            "id": 32,
+            "name": "Alliance SE",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "11111",
+            "responsible": null,
+            "address": "  , , 11111, 11, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2636,
+            "name": "Alliance South Florida",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hollywood",
+            "responsible": "Jose Carlos de Souza Rollyson",
+            "address": "4443 Hollywood blvd, Hollywood, FL, United States of America",
+            "website": "www.AllianceSouthFlorida.com"
+        },
+        {
+            "id": 33,
+            "name": "Alliance SP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": null,
+            "address": ", São Paulo, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2671,
+            "name": "Alliance Sul",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Rodrigo Peres Lima",
+            "address": "SC 404  980 , Itacorubi, Florianópolis, SC, Brasil",
+            "website": "www.alliancefloripa.com.br"
+        },
+        {
+            "id": 3738,
+            "name": "Alliance Tallahasse - Zicro Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tallahassee",
+            "responsible": "Luiz Felipe do Nascimento F. Neto",
+            "address": "615 Universal Drive  , Tallahassee, FL, United States of America",
+            "website": "www.zicrobjj.com"
+        },
+        {
+            "id": 9893,
+            "name": "Alliance Teresina",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": "Angelo dos Santos Viana Neto",
+            "address": "Quadra 175, Casa 9, 1o Andar, Itararé, Teresina, Piauí, Brasil",
+            "website": "http://www.allianceteresina.com.br"
+        },
+        {
+            "id": 8643,
+            "name": "Alliance Tijuca",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Anderson de Carvalho",
+            "address": "Rua General Espírito Santo Cardoso, 272 A, Rio De Janeiro, Rj, Brasil",
+            "website": "www.alliancetijuca.com.br"
+        },
+        {
+            "id": 9073,
+            "name": "Alliance Tristeza",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Giovanne Guedes Dellamea",
+            "address": "R. Dr. Armando Barbedo 300, Porto Alegre, Rs, Brasil",
+            "website": "Alliancetristeza.com.br"
+        },
+        {
+            "id": 5230,
+            "name": "Alliance Uberlândia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Uberlândia",
+            "responsible": "Tiago Coelho Porto Rocha",
+            "address": "Av. Uirapuru 690, Cidade Jardim, Uberlândia, MG, Brasil",
+            "website": "www.gardenfight.com.br"
+        },
+        {
+            "id": 2267,
+            "name": "Alliance USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dunmoody",
+            "responsible": "Fabio Duca Gurgel do Amaral",
+            "address": "4630 North Shallowford Rd  , , Dunmoody, GA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 7008,
+            "name": "Alliance Vancouver",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Vancouver",
+            "responsible": "Thomas Lincoln Correa Lisboa",
+            "address": "2625 Kingsway, Vancouver, BC, Canada",
+            "website": "alliancebjjteam.com"
+        },
+        {
+            "id": 6609,
+            "name": "Alliance Venice Jiu-Jitsu Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Venice",
+            "responsible": "Fabio Leandro Giusti",
+            "address": "2244 Tamiami Trail, South Venice, Venice, FL, United States of America",
+            "website": "www.alliancevenice.com"
+        }
+    ]
+}

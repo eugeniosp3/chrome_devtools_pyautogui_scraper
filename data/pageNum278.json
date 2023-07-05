@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 278,
+        "from": 5540,
+        "to": 5560,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6180,
+            "name": "Ricardo Cavalcanti BJJ Dallas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Highland Village",
+            "responsible": "Ricardo Cavalcanti",
+            "address": "2930 Justin Rd, Highland Village, TX, United States of America",
+            "website": "rcjiujitsu.com"
+        },
+        {
+            "id": 9795,
+            "name": "Ricardo Cavalcanti Philippines",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Silang",
+            "responsible": "Ricardo Cavalcanti",
+            "address": "9260 Emilio Aguinaldo Highway, Lalaan 2, Silang, Cavite, Philippines",
+            "website": "www.rcjiujitsu.com"
+        },
+        {
+            "id": 9625,
+            "name": "Ricardo Cavalcanti Rhode Island",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Providence",
+            "responsible": "Esteban Ruben Santiago",
+            "address": "1910 Smith St, North Providence, Rhode Island, United States of America",
+            "website": "Www.Rcbjjri.com"
+        },
+        {
+            "id": 5854,
+            "name": "Ricardo Mello JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José",
+            "responsible": "Ricardo Santos Mello",
+            "address": "Rua João Augusto Sell n: 21, Bairro: Barreiros, São José, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 10046,
+            "name": "Ricardo Pereira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cascavel",
+            "responsible": "Ricardo Pereira de Souza",
+            "address": "Av Otavio Feliciano De Souza 3030 Centro, Cascavel, Ceara, Brasil",
+            "website": null
+        },
+        {
+            "id": 8427,
+            "name": "Ricardo Pinheiro",
+            "federationAbbr": "IBJJF",
+            "country": "Uruguai",
+            "countryAbbr": "UY",
+            "city": "Punta Del Este ",
+            "responsible": "Ricardo Mesquita Pinheiro",
+            "address": "Calle La Pinta Esq Ombues Casa Rio Abajo Rio, Punta Del Este , Maldonado , Uruguai",
+            "website": null
+        },
+        {
+            "id": 835,
+            "name": "Ricardo Pinho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Ricardo Pinho Soares",
+            "address": "Prof. Morais Correia 720 , Parquelândia, Fortaleza, CE, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8218,
+            "name": "Ricardo Pires Roots BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pompano Beach",
+            "responsible": "Ricardo de França Pires",
+            "address": "627 East Atlantic Blvd, Pompano Beach, Florida, United States of America",
+            "website": "www.ricardopiresbjj.com"
+        },
+        {
+            "id": 9639,
+            "name": "Ricardo Vianna Team",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Braga",
+            "responsible": "Ricardo Vianna da Silva",
+            "address": "Rua Monsenhor Airosa 57- R/c - Sao Jose De Sao Lazaro - Braga, Braga, Portugal",
+            "website": "@equipemestremacaco"
+        },
+        {
+            "id": 10139,
+            "name": "Ricardo Wester JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Garça",
+            "responsible": "Ricardo Wester Machado",
+            "address": "Rua Augusto Nascimento Castro 327, Garça, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6918,
+            "name": "Richardson BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Richardson",
+            "responsible": "Vinicius Carvalho Garcia",
+            "address": "819 W. Arapaho Road Suite 24C, Richardson, TX, United States of America",
+            "website": "graciegymrichardson.com"
+        },
+        {
+            "id": 2676,
+            "name": "Rick Young BJJ Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Edinburgh",
+            "responsible": "Richard Young",
+            "address": "9 Duke Street, , Edinburgh, --, United Kingdom",
+            "website": "www.rick-young.co.uk"
+        },
+        {
+            "id": 2108,
+            "name": "Rickson Gracie Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "los angeles",
+            "responsible": "Rickson Gracie",
+            "address": "11755 wilshire blvd suite # 40  , , los angeles, ca, United States of America",
+            "website": "www.rickson.com"
+        },
+        {
+            "id": 6895,
+            "name": "Riders Jiu-Jitsu School",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Cork",
+            "responsible": "Muzio Bruno De Angelis",
+            "address": "Unit 3 Watercourse Road - Blackpool, Cork, Cork, Ireland",
+            "website": "ridersjj.com"
+        },
+        {
+            "id": 2194,
+            "name": "Rigan Machado",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Redondo Beach",
+            "responsible": "Ricardo Cerri Arrivabene",
+            "address": "  , , Redondo Beach, CA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 4577,
+            "name": "Riis-Rosenberg Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tempe",
+            "responsible": "Steven Rosenberg",
+            "address": "525 S. McClintock Dr. Ste 103  , , Tempe, AZ, United States of America",
+            "website": "azcombatsports.com"
+        },
+        {
+            "id": 6881,
+            "name": "Rilion Gracie - Quarta Linha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Criciúma",
+            "responsible": "Tiago Fernandes de Paula",
+            "address": "Rua José Rosso n: 199, Atrás do Posto - Bairro: Quarta Linha, Criciúma, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 3703,
+            "name": "Rilion Gracie Academy Florianópolis Centro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Marcos Alexandre Gomes Furtado",
+            "address": "Rua Bocaiuva 1821, Centro, Florianópolis, SC, Brasil",
+            "website": "Instagram: @riliongracie.floripacentro"
+        },
+        {
+            "id": 4575,
+            "name": "Rilion Gracie Atlanta - Ranieri Paiva BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Atlanta",
+            "responsible": "Ranieri Paiva de Albuquerque",
+            "address": "2997 Cumberland BLVD ste#270  , , Atlanta, GA, United States of America",
+            "website": "atlbjj.com"
+        },
+        {
+            "id": 4685,
+            "name": "Rilion Gracie Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Melbourne",
+            "responsible": "Jhunior Guarnido",
+            "address": "7/27 Bate Close  , , Melbourne, VIC, Australia",
+            "website": "www.australiabjj.com"
+        }
+    ]
+}

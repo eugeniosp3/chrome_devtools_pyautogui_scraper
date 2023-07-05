@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 222,
+        "from": 4420,
+        "to": 4440,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3119,
+            "name": "Machado Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Julio Cesar Silva Machado",
+            "address": "Rua Eugênio Kan 426 , Jardim da Viga, Nova Iguaçu, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 3138,
+            "name": "Machete BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Dominican Republic",
+            "countryAbbr": "DO",
+            "city": "Santo Domingo",
+            "responsible": "Gian Carlos Valdez Jorge",
+            "address": "Calle Central No. 1., Torre Laurel Lll Apart. 601, Santo Domingo, DN, Dominican Republic",
+            "website": "www.machetejiujitsu.com"
+        },
+        {
+            "id": 9387,
+            "name": "Machine BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Kuwait",
+            "countryAbbr": "KW",
+            "city": "Mudarak Alkabeer",
+            "responsible": "Denilson de Carvalho Pimenta",
+            "address": "37-51 7 St, Block 7, Mudarak Alkabeer, Kuwait",
+            "website": "Pimentajj.com"
+        },
+        {
+            "id": 8011,
+            "name": "Maciel Sousa Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Mutum",
+            "responsible": "Maciel da Silva Sousa",
+            "address": "Avenida Das Seriemas, 2065w, Nova Mutum, Mt, Brasil",
+            "website": null
+        },
+        {
+            "id": 6333,
+            "name": "Mad Max Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Grande",
+            "responsible": "Maximiliano da Rosa Lima",
+            "address": "Av. Antonio Mendes Filho n: 502 B - Estiva, Bairro: Getúlio Vargas, Rio Grande, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 7736,
+            "name": "Made in Brazil Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Botucatu ",
+            "responsible": "Felipe Bianco Bianchi",
+            "address": "Rua General Telles, 753, Botucatu , São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9093,
+            "name": "Madrid Fight Center",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Minas Gerais",
+            "responsible": "Marcelo da Silva Bernardo",
+            "address": "Rua Adrualdo Monte Alto 82 Bairro Conjunto Sr, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9611,
+            "name": "Maek Jiu-Jitsu Training",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sabinópolis",
+            "responsible": "Magson Silva Jorge",
+            "address": "Rua Doutor Celso Generoso Pereira 457, Sabinópolis, Minas Gerais, Brasil",
+            "website": "@ct.ax.sabinopolis"
+        },
+        {
+            "id": 5794,
+            "name": "Mafetoni Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cananéia",
+            "responsible": "André Luiz Martins Mafetoni",
+            "address": "Rua Dom João III - N: 06 sala 09, Centro, Cananéia, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7312,
+            "name": "Maff Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Barbara",
+            "responsible": "Justin Lawrence Tevis",
+            "address": "122 E Gutierrez St., Santa Barbara, CA, United States of America",
+            "website": "www.maffsb.com"
+        },
+        {
+            "id": 6903,
+            "name": "Magalit Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Francisco",
+            "responsible": "Travis Christian Victor Magalit",
+            "address": "4802 Mission St. , San Francisco, CA, United States of America",
+            "website": "magalitbjj.com"
+        },
+        {
+            "id": 4546,
+            "name": "Magic BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "East Lansing",
+            "responsible": "Matthew Michael Linsemier",
+            "address": "3320 East Lake Lansing Road Ste F, , East Lansing, MI, United States of America",
+            "website": "www.magicbjj.com"
+        },
+        {
+            "id": 10286,
+            "name": "MAGJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pace",
+            "responsible": "Marcello Alexis Alcantar",
+            "address": "4412 Hwy 90, Pace, Fl, United States of America",
+            "website": "Pacegjj.com"
+        },
+        {
+            "id": 9935,
+            "name": "Magness Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cedar Hill",
+            "responsible": "Michael Glen Magness",
+            "address": "621 Jealouse Way, Suite 101, Cedar Hill, Tx, United States of America",
+            "website": "magnessbjj.com"
+        },
+        {
+            "id": 9309,
+            "name": "Magnus",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Eduardo José de Oliveira",
+            "address": "Cas Chacara 35 Lote 11/12 Loja 04, Brasilia, Df, Brasil",
+            "website": null
+        },
+        {
+            "id": 681,
+            "name": "Magoo JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Vinicius Cesare Modernel Canevari",
+            "address": "Av. Harry Prochet 1313 B, Jd. Burle Marx, Londrina, PR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8127,
+            "name": "MAJJ - Marcos Antonio Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ananindeua",
+            "responsible": "Marcos Antonio Barros Costa",
+            "address": "Conjunto Guajara 2, Rua 2, Nº 20 - Coqueiro, Prox Arena Rogerio, Ananindeua, Pará, Brasil",
+            "website": "https://www.facebook.com/profile.php?id=100028756787252"
+        },
+        {
+            "id": 10728,
+            "name": "Majlech Cukier Team Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Majlech Ferreira Cukier",
+            "address": "Rua Bento Lisboa, Bl 1 Apto 1104, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8308,
+            "name": "Maka Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Do Sul",
+            "responsible": "Daniel Francisco Tognolli",
+            "address": "Estrada Da Madeira, 1115, Rio Do Sul, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 5710,
+            "name": "Mako Team Paris",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Olivier Michailesco",
+            "address": "28 rue des Maraîchers , Paris, IDF, France",
+            "website": "www.mkteamparis.com"
+        }
+    ]
+}

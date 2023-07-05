@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 256,
+        "from": 5100,
+        "to": 5120,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8473,
+            "name": "Pablo Silva Bjj Association",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teófilo Otoni",
+            "responsible": "Pablo da Silva Santos",
+            "address": "Avenida Visconde Do Rio Branco # 737, Teófilo Otoni, Mg, Brasil",
+            "website": "Pablosilvabjj.com"
+        },
+        {
+            "id": 8461,
+            "name": "Pacaraima Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pacaraima",
+            "responsible": "Pedro Marcio dos Santos Freitas",
+            "address": "Rua Quinoó S.n  , Pacaraima, Roraima, Brasil",
+            "website": null
+        },
+        {
+            "id": 3736,
+            "name": "Pacific Top Team",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Delta",
+            "responsible": "Timothy Gordon Shears",
+            "address": "239 Centennial Parkway  , Delta, BC, Canada",
+            "website": "www.pacifictopteam.com"
+        },
+        {
+            "id": 7733,
+            "name": "Pacific Top Team Vernon",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Vernon",
+            "responsible": "David Rothwell",
+            "address": "3105 28 st , Vernon, BC, Canada",
+            "website": "pttvernon.com"
+        },
+        {
+            "id": 4691,
+            "name": "Packer JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Paulo Ricardo Reiter Packer",
+            "address": "Rua Augusto Reinhold, 45, CT Nova Esperança, Blumenau, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 3808,
+            "name": "Pagels BJJ - Rochester",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rochester",
+            "responsible": "Paulo Wesley Lopes",
+            "address": "33 Walbar St.  , , Rochester, NY, United States of America",
+            "website": "www.bedrocmma.com"
+        },
+        {
+            "id": 787,
+            "name": "Pagels Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Paulo Wesley Lopes",
+            "address": "Rua José dos Reis 2265 Lote 1, Inhaúma, Rio de Janeiro, RJ, Brasil",
+            "website": "pagelsbrazilianjiujitsu.blogspot.com"
+        },
+        {
+            "id": 8877,
+            "name": "Paladini Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Ricardo Paladini Matos",
+            "address": "Rua Felipe Schmidt, N321, Sala 804, Florianópolis, Santa Catarina, Brasil",
+            "website": "https://instagram.com/paladiniteam?igshid=YmMyMTA2M2Y="
+        },
+        {
+            "id": 4159,
+            "name": "Paleo Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rockport",
+            "responsible": "Craig Burt",
+            "address": "1508 S. Live Oak St., , Rockport, Tx, United States of America",
+            "website": "www.paleojiujitsu.com"
+        },
+        {
+            "id": 6751,
+            "name": "Palestra Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Cyprus",
+            "countryAbbr": "CY",
+            "city": "Lefkosia",
+            "responsible": "Andreas Achniotis Perales",
+            "address": "10 Salaminos Avenue, 2nd Floor, Lefkosia, Cyprus",
+            "website": "www.palestraJJ.com"
+        },
+        {
+            "id": 9424,
+            "name": "Pallaton BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tucson",
+            "responsible": "Salvador Martin Flores",
+            "address": "4165 W. Ina Rd, Suite 175, Tucson, Arizona, United States of America",
+            "website": "www.pallatonbjj.com"
+        },
+        {
+            "id": 10176,
+            "name": "Palmer Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Brian Palmer Adams",
+            "address": "Avenida Duque De Caxias 1236, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7183,
+            "name": "Palms Sports",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Abu Dhabi",
+            "responsible": "Pedro Nogueira Duarte",
+            "address": "Al Reef Downtown, Building 16, Abu Dhabi, United Arab Emirates",
+            "website": null
+        },
+        {
+            "id": 10705,
+            "name": "Panda Jiu-Jitsu School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "José Maria Perez de Moura",
+            "address": "Rua Belmonte 248, Casa, Salvador, Ba, Brasil",
+            "website": null
+        },
+        {
+            "id": 8503,
+            "name": "Panda Supa Crew",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Claire-France Thevenon",
+            "address": "16 Rue Des Meuniers, Paris, France",
+            "website": "www.pandasupacrew.fr"
+        },
+        {
+            "id": 789,
+            "name": "Pantera Negra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Divinópolis",
+            "responsible": "Iran Brasileiro de Alvarenga",
+            "address": "Rua Operario Sebastiao Pinto 50 casa , Danilo Passos I, Divinópolis, MG, Brasil",
+            "website": "www.panteranegrajiujitsu.com"
+        },
+        {
+            "id": 8511,
+            "name": "Pantera Negra Piumhi",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Piumhi",
+            "responsible": "Wilton Cesar de Oliveira",
+            "address": "Rua Santo Antônio, 1000, Piumhi, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 5881,
+            "name": "Para Bellum Brazilian Jiu Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Zurich",
+            "responsible": "Stefan Rüegg",
+            "address": "Culmannstrasse, 56, Zurich, --, Switzerland",
+            "website": "www.parabellumjiujitsu.com"
+        },
+        {
+            "id": 8972,
+            "name": "Pará Dojô",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Hadhamés Fernandes da Silva",
+            "address": "Rua Da Marinha - Conjunto Gleba 2 - Travessa D - Casa 170, Bairro Marambaia, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 3255,
+            "name": "Paraestra Ayase",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Takashi Ouchi",
+            "address": "4-24-13 Mizugaki bdg 1 Fl, Ayase Apachiku  , , Tokyo, --, Japan",
+            "website": "paraestrakoiwa.com"
+        }
+    ]
+}

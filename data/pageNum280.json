@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 280,
+        "from": 5580,
+        "to": 5600,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8017,
+            "name": "Rilion Gracie Jurerê",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis ",
+            "responsible": "Eduardo da Camara de Queiroz",
+            "address": "Rodovia Jornalista Maurício Sirotsky Sobrinho, 5095, Loja 01, Florianópolis , Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 7720,
+            "name": "Rilion Gracie Mineira Nova",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Criciúma",
+            "responsible": "Cleverson Elias de Melos",
+            "address": "Abílio Cardoso dos santos, Criciúma, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 6229,
+            "name": "Rilion Gracie Orangeville",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Orangeville",
+            "responsible": "Rilion Gracie",
+            "address": "10 Second Street, Orangeville, ON, Canada",
+            "website": "www.dojofamilymartialarts.com"
+        },
+        {
+            "id": 6424,
+            "name": "Rilion Gracie Palhoça",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça",
+            "responsible": "Osmar Silva Neto",
+            "address": "Rua Prefeito Reinaldo Alves n: 1140 Predio, Bairro: Passa Vinte, Palhoça, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 3558,
+            "name": "Rilion Gracie Panama",
+            "federationAbbr": "IBJJF",
+            "country": "Panama",
+            "countryAbbr": "PA",
+            "city": "Panama",
+            "responsible": "Rômulo Reis Pereira",
+            "address": "Calle 4ta Sur, San Francisco, Casa 15-A  , , Panama, PA, Panama",
+            "website": "www.riliongracie.com"
+        },
+        {
+            "id": 4947,
+            "name": "Rilion Gracie Pensacola",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pensacola",
+            "responsible": "Rafael Fernandez Coelho",
+            "address": "1010 N 12th Ave Suite 133  , , Pensacola, FL, United States of America",
+            "website": "www.rgapensacola.com"
+        },
+        {
+            "id": 4039,
+            "name": "Rilion Gracie Pernambuco",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife ",
+            "responsible": "Marcos Vinicius Costa Silva",
+            "address": "Rua Buenos Aires, 181, Espinheiro, Recife , PE, Brasil",
+            "website": "www.gracieelite.com"
+        },
+        {
+            "id": 3534,
+            "name": "Rilion Gracie Portugal Viseu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Viseu",
+            "responsible": "Gabriel Passos Cosenday da Nóbrega",
+            "address": "Rua do Inatel  , , Viseu, 3510-018, Portugal",
+            "website": "www.gnteam.pt"
+        },
+        {
+            "id": 5733,
+            "name": "Rilion Gracie RD",
+            "federationAbbr": "IBJJF",
+            "country": "Dominican Republic",
+            "countryAbbr": "DO",
+            "city": "Santo Domingo",
+            "responsible": "Rodrigo Madlener Franca",
+            "address": "Calle Salvador Sturla 9, Naco, Santo Domingo, Dn, Dominican Republic",
+            "website": "www.instagram.com/riliongracierd"
+        },
+        {
+            "id": 10555,
+            "name": "Rilion Gracie Rio Bonito",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Bonito",
+            "responsible": "João Gabriel Duarte Zaroni",
+            "address": "Rua Coronel Marcílio, 428, Academia, Rio Bonito, Rio De Janeiro, Brasil",
+            "website": "@riliongracie.riobonito"
+        },
+        {
+            "id": 10506,
+            "name": "Rilion Gracie Rio Verde Go",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Verde",
+            "responsible": "Evaldo Lino dos Santos",
+            "address": "Rua Augusta Bastos, N 1086, Rio Verde, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 6644,
+            "name": "Rilion Gracie Santa Cruz RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Jonas Jeferson dos Santos Freire",
+            "address": "Avenida Isabel n: 184 A - LK Studio Funcional , Bairro: Santa Cruz, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": "@riliongraciesantacruz"
+        },
+        {
+            "id": 4968,
+            "name": "Rilion Gracie São Bernardo do Campo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Bernardo do Campo",
+            "responsible": "Frederico Bizam Blum",
+            "address": "Rua Tapajós 97, Vila Scopel, São Bernardo do Campo, SP, Brasil",
+            "website": "www.academiaoctogono.com.br"
+        },
+        {
+            "id": 9052,
+            "name": "Rilion Gracie São José",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José",
+            "responsible": "Everson Avila",
+            "address": "Rua Emídio Francisco Da Silva N 52 Apto 306 B 6, Apto, São José, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 7001,
+            "name": "Rilion Gracie Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Missouri City",
+            "responsible": "Rômulo Reis Pereira",
+            "address": "3340 FM 1092 Rd Suite 120, Missouri City, TX, United States of America",
+            "website": "www.riliongraciemisouricity.com"
+        },
+        {
+            "id": 9876,
+            "name": "Rilion Gracie Trindade",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Yan Garcia Silveira",
+            "address": "Rua Lauro Linhares, 1974, Sala 15, Florianópolis, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 5304,
+            "name": "Rilion Gracie Tubarão",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Tubarão",
+            "responsible": "Aquiles das Mercês Barroso",
+            "address": "Rua José Amâncio Gomes, Tubarão, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 8652,
+            "name": "Rincon Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Puerto Rico",
+            "countryAbbr": "PR",
+            "city": "Rincon",
+            "responsible": "Steven R Barnett",
+            "address": "Vista Mar Plaza, Rincon, Puerto Rico",
+            "website": "www.rinconjiujitsu.com"
+        },
+        {
+            "id": 4057,
+            "name": "Ringue Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Lourenço",
+            "responsible": "Paulo Rogerio Benedito",
+            "address": "Rua XV de Novembro n:355, Bairro: Centro, São Lourenço, MG, Brasil",
+            "website": "www.ringuebrasil.com.br"
+        },
+        {
+            "id": 4876,
+            "name": "Rio Aiki Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio das Ostras",
+            "responsible": "Flavio Ferreira da Silva",
+            "address": "Rua Leblon 123 , Centro, Rio das Ostras, RJ, Brasil",
+            "website": ""
+        }
+    ]
+}

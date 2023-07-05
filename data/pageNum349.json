@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 349,
+        "from": 6960,
+        "to": 6980,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8128,
+            "name": "Wellington BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Wellington dos Santos Souza",
+            "address": "Estrada Do Floresta, 284 C, Petrópolis, Rj, Brasil",
+            "website": "Wbjj"
+        },
+        {
+            "id": 8193,
+            "name": "Wellington Telles BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maceió",
+            "responsible": "Wellington  Cerqueira Telles",
+            "address": "Rua A 10, Benedito Bentes 1 , 252, Maceió, Alagoas, Brasil",
+            "website": null
+        },
+        {
+            "id": 957,
+            "name": "Welton Ribeiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Welton Ribeiro Soares",
+            "address": "Rua Dr. Paulo Cesar 107 , Santa Rosa, Niterói, RJ, Brasil",
+            "website": "www.weltonribeiro.com"
+        },
+        {
+            "id": 8703,
+            "name": "Wendel Oliveira Master Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Paracuru",
+            "responsible": "Wendel Oliveira Araújo",
+            "address": "Rua Erivane De Pontes Moreira 182, Paracuru, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 4299,
+            "name": "Werdum Combat Team France",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Mérignac",
+            "responsible": "Jose Luiz Zatar Junior",
+            "address": "37 Avenue Gustave Eiffel  , , Mérignac, --, France",
+            "website": "www.werdumbordeaux.fr"
+        },
+        {
+            "id": 2526,
+            "name": "Werdum Combat Team Spain",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Madrid",
+            "responsible": null,
+            "address": "Corazon de Maria 21  , , Madrid, SP, Spain",
+            "website": ""
+        },
+        {
+            "id": 2316,
+            "name": "Werdum Combat Team USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Venice",
+            "responsible": null,
+            "address": "2524 Lincoln Blvd  , , Venice, Ca, United States of America",
+            "website": "www.werdumcombatteam.com"
+        },
+        {
+            "id": 6071,
+            "name": "Wesley Santos Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Vicente",
+            "responsible": "Wesley dos Santos",
+            "address": "Rua Otavio Cezario Pereira, 713, Casa, São Vicente, Itajai, Brasil",
+            "website": "academiaaopenone"
+        },
+        {
+            "id": 8225,
+            "name": "Wesley Tiffer BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Nicaragua",
+            "countryAbbr": "NI",
+            "city": "Managua",
+            "responsible": "Eros Wesley Tiffer",
+            "address": "Las Colinas , Plaza Las Palmeras, Managua, Nicaragua",
+            "website": null
+        },
+        {
+            "id": 9683,
+            "name": "West Choke Family",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Gujan Mestras",
+            "responsible": "Piccolo Charlie ",
+            "address": "15 Allée Du Muguet, Gujan Mestras, France",
+            "website": null
+        },
+        {
+            "id": 2807,
+            "name": "West Coast BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Maple Ridge",
+            "responsible": "Don Frank Whitefield",
+            "address": "11371 Melville Street  , , Maple Ridge, BC, Canada",
+            "website": "www.jiujitsulife.com"
+        },
+        {
+            "id": 6764,
+            "name": "West Kobe Seishin BJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kobe",
+            "responsible": "Kuniaki Hamajima",
+            "address": "118-1 Koyama Tamatsu Nishi-ku, Kobe, Hyogo, Japan",
+            "website": "http://seishin-bjj.com/"
+        },
+        {
+            "id": 4197,
+            "name": "West Vancouver Brazilian Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "West Vancouver",
+            "responsible": "Jeffrey Scott Meszaros",
+            "address": "2121 Marine Dr  , , West Vancouver, BC, Canada",
+            "website": "www.westvanbjj.com"
+        },
+        {
+            "id": 9581,
+            "name": "WFBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Weverson Freire Leite de Mello",
+            "address": "Rua Pedro De Melo, 7, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9031,
+            "name": "WFC",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Colorado Springs",
+            "responsible": "Benjamin Dallas Edward Westrich",
+            "address": "3711 Drennan Road, Colorado Springs, Co, United States of America",
+            "website": null
+        },
+        {
+            "id": 10568,
+            "name": "Wg Artes Marcias",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Maria Do Pará",
+            "responsible": "Wasley Gomes da Silva",
+            "address": "Rua: Zacarias Garcia, N74, Próximo Ao Bar Do Fronteira, Santa Maria Do Pará, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 4530,
+            "name": "WGT Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Currais Novos",
+            "responsible": "Wanderson Marcelo de Assis",
+            "address": "Rua Vivaldo Pereira, 114 , Centro, Currais Novos, RN, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9706,
+            "name": "What's Up BJJ Nürnberg",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Nürnberg",
+            "responsible": "Isaac da Conceicao Alves Poti",
+            "address": "Whats Up Bjj Nürnberg, Norikerstraße 2, Nürnberg, Bayern, Germany",
+            "website": null
+        },
+        {
+            "id": 5965,
+            "name": "White House Jiu-Jitsu School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Diogo Dias Dutra",
+            "address": "Av. Jose de Arimateia, 1558, Quiosque Lote 1605 Quadra 0007 Bairro Aleixo, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 9356,
+            "name": "WI Evolution Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Burlington",
+            "responsible": "Nicholas T Riggle",
+            "address": "1104 Milwaukee Ave, Burlington, Wi, United States of America",
+            "website": null
+        }
+    ]
+}

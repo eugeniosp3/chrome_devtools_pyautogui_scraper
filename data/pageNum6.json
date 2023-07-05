@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 6,
+        "from": 100,
+        "to": 120,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5411,
+            "name": "Ac. Rilion Gracie / Know How Cabo Frio",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cabo Frio",
+            "responsible": "Renato Gomes de Mello Junior",
+            "address": "Av. Excelsior 154 , Jd. Excelsior, Cabo Frio, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2464,
+            "name": "Ac. Sergio Cellone",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Santa Fe",
+            "responsible": "Sergio Mauricio Cellone",
+            "address": "Pasje Koch  , , Santa Fe, AR, Argentina",
+            "website": "www.jiujitsusantafe.com"
+        },
+        {
+            "id": 5167,
+            "name": "Academia 360 Argentina",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Rosario",
+            "responsible": "Iran Brasileiro de Alvarenga",
+            "address": "Mendora 4956  , , Rosario, Argentina",
+            "website": "www.jiujitsu360.com.ar"
+        },
+        {
+            "id": 6867,
+            "name": "Academia 3Taps",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Garopaba",
+            "responsible": "Andre Ribeiro da Cunha",
+            "address": "Rua Lajeado N: 47 Sala 08, Pinguirito, Garopaba, Santa Catarina, Brasil",
+            "website": "3tapsacademy.com"
+        },
+        {
+            "id": 6596,
+            "name": "Academia ADR Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Rodrigue Amancio da Silva",
+            "address": "Rua Dom Bosco n: 88, Bairro: Riachuelo, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6649,
+            "name": "Academia AFS Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Alexandre Fernandes de Souza",
+            "address": "Rua Rio Jiquiá n: 49 casa, Cordeiro, Recife, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 4279,
+            "name": "Academia AIOBJJ/Ass.Ivaniel Oliveira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "John Kleicy Kurschat Aguiar",
+            "address": "Av. Dublin  09 CJ. Belvedere , Planalto, Manaus, AM, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8867,
+            "name": "Academia Albuquerque",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Evandro Farias de Albuquerque",
+            "address": "Rua Dermeval Lobão 144 Ibura De Baixo, Rua Dermeval Lobão 144 Ibura De Baixo, Recife, Pernambuco, Brasil",
+            "website": "RUA DERMEVAL LOBÃO 144 IBURA DE BAIXO"
+        },
+        {
+            "id": 2169,
+            "name": "Academia Aldo Araújo de JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jaboatão",
+            "responsible": "Aldo Correia de Araujo",
+            "address": "Rua Andre Dias De França, Bloco 46 Apart. 106, Jaboatão, Pernambuco, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6554,
+            "name": "Academia AMA de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Paulista ",
+            "responsible": "Leandro Albino de Santana",
+            "address": "Rua Presidente Vargas n: 142, Prox. ao Supermercado Soberano. Bairro: Paratibe, Paulista , PE, Brasil",
+            "website": "associacao.ama.cbjcbjj@gmail.com"
+        },
+        {
+            "id": 5970,
+            "name": "Academia Anchieta - Marcelo Silva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Marcelo Luiz da Silva",
+            "address": "Rua Soldado João Carmo n: 93, Anchieta, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8732,
+            "name": "Academia Andreucci Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao Paulo",
+            "responsible": "Carlos Aurelio Andreucci",
+            "address": "Av Corifeu De Azevedo Marques, 1764 - Jardim Rizzo, Sao Paulo - Sp, Sao Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7303,
+            "name": "Academia Apenas um Filho",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Gustavo Henrique Saraiva Adolfo",
+            "address": "Rua Mário Motta n: 175, Parque Independência/Capão Redondo, São Paulo, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 10514,
+            "name": "Academia Arena1",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao Paulo",
+            "responsible": "Claudinei França Gonçalves",
+            "address": "Rua Do Tatuape, 339, Sao Paulo, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 76,
+            "name": "Academia Ass. Alves de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Juiz de Fora",
+            "responsible": "Paulo Roberto dos Reis Alves",
+            "address": "Rua Major Maximiniano Campos 80, Eldorado, Juiz de Fora, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 2428,
+            "name": "Academia Ass. Mageense de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Magé",
+            "responsible": "Mozar Tadeu Taldo Rodrigues",
+            "address": "Rua Irineu Marinho n: 8, Tenis Clube, Magé, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2968,
+            "name": "Academia Ass.Carmem Casca Grossa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ananindeua",
+            "responsible": "Maria do Carmo Paixão Teixeira",
+            "address": "Pass. Rosa Vermelha 07 Entre Paraboa e Bons Amigos, Guanabara, Ananindeua, PA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4730,
+            "name": "Academia Ass.Extremo Norte de Lutas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Andre Fabiano Silva Barbosa",
+            "address": "Rua São Martinho 146 Casa, Treze de Setembro, Boa Vista, RR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 728,
+            "name": "Academia Associação Monteiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Adriano Augusto Braga Monteiro",
+            "address": "Rua Manoel Marques de Souza n: 232, Parque Dez, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 7066,
+            "name": "Academia ATJJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "União dos Palmares",
+            "responsible": "Alexsander Tenório Alves",
+            "address": "Praça Brasiliano Sarmento n: 16, Bairro: Centro, União dos Palmares, Alagoas, Brasil",
+            "website": null
+        }
+    ]
+}

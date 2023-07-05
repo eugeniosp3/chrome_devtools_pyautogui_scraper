@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 121,
+        "from": 2400,
+        "to": 2420,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5488,
+            "name": "Factory BJJ UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Stockport",
+            "responsible": "Christopher Bard Haueter",
+            "address": "Unit 22, Haigh Park, Reddish, Stockport, United Kingdom",
+            "website": "factorybjj.com"
+        },
+        {
+            "id": 10669,
+            "name": "Factory Fresh Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Surrey",
+            "responsible": "Ross Gilbert Lockie",
+            "address": "15161 Fraser Hwy, Surrey, British Columbia, Canada",
+            "website": "www.factoryfreshbjj.com"
+        },
+        {
+            "id": 2766,
+            "name": "Fairfax Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Herndon",
+            "responsible": "Mark C. Jones",
+            "address": "13821 Redskin Dr  , , Herndon, VA, United States of America",
+            "website": "www.fairfaxjj.com"
+        },
+        {
+            "id": 9053,
+            "name": "Fairfield Fit Club BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fairfield",
+            "responsible": "Joseph Oppedisano",
+            "address": "1496 Post Road, Suite R, Fairfield, Ct, United States of America",
+            "website": "www.Fitclubct.com"
+        },
+        {
+            "id": 9465,
+            "name": "Faith To Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Tatiana Silva Cordeiro de Almeida",
+            "address": "Av Isabel 184A - Segundo Andar, Santa Cruz, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2302,
+            "name": "Faito Tamashi Combat Club",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Daly City",
+            "responsible": "Darren Akira Uyenoyama",
+            "address": "6135 Mission St.  , Daly City, CA, United States of America",
+            "website": "www.ftccgym.com"
+        },
+        {
+            "id": 7243,
+            "name": "Faixa Preta Malaga",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Malaga",
+            "responsible": "Lucas Lemi P. Orge",
+            "address": "Pje. Acalde  Joaquín Alonso  N12   Zip Code 29003 Malaga, Malaga, Malaga, Spain",
+            "website": "Pje. Acalde  Joaquín Alonso  N12   Zip Code 29003 Malaga"
+        },
+        {
+            "id": 7562,
+            "name": "Falcoes-Top-Team",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Stuttgart",
+            "responsible": "Jose Alexandre Lira Neto",
+            "address": "Fuchseckstrasse 21b, Stuttgart, Germany",
+            "website": "www.falcoestopteam.com"
+        },
+        {
+            "id": 4029,
+            "name": "Falk Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "João Rezende de Souza Filho",
+            "address": "Rua Aricuri 1003 Magali, Campo Grande, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8692,
+            "name": "Falls Church Kaizen MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Falls Church",
+            "responsible": "Joshua Aguero",
+            "address": "2190-k Pimmit Drive, Falls Church, Virginia, United States of America",
+            "website": "https://kzmma.com/"
+        },
+        {
+            "id": 5118,
+            "name": "FaMA BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Singapore",
+            "countryAbbr": "SG",
+            "city": "Singapore",
+            "responsible": "Zorobabel Moreira Junior",
+            "address": "30 Prinsep Street, #03-01, Singapore, Singapore",
+            "website": "www.famafit.com"
+        },
+        {
+            "id": 3473,
+            "name": "Família Abi-Rihan Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Raphael Xavier Abi-Rihan",
+            "address": "Avenida Borges de Medeiros 701 , Lagoa, Rio de Janeiro, RJ, Brasil",
+            "website": "www.abirihanjj.com.br"
+        },
+        {
+            "id": 6399,
+            "name": "Familia Absoluto BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Alan da Silva Lessa",
+            "address": "Doutor Arruda Negreiros n: 1039, Sobreloja Bairro: Austin, Nova Iguaçu, RJ , Brasil",
+            "website": null
+        },
+        {
+            "id": 7023,
+            "name": "Familia Andre Marola",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Alex Barros de Oliveira",
+            "address": "Rua Duquesa de Bragança n: 15 Loja, Grajaú, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8801,
+            "name": "Família André Marola Portugal",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Belem",
+            "responsible": "Andre Luiz Candido da Silva",
+            "address": "Rua Dos Jerónimos,16, Belem, Lisboa, Portugal",
+            "website": null
+        },
+        {
+            "id": 6889,
+            "name": "Familia Bangu BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Fábio da Silva Andrade",
+            "address": "Estrada Porto Nacional n: 54, Bairro: Bangu, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6761,
+            "name": "Familia Barta Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Gonçalo",
+            "responsible": "Fabricio Rodrigues da Silva",
+            "address": "Rua Comandante Ari Parreiras n: 206, Bairro: Porto Velho, São Gonçalo, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5478,
+            "name": "Família Chumbo Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Antonio Jorge Guimarães",
+            "address": "Rua Teixeira Heizer 1965 Recreio, Bloco 9 Ap 605, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 6094,
+            "name": "Familia de Guerreiros Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jardim",
+            "responsible": "André Barbosa Rios",
+            "address": "Av Cel Vicente Sancts Pirez 457, Major Costa, Jardim, MS, Brasil",
+            "website": null
+        },
+        {
+            "id": 9418,
+            "name": "Familia Fitness Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Canoas",
+            "responsible": "Leandro Schmitz Farias",
+            "address": "Av Armando Fajardo , 2275, Canoas, Rio Grande Do Sul, Brasil",
+            "website": "https://www.familiafitness1.com.br/familiafitness/1/page/landing-page"
+        }
+    ]
+}

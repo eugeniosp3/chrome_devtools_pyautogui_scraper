@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 223,
+        "from": 4440,
+        "to": 4460,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8448,
+            "name": "Makoto BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Edson Arima",
+            "address": "Rua Sampaio Viana, 620, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 10317,
+            "name": "Malibu",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Verrieres Le Buisson",
+            "responsible": "Sergio Lauro Jardim",
+            "address": "13,rue Des Petits Ruissaux, 91, 370, Verrieres Le Buisson, Verrieres Le Buisson, France",
+            "website": "https://www.patrickbittan.com/"
+        },
+        {
+            "id": 6851,
+            "name": "Mallorca BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Calvia",
+            "responsible": "Eugene Joseph Notebaert III",
+            "address": "Carrer Gran via 24, El Toro, Calvia, Spain",
+            "website": "www.MallorcaBJJ.com"
+        },
+        {
+            "id": 10676,
+            "name": "Malta Legion Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Malta",
+            "countryAbbr": "MT",
+            "city": "Pembroke",
+            "responsible": "François Deniau",
+            "address": "W F G G + 33  Triq Alamein, St Andrews, Pembroke, Malta",
+            "website": "https://legionjiujitsu.com"
+        },
+        {
+            "id": 10473,
+            "name": "Mamazinho Recreio  Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Marcio Laudier Vilamor",
+            "address": "Estrada Do Pontal 6625 , Clube Sirio Limbanes , Recreio  Rio De Janeiro, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "https://www.facebook.com/mamazinhobjj?mibextid=ZbWKwL"
+        },
+        {
+            "id": 10083,
+            "name": "Mamba Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dexter",
+            "responsible": "Michael Pierre Ross",
+            "address": "8110 Main St, Dexter, Michigan, United States of America",
+            "website": null
+        },
+        {
+            "id": 7991,
+            "name": "Mamba Negra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sumaré",
+            "responsible": "Carlos Alberto Filardi de Queiroz",
+            "address": "Rua Francisco Manoel De Souza 1220, Sumaré, Brasil",
+            "website": null
+        },
+        {
+            "id": 5372,
+            "name": "Mamoru Dojo",
+            "federationAbbr": "IBJJF",
+            "country": "Thailand",
+            "countryAbbr": "TH",
+            "city": "Huai Yai",
+            "responsible": "Mamoru Kashikura",
+            "address": "49/1 M00 4 501 Chaknok 19, Huai Yai, Thailand",
+            "website": "www.kombatgroup.com"
+        },
+        {
+            "id": 4188,
+            "name": "Mamute Martial Arts Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Ajax",
+            "responsible": "Igor Mattos Silverio",
+            "address": "527 Westney Road South  , , Ajax, ON, Canada",
+            "website": "mamutemma.com"
+        },
+        {
+            "id": 4306,
+            "name": "Mandala Jiu-Jitsu School",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Vinicius de Castro Nascimento",
+            "address": "Unit C Broomsleigh Business Park, Worsley Bridge Road, London, --, United Kingdom",
+            "website": "www.mandalajiujitsu.co.uk"
+        },
+        {
+            "id": 9245,
+            "name": "Mandrake Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itajai",
+            "responsible": "Willian de Souza Domingues",
+            "address": "Rua Laura Dos Santos Laurindo, 50, Itajai, Sc, Brasil",
+            "website": "www.bravakids.com.br"
+        },
+        {
+            "id": 7969,
+            "name": "Manfight Jiu-Jitsu \u0026 Submission - AM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Almério Augusto C. dos A. de C. e Costa",
+            "address": "Avenida Coronel Teixeira, 370, Ed. Nice, Ap. 181 - Condomínio Riviera De Ponta Negra, 370, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 5402,
+            "name": "Mangueboy Pro Fighters",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Colombo",
+            "responsible": "Alexsandro Gomes Ferreira",
+            "address": "Rua Felicio Czocher, 479 / 477, Roça Grande, Colombo, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 685,
+            "name": "Manimal Family",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Luiz Carlos G. Matheus Dias",
+            "address": "Rua Siqueira Campos 43- Sala 313, Copacabana, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 3361,
+            "name": "Manimal Family - Austin",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Carlos Teodorio dos Santos",
+            "address": "Rua Nilson Moura 142 Austin , Austin - Nova Iguacu, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6884,
+            "name": "Manimal Family - International",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Nurensdorf - Zurich",
+            "responsible": "Luiz Carlos G. Matheus Dias",
+            "address": "Hauswiesentrasse 3, Nurensdorf - Zurich, Switzerland",
+            "website": null
+        },
+        {
+            "id": 5229,
+            "name": "Manimal JJ Bahia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Ricardo de Brito Gordilho",
+            "address": "Av. Tamburugy n: 8812, Adelba, Salvador, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 8630,
+            "name": "Mano Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Honolulu",
+            "responsible": "Jun Hyodo",
+            "address": "2752 Woodlawn Drive, Honolulu, Hi, United States of America",
+            "website": "manojiujitsu.com"
+        },
+        {
+            "id": 8894,
+            "name": "Mantra Brazilian Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Otto Felipe Moraes G. N. Cardim",
+            "address": "Rua José Pedreira, Nº41, Candeal, Salvador, Ba, Brasil",
+            "website": "Rua josé pedreira, nº41, candeal"
+        },
+        {
+            "id": 8612,
+            "name": "Mantuano Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Bruno Leonardo Mantuano Costa",
+            "address": "Rua 20 Sul, Lt 12, Águas Claras, Brasília, Df, Brasil",
+            "website": null
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 208,
+        "from": 4140,
+        "to": 4160,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7235,
+            "name": "Kioto Brazilian Jiu-Jitsu Pará",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém ",
+            "responsible": "Amaury  Ribeiro",
+            "address": "Rodovia Mário Covas n: 91, Bairro: Coqueiro, Belém , Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 3362,
+            "name": "Kioto Natal",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Cristiano Silveira da Silva",
+            "address": "Rua Jose de Farache  3345 Midway Mall, Lagoa Nova, Natal, RN, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8667,
+            "name": "Kirinus BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Elias Silva Quirino",
+            "address": "Estrada de Botafogo, 1124, Costa Barros, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 7441,
+            "name": "Kirius Brazilian Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barreiras",
+            "responsible": "Cid Souza Batista",
+            "address": "Avenida Rui Barbosa N° 36, Bairro: Centro, Barreiras, Bahia, Brasil",
+            "website": "kiriusteam.com"
+        },
+        {
+            "id": 6401,
+            "name": "Kitober BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Tel Aviv",
+            "responsible": "Gabriel Kitober Vieira",
+            "address": "Yehuda Hamaccabi 14, Tel Aviv, Tel Aviv, Israel",
+            "website": "www.FitboxTraining.com"
+        },
+        {
+            "id": 3753,
+            "name": "Kizumba Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Ézio Luis Amaro",
+            "address": "Rua Bolívia, 471, Ponta Aguda, Blumenau, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 3707,
+            "name": "KJ Competition Team",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Gyeonggi-do",
+            "responsible": "Gun Na",
+            "address": "Gumi-dong 53-6 1F, Bunadang-gu, Seoungnam-si  , , Gyeonggi-do, --, Korea, South",
+            "website": "--"
+        },
+        {
+            "id": 9291,
+            "name": "KKSP BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Walter Martins de Souza Filho",
+            "address": "Rua Peter Lely, 37, São Paulo, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 7809,
+            "name": "Kleber Oliveira Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gravataí",
+            "responsible": "Kleber Mario Kliutsnicoff de Oliveira",
+            "address": "Rua Ambrosina Fonseca, 189, Gravataí, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 10482,
+            "name": "Kleber Silva Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Rubens Kleber Ferreira da Silva",
+            "address": "Rua José Benedito Mouri Fernandes, Número 361, Barro., Blc 02, Apt 201, Recife, Pe, Brasil",
+            "website": null
+        },
+        {
+            "id": 5143,
+            "name": "KMA Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Erskinevile",
+            "responsible": "Fari Salievski",
+            "address": "34 Clara St, Erskinevile, NSW, Australia",
+            "website": "www.martialartsforlife.com.au"
+        },
+        {
+            "id": 756,
+            "name": "KMR BJJ KIMURA",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Jair Lourenço Medeiros Lima Gurgel",
+            "address": "Rua Floriano Peixoto n: 294, Bairro: Petropolis, Natal, RN, Brasil",
+            "website": "www.teamkimura.com.br"
+        },
+        {
+            "id": 7213,
+            "name": "KMR BJJ Kimura Europe",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Meyrargues",
+            "responsible": "Jair Lourenço Medeiros Lima Gurgel",
+            "address": " 21 Avenue La Pourane, Meyrargues, France",
+            "website": "www.teamkimura.com.br"
+        },
+        {
+            "id": 5536,
+            "name": "KMR BJJ Kimura International",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gilbert",
+            "responsible": "Jair Lourenço Medeiros Lima Gurgel",
+            "address": "2144 E Chesapeake Dr, Gilbert, AZ, United States of America",
+            "website": "www.teamkimura.com.br"
+        },
+        {
+            "id": 6476,
+            "name": "KMR BJJ Kimura Israel",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Netanya",
+            "responsible": "Jair Lourenço Medeiros Lima Gurgel",
+            "address": "Shmurat Nahal Arugot 8, (at Israel Rejane Gilda), Netanya, --, Israel",
+            "website": "www.kimura-jjb.ch"
+        },
+        {
+            "id": 7017,
+            "name": "KMR BJJ Kimura Japan",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Setagaya-ku",
+            "responsible": "Jair Lourenço Medeiros Lima Gurgel",
+            "address": "3-8-5 Iida Annex VIII B1, Youga, Setagaya-ku, Tokyo, Japan",
+            "website": "https://teamkimurajapan.jp/"
+        },
+        {
+            "id": 6829,
+            "name": "KMR BJJ Kimura Portugal",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Perafita Matorsinhos",
+            "responsible": null,
+            "address": "Avenida das Ribeiras 599 Hab. 120 Andar 1, Perafita Matorsinhos, Portugal",
+            "website": null
+        },
+        {
+            "id": 7784,
+            "name": "Knights",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kissimmee",
+            "responsible": "Pedro Jaime Torres Bonilla",
+            "address": "2556 Simpson Road, Kissimmee, Fl, United States of America",
+            "website": null
+        },
+        {
+            "id": 8226,
+            "name": "Knots Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Moncton",
+            "responsible": "Cássio Luiz Martins",
+            "address": "120 Edgett Avenue, Killams Lane, Moncton, New Brunswick, Canada",
+            "website": "www.knotsjiujitsu.com"
+        },
+        {
+            "id": 5699,
+            "name": "KnuckleUp Alpharetta",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alpharetta",
+            "responsible": "Kazeka Muniz",
+            "address": "5815 Windward Pkwy, Suite 100, Alpharetta, GA, United States of America",
+            "website": "www.knuckleupfitness.com"
+        }
+    ]
+}

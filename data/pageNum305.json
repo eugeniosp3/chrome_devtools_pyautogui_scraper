@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 305,
+        "from": 6080,
+        "to": 6100,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5796,
+            "name": "Sportschool Herbert",
+            "federationAbbr": "IBJJF",
+            "country": "Netherlands",
+            "countryAbbr": "NL",
+            "city": "Ede",
+            "responsible": "Nicolaas Herbert",
+            "address": "BUURTSCHEUTERLAAN 86, Ede, Netherlands",
+            "website": "www.sportschool-herbert.nl"
+        },
+        {
+            "id": 10274,
+            "name": "SportsLab Costa Rica",
+            "federationAbbr": "IBJJF",
+            "country": "Costa Rica",
+            "countryAbbr": "CR",
+            "city": "Heredia",
+            "responsible": "Eduardo Chaves Rojas",
+            "address": "San Rafael De Heredia, Heredia, Heredia, Costa Rica",
+            "website": null
+        },
+        {
+            "id": 5400,
+            "name": "Sportvision Honey Badgers",
+            "federationAbbr": "IBJJF",
+            "country": "Netherlands",
+            "countryAbbr": "NL",
+            "city": "Eindhoven",
+            "responsible": "Jochem Branderhorst",
+            "address": "Mensfortweg 20, Eindhoven, Netherlands",
+            "website": "www.sportvision.nu"
+        },
+        {
+            "id": 8382,
+            "name": "Squad BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orlando",
+            "responsible": "Jorge Luiz Jacome De Oliveira",
+            "address": "13802 Landstar Blvd, Unit 108, Orlando, Florida, United States of America",
+            "website": "Squadbjj.com"
+        },
+        {
+            "id": 4995,
+            "name": "Squared BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Worcester",
+            "responsible": "Gabriel Gonzaga Santos Nogueira",
+            "address": "333 Shewsbury St  , , Worcester, MA, United States of America",
+            "website": "gonzagabjj.com"
+        },
+        {
+            "id": 5643,
+            "name": "Squared BJJ - Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Carapicuiba",
+            "responsible": "Gabriel Gonzaga Santos Nogueira",
+            "address": "Av. Inocêncio Seráfico, 1970, Vila Silva Ribeiro, Carapicuiba, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 8161,
+            "name": "SS Fight Training",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Poços De Caldas",
+            "responsible": "Jean Marcelo Gonçalves",
+            "address": "Avenida Eduardo Luciano Marras 290, Poços De Caldas, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9290,
+            "name": "SSBJJNAG",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nagoya",
+            "responsible": "Yoichi Suzuki",
+            "address": "14-22 Atsuta-ku Akenou-cho, Nagoya, Aichi, Japan",
+            "website": null
+        },
+        {
+            "id": 9225,
+            "name": "St Albans Submission Grappling",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "St Albans",
+            "responsible": "Daniel Richard Lewis",
+            "address": "Unit 14 Hertfordshire Business Centre, Alexander Rd, London Colney, Al2 1jg, St Albans, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 9769,
+            "name": "ST Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Î0\u0002¢¿:",
+            "responsible": "Hiroaki Igusa",
+            "address": "1063, Î0\u0002¢¿:, CI, Japan",
+            "website": "https://ameblo.jp/stjiujitsu"
+        },
+        {
+            "id": 8434,
+            "name": "St Pete Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "St Petersburg",
+            "responsible": "Sean Joseph Lynch",
+            "address": "5540 Haines Rd, St Petersburg, Fl, United States of America",
+            "website": "www.stpetebjj.com"
+        },
+        {
+            "id": 6460,
+            "name": "St. Catharines Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "St. Catharines",
+            "responsible": "Vincent Mattei",
+            "address": "178 Scott St unit 17, St. Catharines, Ont, Canada",
+            "website": null
+        },
+        {
+            "id": 7752,
+            "name": "St. Joseph Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "St. Joseph ",
+            "responsible": "Deryck Ripley",
+            "address": "3935 SHERMAN AVE, STE B, St. Joseph , Missouri, United States of America",
+            "website": "Www.sjbjjmma.com "
+        },
+        {
+            "id": 3672,
+            "name": "Stable Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hemet",
+            "responsible": "Peter Benjamin Sutton",
+            "address": "175 N. Cawston Ave. Suite 130A  , , Hemet, CA, United States of America",
+            "website": "www.stablebjj.com"
+        },
+        {
+            "id": 9765,
+            "name": "Stafford MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Manahawkin",
+            "responsible": "Liam F. Kerrigan",
+            "address": "511 Route 72 East, Suite 2, Manahawkin, New Jersey, United States of America",
+            "website": "www.staffordmma.com"
+        },
+        {
+            "id": 5487,
+            "name": "Staley Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wilmette",
+            "responsible": null,
+            "address": "123 Green Bay Rd. , Wilmette, IL, United States of America",
+            "website": "www.staleymartialarts.com"
+        },
+        {
+            "id": 5867,
+            "name": "Stallion Gym",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Stuttgart",
+            "responsible": "Dominik Artukovic",
+            "address": "Wernerstrasse 119, Stuttgart, BW, Germany",
+            "website": "www.stallion-gym.de"
+        },
+        {
+            "id": 10392,
+            "name": "Stalone Brazilian Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Chorley",
+            "responsible": "Matthew James Callaghan",
+            "address": "Unit 5 Matrix House, Friday Street, Chorley, Lancashire, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 9002,
+            "name": "Stance",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Milan",
+            "responsible": "Marco Bancone",
+            "address": "Via Bernardo Quaranta 52, Milan, Italy",
+            "website": null
+        },
+        {
+            "id": 6722,
+            "name": "Standard Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rockville",
+            "responsible": "Gregory Dennis Souders",
+            "address": "409 D-E North Stonestreet Ave,, Rockville, MD, United States of America",
+            "website": "www.StandardJiuJitsu.com"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 94,
+        "from": 1860,
+        "to": 1880,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5582,
+            "name": "Dalton Regis Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiãnia",
+            "responsible": "Dalton Regis Nascimento Castro",
+            "address": "Rua 1135, qd 240, lt26/27, Setor Marista, Goiãnia, GO, Brasil",
+            "website": null
+        },
+        {
+            "id": 8931,
+            "name": "Damasceno Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vila Velha",
+            "responsible": "Bruno Damasceno Silva",
+            "address": "Rua Professor Telmo De Souza Torres Lado Ímpar, Casa, Vila Velha, Espírito Santo, Brasil",
+            "website": "damascenojiujitsu_"
+        },
+        {
+            "id": 2902,
+            "name": "Damm Fight Japan",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Gunma",
+            "responsible": "Evaldo Ferreira dos Santos",
+            "address": "451-1 Hinode-cho Iseesaki-shi  , , Gunma, --, Japan",
+            "website": ""
+        },
+        {
+            "id": 7504,
+            "name": "Daniel Abe Team - BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Daniel Mariano Ramalho Abe",
+            "address": "Av. Pedro Bueno n: 826, bairro: Jabaquara, São Paulo, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 7293,
+            "name": "Daniel Bezerra Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Daniel de Figueiredo Bezerra",
+            "address": "Av. Acrísio Cruz n:65, Bairro: Treze de Julho, Aracaju, Sergipe, Brasil",
+            "website": "www.academiadanielbezerra.com.br"
+        },
+        {
+            "id": 6528,
+            "name": "Daniel Dantas Jiu-Jitsu School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maricá",
+            "responsible": "Daniel Dantas Peres",
+            "address": "Rua das Camélias (Rod. Amaral Peixoto Km 21) S/N, São José do Imbassaí, Maricá, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7529,
+            "name": "Daniel Gracie Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Henderson",
+            "responsible": "Daniel Vieira",
+            "address": "1481 W Warm Springs Rd, Unit 145, Henderson, Nevada, United States of America",
+            "website": "www.danielgracielasvegas.com"
+        },
+        {
+            "id": 2711,
+            "name": "Daniel Tavares Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Erial",
+            "responsible": "Francisco Daniel Pires Tavares",
+            "address": "2903 Erial New Brooklyn Road  , , Erial, NJ, United States of America",
+            "website": "www.danieltavaresbjj.com"
+        },
+        {
+            "id": 6706,
+            "name": "Danilo Aranha Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lambari",
+            "responsible": "Danilo Gonçalves",
+            "address": "Rua Geralda Lemos Garcia n: 29, Bairro: Sertãozinho, Lambari, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 5201,
+            "name": "Danilo Cherman BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Middletown",
+            "responsible": "Danilo Cherman Goltsman",
+            "address": "116 Heritage Blvd  , Middletown, CT, United States of America",
+            "website": null
+        },
+        {
+            "id": 8219,
+            "name": "Daniri Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Puebla",
+            "responsible": "Daniel Niño De Rivera Garcia",
+            "address": "35 Poniente 3111 Esquina 33 Sur, Colonia El Vergel, Puebla, Puebla, Mexico",
+            "website": "academiavirtualjjb.com"
+        },
+        {
+            "id": 5037,
+            "name": "Danny Savery BJJ / New England United",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fall River",
+            "responsible": "Daniel M. Savery",
+            "address": "4263 N. Main St, Fall River, MA, United States of America",
+            "website": "dannysaverybjj.com"
+        },
+        {
+            "id": 2792,
+            "name": "D'Arce Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Shirley",
+            "responsible": "Joseph M. D'Arce",
+            "address": "78 McGraw Street, Shirley, NY, United States of America",
+            "website": "www.darcebjj.com"
+        },
+        {
+            "id": 3576,
+            "name": "Dark Horse Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Longmont",
+            "responsible": null,
+            "address": "721 Main Street  , , Longmont, CO, United States of America",
+            "website": "www.darkhorsebjj.com"
+        },
+        {
+            "id": 6137,
+            "name": "DarkwolfMMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Debary",
+            "responsible": "David Lohsen",
+            "address": "401 Newtech Ct, Suite 102, Debary, Fl, United States of America",
+            "website": "www.darkwolfmma.com"
+        },
+        {
+            "id": 6599,
+            "name": "Darllon Top Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Parintins",
+            "responsible": "Gleison Darllon Da Silva Guimarães",
+            "address": "Avenida Geny Bentes n: 3785, Itaúna 1, Parintins, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 3436,
+            "name": "Dartanian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Noho",
+            "responsible": "John Dartanian Bagby",
+            "address": "5643 Cahuega Blvd  , , Noho, CA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 9766,
+            "name": "Daruma Dojo",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sunnyvale, Ca",
+            "responsible": "Alberto Juarez",
+            "address": "548 S. Murphy Avenue, Sunnyvale, Ca, California, United States of America",
+            "website": "teamdarumadojo.com"
+        },
+        {
+            "id": 9869,
+            "name": "Dave King Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pine Knot",
+            "responsible": "David W. King",
+            "address": "45 Wild Bill Stephens Road, Pine Knot, Kentucky, United States of America",
+            "website": null
+        },
+        {
+            "id": 7978,
+            "name": "Daveiro Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José Se Do Rio Preto",
+            "responsible": "Bruno Silva Daveiro",
+            "address": "Rua Benedito Sufredini  985, Bairro São Deocleciano, São José Se Do Rio Preto, São Paulo, Brasil",
+            "website": "www.daveiroteam.com.br"
+        }
+    ]
+}

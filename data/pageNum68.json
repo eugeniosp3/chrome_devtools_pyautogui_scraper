@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 68,
+        "from": 1340,
+        "to": 1360,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6368,
+            "name": "Carpe Diem Mita",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Minato-ku",
+            "responsible": "Masaki Takeura",
+            "address": "5-1-13-B1, Shiba, Minato-ku, Tokyo, Japan",
+            "website": "https://www.carpediem-mita.com/"
+        },
+        {
+            "id": 3157,
+            "name": "Carpe Diem Nagasaki",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nagasaki",
+            "responsible": "Yuuki Moriyama",
+            "address": "7-17-2F Oohashi  , Nagasaki, --, Japan",
+            "website": "www.bjjnagasaki.com"
+        },
+        {
+            "id": 8279,
+            "name": "Carpe Diem Nagoya",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nagoya",
+            "responsible": "Daisuke Shiraki",
+            "address": "Chikusa Imaike, 1-5-3, Nagoya, Aichi, Japan",
+            "website": null
+        },
+        {
+            "id": 8616,
+            "name": "Carpe Diem Naha",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Naha City",
+            "responsible": "Yuki Ishikawa",
+            "address": "3-61-9, Shuriyamagawa Cho,, Naha City, Okinawa, Japan",
+            "website": "http://www.carpediem-naha.com"
+        },
+        {
+            "id": 8489,
+            "name": "Carpe Diem Okinawa",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Chatan",
+            "responsible": "Emerson Azuma",
+            "address": "2-14-4 2f, Chatan, Okinawa, Japan",
+            "website": "http://carpediem.okinawa"
+        },
+        {
+            "id": 8839,
+            "name": "Carpe Diem Sendai",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sendai",
+            "responsible": "Kazuki Watanabe",
+            "address": "Aoba,ward,itsutsubashi,, 2-8-17, Sendai, Miyagi, Japan",
+            "website": "http://www.carpediem-sendai.com/"
+        },
+        {
+            "id": 9616,
+            "name": "Carpe Diem Setagaya",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Setagaya",
+            "responsible": "Hiago Noboru Oliveira Ueno",
+            "address": "5-35-3, Kyodo, Setagaya, Tokyo, Japan",
+            "website": "https://www.carpediemsetagaya.com/"
+        },
+        {
+            "id": 9596,
+            "name": "Carpe Diem Tokachi",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Otofuke",
+            "responsible": "Yoshiatsu Tanaka",
+            "address": "1-11-1 Horai Higashimachi Minami, Otofuke, Hokkaido, Japan",
+            "website": null
+        },
+        {
+            "id": 10295,
+            "name": "Carpe Diem Yokohama",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Yokohama-shi",
+            "responsible": "Masahito Osada",
+            "address": "4-1-36, Tsuzuki-ku Chigasaki Minami, Yokohama-shi, Kanagawa-ken, Japan",
+            "website": "https://www.carpediem-yokohama.com/"
+        },
+        {
+            "id": 9345,
+            "name": "Carpio Jiu-Jitsu Argentina",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "San Cristobal",
+            "responsible": "Gustavo Ernesto C. Caceres",
+            "address": "Pasco 1561, San Cristobal, Buenos Aires, Argentina",
+            "website": null
+        },
+        {
+            "id": 5557,
+            "name": "Carranca Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Eunapolis",
+            "responsible": "Fábio Costa dos Santos",
+            "address": "Av. Rui Barbosa N: 515, Centro B, Eunapolis, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 10494,
+            "name": "Carrero Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Miami Beach",
+            "responsible": "Roberto Clemente Portocarrero",
+            "address": "15423 Ne 21 Ave, North Miami Beach, Fl, United States of America",
+            "website": "www.carrerobjj.com"
+        },
+        {
+            "id": 3574,
+            "name": "Carvalho BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Paterson",
+            "responsible": "Edson Carvalho Pinto",
+            "address": "85-99 Hazel Street  , , Paterson, NJ, United States of America",
+            "website": "www.teamcarvalho.com"
+        },
+        {
+            "id": 5193,
+            "name": "Carvoeiro Jiu-Jitsu / Criciúma-SC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Criciuma",
+            "responsible": "Juseppe Luiz Baccin",
+            "address": "Travessa Antonio Augusto Althoff n: 351 sl: 401, Centro, Criciuma, SC, Brasil",
+            "website": "https://carvoeirojiujitsu.com.br/"
+        },
+        {
+            "id": 6688,
+            "name": "Cary Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cary",
+            "responsible": "Jason Paul Culbreth",
+            "address": "8316 Chapel Hill Rd, Cary, NC, United States of America",
+            "website": "www.CaryJiuJitsu.com"
+        },
+        {
+            "id": 5192,
+            "name": "Casa Chimeyo Mexico",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Mexico City",
+            "responsible": "Enrique Alfonso Rivera Chimeyo",
+            "address": "Loreto Fabela #1 Colonia Campestre Aragon, Delegacion Gustavo A. Madero, Mexico City, CDMX, Mexico",
+            "website": "www.casachimeyo.com"
+        },
+        {
+            "id": 4326,
+            "name": "Casa Chimeyo USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Merced",
+            "responsible": "Enrique Alfonso Rivera Chimeyo",
+            "address": "355 Diane Court, Merced, CA, United States of America",
+            "website": "www.casachimeyo.com"
+        },
+        {
+            "id": 5629,
+            "name": "Casa Na Vila",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pariquera-Açu",
+            "responsible": "José Roberto Martins Vieira",
+            "address": "Av Tenente João Euzébio Rodrigues 200, Centro, Pariquera-Açu, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 4989,
+            "name": "Casa of Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ansonia",
+            "responsible": "Uilton R. Dias",
+            "address": "3240 Main Street  , Ansonia, CT, United States of America",
+            "website": "casabjj.com"
+        },
+        {
+            "id": 4797,
+            "name": "Cascade Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Everett",
+            "responsible": "Andrew John Solheim",
+            "address": "2221 Everett Ave. Suite 103  , Everett, WA, United States of America",
+            "website": "everettbjj.com"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 149,
+        "from": 2960,
+        "to": 2980,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2456,
+            "name": "Gracie Barra Almada",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Almada",
+            "responsible": "Mauricio Robbe de Almeida",
+            "address": "R do Alentejo, n.44 Charneca da Caparica  , , Almada, xx, Portugal",
+            "website": ""
+        },
+        {
+            "id": 3924,
+            "name": "Gracie Barra Almaty, Kazakhstan",
+            "federationAbbr": "IBJJF",
+            "country": "Kazakstan",
+            "countryAbbr": "KZ",
+            "city": "Almaty",
+            "responsible": null,
+            "address": "132 Dostyk Ave.  #73 , Almaty, --, Kazakstan",
+            "website": "www.bjj.kz"
+        },
+        {
+            "id": 10246,
+            "name": "Gracie Barra Alphaville - SP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barueri",
+            "responsible": "Rafael Henrique da Silva",
+            "address": "Calçada Das Violetas 208, 2° Andar, Barueri, São Paulo, Brasil",
+            "website": "graciebarraalphaville.com.br"
+        },
+        {
+            "id": 55,
+            "name": "Gracie Barra Amazonas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Melquiades Henrique Farias Machado",
+            "address": "Rua Constelação de Gêmeos 220, Aleixo, Manaus, AM, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2038,
+            "name": "Gracie Barra America",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Irvine",
+            "responsible": "Carlos Gracie Junior",
+            "address": "14988 Sand Canyon Ave #1  , , Irvine, CA, United States of America",
+            "website": "www.graciebarraamerica.com"
+        },
+        {
+            "id": 4732,
+            "name": "Gracie Barra Amora",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Cruz de Pau",
+            "responsible": "Manuel António Ambrósio S. T. Pontes",
+            "address": "Rua do Alentejo 1 1, 1, Cruz de Pau, 2845-034, Portugal",
+            "website": ""
+        },
+        {
+            "id": 4576,
+            "name": "Gracie Barra Anapolis",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Anapolis",
+            "responsible": "Sammy Jamaleddine",
+            "address": "Av. São Francisco de Assis , 770 , Jundiaí, Anapolis, GO, Brasil",
+            "website": null
+        },
+        {
+            "id": 6411,
+            "name": "Gracie Barra Anderlecht",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Bruxelles",
+            "responsible": "Paulo Brasil Da Silva",
+            "address": "70, Rue Lieutenant Liedel, Bruxelles, --, Belgium",
+            "website": "www.GracieBarraAnderlecht"
+        },
+        {
+            "id": 473,
+            "name": "Gracie Barra Angola",
+            "federationAbbr": "IBJJF",
+            "country": "Angola",
+            "countryAbbr": "AO",
+            "city": "--",
+            "responsible": null,
+            "address": "  , , --, --, Angola",
+            "website": ""
+        },
+        {
+            "id": 9492,
+            "name": "Gracie Barra Antiguo",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "San Sebastián",
+            "responsible": "David Martin Lopez",
+            "address": "Calle Escolta Real 46, San Sebastián, Guipúzcoa, Spain",
+            "website": null
+        },
+        {
+            "id": 9215,
+            "name": "Gracie Barra Aparecida De Goiânia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aparecida De Goiânia",
+            "responsible": "Henryque Batista Climaco Pofahl",
+            "address": "Av. Vinte E Um De Abril, Quadra 3 - Lote 11 - Res. Anhembi, Aparecida De Goiânia, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 5689,
+            "name": "Gracie Barra Aracaju",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Danilo Mota de Oliveira",
+            "address": "Rua Manuel Euclides De Oliveira, 79, Farolândia, Aracaju, SE, Brasil",
+            "website": null
+        },
+        {
+            "id": 9096,
+            "name": "Gracie Barra Arapiraca",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Arapiraca",
+            "responsible": "Dandara Maria V. Guimarães",
+            "address": "Rua Nossa Senhora Do Ó, 667, Arapiraca, AL, Brasil",
+            "website": "@graciebarraarapiraca"
+        },
+        {
+            "id": 4774,
+            "name": "Gracie Barra Araranguá/SC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araranguá",
+            "responsible": "Rodrigo de Quadros",
+            "address": "Av. Getúlio Vargas n: 982, Araranguá, SC, Brasil",
+            "website": "www.jiujitsuararangua.com.br"
+        },
+        {
+            "id": 5148,
+            "name": "Gracie Barra Araraquara",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araraquara",
+            "responsible": "Paulo Cesar da Conceição",
+            "address": "Rua Carlos Gomes 2976, São Geraldo, Araraquara, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 5013,
+            "name": "Gracie Barra Arizona",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Phoenix",
+            "responsible": "Flavio Alves de Almeida",
+            "address": "1 E. Deervalley Rd. Ste 208, Phoenix, AZ, United States of America",
+            "website": "www.gbarizona.com"
+        },
+        {
+            "id": 5090,
+            "name": "Gracie Barra Armação dos Búzios",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Armação dos Buzios",
+            "responsible": "Reinaldo Ende Lopes da Silva",
+            "address": "Av. Estrada Canto Esquerda do Geribá n: 100 loja 1, Manguinhos, Armação dos Buzios, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6504,
+            "name": "Gracie Barra Arnold",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Nottingham",
+            "responsible": "Simon D. Ling",
+            "address": "unit 2, 178 St Albans Road, Arnold, Nottingham, United Kingdom",
+            "website": "www.GBArnold.com"
+        },
+        {
+            "id": 8848,
+            "name": "Gracie Barra Arraial Do Cabo - RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Arraial Do Cabo",
+            "responsible": "Nikolas Alexander Faria Villacorta",
+            "address": "R. Laurentino Nascimento, 04 - Praia Dos Anjos, Arraial Do Cabo, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 6883,
+            "name": "Gracie Barra Artur Nogueira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Artur Nogueira",
+            "responsible": "Tiago Froner Vigna",
+            "address": "Alameda João Cantareli, 173, Bairro: Nova Artur, Artur Nogueira, São Paulo, Brasil",
+            "website": null
+        }
+    ]
+}

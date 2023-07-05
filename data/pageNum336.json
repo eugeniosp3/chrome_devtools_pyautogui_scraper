@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 336,
+        "from": 6700,
+        "to": 6720,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3331,
+            "name": "Tri-Force Nishi-shinjuku",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Shinjuku-ku",
+            "responsible": "Mitsuyoshi Hayakawa",
+            "address": "Baigetsu Bldg 2f, 6-20-11, Nishi Shinjuku, , Shinjuku-ku, Tokyo, Japan",
+            "website": "http://www.hidemiyoshi.jp"
+        },
+        {
+            "id": 3293,
+            "name": "Tri-Force Odawara",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Odawara City",
+            "responsible": "Mitsuyoshi Hayakawa",
+            "address": "2-14-12 Honcho, Kadokichi Bldg (root Gym), Odawara City, Kanagawa, Japan",
+            "website": "www.rootsgym.com"
+        },
+        {
+            "id": 8500,
+            "name": "Tri-force Ojima",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Koto-ku",
+            "responsible": "Daizo Ishige",
+            "address": "Ojima 4-8-9 2f, Koto-ku, Tokyo, Japan",
+            "website": "http://tfbjjtokyo.com/en/"
+        },
+        {
+            "id": 7132,
+            "name": "Tri-Force Osaka",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka-city",
+            "responsible": "Mitsuyoshi Hayakawa",
+            "address": "5F Debis Bldg, 2-4-16 Minami-honmachi Chuo-ku, Osaka-city, Osaka, Japan",
+            "website": "http://triforce-bjj.com/schools/osaka/"
+        },
+        {
+            "id": 10496,
+            "name": "Tri-force Sakurajosui",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Setagaya-ku",
+            "responsible": "Mitsuyoshi Hayakawa",
+            "address": "Mitsumoto Bldg 3f, 4-15-16, Sakurajosui, Setagaya-ku, Tokyo, Japan",
+            "website": "https://fb-studio.jimdofree.com"
+        },
+        {
+            "id": 7404,
+            "name": "Tri-Force Shiki",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Niiza-shi",
+            "responsible": "Tetsuo Sugimura",
+            "address": "2-31-6-3C Tohoku, Niiza-shi, Saitama, Japan",
+            "website": "http:..tfshiki-bjj.com/"
+        },
+        {
+            "id": 3332,
+            "name": "Tri-Force Shinjuku",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Koji Shibamoto",
+            "address": "7-15-4 YSs Bldg B1 Nishishinjuki Shinjuka-ku  , , Tokyo, --, Japan",
+            "website": "www.triforce-bjj.com"
+        },
+        {
+            "id": 4210,
+            "name": "Tri-Force U.C.T.",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Uijeongbu-Si",
+            "responsible": "Soon Sung Bae",
+            "address": "720-3, Singok1(il)-dong  , Uijeongbu-Si, Geonggi-do, Korea, South",
+            "website": "www.uct-bjj.com"
+        },
+        {
+            "id": 9978,
+            "name": "Tri-Force Yachiyo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Yachiyo",
+            "responsible": "Mitsuyoshi Hayakawa",
+            "address": "1-11-1, Midorigaoka-nishi, Yachiyo, Chiba, Japan",
+            "website": "https://tri-yachiyo.net/"
+        },
+        {
+            "id": 5397,
+            "name": "Tri-Force Yokohama",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Yokohama",
+            "responsible": "Hideyuki Ito",
+            "address": "3-28-2 Iwasa Bld 2F, Tsuruya-cho, Yokohama, Kanagawa, Japan",
+            "website": "tf-yokohama.com"
+        },
+        {
+            "id": 3597,
+            "name": "Trinacria BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Marsala (Trapani)",
+            "responsible": "Luigi David Cialona",
+            "address": "c/da berbaro  397, , Marsala (Trapani), ., Italy",
+            "website": "davidecialona.hostzi.com"
+        },
+        {
+            "id": 10513,
+            "name": "Trindade Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Geraldo",
+            "responsible": "Richard Mark de Paula D. Bento",
+            "address": "Avenida Prefeito João Anastácio Santos, N58, Bairro José Lisboa, São Geraldo, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 6264,
+            "name": "Trinity Gold BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista ",
+            "responsible": "Daniel Pedreiro da Trindade",
+            "address": "Av. Centenário n: 1632, Cinturão Verde, Boa Vista , Roraima, Brasil",
+            "website": null
+        },
+        {
+            "id": 7527,
+            "name": "Trinity-Suns",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sumoto-shi",
+            "responsible": "Yuki Nakai",
+            "address": "2347-15 Yuracho Yura, Sumoto-shi, Hyogo, Japan",
+            "website": "https://blog.goo.ne.jp/suns001"
+        },
+        {
+            "id": 5969,
+            "name": "Triple Art Jiu-Jitsu Academy",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Sao Joao do Estoril",
+            "responsible": "Henrique João Alves Pereira",
+            "address": "Rua Egas Moniz 131, Sao Joao do Estoril, Cascais, Portugal",
+            "website": "-"
+        },
+        {
+            "id": 4010,
+            "name": "Triskelion Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Itami",
+            "responsible": "Yuki Nakai",
+            "address": "Itami Building 3F, 6-1-3 Chuo, Itami, Hyogo, Japan",
+            "website": "http://bjj-triskelion.com/"
+        },
+        {
+            "id": 8305,
+            "name": "Triskle Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Caparica",
+            "responsible": "Marco Guedes Santos",
+            "address": "Rua Diogo Gomes N15, Caparica, Setúbal, Portugal",
+            "website": null
+        },
+        {
+            "id": 5736,
+            "name": "Tri-Star Montreal",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Montreal",
+            "responsible": "Vincent Galarneau",
+            "address": "5275 Ferrier St, Montreal, QC, Canada",
+            "website": "tristargym.com"
+        },
+        {
+            "id": 7774,
+            "name": "Tristone  Gtm",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Uijeongbu-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "2f, 41-7, Sanggeum-ro,, Uijeongbu-si, Gyeonggi-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7772,
+            "name": "Tristone  Gyeyang",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Incheon",
+            "responsible": "Seung-Jae Lee",
+            "address": "#503, 86, Gyeyangmunhwa-ro, Gyeyang-gu, Incheon, Incheon, Korea, South",
+            "website": null
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 3,
+        "from": 40,
+        "to": 60,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9863,
+            "name": "352 Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "West Chester",
+            "responsible": "Kevin Lincoln Barr",
+            "address": "1502 West Chester Pike, West Chester, Pennsylvania, United States of America",
+            "website": "www.352jitsu.com"
+        },
+        {
+            "id": 6382,
+            "name": "365 ABJJ Association",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Paulo Roberto dos Santos Peixoto",
+            "address": "Via Apia da Rocinha n: 20, Rocinha , Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 2773,
+            "name": "3rd Generation Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Harleysville",
+            "responsible": "Rosendo Diaz III",
+            "address": "274 Hunsberger Lane, , Harleysville, PA, United States of America",
+            "website": "www.graciepa.com"
+        },
+        {
+            "id": 8565,
+            "name": "3rd Place",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Yoshinogawa City",
+            "responsible": "Yukinori Urata",
+            "address": "Nakajima 435-50, Kamojima Cho, Yoshinogawa City, Tokushima Prefecture, Japan",
+            "website": null
+        },
+        {
+            "id": 10034,
+            "name": "4 Jitz Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Rosa Beach",
+            "responsible": "Gilmar Ferreira",
+            "address": "4942 Us - 98 W   Ste.15, Santa Rosa Beach, Fl, United States of America",
+            "website": "4Jitz.com"
+        },
+        {
+            "id": 10226,
+            "name": "413 Jiu-Jitsu School",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Southlake",
+            "responsible": "Pedro Henrique de Oliveira e Silva Rocha",
+            "address": "1125 Davis Blvd, Suite 300, Southlake, Texas, United States of America",
+            "website": "413bjj.com"
+        },
+        {
+            "id": 8114,
+            "name": "45 BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alameda",
+            "responsible": "John Michael Williams",
+            "address": "2046 Eagle Ave, B, Alameda, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 8239,
+            "name": "5 Points Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Corpus Christi",
+            "responsible": "Jose Salinas",
+            "address": "13434 Leopard Street Suite A9, Corpus Christi, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 7740,
+            "name": "517 Legacy Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jackson",
+            "responsible": "Elizabeth Louise Kirchmeier",
+            "address": "3216 Wildwood Ave , Jackson, MI, United States of America",
+            "website": null
+        },
+        {
+            "id": 8480,
+            "name": "555 Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Bethungra",
+            "responsible": "Ross M. Dallow",
+            "address": "2 White Street, Young Highschool Campbell Street Young, Bethungra, Nsw, Australia",
+            "website": "https://www.facebook.com/555jiujitsu"
+        },
+        {
+            "id": 9941,
+            "name": "5EJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dallas",
+            "responsible": "Gerardo Mulas",
+            "address": "2613 N Carroll Avenue, Dallas, Tx, United States of America",
+            "website": "5elementsjiujitsu.com"
+        },
+        {
+            "id": 9898,
+            "name": "5th Dimension BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Czech Republic",
+            "countryAbbr": "CZ",
+            "city": "Velké PYíto\rno",
+            "responsible": "Miloslav Bosák",
+            "address": "Lískovec 170, Velké PYíto\rno, Czech Republic",
+            "website": null
+        },
+        {
+            "id": 9599,
+            "name": "6 Levels Orlando",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Winter Garden",
+            "responsible": "Jonathan Burke",
+            "address": "16112 Marsh Rd, Suite 407, Winter Garden, Fl, United States of America",
+            "website": "www.6levelsorlando.com"
+        },
+        {
+            "id": 7435,
+            "name": "617 Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Somerville",
+            "responsible": "Carlos Esteves Neto",
+            "address": "86 Joy Street, Somerville, MA, United States of America",
+            "website": "www.617fightsports.com"
+        },
+        {
+            "id": 8695,
+            "name": "617 Brazilian Jiu-Jitsu RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Carlos Esteves Neto",
+            "address": "Rua Prefeito Dulcideo Cardoso 2500, Bloco 1, Apto. 2005, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "www.617fightsports.com"
+        },
+        {
+            "id": 7270,
+            "name": "67 Pantanal Association",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Fabio da Rocha Carneiro",
+            "address": "Rua Jornalista Valdir Lago, 179,, Guanandi 2, Campo Grande, MS, Brasil",
+            "website": "Rua Jornalista Valdir Lago, 179, Guanandi 2, Campo Grande MS"
+        },
+        {
+            "id": 10674,
+            "name": "6F Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Hong Kong",
+            "countryAbbr": "HK",
+            "city": "Hong Kong",
+            "responsible": "Daniel Charles Pereira",
+            "address": "6/f Simsons Comercial Building Johnston Road , Wan Chai, Hong Kong, Hong Kong, Hong Kong",
+            "website": "https://www.facebook.com/hongkongfightclub"
+        },
+        {
+            "id": 4699,
+            "name": "7 Islands Jiu-Jitsu Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Las Palmas",
+            "responsible": "Antonio Gadelha da Conceição",
+            "address": "Calle Bentaguayre, N54, Las Palmas, LP, Spain",
+            "website": ""
+        },
+        {
+            "id": 7231,
+            "name": "707-7FB Spartan BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Cheonan-si",
+            "responsible": "Seung-Jae Lee",
+            "address": "2f, 2, Dujeongyeok-gil, Seobuk-gu, Cheonan-si, Chungcheongnam-do, Korea, South",
+            "website": "-"
+        },
+        {
+            "id": 6796,
+            "name": "717 BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Elizabethtown",
+            "responsible": "Damione Puopolo",
+            "address": "31 Kenbridge Lane, Elizabethtown, PA, United States of America",
+            "website": "www.gracie717.com"
+        }
+    ]
+}

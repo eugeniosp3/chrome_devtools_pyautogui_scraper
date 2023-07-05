@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 40,
+        "from": 780,
+        "to": 800,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9287,
+            "name": "Bars Checkmat",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "El Monte",
+            "responsible": "Marat Kenzhebulatov",
+            "address": "10904 Main St, El Monte, California, United States of America",
+            "website": "www.barscheckmat.com"
+        },
+        {
+            "id": 9386,
+            "name": "Bars Checkmat Kz",
+            "federationAbbr": "IBJJF",
+            "country": "Kazakstan",
+            "countryAbbr": "KZ",
+            "city": "Almaty",
+            "responsible": "Marat Kenzhebulatov",
+            "address": "Ykylas 8g, Almaty, Kazakstan",
+            "website": "barscheckmatbjj.kz"
+        },
+        {
+            "id": 4639,
+            "name": "Baruch BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Carlos Baruch C. Ferreira",
+            "address": "1059 14th Street  , , San Diego, CA, United States of America",
+            "website": "www.cityboxing.com"
+        },
+        {
+            "id": 2407,
+            "name": "Barum Jiu-Jitsu San Diego",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Alfredo Vasconcelos Barum",
+            "address": "4903 Morena Blvd  1202 , San Diego, CA, United States of America",
+            "website": "www.barumjiujitsu.com"
+        },
+        {
+            "id": 5909,
+            "name": "Base 65 Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Evandro Alves Nascimento",
+            "address": "Rua Beco Da Coruja, Numero 100, Bloco A, Apartamento 001, Bairro Saboeiro, Centro, Salvador, Ba, Brasil",
+            "website": null
+        },
+        {
+            "id": 10158,
+            "name": "Base Camp Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mt. Shasta",
+            "responsible": "Woody Nathan Hosler",
+            "address": "612 S. Mt. Shasta Blvd., Mt. Shasta, Ca, United States of America",
+            "website": "basecampbjj.com"
+        },
+        {
+            "id": 5793,
+            "name": "Base Gracie Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Cleveland",
+            "responsible": "Carlos Bozano Collor",
+            "address": "Unit 4, 255 South Street, Cleveland, QL, Australia",
+            "website": "basejiujitsu.com.au"
+        },
+        {
+            "id": 3582,
+            "name": "Base Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aichi",
+            "responsible": "Daniel Kelson Pereira",
+            "address": "Komaki-shi Mama Honmachi 1-2-3 3F Tomei Motors, , Aichi, Aichi, Japan",
+            "website": ""
+        },
+        {
+            "id": 7568,
+            "name": "Base Jiu-Jitsu Korea",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Anyang",
+            "responsible": "Daniel Kelson Pereira",
+            "address": "#404 Sinsede Store 48 Gwanpyeong-yo 182 beon-gil, Dongan-gu, Anyang, Gyeonggido , Korea, South",
+            "website": "basejiujitsu.blog.me"
+        },
+        {
+            "id": 10250,
+            "name": "Base Jundiaí",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jundiaí",
+            "responsible": "Cesar Keiti N. Martins",
+            "address": "Av. José Gothard 20, Jundiaí, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 3240,
+            "name": "Basis",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Oita",
+            "responsible": "Ryosuke Sato",
+            "address": "4-17  Uenomati, , Oita, --, Japan",
+            "website": "https://www.instagram.com/basis.bjj/"
+        },
+        {
+            "id": 3822,
+            "name": "Bassam Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra Velha",
+            "responsible": "Bassam Santana Nsaif",
+            "address": "Rua Cirino Antônio Cabral 172 Sala 1, Itajuba, Barra Velha, SC, Brasil",
+            "website": "https://www.facebook.com/Bassam-Team-Jiu-Jitsu-485126994831719/"
+        },
+        {
+            "id": 9669,
+            "name": "Basso BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Jeferson Basso",
+            "address": "Rua Alexander Graham Bell, 255, Apto 507 T2, Londrina, Pr, Brasil",
+            "website": null
+        },
+        {
+            "id": 4603,
+            "name": "Bastos BJJ Gold Coast",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Byron Bay",
+            "responsible": "Bruno Bastos Cruz",
+            "address": "Centennial Circuit #74  , , Byron Bay, NSW, Australia",
+            "website": ""
+        },
+        {
+            "id": 7560,
+            "name": "Batalhão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lauro de Freitas",
+            "responsible": "Andre Gomes Costa",
+            "address": "Conj. Habitacional Parque Santa Rita casa 10, caminho 49 - Bairro: Itinga, Lauro de Freitas, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 10075,
+            "name": "Batalje",
+            "federationAbbr": "IBJJF",
+            "country": "Norway",
+            "countryAbbr": "NO",
+            "city": "Tromsø",
+            "responsible": "Marius Lind-olsen",
+            "address": "Grønnegata 109, Tromsø, Tromsø, Norway",
+            "website": "https://batalje.no/"
+        },
+        {
+            "id": 8752,
+            "name": "Batatinha Team",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Caresana (vercelli)",
+            "responsible": "Alexandre Vasconcelos dos Santos",
+            "address": "Via Canonico Bertolone  N.3, Caresana, Caresana (vercelli), Vercelli, Italy",
+            "website": null
+        },
+        {
+            "id": 2873,
+            "name": "Batatinha Team Italia",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Torino",
+            "responsible": "Alexandre Vasconcelos dos Santos",
+            "address": "Corso Galileo Ferraris, 144  , , Torino, TO, Italy",
+            "website": "www.batatinhateamitalia.com"
+        },
+        {
+            "id": 8740,
+            "name": "Batatinha Team Lagoa Santa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lagoa Santa",
+            "responsible": "Alexandre Vasconcelos dos Santos",
+            "address": "Av. Acdo. Nilo Figueiredo, 2049-09, Lagoa Santa, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 8751,
+            "name": "Battle Arts",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Mississauga",
+            "responsible": "Scott J Schilling",
+            "address": "4880 Tomken Rd., Mississauga, Canada",
+            "website": "https://www.battleartsacademy.ca/"
+        }
+    ]
+}

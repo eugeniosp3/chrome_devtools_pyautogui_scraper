@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 178,
+        "from": 3540,
+        "to": 3560,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4502,
+            "name": "Grappling Mastery",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Eustis",
+            "responsible": "Brian Eric Ruscio",
+            "address": "353 Plaza Drive, , Eustis, FL, United States of America",
+            "website": "www.grapplingmastery.com"
+        },
+        {
+            "id": 2889,
+            "name": "Grappling Shoot Boxers",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aichi",
+            "responsible": "Takuto Kako",
+            "address": "1-1507, Kamiasahi, Midori-ku, Nagoya  , , Aichi, --, Japan",
+            "website": "www.gsb-nagoya.com"
+        },
+        {
+            "id": 2822,
+            "name": "Grappling Unlimited",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Honolulu",
+            "responsible": "Egan Inoue",
+            "address": "251 East Manoa Rd - Ste 1-200  , , Honolulu, HI, United States of America",
+            "website": "www.estudiohawaii.com"
+        },
+        {
+            "id": 6495,
+            "name": "Grappling Zone Association",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pearland",
+            "responsible": "Edison Leandro da Silva",
+            "address": "2849 Miller Ranch Road, Suite 505, Pearland, Tx, United States of America",
+            "website": "www.grapplingzone.com"
+        },
+        {
+            "id": 4118,
+            "name": "Grapplisses",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Combs - la - Ville",
+            "responsible": "Franck Jean Lucien Norbert",
+            "address": "14 Rue de la Therouanne  , , Combs - la - Ville, --, France",
+            "website": "www.grapplisses.fr"
+        },
+        {
+            "id": 3705,
+            "name": "Gravity BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Surrey",
+            "responsible": "Logan Andrew Lidemark",
+            "address": "12824 Anvic Way Suite 105 , , Surrey, BC, Canada",
+            "website": "gravitybjj.ca"
+        },
+        {
+            "id": 10574,
+            "name": "GRBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Glaciane dos Santos Axt",
+            "address": "Rua Barroso, 20, Nova Iguaçu, Rio De Janeiro, Brasil",
+            "website": "@bjjdasbrabas"
+        },
+        {
+            "id": 6188,
+            "name": "Great Danes Fight Club",
+            "federationAbbr": "IBJJF",
+            "country": "Denmark",
+            "countryAbbr": "DK",
+            "city": "Odense",
+            "responsible": "Luiz Paulo Guimarães de Aquino Lyra",
+            "address": "Victoriagade 40-44, Odense, --, Denmark",
+            "website": "www.gdfc.dk"
+        },
+        {
+            "id": 2841,
+            "name": "Great Grappling Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Mill",
+            "responsible": "Jeremy James Arel",
+            "address": "2040 Carolina Place Dr  , Fort Mill, SC, United States of America",
+            "website": "www.greatgrappling.com"
+        },
+        {
+            "id": 8860,
+            "name": "Greca Team",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Torino",
+            "responsible": "Luca Greca",
+            "address": "Via Passo Buole 21, Torino, Italy, Italy",
+            "website": "www.grecateam.it"
+        },
+        {
+            "id": 5140,
+            "name": "Greffe Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Paraty",
+            "responsible": "Pedro Paulo Greffe da Silva",
+            "address": "Rua José Vieira Ramos 86 , Centro - Magnus Pousada, Paraty, RJ, Brasil",
+            "website": "www.facebook.com/greffejiujitsu"
+        },
+        {
+            "id": 6097,
+            "name": "Gregor Gracie Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New York",
+            "responsible": "Gregor de Carvalho Rangel Gracie",
+            "address": "Bridge Park Dr, New York, NY, United States of America",
+            "website": "gregorgracie.com"
+        },
+        {
+            "id": 7314,
+            "name": "Gremlin Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Austria",
+            "countryAbbr": "AT",
+            "city": "Vienna",
+            "responsible": "Pawel M. Kozlowski",
+            "address": "Nordbahnstrasse 16, Vienna, Austria",
+            "website": "www.alpha-jiujitsu.at"
+        },
+        {
+            "id": 6983,
+            "name": "Grena Salerno",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Salerno",
+            "responsible": "Rogério Olegário",
+            "address": "via Parme nide 269, Salerno, Italy",
+            "website": null
+        },
+        {
+            "id": 6734,
+            "name": "Grey Wolf BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Eugene",
+            "responsible": "Michael Andrew Yi",
+            "address": "1199 Fairfield Ave, Eugene, OR, United States of America",
+            "website": "www.greywolfbjj.com"
+        },
+        {
+            "id": 9685,
+            "name": "Grigny Vic Academy",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Longjumeau",
+            "responsible": "Frederic Leray",
+            "address": "5 Ter Rue Des Renoncules, Longjumeau, Essonne, France",
+            "website": null
+        },
+        {
+            "id": 9138,
+            "name": "Grindhouse MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Feastervill",
+            "responsible": "James Robert Booth",
+            "address": "1040 Mill Creek Dr, Feastervill, Pa, United States of America",
+            "website": "http://www.grindhousemma.com/"
+        },
+        {
+            "id": 10218,
+            "name": "Grindstone Athletics",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Virginia Beach",
+            "responsible": "William Michael Loushin",
+            "address": "205 Pennsylvania Ave, Virginia Beach, Va, United States of America",
+            "website": null
+        },
+        {
+            "id": 4587,
+            "name": "Grip Brasil Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lages",
+            "responsible": "Francisco Machado Júnior",
+            "address": "Rua Ari de Souza Borges n: 302, Bairro: Universitário, Lages, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 3197,
+            "name": "Grip Jiu-Jitsu Team",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Suzuka",
+            "responsible": "Akiyuki Miyamoto",
+            "address": "2-6-1 Ejimadai , Suzuka, Mie, Japan",
+            "website": "www.gripjj.com"
+        }
+    ]
+}

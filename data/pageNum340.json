@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 340,
+        "from": 6780,
+        "to": 6800,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10197,
+            "name": "Unicorn Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Portland",
+            "responsible": "Hillary VanOrnum",
+            "address": "8502 Se Stark Street, Portland, Or, United States of America",
+            "website": "www.unicornjiujitsu.com"
+        },
+        {
+            "id": 2413,
+            "name": "Unified Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "S. Jordan",
+            "responsible": "John D Carlquist",
+            "address": "10382 S. Jordan Gateway  , , S. Jordan, UT, United States of America",
+            "website": "www.unifiedbjj.com"
+        },
+        {
+            "id": 5957,
+            "name": "UNIL BJJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Parobé",
+            "responsible": "Luis Fernando Dall'Agnol",
+            "address": "Rua Acre 386 Casa, Nova Parobé, Parobé, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 2181,
+            "name": "Union G",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kita-Ku",
+            "responsible": "Kouichi Kuwahara",
+            "address": "6-11-15 Higashijujo, Kita-Ku, Tokyo, Japan",
+            "website": null
+        },
+        {
+            "id": 4949,
+            "name": "Union Team BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alpharetta",
+            "responsible": "Ricardo Paranhos Murgel",
+            "address": "1190 Tidwell Road  , , Alpharetta, GA, United States of America",
+            "website": "www.unionteambjj.com"
+        },
+        {
+            "id": 4150,
+            "name": "Union Team BJJ Brazil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gravataí",
+            "responsible": "Guilherme Freitas Pereira",
+            "address": "Rua Corrêa Lima 34 , Morada do Vale 1, Gravataí, RS, Brasil",
+            "website": "unionjiujitsu.com"
+        },
+        {
+            "id": 947,
+            "name": "Union World Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Gravataí",
+            "responsible": null,
+            "address": "Rua Flor de Liz 76 , Águas Mortas, Gravataí, RS, Brasil",
+            "website": "www.unionjiujitsu.com.br"
+        },
+        {
+            "id": 7092,
+            "name": "Unique Logic Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Estreito",
+            "responsible": "Gerson da Silva Carvalho",
+            "address": "Rua João Batista de Sousa n: 623, Estreito, Maranhão, Brasil",
+            "website": null
+        },
+        {
+            "id": 8484,
+            "name": "Unique Logic Jiu-Jitsu HQ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Arcadia",
+            "responsible": "Lucas Rocha de Freitas",
+            "address": "113 E. Huntington Dr., Arcadia, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 5708,
+            "name": "Unit 2 Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Atlanta ",
+            "responsible": "Jeffery John Boudreaux",
+            "address": "240 Ponce de Leon Ave NE Suite 2, Atlanta , GA, United States of America",
+            "website": "unit2fitness.com"
+        },
+        {
+            "id": 2218,
+            "name": "United Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Moreno Valley",
+            "responsible": "Rommel Dunbar",
+            "address": "12125 Day St Ste T-103, , Moreno Valley, CA, United States of America",
+            "website": "www.unitedbjj.com"
+        },
+        {
+            "id": 6449,
+            "name": "United Brothers School Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lavras",
+            "responsible": "Guilherme Vitorino da Silva Paula",
+            "address": "Rua Dr. Alvaro Botelho n: 486, apt 101, Lavras, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 2924,
+            "name": "United Gym",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Aleksandrow Lodzki",
+            "responsible": "Carlos Eduardo Carone Francis",
+            "address": "ul. Legionowa 4/24  , Aleksandrow Lodzki, PO, Poland",
+            "website": "www.united-gym.com"
+        },
+        {
+            "id": 7465,
+            "name": "United Kings",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Celio Roberto Barbosa da Silva",
+            "address": "Rua Guaicurus 815, Lapa, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8269,
+            "name": "United Kings Japan",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Toyota",
+            "responsible": "Celio Roberto Barbosa da Silva",
+            "address": "Shimoichibacho 7-71, Toyota, Aichi, Japan",
+            "website": "www.unitedkings.com.br"
+        },
+        {
+            "id": 7520,
+            "name": "United Kings Poland",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Stargard",
+            "responsible": "Grzegorz Henryk Szatkowski",
+            "address": "Wojska Polskiego 112, Stargard, , Poland",
+            "website": null
+        },
+        {
+            "id": 10092,
+            "name": "United Runner Freguesia Do Ó",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Marcelo de Matos",
+            "address": "Rua Chico De Paula 365 - Freguesia Do Ó, São Paulo, Sp, Brasil",
+            "website": "https://runnerfreguesia.com.br/"
+        },
+        {
+            "id": 2331,
+            "name": "Unity Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New York",
+            "responsible": "Murilo Silva Ferreira de Santana",
+            "address": "13 E 37th St 2nd Floor  , , New York, NY, United States of America",
+            "website": "www.unitybjj.com"
+        },
+        {
+            "id": 4888,
+            "name": "Unity Jiu-Jitsu Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Murilo Silva Ferreira de Santana",
+            "address": "Rua João Ramalho  145 Apt 141, Perdizes, São Paulo, SP, Brasil",
+            "website": "www.unitybjj.com"
+        },
+        {
+            "id": 4901,
+            "name": "Unity Jiu-Jitsu International",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Rosebay",
+            "responsible": "Murilo Silva Ferreira de Santana",
+            "address": "1/597 New South Head Rd.  , , Rosebay, NSW, Australia",
+            "website": "www.unitybjj.com"
+        }
+    ]
+}

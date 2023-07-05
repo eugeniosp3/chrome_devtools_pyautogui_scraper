@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 69,
+        "from": 1360,
+        "to": 1380,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3013,
+            "name": "Cascão Jiu Jitsu BR",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Walter Fontes Vital Jr",
+            "address": "Rua Coronel Souza Lemos 167, Miramar, João Pessoa, PB, Brasil",
+            "website": "cascaojiujitsu.com"
+        },
+        {
+            "id": 2303,
+            "name": "Cascao Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Walter Fontes Vital Jr",
+            "address": "4130 S. Sand Hill RD # A-13  , , Las Vegas, NV, United States of America",
+            "website": "cascaojiujitsu.com"
+        },
+        {
+            "id": 6426,
+            "name": "Cassão Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Cássio Francis da Silva",
+            "address": "Av. Presidente Costa e Silva n: 256, Bairro: Das Indústrias, Belo Horizonte, Minas Gerais, Brasil",
+            "website": "cassaoteam.com.br"
+        },
+        {
+            "id": 2499,
+            "name": "Cassio Werneck BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sacramento",
+            "responsible": "Cássio Rios Werneck",
+            "address": "4125 pasadena ave  , , Sacramento, CA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 7458,
+            "name": "Castello Branco",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Leonardo Castello Branco",
+            "address": "Rua Farani, Sobreloja 101, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 8230,
+            "name": "Castelo Fight JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Castelo",
+            "responsible": "Felipe Salgado Alves",
+            "address": "Rua Estádio Independência, Comercial Sport Club, Castelo, Es, Brasil",
+            "website": null
+        },
+        {
+            "id": 9542,
+            "name": "Castelo Forte Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresopolis",
+            "responsible": "Pedro Alexandre Geraldo",
+            "address": "Rua Cecília Meireles, Santa Cecília 709, Teresopolis, Rio De Janeiro, Brasil",
+            "website": "-"
+        },
+        {
+            "id": 3546,
+            "name": "Castro Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Alexandre Alberto Farias de Castro",
+            "address": "Travessa Angustura 3138, Marco, Belém, PA, Brasil",
+            "website": "https://castroteam.iblackbelt.com.br/Website"
+        },
+        {
+            "id": 9108,
+            "name": "CAT JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Ricardo Paladini Matos",
+            "address": "Rua Marechal Camara, 54, Sala 4, Florianópolis, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 9139,
+            "name": "Cat5 Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lynn Haven",
+            "responsible": "Alberto Vieira da Silva",
+            "address": "1800 Hwy 77s, Suite 400, Lynn Haven, Florida, United States of America",
+            "website": "dasilvajj.com (New Site Under Construction)"
+        },
+        {
+            "id": 9461,
+            "name": "Catamount Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Winooski",
+            "responsible": "Vincent P Guy",
+            "address": "276 E. Allen St, #8, Winooski, Vt, United States of America",
+            "website": "Winooski, VT"
+        },
+        {
+            "id": 5636,
+            "name": "Cavalcanti BJJ - Mostardas/RS",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mostardas",
+            "responsible": "Moises Robertson Laurentino da Costa",
+            "address": "Rua São Luiz 1742, Centro, Mostardas, Rs, Brasil",
+            "website": "https://www.instagram.com/rcamostardas/"
+        },
+        {
+            "id": 4205,
+            "name": "Cavalcanti BJJ Internacional",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Ricardo Cavalcanti",
+            "address": "Trav. Ten. Jaime Andrade n: 32, Aerolandia, Fortaleza, CE, Brasil",
+            "website": "www.rcjiujitsu.com/fortaleza"
+        },
+        {
+            "id": 5014,
+            "name": "Cavalo Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Columbia",
+            "responsible": "Zachary Clint Lenon",
+            "address": "2722 E. Buffalo  , , Columbia, MO, United States of America",
+            "website": "cavalobjj.com"
+        },
+        {
+            "id": 5746,
+            "name": "Cave",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sumida-ku",
+            "responsible": "Go Utsugi",
+            "address": "2-3-12-2f Azumabashi, Sumida-ku, Tokyo, Japan",
+            "website": "https://bjj.cave-gym.com/"
+        },
+        {
+            "id": 2328,
+            "name": "Caveirinha Jiu Jitsu Family Europe",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Lully",
+            "responsible": null,
+            "address": "Rue du College 5  , , Lully, --, Switzerland",
+            "website": "www.cjjfamily.com"
+        },
+        {
+            "id": 224,
+            "name": "Caveirinha Jiu-Jitsu Family",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": null,
+            "address": "Rua Monte Sião 473 AP 204, Serra, Belo Horizonte, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5891,
+            "name": "Caveirinha Jiu-Jitsu Family France",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Annecy",
+            "responsible": "Aldo Januario de Oliveira",
+            "address": "44 rue Des Jerdins, Annecy, --, France",
+            "website": "www.CJJF74.com"
+        },
+        {
+            "id": 4723,
+            "name": "Caveirinha Jiu-Jitsu Family Frankfurt",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Frankfurt",
+            "responsible": "Aldo Januario de Oliveira",
+            "address": "August-Schanz-Straße 33  , , Frankfurt, Germany",
+            "website": "www.maingym.de"
+        },
+        {
+            "id": 3554,
+            "name": "Caveirinha Jiu-Jitsu Family USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Honolulu",
+            "responsible": "Aldo Januario de Oliveira",
+            "address": "3650 Waialae Avenue, Honolulu, HI, United States of America",
+            "website": "www.cjjfamily.com"
+        }
+    ]
+}

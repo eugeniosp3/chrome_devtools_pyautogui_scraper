@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 193,
+        "from": 3840,
+        "to": 3860,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7793,
+            "name": "Instinto BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itariri",
+            "responsible": "Pablo De Souza Dib",
+            "address": "Rua Benedito Muniz, 71, Centro, Itariri, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 7365,
+            "name": "Institute of Ronin Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Attleboro",
+            "responsible": "Peter Beerman",
+            "address": "2 Park Street, Attleboro, MA, United States of America",
+            "website": "roninbjj.org"
+        },
+        {
+            "id": 10702,
+            "name": "Instituto Afronta Jiu-Jitsu - AJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Andre Luis da Silva Mariano",
+            "address": "Rua Coruripe, 975, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10689,
+            "name": "Instituto Ágape BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra Mansa",
+            "responsible": "Fábio Henrique Ramos Longo",
+            "address": "Rua Jose Galdino De Souza 53, Barra Mansa, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9884,
+            "name": "Instituto Juan Lopes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Duque De Caxias",
+            "responsible": "Juan Lopes da Silva",
+            "address": "R: General Solon Ribeiro, 475, Duque De Caxias, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8879,
+            "name": "Instituto Pedra Angular BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nilópolis",
+            "responsible": "Giovanni de Assis",
+            "address": "Rua Candida, 1261, Lote 137 B, Nilópolis, Rio De Janeiro, Brasil",
+            "website": "https://giovanniassis.wixsite.com/pedraangularbjj"
+        },
+        {
+            "id": 8138,
+            "name": "Instituto Valois Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maués",
+            "responsible": "Luis Carlos Honório de Valois Coelho",
+            "address": "Estrada Dos Moraes, 2000 - Santa Tereza, Santa Luzia, Maués, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 3456,
+            "name": "Integração",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Vila Nova de Gaia",
+            "responsible": null,
+            "address": "Rua de Moçambique 147, loja 02 911937915 , , Vila Nova de Gaia, x, Portugal",
+            "website": ""
+        },
+        {
+            "id": 550,
+            "name": "Integração / EOFC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santos",
+            "responsible": "Elcio de Figueiredo da Silva",
+            "address": "Av. Almirante Saldanha da Gama 163 , Ponta da Praia, Santos, SP, Brasil",
+            "website": "www.estreladeouro.com.br"
+        },
+        {
+            "id": 5911,
+            "name": "Integracao Jiu-Jitsu USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Austin",
+            "responsible": "Gabriel Alves Bastos Gonçalves Martins",
+            "address": "1600 Stassney Lane, Suite C, Austin, TX, United States of America",
+            "website": "ijjatx.com"
+        },
+        {
+            "id": 6171,
+            "name": "Integrated Combat Centre",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Penshurst",
+            "responsible": "David Tong",
+            "address": "29 Kuroki St, Penshurst, NSW, Australia",
+            "website": "www.integratedcombatcentre.com.au"
+        },
+        {
+            "id": 10054,
+            "name": "Integrity BJJ Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Richmond",
+            "responsible": "Vanderson Matias Sousa",
+            "address": "117-4940 N3 Rd Richmond Bc Canada, Richmond, Bc, Canada",
+            "website": null
+        },
+        {
+            "id": 9913,
+            "name": "Intelecto Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Oeiras",
+            "responsible": "Marcos Henrique Silva de Carvalho",
+            "address": "Rua Projetada 06, 470, Oeiras, Piauí, Brasil",
+            "website": null
+        },
+        {
+            "id": 5819,
+            "name": "Intelligent Team Ukraine",
+            "federationAbbr": "IBJJF",
+            "country": "Ukraine",
+            "countryAbbr": "UA",
+            "city": "Kiev",
+            "responsible": "Artem Sidorov",
+            "address": "Rybalska str. 7 apt 3, Kiev, Ukraine",
+            "website": "https://www.facebook.com/intelligent.bjj/"
+        },
+        {
+            "id": 7870,
+            "name": "International Jiu-Jitsu Center",
+            "federationAbbr": "IBJJF",
+            "country": "Egypt",
+            "countryAbbr": "EG",
+            "city": "New Cairo",
+            "responsible": "Fousi Mezouari",
+            "address": "1st Settlement, Yasmin 4 ,villa 7, New Cairo., New Cairo, Egypt",
+            "website": null
+        },
+        {
+            "id": 5364,
+            "name": "Inverse",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tucson",
+            "responsible": "Gordon M.A. Kimura",
+            "address": "60 N. Harrison Rd, A170, Tucson, AZ, United States of America",
+            "website": "inversejj.com"
+        },
+        {
+            "id": 8788,
+            "name": "Inverted Gear Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bethlehem",
+            "responsible": "Nelson Horacio Puentes ",
+            "address": "1114 W Broad St, Bethlehem, Pa, United States of America",
+            "website": "www.invertedgearacademy.com"
+        },
+        {
+            "id": 5928,
+            "name": "Invictus BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Mosina",
+            "responsible": "Roy Christopher Harris",
+            "address": "Ptasia 1 Street, Mosina, WLKP, Poland",
+            "website": "www.InvictusBJJ.pl"
+        },
+        {
+            "id": 558,
+            "name": "Ipanema JJ Club",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": null,
+            "responsible": null,
+            "address": "Brasil",
+            "website": null
+        },
+        {
+            "id": 4648,
+            "name": "Iran Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Iran, Islamic Republic of",
+            "countryAbbr": "IR",
+            "city": "Tehran",
+            "responsible": "Seyedamir Khoshbin",
+            "address": "#69 - Unit 14 - 4 Floor - Ayatolah Kashani St.  , , Tehran, Iran, Islamic Republic of",
+            "website": "amir-khoshbin.com"
+        }
+    ]
+}

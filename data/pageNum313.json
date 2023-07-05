@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 313,
+        "from": 6240,
+        "to": 6260,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10285,
+            "name": "Tarsis Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Tarsis Carvalho Humphreys",
+            "address": "4170 Morena Blvd, Unit A, San Diego, California, United States of America",
+            "website": "tarsisjiujitsu.com"
+        },
+        {
+            "id": 7891,
+            "name": "Tartaruga BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lawrence",
+            "responsible": "Reginaldo R. Silva",
+            "address": "485 South Union St, Lawrence, Ma, United States of America",
+            "website": "tartarugabjj.com"
+        },
+        {
+            "id": 1041,
+            "name": "Tata Team JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Francisco Otavio Teixeira Duarte",
+            "address": "Av. Canal de Marapendi 3007 , Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": "tatafightteam.com"
+        },
+        {
+            "id": 9954,
+            "name": "Tatagiba Brazilian Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Arrentela",
+            "responsible": "José Henrique Neto Nunes Tatagiba",
+            "address": "R. Júlio Augusto Henriques 55, Arrentela, Setúbal, Portugal",
+            "website": null
+        },
+        {
+            "id": 5086,
+            "name": "Tatame Clube Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Pascoal Magalhães Duarte",
+            "address": "Rua Das Dalias, Pricumã, Boa Vista, RR, Brasil",
+            "website": null
+        },
+        {
+            "id": 4836,
+            "name": "Tatame do Bem",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Formiga",
+            "responsible": "Rodrigo Assalin Vila Nova",
+            "address": "Rua Tenente Oscar Teixeira de Lima 306 , Novo Horizonte, Formiga, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 9004,
+            "name": "Tatame Inclusivo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaperuna",
+            "responsible": "Cácio Zanon de Figueiredo",
+            "address": "Altos, Apartamento., Itaperuna, Rio De Janeiro, Brasil",
+            "website": "Rua Primeiro de Maio"
+        },
+        {
+            "id": 5822,
+            "name": "Tatekawa Fight Academy TFAJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José dos Campos",
+            "responsible": "Rogério Mamoru Tatekawa",
+            "address": "Rua Josefa de Oliveira Santos - n: 16, Bosque dos Ipês, São José dos Campos, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4399,
+            "name": "Tatoru",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kumamoto",
+            "responsible": "Yosuke Takagame",
+            "address": "8-5-26, Idenakama, Minami-ku  , Kumamoto, Japan",
+            "website": "tatoru.com"
+        },
+        {
+            "id": 2311,
+            "name": "Tatu BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Satellite Beach",
+            "responsible": "Jairo Rogerio Flores Taborda",
+            "address": "130 Roosevelt Av.  , , Satellite Beach, FL, United States of America",
+            "website": ""
+        },
+        {
+            "id": 5838,
+            "name": "Tatu BJJ Brazil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Jairo Rogerio Flores Taborda",
+            "address": "Avenida Assis Brasil n: 418 / 301, São Geraldo, Porto Alegre, Rio Grande do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 9078,
+            "name": "Taumaturgo BJJ Association",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Leonardo da Costa Maciel",
+            "address": "Rua Carmela Dutr 766 - Agriões, Teresópolis, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8278,
+            "name": "Tauranga BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Tauranga",
+            "responsible": "Ryosei Kurihara",
+            "address": "90 Oropi Road, Tauranga, Bay Of Plenty, New Zealand",
+            "website": "http://taurangabjj.co.nz/"
+        },
+        {
+            "id": 5613,
+            "name": "Taurino Brotherhood BJJ School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Willians Taurino Moreira",
+            "address": "Rua Francisco Raitani n: 6369, Capão Raso, Curitiba, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 7913,
+            "name": "Taveira Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Alex Taveira de Lira",
+            "address": "Rua: Claudio Nogueira, Número: 409, Bairro: Alvorada 3, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 3771,
+            "name": "Tayar BJJ Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Bruno Suhett Tayar",
+            "address": "Rua Luiz Chagas Carvalho, 360 - Casa 101, Dona Clara, Belo Horizonte, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 8332,
+            "name": "Taylor Biagi Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chicago",
+            "responsible": "Taylor Biagi",
+            "address": "508 N Hoyne Ave, 3, Chicago, Il, United States of America",
+            "website": null
+        },
+        {
+            "id": 5337,
+            "name": "Tayson Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Contagem ",
+            "responsible": "Hilton Leão da Silva",
+            "address": "Rua Rio Orenoco, 265, Novo Riacho, Contagem , MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 2874,
+            "name": "Taz BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Valencia",
+            "responsible": "David Armendariz Arauzo",
+            "address": "C/ Cocentaina, 4 (Vewdromo Luis Puig), Valencia, --, Spain",
+            "website": "www.tazbjj.com"
+        },
+        {
+            "id": 9414,
+            "name": "TBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Fagner Kenji Yoshii Assami",
+            "address": "Rua Morena Flor, 5000, Londrina, Pr, Brasil",
+            "website": null
+        }
+    ]
+}

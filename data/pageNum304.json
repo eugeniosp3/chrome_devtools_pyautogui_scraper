@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 304,
+        "from": 6060,
+        "to": 6080,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2625,
+            "name": "South Valley Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bakersfield",
+            "responsible": "Thomas William Little Jr",
+            "address": "6404 Seven Seas, , Bakersfield, CA, United States of America",
+            "website": "www.southvalleyjiujitsu.com"
+        },
+        {
+            "id": 7796,
+            "name": "South Zone Team - SZT",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Michell Laureano Torres",
+            "address": "Rua Major Antônio Carlos Filho, 30 - Bancários, João Pessoa, Paraíba, Brasil",
+            "website": null
+        },
+        {
+            "id": 4027,
+            "name": "Southern California MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Jason Sterling Parry",
+            "address": "4440 York Blvd  , , Los Angeles, CA, United States of America",
+            "website": "www.socalmmafitness.com"
+        },
+        {
+            "id": 7309,
+            "name": "Southern Cross Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Caringbah",
+            "responsible": "Rodney Alexander Ellis",
+            "address": "1a/2 Resolution Drive, Caringbah, NSW, Australia",
+            "website": "www.scjja.com"
+        },
+        {
+            "id": 6231,
+            "name": "Southern Maine Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Scarborough",
+            "responsible": "Rodrigo Ranieri de Faria",
+            "address": "605 US route 1, Dunstan Corner, Scarborough, ME, United States of America",
+            "website": null
+        },
+        {
+            "id": 3756,
+            "name": "Southside Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Burleigh Heads",
+            "responsible": "Vicente Gomes C. N. Cavalcanti",
+            "address": "2/34 Taree Street, , Burleigh Heads, Gold Coast, Australia",
+            "website": "www.bjjgoldcoast.com.au"
+        },
+        {
+            "id": 10228,
+            "name": "Space BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Port Macquarie",
+            "responsible": "Murilo Chaves Pacheco",
+            "address": "1/3-10 Blackbutt Road, 1/3-10 Blackbutt Road, Port Macquarie, New South Wales, Australia",
+            "website": null
+        },
+        {
+            "id": 6990,
+            "name": "Sparcrew",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Setagaya-ku",
+            "responsible": "Tetsuo Ohkawa",
+            "address": "1F, 1-15-14 Umegaoka, Setagaya-ku, Tokyo, Japan",
+            "website": "https://www.sparcrew-bjj.com/"
+        },
+        {
+            "id": 10437,
+            "name": "Spark JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Stefano Gioia Viviani",
+            "address": "Rua Galileu, 438, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9480,
+            "name": "Sparks MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ashburn",
+            "responsible": "David Paul Anderson",
+            "address": "21720 Red Rum Dr, #112, Ashburn, Va, United States of America",
+            "website": "www.sparksmma.com"
+        },
+        {
+            "id": 8136,
+            "name": "Sparta Almeida Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Unaí",
+            "responsible": "Wellington Pires de Almeida",
+            "address": "Av Delvito Alves Da Silva 980, Unaí, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 10699,
+            "name": "Sparta Escola De Artes Marciais",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Thierry Reis Faria",
+            "address": "Avenida Prefeito Dulcidio Cardoso 11.100, Apt 2303, Rio De Janeiro, Rj, Brasil",
+            "website": "Spartarj.com.br"
+        },
+        {
+            "id": 8538,
+            "name": "Spårvägens Bjj",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Stockholm",
+            "responsible": "Omid Azad",
+            "address": "Årgångsgatan 1, 1002, Stockholm, Sweden",
+            "website": "http://sparvagensbjj.se/"
+        },
+        {
+            "id": 896,
+            "name": "Specterow Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Leonardo Specterow",
+            "address": "Avenida Engenheiro Octacílio Negrão de Lima 11, Vila Isabel, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2633,
+            "name": "Spirit Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João de Meriti",
+            "responsible": "Carlos Eduardo Silva dos Santos",
+            "address": "Av. Agnor Chagas dos Santos 72 fundos, Jardim Metrópole, São João de Meriti, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 3299,
+            "name": "Splash",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Okazaki",
+            "responsible": "Akira Kibe",
+            "address": "105-13 Nagahara Hosokawa-cho, Okazaki, Aichi, Japan",
+            "website": "www.ns-splash.com"
+        },
+        {
+            "id": 6437,
+            "name": "Splicing Brazilian Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Hideki Hara",
+            "address": "5-8-5 Higashikasai Edogawaku, Tokyo, Japan",
+            "website": null
+        },
+        {
+            "id": 898,
+            "name": "Splinter BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Magé",
+            "responsible": "Álvaro Fernando Mourabito Pereira",
+            "address": "Rua Guarany, 150 - Sobrado - Piabetá, Magé, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9618,
+            "name": "Sport Club Beira Mar",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Aveiro",
+            "responsible": "Marcos Rogério Vieira de Farias",
+            "address": "Lugar Da Taboeira, Aveiro, Ave, Portugal",
+            "website": null
+        },
+        {
+            "id": 10417,
+            "name": "Sports Academy  Gutsman",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Norio Nakamura",
+            "address": "Setagayaku Kyodou 1-5-8, Tokyo, Japan",
+            "website": null
+        }
+    ]
+}

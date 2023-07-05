@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 214,
+        "from": 4260,
+        "to": 4280,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10172,
+            "name": "Leão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santana De Parnaíba",
+            "responsible": "Fernanda Oliveira",
+            "address": "Rua Salvador, 52, Santana De Parnaíba, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7206,
+            "name": "Leão Marinho BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "John Paul Hartley",
+            "address": "48 Lower Richmond Road, Putney, London, United Kingdom",
+            "website": "Putneybjj.com"
+        },
+        {
+            "id": 9574,
+            "name": "Leão Marinho BJJ - Boston",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boston",
+            "responsible": "Roggiero Jude Spillere",
+            "address": "33 Myrtle Street, Unit 1 , Boston, Ma, United States of America",
+            "website": null
+        },
+        {
+            "id": 9538,
+            "name": "Leao Teixeira School Of Jiu-Jitsu - London",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "José Henrique Leão Teixeira Filho",
+            "address": "4 Greville Rd, North Maida Vale, London, London, United Kingdom",
+            "website": "leaoteixeira.com"
+        },
+        {
+            "id": 9759,
+            "name": "Leap Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Parañaque",
+            "responsible": "Michael Estuart Cusi",
+            "address": "280 Aguirre Ave, Bf Homes, Parañaque, Philippines",
+            "website": null
+        },
+        {
+            "id": 7709,
+            "name": "Learn2Master Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Kitchener",
+            "responsible": "Gabriel H. Araujo",
+            "address": "Unit 5-6, 248 Stirling Avenue S., Kitchener, Ontario, Canada",
+            "website": "www.learn2master.ca"
+        },
+        {
+            "id": 8290,
+            "name": "Lebanon Beyond Submissions",
+            "federationAbbr": "IBJJF",
+            "country": "Lebanon",
+            "countryAbbr": "LB",
+            "city": "Hazmieh",
+            "responsible": "Said Khatib",
+            "address": "Champs Fitness Center, Emile Lahoud Hwy, Hazmieh, Beirut/ Lebanon , Lebanon",
+            "website": "Beirut Lebanon"
+        },
+        {
+            "id": 8611,
+            "name": "Leblon Team BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Daniel Jorn Kolling",
+            "address": "Rua Capitão César De Andrade 168   Leblon, Sala 301, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "Rio de Janeiro - RJ"
+        },
+        {
+            "id": 3806,
+            "name": "Legacy",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Chippendale",
+            "responsible": "Thiago de Godoi Braga",
+            "address": "36-42 Chippen St.  , , Chippendale, NSW, Australia",
+            "website": "www.martialartslegacy.com.au"
+        },
+        {
+            "id": 5566,
+            "name": "Legacy GBSJJ Mexico",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Puerto Vallarta",
+            "responsible": "Francisco Santana Souza Junior",
+            "address": "Calle Prisciliano Sanchez 52, Puerto Vallarta, Mexico",
+            "website": null
+        },
+        {
+            "id": 3410,
+            "name": "Legacy Jiu-Jitsu - Team Alberto Crane",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Burbank",
+            "responsible": "Alberto Crane",
+            "address": "330 North Victoria Blvd  , , Burbank, CA, United States of America",
+            "website": "legacybjj.com"
+        },
+        {
+            "id": 10270,
+            "name": "Legacy Jiu-Jitsu - Team Alberto Crane Armenia",
+            "federationAbbr": "IBJJF",
+            "country": "Armenia",
+            "countryAbbr": "AM",
+            "city": "Yerevan",
+            "responsible": "Andranik Harutyunyan",
+            "address": "A.shahinyan 1st 25/7, Yerevan, Yerevan, Armenia",
+            "website": null
+        },
+        {
+            "id": 5614,
+            "name": "Legado Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vilhena",
+            "responsible": "Alexandre Thomaz Harrison",
+            "address": "Av. Sabino Bezerra De Queiroz, 5422 Sala 17, Jardim Eldorado, Vilhena, RO, Brasil",
+            "website": null
+        },
+        {
+            "id": 7980,
+            "name": "Legends BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Temple",
+            "responsible": "Travis Moore",
+            "address": "7514 Prairie View Rd, Temple, Texas, United States of America",
+            "website": "Legendsbjj.com"
+        },
+        {
+            "id": 4620,
+            "name": "Legião Team Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Iranilson Lima de Medeiros",
+            "address": "Avenida Engenheiro Roberto Freire, 3111, Praia de Ponta Negra, Natal, RN, Brasil",
+            "website": "www.equipelegiaomatriz.com"
+        },
+        {
+            "id": 6991,
+            "name": "Legion American Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Keenan Kai-James Cornelius",
+            "address": "7550 Miramar Rd, San Diego, CA, United States of America",
+            "website": "LegionAJJ.com"
+        },
+        {
+            "id": 5417,
+            "name": "Legion Nova União",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Eric Zeemann Pinho dos Santos",
+            "address": "Av. Doutor Eduardo Cotching 745, Vila Formosa, São Paulo, SP, Brasil",
+            "website": "www.legionsports.club"
+        },
+        {
+            "id": 7968,
+            "name": "Legionários BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Maurício Pereira da Silva",
+            "address": "Rua Axuá, 22, Jd Ruth, Casa Pintada, Vila Jacuí, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9556,
+            "name": "Lema Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Leônidas Magalhães Fonseca",
+            "address": "Rua Benedito Soares 135, Nova Iguaçu, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7636,
+            "name": "Léo Barão BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Leonardo Barao Krauser",
+            "address": "Rua Francisco Evengelista 343, Centro Comercial 343, Florianópolis, Santa Catarina, Brasil",
+            "website": null
+        }
+    ]
+}

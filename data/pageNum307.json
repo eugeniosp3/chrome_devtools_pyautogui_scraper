@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 307,
+        "from": 6120,
+        "to": 6140,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6914,
+            "name": "Stout PGH - Team Renzo Gracie",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pittsburgh",
+            "responsible": "Warren Jefferson Stout",
+            "address": "2626 Railroad Street, Pittsburgh, PA, United States of America",
+            "website": "stouttrainPitt.com"
+        },
+        {
+            "id": 9829,
+            "name": "Straight Blast Gym UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Manchester",
+            "responsible": "Christopher Daniel Coltrane",
+            "address": "12 Sheffield Street, Manchester, Lancashire, United Kingdom",
+            "website": "www.sbgmanchester.com"
+        },
+        {
+            "id": 909,
+            "name": "Strapple",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Naoyuki Taira",
+            "address": "2-24-20 Kitaotsuka, Toshima-ku  , , Tokyo, --, Japan",
+            "website": "www.strapple-taira.com"
+        },
+        {
+            "id": 3301,
+            "name": "Strapple Ibaraki",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Ibarakii",
+            "responsible": "Kazuhiro Inoue",
+            "address": "1837-4 Kamiinayosi-Kasumigaurasi Ibarakiken  , , Ibarakii, --, Japan",
+            "website": ""
+        },
+        {
+            "id": 10058,
+            "name": "Strapple Kameari",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "[þ:¬",
+            "responsible": "Eiji Iwai",
+            "address": "€\t3\u0001î11-10, ¨ßÍó¹€\tÓë3f, [þ:¬, q¬ý, Japan",
+            "website": "https://strapple-kameari.com/"
+        },
+        {
+            "id": 6181,
+            "name": "Strapple Minamisoma Playground",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Minamiso-mashi",
+            "responsible": "Fuminori Sato",
+            "address": "2-23-11 Honjinmae, Minamiso-mashi, Fukushima, Japan",
+            "website": "htttp:// playgroundbjj.com"
+        },
+        {
+            "id": 3305,
+            "name": "Strapple Ohana",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kangawa",
+            "responsible": "Shoji Masada",
+            "address": "Fujisawa Tsujidousinmachi 3-2-39 101  , , Kangawa, --, Japan",
+            "website": "www.stapple.jp"
+        },
+        {
+            "id": 3306,
+            "name": "Strapple Waseda Hiruma Dojo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Atsunori Hiruma",
+            "address": "1-48-5 Daizenomoto bdg 3f, Sekiguchi  , , Tokyo, --, Japan",
+            "website": "www.hiruma-dojo.com"
+        },
+        {
+            "id": 8272,
+            "name": "Strategic Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Old Bridge",
+            "responsible": "Fabio Luiz de Medeiros Junior",
+            "address": "4450 Bordentown Avenue, Old Bridge, Nj, United States of America",
+            "website": "www.strategicmma.com"
+        },
+        {
+            "id": 4115,
+            "name": "Stratford BJJ Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Stratford, Ontario",
+            "responsible": "Ryan George O'Shea",
+            "address": "134 Downie Street, Stratford, Ontario, Na, Canada",
+            "website": "www.stratfordbjj.com"
+        },
+        {
+            "id": 910,
+            "name": "Strauch JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Paulo Mauricio Strauch",
+            "address": "Av. Nª Sª de Copacabana  1063 202, Copacabana, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2497,
+            "name": "StrayCat BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tulsa",
+            "responsible": "James Andrew Straley II",
+            "address": "4320 South Mingo Rd. , Tulsa, OK, United States of America",
+            "website": null
+        },
+        {
+            "id": 2055,
+            "name": "Street Sports BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Monica",
+            "responsible": "Renato Magno",
+            "address": "3011 Ocean Park  , , Santa Monica, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 3411,
+            "name": "Street Sports BJJ- Sherman Oaks",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sherman Oaks",
+            "responsible": "Chris Lisciandro",
+            "address": "14454 Ventura Blvd  , , Sherman Oaks, CA, United States of America",
+            "website": "www.brazilianjiujitsuclub.com"
+        },
+        {
+            "id": 4191,
+            "name": "Strela Team",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Moscow",
+            "responsible": "Rodrigo de Oliveira Cabral",
+            "address": "Kaluzmskaya Square 1, Building 2, Floor 3  , , Moscow, --, Russia",
+            "website": "--"
+        },
+        {
+            "id": 5662,
+            "name": "Striker / Candeia Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marataízes",
+            "responsible": "Thiago de Oliveira Dutra",
+            "address": "Rua Alverino Silva, 44, Lagoa Santa, Marataízes, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 2163,
+            "name": "Striker JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarapari",
+            "responsible": "Thiago de Oliveira Dutra",
+            "address": "R. Jones Santos Neves 650 Academia Pepe Apolo, Muquiçaba, Guarapari, ES, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6451,
+            "name": "Strikezone",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macapá",
+            "responsible": "Enildo Wanderson da Silva Brito",
+            "address": "Av. Henrique Galúcio n: 2059, Próximo ao Senac, Macapá, Amapá, Brasil",
+            "website": null
+        },
+        {
+            "id": 6363,
+            "name": "Strong Arm Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Corpus Christi",
+            "responsible": "Justin Edward Barker",
+            "address": "10653 Leopard St., Corpus Christi, TX, United States of America",
+            "website": "www.StrongArmBrazilianJiuJitsu.com"
+        },
+        {
+            "id": 3439,
+            "name": "Strong Fighters Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ceilândia",
+            "responsible": "Sandro Alves de Almeida",
+            "address": "Qno 15 Conjunto G Lote Casa 51, Ceilândia, DF, Brasil",
+            "website": null
+        }
+    ]
+}

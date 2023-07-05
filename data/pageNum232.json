@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 232,
+        "from": 4620,
+        "to": 4640,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7123,
+            "name": "Melbourne Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Prahran",
+            "responsible": "Ivan Voronoff",
+            "address": "11-13 Regent St, 11, Prahran, Victoria, Australia",
+            "website": "https://melbournejiujitsuacademy.com.au/"
+        },
+        {
+            "id": 2980,
+            "name": "Meleiro Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Miami Beach",
+            "responsible": "Marcelo Meleiro",
+            "address": "65 Washington Ave. #23, Miami Beach, FL, United States of America",
+            "website": "www.meleirobjj.com"
+        },
+        {
+            "id": 9933,
+            "name": "Melqui Galvão Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Melquisedeque de L. Galvão Ferreira",
+            "address": "Rua 77, 548, Cidade Nova 2, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 6882,
+            "name": "Melvin Revilla Brazilian Jiu-Jitsu - MRBJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Melvin Juan Almeida Revilla",
+            "address": "Rua do Careiro n: 33, Bairro: São José , Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 3510,
+            "name": "Memphis BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Memphis",
+            "responsible": "Joel T. Gingery",
+            "address": "7859 US HWY 64  , , Memphis, TN, United States of America",
+            "website": "www.memphisbjj.com"
+        },
+        {
+            "id": 8088,
+            "name": "Mena Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Stow",
+            "responsible": "Michael J. Mena",
+            "address": "57 Old Bolton Road, Stow, Ma, United States of America",
+            "website": "https://www.menafitnesstraining.com/"
+        },
+        {
+            "id": 10570,
+            "name": "Mendes College BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Crateús",
+            "responsible": "Jurandir Mendes Viana",
+            "address": "Rua Francisco Mariano 1675, 1675, Crateús, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 10411,
+            "name": "Mente Calma",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Granges-paccot",
+            "responsible": "Carlos Matos Pereira",
+            "address": "Route De Chantemerle 27, Granges-paccot, Fribourg, Switzerland",
+            "website": null
+        },
+        {
+            "id": 5515,
+            "name": "Mephose Jiu-Jitsu Academy",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Fukuoka",
+            "responsible": "Kenji Nishimoto",
+            "address": "Kitakyushushi tobataku Shinike 1-11-24 Shouwabiru 2 kai, Fukuoka, Japan",
+            "website": null
+        },
+        {
+            "id": 6735,
+            "name": "Meraki BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "Kenneth Alan Florian",
+            "address": "11677 Santa Monica Blvd, Los Angeles, CA, United States of America",
+            "website": "www.MerakiBJJ.com"
+        },
+        {
+            "id": 5084,
+            "name": "Mesquita Bros",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Congonhal",
+            "responsible": "Wagner de Lima Mesquita",
+            "address": "Rua Prefeito Rubens Vilela dos Santos n: 330, Primavera, Congonhal, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 7102,
+            "name": "Metabole BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Dubai",
+            "responsible": "Carlos Andre Rodrigues Marinho",
+            "address": "Arjan Exit Rd - Al Barsha South, Green Diamond One B-202, Dubai, Emirate of Ajman, United Arab Emirates",
+            "website": "@metabolebjj"
+        },
+        {
+            "id": 8359,
+            "name": "Método Winners",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Gonçalo",
+            "responsible": "Wendel Ribeiro de Castro",
+            "address": "Avenida Paiva, 299, Ap 204 , São Gonçalo, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9822,
+            "name": "Mexico Atlas Grappling",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Mexico City",
+            "responsible": "Damien Aaron Nitkin",
+            "address": "Xola 1113, 3er Piso, Mexico City, Mexico City, Mexico",
+            "website": "atlasgrpmexico.com"
+        },
+        {
+            "id": 7820,
+            "name": "MF Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campinas",
+            "responsible": "Guilherme César Miranda",
+            "address": "Rua Roberto Simonsen 619, Campinas, São Paulo, Brasil",
+            "website": "https://valhalla-fight-center.ueniweb.com/#about_us"
+        },
+        {
+            "id": 697,
+            "name": "MF Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Marcelo Correa Ferreira",
+            "address": "Rua Araújo Pena 16 , Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4177,
+            "name": "MG TEAM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": null,
+            "address": "Av. Rui Barbosa  2481 A , Aldeota, Fortaleza, CE, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6414,
+            "name": "MG Team Spain",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "La Torreta / La Roca",
+            "responsible": "Igor Vasconcelos Lima",
+            "address": "Pasaje Florida n27 Bajos 2, La Torreta / La Roca, BCN, Spain",
+            "website": null
+        },
+        {
+            "id": 10354,
+            "name": "Mgd Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dallas",
+            "responsible": "James Robert Ables",
+            "address": "5706 E Mockingbird Ln, Ste. #230, Dallas, Tx, United States of America",
+            "website": "www.marcelogarciadallas.com"
+        },
+        {
+            "id": 2814,
+            "name": "Miami WMB",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Miami",
+            "responsible": "Javill Coffie Byron",
+            "address": "16300 SW 137th Ave - Ste 128, Miami, FL, United States of America",
+            "website": "www.WMBMartialArts.com"
+        }
+    ]
+}

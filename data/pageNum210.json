@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 210,
+        "from": 4180,
+        "to": 4200,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10489,
+            "name": "Korean Moai BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "2f, 32, Sanggye-ro 3-gil, Nowon-gu,, Seoul, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7226,
+            "name": "Korean Team Iron",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Songpa-gu",
+            "responsible": "Seung-Jae Lee",
+            "address": "#813, 188, Wiryegwangjang-ro, Songpa-gu, Seoul, Korea, South",
+            "website": "-"
+        },
+        {
+            "id": 7227,
+            "name": "Korean TNT BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "47-7, gangnam-Daero 95 Gil, Seocho-gu, Seoul, Seoul, Korea, South",
+            "website": "-"
+        },
+        {
+            "id": 8259,
+            "name": "Koutani Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Yokohama",
+            "responsible": "Satoshi Kotani",
+            "address": "Shirahatakamicho 10-6-505, Kanagawa, Yokohama, Kanagawa, Japan",
+            "website": null
+        },
+        {
+            "id": 3778,
+            "name": "Kowloon Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Hong Kong",
+            "countryAbbr": "HK",
+            "city": "Hong Kong",
+            "responsible": "Keisuke Takizawa",
+            "address": "2/f Pacific Mansion, 172-174 Nathan Road, Tsim Sha Tsui, Hong Kong, Kowloon, Hong Kong",
+            "website": "www.klnbjj.com"
+        },
+        {
+            "id": 7307,
+            "name": "KP Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Heusden-Zolder",
+            "responsible": "Kenny Polmans",
+            "address": "Guido Gezellelaan 163, Heusden-Zolder, Belgium",
+            "website": "www.brasalimburg.be"
+        },
+        {
+            "id": 9161,
+            "name": "Kraken Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Belmont",
+            "responsible": "Anthony Paul Erard",
+            "address": "2355 Belmont Center Dr. Ne, Suite 105, Belmont, Mi, United States of America",
+            "website": "krakenbjj.com"
+        },
+        {
+            "id": 7506,
+            "name": "Krazuki Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Luzia",
+            "responsible": "Eduardo Moreira",
+            "address": "Rua do Divino n: 740, São Benedito, Santa Luzia, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 3218,
+            "name": "Krazy Bee",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Adalberto Maia Vital Júnior",
+            "address": "Nikei Esplanabo 1F 2-8-1 Nakamagame hota-ku, Tokyo, --, Japan",
+            "website": "krazybee.jp"
+        },
+        {
+            "id": 9304,
+            "name": "Krieger Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Mels",
+            "responsible": "Hadriel Salomão Oliveira Peters",
+            "address": "Bahnhofstrasse 77, Mels, Sankt Gallen, Switzerland",
+            "website": null
+        },
+        {
+            "id": 9835,
+            "name": "Krios Athletic Combat Clan",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Abbiategrasso",
+            "responsible": "Ezekiel Zayas Latorre",
+            "address": "Via Mameli 3, Abbiategrasso, Milan, Italy",
+            "website": null
+        },
+        {
+            "id": 7084,
+            "name": "Kris Kim Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Kris Hang kim",
+            "address": "44 Gangnam-daero 101-gil B1, Jamwon-dong, Seocho-gu, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 2913,
+            "name": "Kristian Cestaro Jiu-Jitsu Association",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Moscow",
+            "responsible": "Kristian Torres Cestaro",
+            "address": "Koshtoyantsa 20-3, Moscow, RU, Russia",
+            "website": "www.kcjja.com"
+        },
+        {
+            "id": 4135,
+            "name": "Kron Gracie Holland",
+            "federationAbbr": "IBJJF",
+            "country": "Netherlands",
+            "countryAbbr": "NL",
+            "city": "Amsterdam",
+            "responsible": "Kron Gracie",
+            "address": "Rijtuigenhof 41  , , Amsterdam, --, Netherlands",
+            "website": "www.bjjholland.nl"
+        },
+        {
+            "id": 2847,
+            "name": "Kron Gracie Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Culver City",
+            "responsible": "Kron Gracie",
+            "address": "11837 Teale Street  , , Culver City, CA, United States of America",
+            "website": "www.krongraciejiujitsu.com"
+        },
+        {
+            "id": 6521,
+            "name": "Kronos BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Leonardo de Souza Ayres Peçanha",
+            "address": "Rua Comandante Aristides Garnier n: 452, apt 201 Bairro: Penha Circular, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7848,
+            "name": "Kronos BJJ - Rocha Miranda",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Nelson da Rocha Junior",
+            "address": "Av Dos Italianos Nº 629, Apto 303, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9605,
+            "name": "Kronos BJJ - Silva Jardim",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Silva Jardim",
+            "responsible": "Nelson da Rocha Junior",
+            "address": "Rua Alpheno Correa De Mello, Nº 24, Loja 3, Silva Jardim, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9523,
+            "name": "Kronos BJJ Austrália",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Auburn",
+            "responsible": "Leonardo de Souza Ayres Peçanha",
+            "address": "148 Parramatta Rd, Auburn, Nsw, Australia",
+            "website": "www.Kronosbjj.com.au"
+        },
+        {
+            "id": 7190,
+            "name": "Kronos BJJ Europa",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Martigny",
+            "responsible": "Fabrício Nascimento de Moraes",
+            "address": "23 Avenue de la Fusion, Martigny, CH, Switzerland",
+            "website": "www.fnfight.co"
+        }
+    ]
+}

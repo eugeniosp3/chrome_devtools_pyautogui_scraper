@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 328,
+        "from": 6540,
+        "to": 6560,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5200,
+            "name": "The Pound Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Guam",
+            "countryAbbr": "GU",
+            "city": "Dededo",
+            "responsible": "Luis Omar Blanco",
+            "address": "138 Chalan Katne, Suite 104 Summer Town Estates, Dededo, GU, Guam",
+            "website": null
+        },
+        {
+            "id": 10134,
+            "name": "The Primal 6S Jiu-Jitsu Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Oldsmar",
+            "responsible": "Cassio Cardosi",
+            "address": "3970 Tampa Rd, Suite K, Oldsmar, Fl, United States of America",
+            "website": null
+        },
+        {
+            "id": 9570,
+            "name": "The Rebellion - Team Conquest",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Yukon",
+            "responsible": "Mark A. Bradford ",
+            "address": "322 Elm Ave., Yukon, Oklahoma, United States of America",
+            "website": "www.conquestok.com"
+        },
+        {
+            "id": 3935,
+            "name": "The Renzo Gracie Training Facility CT",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "West Haven",
+            "responsible": "Mark J Cerrone",
+            "address": "680 Campbell Ave.  , , West Haven, CT, United States of America",
+            "website": "renzograciect.com"
+        },
+        {
+            "id": 8999,
+            "name": "The Resistance",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Michael Hawkins",
+            "address": "49 Moxon St, Barnet, London, London, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 4993,
+            "name": "The Sanctuary Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lakewood",
+            "responsible": "Ben Lowry",
+            "address": "3355 S. Wadsworth Blvd  , , Lakewood, CO, United States of America",
+            "website": "www.thesantuarybjjandfitness.com"
+        },
+        {
+            "id": 7759,
+            "name": "The Savage Twenty",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brownsville",
+            "responsible": "Arturo Reyes",
+            "address": "5533 N Expressway , Brownsville, TX, United States of America",
+            "website": "thesavagetwenty.com"
+        },
+        {
+            "id": 6288,
+            "name": "The Tokyo Jiu-Jitsu Play Ground",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Masakazu Imanari",
+            "address": "Shinjuku-City Shinjuku 2-1C15-301, Tokyo, Japan",
+            "website": null
+        },
+        {
+            "id": 9881,
+            "name": "The Tradewinds Network",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wilmington",
+            "responsible": "Patrick McElderry",
+            "address": "512 Justison St, Wilmington, Delaware, United States of America",
+            "website": "riverfrontbjj.com"
+        },
+        {
+            "id": 2868,
+            "name": "The Unit - Team Kazeka",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Hagen",
+            "responsible": null,
+            "address": "Hoheleye 23  , , Hagen, Germany",
+            "website": "www.theunit-bjj.de"
+        },
+        {
+            "id": 7018,
+            "name": "The United Fighting Arts Institute",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "South Burlington",
+            "responsible": "Michael S. Desrosiers",
+            "address": "1891 Williston Road, South Burlington, VT, United States of America",
+            "website": "https://www.facebook.com/ufai.grappling"
+        },
+        {
+            "id": 10671,
+            "name": "The Vanguard Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lake Grove",
+            "responsible": "Nicholas James Ronan",
+            "address": "2758 Middle Country Road, Lake Grove, New York, United States of America",
+            "website": "www.vanguardjj.com"
+        },
+        {
+            "id": 8675,
+            "name": "The Vault",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Morton",
+            "responsible": "Matt Kelley",
+            "address": "25 S Morton Avenue, Morton, Pa, United States of America",
+            "website": "www.vaultbjj.com"
+        },
+        {
+            "id": 9019,
+            "name": "The Zen Club Canarias BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Las Palmas De Gran Canaria",
+            "responsible": "Dario Delgado Hernandez",
+            "address": "Calle Maria Amador 9 2 Bajo Izquierda, Las Palmas De Gran Canaria, Spain",
+            "website": null
+        },
+        {
+            "id": 10595,
+            "name": "Thiago Almeida Jiu-Jitsu Old School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Serra Azul",
+            "responsible": "Thiago Nicolao Peres Tavares de Almeida",
+            "address": "Rua Aliana Maria Do Nascimento Taveiros 36, Serra Azul, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 5564,
+            "name": "Thiago Mendes BJJ School",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Thiago L. Mendes Barros",
+            "address": "16535 Huebner Rd Suite 116, Charleston Fitness and MMA, San Antonio, Texas, United States of America",
+            "website": "Www.carlsongraciejjsatx.com"
+        },
+        {
+            "id": 5380,
+            "name": "Thiago Quintanilha BJJ - TQ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cabo Frio",
+            "responsible": "Thiago Torres Quintanilha",
+            "address": "Estrada Velha de Búzios s/nº - Shopping Juliana Campanati, Jardim Esperança , Cabo Frio, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 9970,
+            "name": "Thiago Rabello Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Sevilla",
+            "responsible": "Thiago dos Santos Rabello",
+            "address": "Calle La Gomera, N 10 Bloque 6, Sevilla, Sevilla, Spain",
+            "website": null
+        },
+        {
+            "id": 7452,
+            "name": "Third Space",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Marek Polnik",
+            "address": "40 Mark Lane, London, United Kingdom",
+            "website": "www.thirdspace.london/city"
+        },
+        {
+            "id": 8240,
+            "name": "Thomas Kenney Jiu-Jitsu Training Facility",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Corona",
+            "responsible": "Thomas Michael Kenney",
+            "address": "125 Business Center Drive Suite I, Corona, Ca, United States of America",
+            "website": null
+        }
+    ]
+}

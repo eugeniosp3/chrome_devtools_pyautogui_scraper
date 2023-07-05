@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 201,
+        "from": 4000,
+        "to": 4020,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5918,
+            "name": "Jiu-Jitsucesso",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Mina Amadora",
+            "responsible": "Cláudio Celso Pereira  Correia",
+            "address": "rua da Manuel de Arriaga n.31 r/c Dt , Mina Amadora, Portugal",
+            "website": "jiujitsucesso.com"
+        },
+        {
+            "id": 3210,
+            "name": "Jiusenkan",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kobe-shi",
+            "responsible": "Yasuhiro Miyamoto",
+            "address": "1-7-22, Shioya cho, Tarumi-ku, Kobe-shi, Hyogo-ken, Japan",
+            "website": "jiusenkan.jp"
+        },
+        {
+            "id": 7588,
+            "name": "Jiwon Mikael Bang Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Bundang",
+            "responsible": "Jiwon Bang",
+            "address": "Pangyo, Bundang, Gyeong-Gi-Do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 8793,
+            "name": "JJ4L",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Margate",
+            "responsible": "Luiz Felipe Amarante",
+            "address": "7850 West Sample Road, Margate, Florida, United States of America",
+            "website": "Www.jiujitsu4life.com"
+        },
+        {
+            "id": 3876,
+            "name": "JJB Carcassonne",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Carcassonne",
+            "responsible": "Emmanuel Joseph Berrebi",
+            "address": "21 Boulevard Omer Sarrault  , , Carcassonne, --, France",
+            "website": "--"
+        },
+        {
+            "id": 4450,
+            "name": "JJB Perpignan",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Perpignan",
+            "responsible": "Jean-Serge Di Fraja",
+            "address": "35 Av. du Commandant Soubleille  , , Perpignan, France",
+            "website": "www.jjbperpignan.com"
+        },
+        {
+            "id": 8330,
+            "name": "JJFS",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sendai",
+            "responsible": "Rikimaru Kurumada",
+            "address": "1-19-10 Takamatu Aobaku, Sendai, Miyagi, Japan",
+            "website": null
+        },
+        {
+            "id": 4927,
+            "name": "JJFT - Silas Caldas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Serra",
+            "responsible": "Otacilio Caldas Andrade",
+            "address": "Rua Cristal, 9, Casa, André Carloni, Serra, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 5025,
+            "name": "JK Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guaratuba",
+            "responsible": "Jefferson Allan Batista",
+            "address": "Av. Mafra  453 Sobrado, Piçarras, Guaratuba, PR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7619,
+            "name": "JL Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Branco",
+            "responsible": "Jânio de Oliveira Lira",
+            "address": "Rua: 03 de Agosto, Bairro: Boa União, nº 235., Na Rua Do Colégio Boa União., Rio Branco, Acre, Brasil",
+            "website": null
+        },
+        {
+            "id": 6854,
+            "name": "JMB Fight Team",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Chivasso",
+            "responsible": "Andrea Verdemare",
+            "address": "Campus Associazioni c.. 15, Chivasso, Italy",
+            "website": "www.jiujitsu-chivasso.com"
+        },
+        {
+            "id": 10517,
+            "name": "JN Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Jonathan de Souza Nunes",
+            "address": "Est Sta Veridiana, 996, Prox A O Brt Sta Veridiana, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8967,
+            "name": "Joabe Team Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Contagem",
+            "responsible": "Joabe Cristian  Nunes",
+            "address": "Rua Geraldo Belém Rocha, 133, Loja, Contagem, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 1028,
+            "name": "Joalon",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "D. de Caxias",
+            "responsible": "Joacil Vieira de Carvalho",
+            "address": "Rua Sergipe n: 144, Santa Cruz da Serra, D. de Caxias, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 9963,
+            "name": "João Freitas BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sapucaia Do Sul",
+            "responsible": "João Carlos  Fernandes de Freitas",
+            "address": "Americo Vespucio, 2882, Sapucaia Do Sul, Rio Grande.do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 4442,
+            "name": "João Paulo Team USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pasadena",
+            "responsible": "João Paulo de Fatima Alves Ferreira",
+            "address": "8003 Cameryn Pl apt 309 , , Pasadena, MD, United States of America",
+            "website": ""
+        },
+        {
+            "id": 1091,
+            "name": "João Roque JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "João Manuel Pinho Oliveira Roque",
+            "address": "SMPW Quadra 15 Conj.08 Lote 3, Fraçao B Park way - Núcleo Bandeirante, Brasília, DF, Brasil",
+            "website": "https://www.joaoroque.com.br/"
+        },
+        {
+            "id": 7328,
+            "name": "João Santos BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macaé",
+            "responsible": "João Cláudio R. dos Santos",
+            "address": "Rua W20, sentido praia , n. 16 Travessa Vila das Flores, true Bairro: Lagomar, Macaé, Rio de janeiro, Brasil",
+            "website": "@Jsbjj_academy"
+        },
+        {
+            "id": 7340,
+            "name": "Joãozinho Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Thiago Nunes Cardozo",
+            "address": "Rua Vitório Zeolla n:1432, Bairro: Carandá Bosque, Campo Grande, trueMS, Brasil",
+            "website": null
+        },
+        {
+            "id": 10650,
+            "name": "Joelson Coelho Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Joelson Batista Santos",
+            "address": "Rua Manuel Satiro De Menezes, 232 - Bairro Industrial, Aracaju, Sergipe, Brasil",
+            "website": null
+        }
+    ]
+}

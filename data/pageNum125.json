@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 125,
+        "from": 2480,
+        "to": 2500,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4837,
+            "name": "Fight Brothers",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Andre Gomes Costa",
+            "address": "Rua dos Marujos do Brasil 121, Tororó, Salvador, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9481,
+            "name": "Fight Circus",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Frankenthal",
+            "responsible": "Luca Demeco",
+            "address": "Carl-zeiss-strasse 3a, Frankenthal, Rheinland-pfalz, Germany",
+            "website": "www.fightcircus.de"
+        },
+        {
+            "id": 5807,
+            "name": "Fight City Gym - ZR Team Association",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Alain Pozo",
+            "address": "15 Worship Street, London, United Kingdom",
+            "website": "fightcitygym.co.uk"
+        },
+        {
+            "id": 2139,
+            "name": "Fight Club / Antonio Lima",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Antônio Marcos Soares Lima",
+            "address": "R. Comendador Pereira da Silva 72 Casa dos fundos, Brotas, Salvador, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2154,
+            "name": "Fight Club Academia/Otávio de Almeida",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Otávio de Almeida Júnior",
+            "address": "Rua dos Caetés 283 , Perdizes, São Paulo, SP, Brasil",
+            "website": "www.fightclubacademia.com.br"
+        },
+        {
+            "id": 9137,
+            "name": "Fight Club Headquarters",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Riverdale",
+            "responsible": "Marcio Vasconcellos Bittencourt",
+            "address": "92 Nj 23, Riverdale, Nj, United States of America",
+            "website": "www.fightclubbjj.com"
+        },
+        {
+            "id": 2454,
+            "name": "Fight Club Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Lisboa",
+            "responsible": "Heitor Costa de Moura Filho",
+            "address": "R. Jorge Colaco N.º 17 R/c Esq - 1700 252 Lisboa  , Lisboa, xx, Portugal",
+            "website": null
+        },
+        {
+            "id": 2690,
+            "name": "Fight Club Jiu-Jitsu Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Gold Coast",
+            "responsible": "Daniel Lima Eulalio",
+            "address": "Po Box 99 Nobby's Beach, Gold Coast, QLD, Australia",
+            "website": "www.fightclubjiujitsu.com"
+        },
+        {
+            "id": 9118,
+            "name": "Fight Club Jiu-Jitsu Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Marcilio Marcio Pires Villas Boas",
+            "address": "Ladeira Do Campo Santo 46, Casa, Salvador, Bahia, Brasil",
+            "website": "fightclubjiujitsu.com"
+        },
+        {
+            "id": 10586,
+            "name": "Fight Club Jiu-Jitsu Paris",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Courbevoie, Paris",
+            "responsible": "Heitor Costa de Moura Filho",
+            "address": "Rue Jean Baptiste Charcot 3, Courbevoie, Paris, France",
+            "website": null
+        },
+        {
+            "id": 8377,
+            "name": "Fight Club Lebanon",
+            "federationAbbr": "IBJJF",
+            "country": "Lebanon",
+            "countryAbbr": "LB",
+            "city": "Beirut",
+            "responsible": "Camille Sleiman",
+            "address": "Jdeideh, Beirut, Lebanon",
+            "website": null
+        },
+        {
+            "id": 7648,
+            "name": "Fight Club MMA - Passo Fundo RS",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Passo Fundo/RS",
+            "responsible": "Edevar de Bairros Junior ",
+            "address": "Rua Capitão Araújo, 971, Centro, Passo Fundo/RS, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 10301,
+            "name": "Fight Combat",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Coronel Fabriciano",
+            "responsible": "João Batista da Costa",
+            "address": "Rua José De Alípio Da Silva N°244, Coronel Fabriciano, Mg, Brasil",
+            "website": "@fightcombat"
+        },
+        {
+            "id": 7730,
+            "name": "Fight Culture",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Burlingame",
+            "responsible": "Kyle Aaron Rideau",
+            "address": "1745 Adrian Rd, Unit 12, Burlingame, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 5137,
+            "name": "Fight Fernandópolis BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fernandópolis",
+            "responsible": "Diego Maggi",
+            "address": "Avenida Rosalvo Aderaldo 1354, Santo Afonso, Fernandópolis, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7162,
+            "name": "Fight for a Kid",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Maxsuel Lourenço",
+            "address": "Estrada de Curicica n: 43 Loja 4, Bairro: Curicica, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9569,
+            "name": "Fight For Us",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Gregory Arnold Kalteich",
+            "address": "7135 West Ann Rd Suite 140, Las Vegas, Nv, United States of America",
+            "website": null
+        },
+        {
+            "id": 6770,
+            "name": "Fight Garage Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Leopoldo",
+            "responsible": "Diogo Rodrigo de Oliveira",
+            "address": "Rua Corte Real n: 428, Scharlau, São Leopoldo, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 8217,
+            "name": "Fight Geek China Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Chaoyang District",
+            "responsible": "Wilson Alves da Silva Júnior",
+            "address": "10b / Wanging Capitalland Mall, 33 Guangshun North Street, Chaoyang District, Beijing, China",
+            "website": "@tancredobjj"
+        },
+        {
+            "id": 10169,
+            "name": "Fight Gym",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Bernardo Do Campo",
+            "responsible": "Fabio Vinicius Costa Chemik",
+            "address": "Rua Paschoal Gastaldo, 189, 189, São Bernardo Do Campo, São Paulo (sp), Brasil",
+            "website": "www.fightgym.com.br"
+        }
+    ]
+}

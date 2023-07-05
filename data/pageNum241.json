@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 241,
+        "from": 4800,
+        "to": 4820,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8002,
+            "name": "Nery Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ribeirão Pires",
+            "responsible": "Marcelo Nery Fontes",
+            "address": "Rua Fioravente Zampol Nº21, Ribeirão Pires, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8687,
+            "name": "Nest Martial Arts",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Khalifa City A",
+            "responsible": "Amadu Martins Jorge",
+            "address": "Al Mabrouk St - Mezzanine Floor - Nest Martial Arts Sw6_01, Plot: C8 - Landmark Al Forsan Petrol Station, Khalifa City A, Abu Dhabi, United Arab Emirates",
+            "website": "www.nestmartialartsstudio.com"
+        },
+        {
+            "id": 8806,
+            "name": "Neto Estrela Martial Arts",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Saquarema",
+            "responsible": "José Luiz Estrela Neto",
+            "address": "Rua Ernestina Bravo, Número 179 - Loja 2, Bacaxá, Saquarema, Rj, Brasil",
+            "website": "Bacaxá - Saquarema"
+        },
+        {
+            "id": 3821,
+            "name": "Neto Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ipatinga",
+            "responsible": "Genes Martins de Freitas Neto",
+            "address": "Rua Casimiro de Abreu 98 , Ideal, Ipatinga, MG, Brasil",
+            "website": "www.netofightteam.com"
+        },
+        {
+            "id": 3540,
+            "name": "Neto Gomes BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Eastlake",
+            "responsible": null,
+            "address": "565 st lawrence   , , Eastlake, OH, United States of America",
+            "website": "netogomesbrazilianjiujitsu.com"
+        },
+        {
+            "id": 2564,
+            "name": "Neutral Grounds /  Gracie Jiu Jitsu Long Beach",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Long Beach",
+            "responsible": null,
+            "address": "3414 E 7th street   , , Long Beach, CA, United States of America",
+            "website": "www.ngbjj.com"
+        },
+        {
+            "id": 5144,
+            "name": "Neutral Grounds Jiu-Jitsu Frisco TX",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Frisco",
+            "responsible": "Matthew Michael Jones",
+            "address": "207 King RD, #205, Frisco, TX, United States of America",
+            "website": "bjjtexas.com"
+        },
+        {
+            "id": 4738,
+            "name": "Neves Brazilian Jiu-Jitsu Association",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Skelleftehamn",
+            "responsible": "Leonardo Francisco Lopes Neves",
+            "address": "Södra Hamngatan 28 E  , , Skelleftehamn, Sweden",
+            "website": ""
+        },
+        {
+            "id": 8755,
+            "name": "New Age Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Passos",
+            "responsible": "Thales de Oliveira Santos",
+            "address": "Av. Comendador Francisco Avelino Maia, 1870, Av. Comendador Francisco Avelino Maia, 1870, Passos, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 2079,
+            "name": "New Breed Jiu Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Fe Springs",
+            "responsible": null,
+            "address": "9834 Jersey Ave  , , Santa Fe Springs, CA, United States of America",
+            "website": "www.newbreedacademy.com"
+        },
+        {
+            "id": 7027,
+            "name": "New Creation Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Benicia",
+            "responsible": "Richard David Goodwin",
+            "address": "675 East H. Street, Benicia, CA, United States of America",
+            "website": "www.newcreationwrestlingandjiujitsu.com"
+        },
+        {
+            "id": 2547,
+            "name": "New England United BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Weymouth",
+            "responsible": "André Luiz Gomes de Almeida",
+            "address": "293 Libbey Industrial Parkway Unit 200 , , Weymouth, MA, United States of America",
+            "website": "www.neubjj.com"
+        },
+        {
+            "id": 8142,
+            "name": "New England United Brazil BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Quedas Do Iguaçu",
+            "responsible": "André Luiz Gomes de Almeida",
+            "address": "Rua Juazeiro, 1065 - Centro, Quedas Do Iguaçu, Parana, Brasil",
+            "website": null
+        },
+        {
+            "id": 5703,
+            "name": "New Era Niterói",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Flavio Eduardo Costa Duarte Junior",
+            "address": "Rua Vereador José Fernandes, 10, Santa Rosa, Niterói, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 10262,
+            "name": "New Family Brazilian Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Tanailson Cavalcante da Silva",
+            "address": "2a Avenida Moisés Mendes, 109 - Sussuarana, Salvador, Sede De Moradores, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 9984,
+            "name": "New Flow Jiu-Jitsu School",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Camocim",
+            "responsible": "Marcos Anthony de Brito Sousa",
+            "address": "Rua Francisco Das Chagas Oliveira, Camocim, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 10463,
+            "name": "New Level Team Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Beijing",
+            "responsible": "Carlos Alberto da Rocha",
+            "address": "Building 11, Daojiayuan, Chaoyang District, Beijing, Beijing, China",
+            "website": null
+        },
+        {
+            "id": 4736,
+            "name": "New Millennium Team",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Napoli",
+            "responsible": null,
+            "address": "VIA PIETRO CASTELLINO 141/S  , , Napoli, ., Italy",
+            "website": "www.bjjcirelliteam.it"
+        },
+        {
+            "id": 3730,
+            "name": "New Port Richey Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tarpon Springs",
+            "responsible": "Michael William Geery",
+            "address": "805 Live Oak St, Tarpon Springs, Florida, United States of America",
+            "website": "www.newportricheyjiujitsu.com"
+        },
+        {
+            "id": 6803,
+            "name": "New Prime JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Antônio Ramon Fernandes da Costa",
+            "address": "Rua Diogo Correia n: 06, Bairro: Bonsucesso, Fortaleza, Ceará, Brasil",
+            "website": null
+        }
+    ]
+}

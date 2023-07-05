@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 206,
+        "from": 4100,
+        "to": 4120,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9922,
+            "name": "Katame Dojô Porto Alegre",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Leonardo Santos Defaveri",
+            "address": "Rua Doutor Barcelos, 768, Casa, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 6819,
+            "name": "Katana Gym",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Yousuke Nagai",
+            "address": "RAYHOUSEkomagome201, 2-5-8, Nakazato, Kita-ku, Tokyo, Tokyo, Japan",
+            "website": "http://komagomekatanagym.com/"
+        },
+        {
+            "id": 9711,
+            "name": "Katayama Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Mario Marcio Katayama",
+            "address": "Rua Evaristo Roberto Ferreira, 26, Morada Verde, Campo Grande, Mato Grosso Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 2758,
+            "name": "Katayama Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Shizuoka",
+            "responsible": "Mario Marcio Katayama",
+            "address": "Hamamatsu-shi Higashi-Ku Tenno-cho 1800, Shizuoka, --, Japan",
+            "website": "katayama.jiujitsu.blogspot.com"
+        },
+        {
+            "id": 598,
+            "name": "Katikan Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra do Piraí",
+            "responsible": "Eloi Moreira",
+            "address": "Rua João Batista da Fonseca  212, Matadouro, Barra do Piraí, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 7260,
+            "name": "Katsu Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Seixal",
+            "responsible": "Rui Carlos Rodrigues Fernandes Gonçalves",
+            "address": "R. Sá De Miranda N18 Esq, Seixal, --, Portugal",
+            "website": "https://jiujitsuseixal.com/"
+        },
+        {
+            "id": 8982,
+            "name": "Kawahara BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Não-me-toque",
+            "responsible": "Felipe Seiji Morais Kawahara",
+            "address": "Rua Imigrantes Alemães, Não-me-toque, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 7951,
+            "name": "Kawamoto Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José Dos Campos",
+            "responsible": "Glaucus Kenji Soria Kawamoto",
+            "address": "Rua Itambé 750 Jardim Satélite, São José Dos Campos, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 10310,
+            "name": "Kazoku BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Edmonton",
+            "responsible": "Manuel Elias Aragon",
+            "address": "4359 68 Avenue, Edmonton, Alberta, Canada",
+            "website": null
+        },
+        {
+            "id": 5396,
+            "name": "Kazumaru Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aomori",
+            "responsible": "Yuki Yamahata",
+            "address": "219-291 Sonosawa, Misawa, Aomori, Japan",
+            "website": null
+        },
+        {
+            "id": 8819,
+            "name": "Kbça Team BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Adriano dos Santos Aguiar",
+            "address": "Av Aliomar Baleeiro Km 8,5, Cond Dois De Julho Life Bl 07304, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 6573,
+            "name": "KD MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Glendale",
+            "responsible": "Karen Darabedyan",
+            "address": "555 Riverdale Dr. #C, Glendale, CA, United States of America",
+            "website": "www.kdmma.com"
+        },
+        {
+            "id": 8845,
+            "name": "KDHBJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Daejeon",
+            "responsible": "Daehong KIM",
+            "address": "502, 12, Eungubiro, Yuseonggu, Daejeon, Daejeon, Korea, South",
+            "website": null
+        },
+        {
+            "id": 7346,
+            "name": "Keisei",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jundiaí",
+            "responsible": "Filippi Soto Mattos",
+            "address": "Av. Doutor Sebastião Mendes da Silva n: 401, Bairro: Anhangabuú, Jundiaí, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9254,
+            "name": "Ken Gabrielson's Combative Fighting Systems",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Colorado Springs",
+            "responsible": "Kenneth Marshall Gabrielson",
+            "address": "11580 Black Forest Road #20, Colorado Springs, Colorado, United States of America",
+            "website": "nextgencfs.com"
+        },
+        {
+            "id": 10455,
+            "name": "Kent BJJ Hong Kong",
+            "federationAbbr": "IBJJF",
+            "country": "Hong Kong",
+            "countryAbbr": "HK",
+            "city": "Mong Kok",
+            "responsible": "Kent Lam",
+            "address": "2/f Tung Wai Building, 227-229 Tung Choi Street, Mong Kok, Kowloon, Hong Kong",
+            "website": null
+        },
+        {
+            "id": 8021,
+            "name": "Kerisson Neri BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Arapiraca",
+            "responsible": "Kerisson Neri da Silva",
+            "address": "Rua Bela Vista,bairro Brasília,número 711, Arapiraca, Alagoas, Brasil",
+            "website": null
+        },
+        {
+            "id": 6539,
+            "name": "Kernow BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Redruth",
+            "responsible": "Mark Leigh Bauer",
+            "address": "Leisure Centre Trust, Station Road, Pool., Redruth, --, United Kingdom",
+            "website": "www.KernowBJJ.com"
+        },
+        {
+            "id": 8769,
+            "name": "KGB-Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Laranjeiras Do Sul",
+            "responsible": "Jefferson Rodrigues da Silva",
+            "address": "Rua Cel. Guilherme De Paula 1730, Iguaçu Tenis Cluve, Laranjeiras Do Sul, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 9883,
+            "name": "Kidokan",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Diadema",
+            "responsible": "Diego Prodossimo Garcia",
+            "address": "Rua Agostinho Barbalho 59, Vila Nogueira, Diadema, São Paulo, Brasil",
+            "website": "www.kidokan.com.br"
+        }
+    ]
+}

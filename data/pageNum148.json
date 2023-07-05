@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 148,
+        "from": 2940,
+        "to": 2960,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10683,
+            "name": "Goulburn Martial Arts Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Goulburn",
+            "responsible": "Craig Roy B. Harmer",
+            "address": "4/135 Finlay Rd, Goulburn, Nsw, Australia",
+            "website": "Goulburnmartialartacademy.com"
+        },
+        {
+            "id": 6549,
+            "name": "GP Jiu-Jitsu ASD",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Verona",
+            "responsible": "Ghenadie Popa",
+            "address": "Via Gaspare del Carretto 16, Verona, IT, Italy",
+            "website": null
+        },
+        {
+            "id": 10701,
+            "name": "GR Jiu-Jitsu Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": "Gilberto João Furtado Ribeiro Vasconcelos",
+            "address": "Rua Areolino De Abreu, 1631, Teresina, Piauí, Brasil",
+            "website": "https://grjiujitsu.com.br/"
+        },
+        {
+            "id": 4289,
+            "name": "GR Phoenix Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Greece",
+            "countryAbbr": "GR",
+            "city": "Athens",
+            "responsible": "Ermis Dimitropoulos",
+            "address": "Kratitos 49  , Athens, --, Greece",
+            "website": "hermesclub.gr"
+        },
+        {
+            "id": 10741,
+            "name": "Grab Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Rodrigo dos Santos Almeida",
+            "address": "Rua Remanso ,21, Vila Mariana, Apartamento 24, São Paulo, Sp, Brasil",
+            "website": "www.grabjiujitsu.com"
+        },
+        {
+            "id": 2654,
+            "name": "Grabaka Jiu-Jitsu Club",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Takuya Yokoyama",
+            "address": "1-16-19 \u0013f Noguchicho Higasimurayamashi, , Tokyo, --, Japan",
+            "website": "http://www.grabaka.com"
+        },
+        {
+            "id": 2775,
+            "name": "Gracie Allegiance",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Clark Rouson Gracie",
+            "address": "1162 Morena Blvd., San Diego, CA, United States of America",
+            "website": "www.clarkgracie.com"
+        },
+        {
+            "id": 7236,
+            "name": "Gracie Allegiance International",
+            "federationAbbr": "IBJJF",
+            "country": "Antarctica",
+            "countryAbbr": "AQ",
+            "city": "International",
+            "responsible": "Clark Rouson Gracie",
+            "address": "Santa Paula, International, International, Antarctica",
+            "website": null
+        },
+        {
+            "id": 6984,
+            "name": "Gracie Allegiance Korea",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Gwangmyeong-si",
+            "responsible": "Jinho Park",
+            "address": "4F, 960, Ori-ro, Gwangmyeong-si, Gyeonggi-do, Korea, South",
+            "website": "www.clarkgraciekorea.com"
+        },
+        {
+            "id": 6869,
+            "name": "Gracie Allegiance Mamoru Dojo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka-city",
+            "responsible": "Mamoru Kashikura",
+            "address": "2f 2-6-25 Haginochaya,, Nishinari-ku, Osaka-city, Osaka, Japan",
+            "website": null
+        },
+        {
+            "id": 2878,
+            "name": "Gracie Barcelona",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Barcelona",
+            "responsible": null,
+            "address": "Horacio #7 - Bajos  , , Barcelona, CA, Spain",
+            "website": "www.graciebarcelona.com"
+        },
+        {
+            "id": 6258,
+            "name": "Gracie Barra - Barra Square",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Daniel Bizinover",
+            "address": "Av. das Americas n: 3.555 quiosque 7, Barra da Tijuca, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4595,
+            "name": "Gracie Barra - São Mateus",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Mateus",
+            "responsible": "Múcio Soares Maia",
+            "address": "Rua Nelson Fundão 404 , Fátima, São Mateus, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 5165,
+            "name": "Gracie Barra Agua Caliente Tijuana",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Tijuana",
+            "responsible": "Joel Castellon Jr.",
+            "address": "Gobernador Balarezo 366-9  , , Tijuana, BC, Mexico",
+            "website": ""
+        },
+        {
+            "id": 7152,
+            "name": "Gracie Barra Água Verde",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Luiz Rafael de Assumpção Pereira Filho",
+            "address": "Avenida Dos Estados, 101, Bairro: Água Verde, Curitiba, Paraná, Brasil",
+            "website": "Curitiba"
+        },
+        {
+            "id": 4288,
+            "name": "Gracie Barra Ajman - UAE",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Ajman",
+            "responsible": "Abdel Aziz Cherigui",
+            "address": "Body \u0026 Soul - P.O. Box 7705  , , Ajman, --, United Arab Emirates",
+            "website": ""
+        },
+        {
+            "id": 3739,
+            "name": "Gracie Barra Alabama",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pelham",
+            "responsible": "Kaliffa Gonçalves Oliveira",
+            "address": "200 Bowling Lane, Pelham, Al, United States of America",
+            "website": "graciebarraalabama.com"
+        },
+        {
+            "id": 462,
+            "name": "Gracie Barra Alagoas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maceió",
+            "responsible": "Diojone Farias Guimarães",
+            "address": "  Av. Julio Marques Luz, 1742, Jatiúca, Maceió, AL, Brasil",
+            "website": "www.graciebarraal.com.br"
+        },
+        {
+            "id": 5523,
+            "name": "Gracie Barra Alagoinhas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Alagoinhas",
+            "responsible": "Everton Luiz Macedo Almeida",
+            "address": "Rua Francisco Batista 56 A, 1 Andar / Centro, Alagoinhas, BA, Brasil",
+            "website": "www.gbalagoinhas.com.br"
+        },
+        {
+            "id": 10337,
+            "name": "Gracie Barra Alegrete - RS",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Alegrete",
+            "responsible": "André Brazeiro da Rosa",
+            "address": "Rua General Arruda Sem Numero, Ginásio Osvaldo Aranha, Alegrete, Rio Grande Do Sul, Brasil",
+            "website": "Ginásio Osvaldo Aranha S/N"
+        }
+    ]
+}

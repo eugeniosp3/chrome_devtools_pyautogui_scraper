@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 112,
+        "from": 2220,
+        "to": 2240,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10520,
+            "name": "Equipe RBA  Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Pedro Da Aldeia",
+            "responsible": "Revilis Barcelos Apolinario",
+            "address": "Rua Resende 301, Loja Azul, São Pedro Da Aldeia, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7064,
+            "name": "Equipe Resgate BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itapema",
+            "responsible": "Paulo Rogerio Costa Machado",
+            "address": "Rua Servidão Das Calhas 135 Casa 2, Bairro: Várzea, Itapema, Santa Catarina, Brasil",
+            "website": "equiperesgate.com.br"
+        },
+        {
+            "id": 8470,
+            "name": "Equipe Ricardo Cândido JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Taubate Sp",
+            "responsible": "Ricardo Cândido Filomeno",
+            "address": "Rua Joao Afonso Salgueiro 255f, Casa, Taubate Sp, Sp, Brasil",
+            "website": "vanderleijiujitsu@hotmail.com"
+        },
+        {
+            "id": 2488,
+            "name": "Equipe Roberto Ventura",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Roberto Ventura Dourado Barreiro",
+            "address": "Rua Graciliano de Freitas  14 Casa, Roma, Salvador, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 2668,
+            "name": "Equipe Rolando Toro Jiu Jitsu - Chile",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Chile",
+            "responsible": null,
+            "address": "  , , Chile, CL, Chile",
+            "website": "www.rolandotoro.com"
+        },
+        {
+            "id": 2136,
+            "name": "Equipe Rolando Toro Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macaé",
+            "responsible": "Rolando Patrício Toro Acuña",
+            "address": "Rua Maria Francisca Reis 502 Academia, Da Glória, Macaé, RJ, Brasil",
+            "website": "www.rolandotoro.com.br"
+        },
+        {
+            "id": 4076,
+            "name": "Equipe Rossoni",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarapuava",
+            "responsible": "Cristiano Francisco Rossoni",
+            "address": "R: Bernardo José Lacerda 534, Santa Cruz, Guarapuava, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 10652,
+            "name": "Equipe Santos",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Julio Cesar Pereira dos Santos",
+            "address": "Antonio Tibúrcio De Souza, N 52, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6200,
+            "name": "Equipe Sete Clube de Lutas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Eduardo dos Santos Ramos",
+            "address": "Rua Ivo Amazonense 05, Parque Dez de Novembro, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 9423,
+            "name": "Equipe Shok",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Paulo Cristian Lima de Melo",
+            "address": "Rua Dos Angelins, 89 Conjunto Kissia - Dom Pedro, Manaus, Amazonas, Brasil",
+            "website": "https://www.instagram.com/academiashok/"
+        },
+        {
+            "id": 8156,
+            "name": "Equipe Sidney Pro Fight BJJ - Pará",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Maria Do Pará",
+            "responsible": "Sidney Roberto Lima Sanches",
+            "address": "Rua Cesarino Doce, 227, Centro, Residência, Santa Maria Do Pará, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7407,
+            "name": "Equipe STJJ Farias",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça",
+            "responsible": "Erico Leopoldo de Farias",
+            "address": "Avenida Rio Grande, 1753 - Sala 03, Rio Grande, Palhoça, SC, Brasil",
+            "website": "instagram.com/spartajiujitsu"
+        },
+        {
+            "id": 5797,
+            "name": "Equipe TCA",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Hereford",
+            "responsible": "David Coles",
+            "address": "Unit 24 Foley Trading Estate, Hereford, United Kingdom",
+            "website": "www.thecombatacademy.com"
+        },
+        {
+            "id": 3025,
+            "name": "Equipe Totti Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Rodrigo da Costa Totti",
+            "address": "Ladeira Ari Barroso 1 Clube Copa Leme, Leme, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6458,
+            "name": "Equipe Tsunami BJJ Aotearoa",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "New Plymouth",
+            "responsible": "John Veloso Ouano",
+            "address": "NP Wrestling Club - behind St James Church 24b Lawry st., New Plymouth, --, New Zealand",
+            "website": "tsunamisoutherntri.wixsite.com/1920"
+        },
+        {
+            "id": 8996,
+            "name": "Equipe Tsunami BJJ Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Cloverdale",
+            "responsible": "John Veloso Ouano",
+            "address": "3 Love Street, Cloverdale, Perth, Australia",
+            "website": "www.tsunamibjj.com"
+        },
+        {
+            "id": 3920,
+            "name": "Equipe Tsunami Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Angeles",
+            "responsible": "John Veloso Ouano",
+            "address": "11664 National Blvd., Pmb # 313, Los Angeles, Ca, United States of America",
+            "website": "www.tsunamibjj.com"
+        },
+        {
+            "id": 8104,
+            "name": "Equipe Vilhena B. P. Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Parauapebas",
+            "responsible": "Manoel Jerfsom da Silva Nascimento",
+            "address": "R: Castro Alves; N°: 179; B: Da Paz, Parauapebas, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 8121,
+            "name": "Equipe Vilhena Canaã Dos Carajás",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Canaã Dos Carajás",
+            "responsible": "Gleison Melo da Silva",
+            "address": "Av. Rio Branco  S/n Barrio:  Novorizonte, Próximo A Praça Do Novo Horizonte 1, Canaã Dos Carajás, Pará, Brasil",
+            "website": "https://www.equipevilhenajj.com.br/equipe-vilhena-canaa/"
+        },
+        {
+            "id": 10174,
+            "name": "Equipe Vilhena Ct São Félix",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marabá",
+            "responsible": "José Raimundo Ferreira de Oliveira",
+            "address": "Rua 12 Qd 41 Lote 35, Novo Progresso, Marabá, Pa, Brasil",
+            "website": null
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 168,
+        "from": 3340,
+        "to": 3360,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10252,
+            "name": "Gracie Barra Ribeirão Das Neves",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ribeirão Das Neves",
+            "responsible": "Eder Gomes  Silva",
+            "address": "Rua João André N-° 371, Ribeirão Das Neves, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 7448,
+            "name": "Gracie Barra Richmond Steveston",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Richmond",
+            "responsible": "Vanderson Matias Sousa",
+            "address": "110-3531 Bayview Street, Steveston Village, Richmond, BC, Canada",
+            "website": "www.gbrichmond.ca"
+        },
+        {
+            "id": 9301,
+            "name": "Gracie Barra Rio Das Ostras",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Das Ostras",
+            "responsible": "Paulo Alceu da Silva Teixeira",
+            "address": "Av. Roberto Silveira 223 - Costa Azul, Gracie Barra Rio Das Ostras, Rio Das Ostras, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 425,
+            "name": "Gracie Barra Rio de Janeiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Carlos Gracie Junior",
+            "address": "Av. Comandante Julio de Moura  300 , Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2423,
+            "name": "Gracie Barra Rio Grande Valley",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brownsville",
+            "responsible": null,
+            "address": "5214 North Expressway 77/83  , , Brownsville, TX, United States of America",
+            "website": "www.graciebarra-rgv.com"
+        },
+        {
+            "id": 8764,
+            "name": "Gracie Barra Rivera / Uruguai",
+            "federationAbbr": "IBJJF",
+            "country": "Uruguai",
+            "countryAbbr": "UY",
+            "city": "Rivera",
+            "responsible": "Juan Guillermo Porto Laprevendere",
+            "address": "Avenida Paul Harris, 1500, Rivera, Uruguai",
+            "website": null
+        },
+        {
+            "id": 2717,
+            "name": "Gracie Barra Riverside",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Riverside",
+            "responsible": "Thomas A. Reusing",
+            "address": "6250 Brockton Ave  , , Riverside, CA, United States of America",
+            "website": "www.graciebarrariverside.com"
+        },
+        {
+            "id": 7704,
+            "name": "Gracie Barra Rockledge",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rockledge",
+            "responsible": "Alexandre Julianelli do Nascimento",
+            "address": "2208 S Fiske Blvd., Rockledge, Fl, United States of America",
+            "website": "gbrockledge.com"
+        },
+        {
+            "id": 2140,
+            "name": "Gracie Barra Rohnert Park",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rohnert Park",
+            "responsible": "Richard Simeon Henderson",
+            "address": "7271 Snyder Lane, Rohnert Park, CA, United States of America",
+            "website": "www.gbrohnertpark.com"
+        },
+        {
+            "id": 3899,
+            "name": "Gracie Barra Roraima",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Pascoal Magalhães Duarte",
+            "address": "Rua Guanabara 83 , São Pedro, Boa Vista, RR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8653,
+            "name": "Gracie Barra Roseville",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Roseville",
+            "responsible": "Kristóf Szucs",
+            "address": "7441 Foothills Boulevard, Ste 155, Roseville, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 9436,
+            "name": "Gracie Barra Rugby",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Rugby",
+            "responsible": "David A. Wosman",
+            "address": "7 Davy Court, Rugby, Rugby, Warwickshire, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 2846,
+            "name": "Gracie Barra Saddleback",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Irvine",
+            "responsible": "Philipe Cançado Della Monica",
+            "address": "14988 Sand Canyon av. studio 1  , , Irvine, CA, United States of America",
+            "website": "www.gbsaddleback.com"
+        },
+        {
+            "id": 7535,
+            "name": "Gracie Barra Salt Lake City",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Salt Lake City ",
+            "responsible": "Seidler Rodrigo S. Ziser",
+            "address": "66 East 3750 South, Salt Lake City , Utah, United States of America",
+            "website": "https://graciebarra.com/salt-lake-city-ut/"
+        },
+        {
+            "id": 1059,
+            "name": "Gracie Barra Salvador-BA",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Mauricio Robbe de Almeida",
+            "address": "Rua Monsenhor Gaspar Sadoc 484 301, Costa Azul, Salvador, BA, Brasil",
+            "website": "www.graciebarra-ba.com.br"
+        },
+        {
+            "id": 3928,
+            "name": "Gracie Barra San Antonio",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Fabiana Alves Borges",
+            "address": "207111 Wilderness Oak Ste 109  , , San Antonio, TX, United States of America",
+            "website": "www.gbsanantonio.com"
+        },
+        {
+            "id": 2128,
+            "name": "Gracie Barra San Clemente",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Clemente",
+            "responsible": null,
+            "address": "232 Avenida Fabricante, suite 105  , , San Clemente, CA, United States of America",
+            "website": "www.graciebarrasanclemente.com"
+        },
+        {
+            "id": 5451,
+            "name": "Gracie Barra San Diego",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Alexandre Takeshi Ogawa",
+            "address": "3952 Clairemont Mesa Blvd, Suite A, San Diego, CA, United States of America",
+            "website": "graciebarrasandiego.com"
+        },
+        {
+            "id": 6209,
+            "name": "Gracie Barra San Juan Costa Rica",
+            "federationAbbr": "IBJJF",
+            "country": "Costa Rica",
+            "countryAbbr": "CR",
+            "city": "La Union",
+            "responsible": "Rômulo Claudio Barral",
+            "address": "San Juan de la Union, Plaza 02, Local #12, La Union, --, Costa Rica",
+            "website": "www.graciebarracr.com"
+        },
+        {
+            "id": 6891,
+            "name": "Gracie Barra San Ysidro",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Ysidro",
+            "responsible": "Joel Castellon Jr.",
+            "address": "1685 Precision Park Ln. Unit N, San Ysidro, CA, United States of America",
+            "website": null
+        }
+    ]
+}

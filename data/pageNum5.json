@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 5,
+        "from": 80,
+        "to": 100,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4784,
+            "name": "AAM",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Hem",
+            "responsible": "Ricardo De La Riva Goded",
+            "address": "153 Rue de la Vallée  , , Hem, France",
+            "website": "aam59.com"
+        },
+        {
+            "id": 9837,
+            "name": "Aaron Ace Reis Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "St George",
+            "responsible": "Aaron Keolaokalani Reis",
+            "address": "2746 East 850 North #1, St George, Utah, United States of America",
+            "website": "www.teamfusionmma.com"
+        },
+        {
+            "id": 9720,
+            "name": "Aaziz",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Monte Alto",
+            "responsible": "Willian Von Sohsten Pereira Rezende",
+            "address": "Avenida Lindolfo Da Costa, 271, Monte Alto, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 2104,
+            "name": "ABC Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Bernardo do Campo",
+            "responsible": "José Roberto Vicente da Silva",
+            "address": "Rua Sergio Cardoso, 439 - Apto. 24, Bairro: Planalto, São Bernardo do Campo, SP, Brasil",
+            "website": "www.abcjj.com.br"
+        },
+        {
+            "id": 9069,
+            "name": "ABF Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "Cleber Marinho Borges",
+            "address": "Rua: Craveiro Lopes 433, Niterói, Rj, Brasil",
+            "website": "https://www.institutoabf.com/"
+        },
+        {
+            "id": 8149,
+            "name": "ABJJ - Aliados Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Botucatu",
+            "responsible": "Lourival dos Santos",
+            "address": "R Doutor Armando De Salles Oliveira, 580, Botucatu, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9453,
+            "name": "Ablaze Hachioji",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Hachioji-shi",
+            "responsible": "Masakazu Imanari",
+            "address": "Sagami Bld #512, 7-9 Asahi-cho, Hachioji-shi, Tokyo, Japan",
+            "website": "https://ablazehachioji.com"
+        },
+        {
+            "id": 6848,
+            "name": "Abmar Barbosa Association",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Vienna",
+            "responsible": "Abmar Marcelo Barbosa",
+            "address": "8460 Tyco Rd. , Unit D, Vienna, VA, United States of America",
+            "website": "www.abmarbjjacademy.com"
+        },
+        {
+            "id": 6847,
+            "name": "Abmar Barbosa Association Brazil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Claro",
+            "responsible": "Abmar Marcelo Barbosa",
+            "address": "Av 66A, Rua 4 e 5 JA N: 143, Jardim America, Rio Claro, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4221,
+            "name": "Aborigen BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "VALLE SAN LORENZO",
+            "responsible": "Cristofer Martin Barrios",
+            "address": "Calle/TRINIDAD N.6 EDIFICIO SOL, PLANTA 2-12, VALLE SAN LORENZO, SANTA CRUZ DE TENERIFE, Spain",
+            "website": ""
+        },
+        {
+            "id": 6126,
+            "name": "Abrecea Brazilian Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bergenfield",
+            "responsible": "Ryan Abrecea",
+            "address": "40 S Washington Ave, Bergenfield, NJ, United States of America",
+            "website": "www.abreceabjj.com"
+        },
+        {
+            "id": 10663,
+            "name": "Absolut Fight Centro De Treinamento",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vila Velha",
+            "responsible": "Eduardo Santos de Oliveira",
+            "address": "Rua Vinte E Nove, 227, Santa Mônica, Vila Velha, Espirito Santo, Brasil",
+            "website": "@absolutfight"
+        },
+        {
+            "id": 2768,
+            "name": "Absolute Behring",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "West Jordan",
+            "responsible": "Robert Lawrence Handley",
+            "address": "1338 W 7800 S, West Jordan, UT, United States of America",
+            "website": "absolutemma.com"
+        },
+        {
+            "id": 3065,
+            "name": "Absolute MMA Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Melbourne",
+            "responsible": null,
+            "address": "The Basement 136 Exhibition Street  , Melbourne, VIC, Australia",
+            "website": null
+        },
+        {
+            "id": 9660,
+            "name": "Absolute Squad Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pedro Leopoldo",
+            "responsible": "Moises Mitrioni Ferreira",
+            "address": "Rua Amália Rodrigues De Jesus,, 955, Pedro Leopoldo, Mg, Brasil",
+            "website": "https://abssquad.com.br/"
+        },
+        {
+            "id": 2900,
+            "name": "Absoluto BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Romania",
+            "countryAbbr": "RO",
+            "city": "Bucharest",
+            "responsible": "Robin Gracie",
+            "address": "Bd. Unirii 64, BL K4, 5C5, AP. 144  , Bucharest, RO, Romania",
+            "website": "www.absoluto.ro"
+        },
+        {
+            "id": 6279,
+            "name": "Abu Brothers Fight Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Leandro de Lorenço Lima",
+            "address": "Rua dos Italianos n: 981, Bom Retiro, São Paulo, São Paulo, Brasil",
+            "website": "www.abubrothers.com.br"
+        },
+        {
+            "id": 3914,
+            "name": "Abu Dhabi Top Team",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Abu Dhabi",
+            "responsible": "Marcos Vinicius Oliveira",
+            "address": "Al Reen Ysland Sky Tower 4111, Abu Dhabi, Abu Dhabi, United Arab Emirates",
+            "website": null
+        },
+        {
+            "id": 3125,
+            "name": "Abusado Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Worcester",
+            "responsible": "Daniel Simmler",
+            "address": "210 Summer Street  , , Worcester, MA, United States of America",
+            "website": "www.simmlerbjj.com"
+        },
+        {
+            "id": 2291,
+            "name": "Ac. Atitude - Acre",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Branco",
+            "responsible": "Claudio Roberto Souza da Silva",
+            "address": "Avenida Ceará, 395, Bairro Cerâmica-habitasa, Ipase Park Fitness Academia (segundo Piso), Rio Branco, AC, Brasil",
+            "website": "www.atitudeac.com.br"
+        }
+    ]
+}

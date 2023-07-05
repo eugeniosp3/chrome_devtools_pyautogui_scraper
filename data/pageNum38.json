@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 38,
+        "from": 740,
+        "to": 760,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5865,
+            "name": "BABS Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New York",
+            "responsible": "Babatunde A. Olusanmokun",
+            "address": "291 Broadway, Lower Level, New York, NY, United States of America",
+            "website": "babsbjj.com"
+        },
+        {
+            "id": 10118,
+            "name": "Backbone BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Corona",
+            "responsible": "Daniel Ryan Hester",
+            "address": "440 River Rd Unit B, Corona, California, United States of America",
+            "website": "Www.backbonebjj.com"
+        },
+        {
+            "id": 2891,
+            "name": "Bad Boys JJ",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Heusden-Zolder",
+            "responsible": "Augusto Ferrari Amaro de Andrade",
+            "address": "Guido Gezellelaan 163  , , Heusden-Zolder, BE, Belgium",
+            "website": "www.orgaf.com"
+        },
+        {
+            "id": 5285,
+            "name": "Badger Style BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Toledo",
+            "responsible": "Chris J. Blanke",
+            "address": "5222 Tractor Rd, Toledo, OH, United States of America",
+            "website": "www.toledojj.com"
+        },
+        {
+            "id": 10011,
+            "name": "Bagir BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Bulgaria",
+            "countryAbbr": "BG",
+            "city": "Sofia",
+            "responsible": "Akim Shomirzoev",
+            "address": "Ljubljana 34, Sofia, Bulgaria",
+            "website": null
+        },
+        {
+            "id": 9843,
+            "name": "Bahia Brazilian Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Espoo",
+            "responsible": "Milla Katriina Bahia",
+            "address": "Suomalaistentie 7, Espoo, Finland",
+            "website": "bahiabjj.fi"
+        },
+        {
+            "id": 3886,
+            "name": "Balaban Jiu-Jitsu Team",
+            "federationAbbr": "IBJJF",
+            "country": "Turkey",
+            "countryAbbr": "TR",
+            "city": "Istanbul",
+            "responsible": "Leonardo Henrique D'avila Corrêa",
+            "address": "Barbaros Mahallesi Sen Sokak, No. 5/1 - Bati Atesehir  , , Istanbul, BK, Turkey",
+            "website": "www.bjj.com.tr"
+        },
+        {
+            "id": 3139,
+            "name": "Balance",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Phila",
+            "responsible": "Philip Joseph Migliarese III",
+            "address": "108-114 Bonsall Street  , , Phila, PA, United States of America",
+            "website": "www.balancephilly.com"
+        },
+        {
+            "id": 5128,
+            "name": "Bali MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Indonesia",
+            "countryAbbr": "ID",
+            "city": "Canggu",
+            "responsible": "Donald Richard Carlo-Clauss",
+            "address": "Jalan Raya Padonan #6, Kebayoran Baru, Canggu, Bali, Indonesia",
+            "website": "www.balimma.com"
+        },
+        {
+            "id": 5628,
+            "name": "Balta Rodrigues",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Francisco Baltazar Rodrigues",
+            "address": "Rua Salvador Da Costa Alves, 2081 A, Moinho Preto, Petrópolis, RJ, Brasil",
+            "website": "Rj Petrópolis"
+        },
+        {
+            "id": 9342,
+            "name": "Balta Rodrigues Bolivia",
+            "federationAbbr": "IBJJF",
+            "country": "Bolivia",
+            "countryAbbr": "BO",
+            "city": "La Paz",
+            "responsible": "Francisco Baltazar Rodrigues",
+            "address": "Centro Comercial Plaza Real, La Paz, La Paz, Bolivia",
+            "website": null
+        },
+        {
+            "id": 8604,
+            "name": "Bam Bam Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "James H. Clingerman",
+            "address": "4007 Bellaire Blvd., Houston, Texas, United States of America",
+            "website": "www.BamBamMartialArts.com"
+        },
+        {
+            "id": 4611,
+            "name": "Banana Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hyannis",
+            "responsible": "Juliano Sousa Coutinho",
+            "address": "92 Barnstable Rd, , Hyannis, MA, United States of America",
+            "website": "Www.juniko.com"
+        },
+        {
+            "id": 10383,
+            "name": "Bangkok Fight Lab",
+            "federationAbbr": "IBJJF",
+            "country": "Thailand",
+            "countryAbbr": "TH",
+            "city": "Bangkok",
+            "responsible": "Morgan Kendall Perkins",
+            "address": "137 Sukhumvit Soi 50, Phrakanong, Bangkok, Thailand",
+            "website": null
+        },
+        {
+            "id": 10256,
+            "name": "Banjo Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Passo Fundo",
+            "responsible": "Jocenan Waszileswski Goulart",
+            "address": "Rua Sananduva Nr 08, Casa, Passo Fundo, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 102,
+            "name": "Banni Fight Combat Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Sandro da Silva Lima",
+            "address": "Chacará Shvp Rua 05, Chacará 101/1 Casa 03, Brasilia, DF, Brasil",
+            "website": "www.bannifightcombat.com.br"
+        },
+        {
+            "id": 3689,
+            "name": "Banni Fight Combat- JJ RN",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Sandro da Silva Lima",
+            "address": "Rua Agrestina, Gurarapes N: 219, Natal, RN, Brasil",
+            "website": "www.bannifightcombat.com.br"
+        },
+        {
+            "id": 6812,
+            "name": "BAP/CTBJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Netherlands",
+            "countryAbbr": "NL",
+            "city": "Ede",
+            "responsible": "Carlos Alberto Toyotta",
+            "address": "Verning Meineszstraat 7, Ede, GLD, Netherlands",
+            "website": "www.budoacademyphysical.nl"
+        },
+        {
+            "id": 6204,
+            "name": "Barão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barueri",
+            "responsible": "Rocian Gracie Junior",
+            "address": "Av. Copacabana n: 325 - 22 Andar, Bairro: Alphaville, Barueri, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 3852,
+            "name": "Barbante Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campinas",
+            "responsible": "Caio Rodolfo Torres Barbante",
+            "address": "Avenida Ibirapuera, 04, Jardim Londres, Campinas, Sp, Brasil",
+            "website": null
+        }
+    ]
+}

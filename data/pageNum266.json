@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 266,
+        "from": 5300,
+        "to": 5320,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6650,
+            "name": "Primus BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salgado",
+            "responsible": "Edelvan de Andrade Gomes",
+            "address": "Rua Manoel Luiz, 150 - Cdsj - Anexo 1, Salgado, SE, Brasil",
+            "website": null
+        },
+        {
+            "id": 6501,
+            "name": "Princeton Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Princeton",
+            "responsible": "Arthur A Keintz",
+            "address": "741 Alexander RD. Unit #4, Princeton, NJ, United States of America",
+            "website": "PrincetonBJJ.com"
+        },
+        {
+            "id": 9636,
+            "name": "Príncipes E Princesas Do Tatame BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Eduardo da Silva Conceição",
+            "address": "Conjunto Benjamin Sodré, Rua Canindé, N07 / Quadra 12, Parque Verde, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 4406,
+            "name": "PRM Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Duque de Caxias",
+            "responsible": "Juan Lopes da Silva",
+            "address": "Rua Professor José de Souza Herdy n: , Bairro: 25 de Agosto, Duque de Caxias, RJ, Brasil",
+            "website": "www.primeteambjj.com.br"
+        },
+        {
+            "id": 6626,
+            "name": "PRM Team International",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Otara ",
+            "responsible": "Ian da Silva Viana",
+            "address": "14 Garrett Place, Otara , Auk, New Zealand",
+            "website": null
+        },
+        {
+            "id": 8613,
+            "name": "Pro Training Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Indaial",
+            "responsible": "Alcino Seibt",
+            "address": "Rua Austria, 22, Indaial, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 9090,
+            "name": "Proart Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Ibiza",
+            "responsible": "Carlos Alexandre Dias Salomao",
+            "address": "Calle Music Fermi Mari, 22 Bajo, Ibiza, Baleares, Spain",
+            "website": "www.ibizafightcenter.com"
+        },
+        {
+            "id": 9772,
+            "name": "Procel Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jersey City",
+            "responsible": "Brian R. Procel",
+            "address": "189 Brunswick St, Jersey City, Nj, United States of America",
+            "website": "www.procelbjj.com"
+        },
+        {
+            "id": 7844,
+            "name": "Prodigy Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Blaine",
+            "responsible": "Thao Dinh Le",
+            "address": "1630 101st Ave Ne, Suite 190, Blaine, Mn, United States of America",
+            "website": "www.ProdigyMartialArtsMN.com"
+        },
+        {
+            "id": 7788,
+            "name": "Progress Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Fernando Bruno da Silva",
+            "address": "Rua Sebastião Alves, 156, Bloco B1 Apartamento 404, Recife, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 6574,
+            "name": "Project Lifestyle Manila",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Pasig City",
+            "responsible": "Christopher Thomas Gatmaitan Ilagan",
+            "address": "Unit 1418 AIC-Burgundy Empire Tower, ADB Avenue Corner Garnet St. Ortigas Center, Pasig City, NCR, Philippines",
+            "website": "www.projectlifestylemanila.com"
+        },
+        {
+            "id": 9807,
+            "name": "Projeto  Casa do Universitário - BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Angra Dos Reis",
+            "responsible": "Heverton Luiz da Costa",
+            "address": "Rua Antônio Português, N°.  33 - Pq. Mambucaba., Angra Dos Reis, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9134,
+            "name": "Projeto Artes Marciais Para Todos Cefd/Pmerj",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Vinicius Alves Alkaim",
+            "address": "Av. Marechal Fontenelle 2906 Sulacap,  Centro De Educação Física Da Pmerj., Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9931,
+            "name": "Projeto Construindo Campeões",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aparecida De Goiânia",
+            "responsible": "Sergio Franco Govetri",
+            "address": "Rua C1 Qd5 Lt1, Jardim Cascata, Aparecida De Goiânia, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 10648,
+            "name": "Projeto Diamante Bruto",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Marta Helena Pires Villas Boas",
+            "address": "Avenida Carlos Lacerda, 1736 - Jardim Rosana, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9904,
+            "name": "Projeto Eco Atletas De Jiu-jitsu Infantil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Marcelo Bizarro Ferreira",
+            "address": "Rua Cipriano Honório Dos Santos, 85, Florianópolis, Santa Catarina, Brasil",
+            "website": "HTTPS://instagram.com/proj.ecoatletas"
+        },
+        {
+            "id": 10690,
+            "name": "Projeto Formando Campeões Guamaré BFC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guamaré",
+            "responsible": "Flávio Cantarele da Silva Oliveira",
+            "address": "Rua Monsenhor José Tibúrcio,645 Centro, Guamaré, Rn, Brasil",
+            "website": "https://www.instagram.com/p/CrHhwK7MxaW/?igshid=MzRlODBiNWFlZA=="
+        },
+        {
+            "id": 10166,
+            "name": "Projeto Futuro Da Nação",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itapevi",
+            "responsible": "Thiago Adalberto Miranda",
+            "address": "Rua Serra Negra Número 44 Jardim Rosemary, Itapevi, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 10372,
+            "name": "Projeto Hard Horse",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Edson Jesus de Andrade Junior",
+            "address": "Rua Marcilio Dias, 754, Curitiba, Parana, Brasil",
+            "website": null
+        },
+        {
+            "id": 8541,
+            "name": "Projeto Jiu-Jitsu Para Todos Quitandinha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Alexandre Pinheiro da Silva",
+            "address": "Rua Alagoas, Lote 22 Quadra 82 Quitandinha, Petrópolis, Rj, Brasil",
+            "website": null
+        }
+    ]
+}

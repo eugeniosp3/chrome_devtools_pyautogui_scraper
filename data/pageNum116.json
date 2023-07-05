@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 116,
+        "from": 2300,
+        "to": 2320,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6783,
+            "name": "Escola Gaúcha Academia de Artes Marciais",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Esteio",
+            "responsible": "Carlos Magnos da Silva Schultz",
+            "address": "Rua Santo Amaro 61, Centro, Esteio, RS, Brasil",
+            "website": "escola.gaucha"
+        },
+        {
+            "id": 8022,
+            "name": "Escola Jiu-Jitsu Camaçari",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Camaçari",
+            "responsible": "Amilton Silva Júnior",
+            "address": "Av 28 De Setembro, Nº 518 - Camaçari De Dentro, Camaçari, Bahia, Brasil",
+            "website": "https://www.instagram.com/ejjcamacari/"
+        },
+        {
+            "id": 8062,
+            "name": "Escola Jutsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macaé",
+            "responsible": "Jorge Luiz Branco Mota Junior",
+            "address": "R: Jesus Soares Pereira N396, Costa Do Sol, Macaé, Rj, Brasil",
+            "website": "https://instagram.com/jorgebrancobjj"
+        },
+        {
+            "id": 10387,
+            "name": "Escola Leo Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Miguel Pereira",
+            "responsible": "Wellington Soares de Moraes",
+            "address": "Rua Luiz Marques, 150, Casa, Miguel Pereira, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 9204,
+            "name": "Escola Maldonado De Artes Marciais",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cuiaba",
+            "responsible": "Rillei Maldonado da Silva",
+            "address": "Residencial Desembargador Delfino Cesarino N 90, Cuiaba, Mt, Brasil",
+            "website": null
+        },
+        {
+            "id": 9635,
+            "name": "Escola Mestre Martins De Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João De Meriti",
+            "responsible": "Alecxandre Martins Rocha",
+            "address": "Rua Padre Vieira S/n Lote 22 Quadra 49 Sobrado, Lote 22 Quadra 49 Sobrado, São João De Meriti, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5887,
+            "name": "ESCOLA MGT BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campinas",
+            "responsible": "Mauro Gomes dos Santos",
+            "address": "Av. Imperatriz Leopoldina N.550, Condominio Jd. Taquara. Ap.56 Torre.3 Vila Nova, Campinas, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 9227,
+            "name": "Escola Murasaki Sports Infinity de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Francisco Santana Souza Junior",
+            "address": "Av Elisio Teixeira Leite, 2579, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6237,
+            "name": "Escola Paraense Nós BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cidade Nova - Ananindeua",
+            "responsible": "Ricardo do Amaral Brito Elleres",
+            "address": "Conjunto Cidade Nova 9 Travessa WE 5 B - 71B, Próximo ao Moreira Veiculos, Cidade Nova - Ananindeua, Pará, Brasil",
+            "website": "www.nosbjj.com.br"
+        },
+        {
+            "id": 9504,
+            "name": "Escola Samuel Silva Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Samuel da Silva Souza",
+            "address": "Rua, Francisca Mendes, Nº775, Cidade De Deus., Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 10698,
+            "name": "Escola Santaluz Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santaluz",
+            "responsible": "Herik Deivisson Oliveira dos Reis",
+            "address": "Rua Padre Manoel Ruiz Onante, 70 - Bairro Jardim Luzense, Proximo Ao Salão Dos Testemunhas De Jeova, Santaluz, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 9833,
+            "name": "Escola SGBJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Singapore",
+            "countryAbbr": "SG",
+            "city": "Singapore",
+            "responsible": "Takeo Tani",
+            "address": "53n Grange Road, Singapore, Singapore, Singapore",
+            "website": "Escolasgbjj.com"
+        },
+        {
+            "id": 7719,
+            "name": "Escuela de Artes Marciales del Ejército",
+            "federationAbbr": "IBJJF",
+            "country": "Bolivia",
+            "countryAbbr": "BO",
+            "city": "La Paz",
+            "responsible": "Nelson Alejandro Escobar Camara",
+            "address": "Rafael Pabon, 1 street of Irpavi (Colegio Militar del Ejército)., La Paz, La Paz, Bolivia",
+            "website": null
+        },
+        {
+            "id": 6653,
+            "name": "Escuela de Jiu-Jitsu Suzuki - Montevideo",
+            "federationAbbr": "IBJJF",
+            "country": "Uruguai",
+            "countryAbbr": "UY",
+            "city": "Montevideo",
+            "responsible": "Fábio Gevaerd Suzuki",
+            "address": "Jose Enrique Rodo, 1653, Montevideo, Montevideo, Uruguai",
+            "website": "www.instagram.com/suzukijiujitsu"
+        },
+        {
+            "id": 4877,
+            "name": "ESJJ - Excelence School Of Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Eduardo Santoro de Camargo",
+            "address": "R. Eng Mesquita Sampaio 38 , Chác. Sto. Antoônio, São Paulo, SP, Brasil",
+            "website": "eduardosantorojj.com.br"
+        },
+        {
+            "id": 4908,
+            "name": "ESJJ Ireland",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Dublin",
+            "responsible": "Eduardo Santoro de Camargo",
+            "address": "43, Gardiner Lane  , , Dublin, Ireland",
+            "website": ""
+        },
+        {
+            "id": 9499,
+            "name": "Espaço Absoluto Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Porto",
+            "responsible": "Eduardo Oliveira Nunes",
+            "address": "Rua Das Condominhas, 708, Lordelo Do Ouro, Porto, Porto, Portugal",
+            "website": "www.ginasioabsoluto.pt"
+        },
+        {
+            "id": 6746,
+            "name": "España - Fusión BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "San Fernando",
+            "responsible": "Alberto Bremgartner Neto",
+            "address": "Calle San Marcos, 30, San Fernando, CA, Spain",
+            "website": null
+        },
+        {
+            "id": 9060,
+            "name": "Espíndola Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Yago Nanci Espíndola",
+            "address": "Rua Nereu Ramos 350, Blumenau, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 8624,
+            "name": "Esporte Dez",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao Jose Dos Campos",
+            "responsible": "Claudio Calasans Camargo Júnior",
+            "address": "Rua Estefania Do Nascimento 29, Sao Jose Dos Campos, Sao Paulo, Brasil",
+            "website": null
+        }
+    ]
+}

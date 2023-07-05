@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 185,
+        "from": 3680,
+        "to": 3700,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6167,
+            "name": "High Noon BJJ Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alexandria",
+            "responsible": "Timothy James Dawson",
+            "address": "85 S Bragg St, Suite 202, Alexandria, VA, United States of America",
+            "website": "www.highnoonbjj.com"
+        },
+        {
+            "id": 6448,
+            "name": "High Road BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fredericksburg",
+            "responsible": "David Edwin Kiedaisch",
+            "address": "3703 Lafayette Blvd,  , Fredericksburg, VA, United States of America",
+            "website": "www.highroadbjj.com"
+        },
+        {
+            "id": 8204,
+            "name": "High Rollers",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "North Strathfield",
+            "responsible": "Noriel Bernardo",
+            "address": "3a George Lane, North Strathfield, Nsw, Australia",
+            "website": "www.hrjj.com.au"
+        },
+        {
+            "id": 3927,
+            "name": "Higher Ground BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rowland Heights",
+            "responsible": "Julio Felix Ha Chin Lang",
+            "address": "19267 Colima Rd Unit 1, , Rowland Heights, CA, United States of America",
+            "website": "www.hgbjj.com"
+        },
+        {
+            "id": 7147,
+            "name": "Hillkinz",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Blagnac",
+            "responsible": "Thomas Alban Jules Loubersanes",
+            "address": "10 Avenue du Parc, Blagnac, France",
+            "website": null
+        },
+        {
+            "id": 5550,
+            "name": "Hilti Akademi Nord",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Prebro",
+            "responsible": "Pedro Nogueira Duarte",
+            "address": "Norra Lillastrand 7, Prebro, Sweden",
+            "website": "akademinord.se"
+        },
+        {
+            "id": 9030,
+            "name": "Hilti BJJ Crest Helsinki",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Helsinki",
+            "responsible": "Marko Leisten",
+            "address": "Läkkisepäntie 20, Helsinki, Etelä-suomi, Finland",
+            "website": "www.crestcenter.fi"
+        },
+        {
+            "id": 3748,
+            "name": "Hilti BJJ IMAG Berlin",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Berlin",
+            "responsible": "Pedro Nogueira Duarte",
+            "address": "Oudenarder Str. 16  , , Berlin, --, Germany",
+            "website": "www.jkdberlin.de"
+        },
+        {
+            "id": 7249,
+            "name": "Hilti BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Turku",
+            "responsible": "Pedro Nogueira Duarte",
+            "address": "Finnfighters' Gym, Saippua-Center - Artturinkatu 2, Turku, Finland",
+            "website": "www.hiltibjj.org"
+        },
+        {
+            "id": 2923,
+            "name": "Hilti BJJ Jyvaskyla",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Jyvaskyla",
+            "responsible": "Venla Orvokki Luukkonen",
+            "address": "Eramiehenkatu 14  , , Jyvaskyla, Finland",
+            "website": "www.jklfightclub.com"
+        },
+        {
+            "id": 3870,
+            "name": "Hilti BJJ Kuopio",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Kuopio",
+            "responsible": "Marko Leisten",
+            "address": "c/o Antti Varne, Jynkänvuorenkatu 2:30  , , Kuopio,   , Finland",
+            "website": "www.gladiatorfactory.com"
+        },
+        {
+            "id": 2490,
+            "name": "Hilti BJJ Stockholm",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Hägersten",
+            "responsible": "Pedro Nogueira Duarte",
+            "address": "c/o Peder Söderlind Pilgrimsvägen 62  , , Hägersten, --, Sweden",
+            "website": "www.hiltibjj.com"
+        },
+        {
+            "id": 2491,
+            "name": "Hilti BJJ Tampere",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Ruutana",
+            "responsible": null,
+            "address": "Jussilantie 4  , , Ruutana, --, Finland",
+            "website": "info@tjjk.fi"
+        },
+        {
+            "id": 2492,
+            "name": "Hilti BJJ Turku",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Turku",
+            "responsible": "Jarkko Jouni Aleksi Mäkelä",
+            "address": "Artturinkatu 2, , Turku, --, Finland",
+            "website": "finnfightersgym.fi"
+        },
+        {
+            "id": 2897,
+            "name": "Hilti BJJ Vantaa",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Vantaa",
+            "responsible": null,
+            "address": "MMA Vantaa, Ville Vuorela, Laajametsankua 6B27  , , Vantaa, FL, Finland",
+            "website": "www.mmavantaa.net"
+        },
+        {
+            "id": 5764,
+            "name": "Hilti Fightcenter Uppsala",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Uppsala",
+            "responsible": "Anders Xu",
+            "address": "Sabygatan 5, Uppsala, Sweden",
+            "website": "http://www.hiltifightcenter.com"
+        },
+        {
+            "id": 9734,
+            "name": "Hilti Nokia",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Nokia",
+            "responsible": "Marko Leisten",
+            "address": "Tanhuankatu 2, Nokia, Pirkanmaa, Finland",
+            "website": "www.nku.fi"
+        },
+        {
+            "id": 6669,
+            "name": "Hinds Combat Sports",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Long Island City",
+            "responsible": "Dominyka Obelenyte",
+            "address": "10-25 48th Ave, Long Island City, NY, United States of America",
+            "website": "www.hindscombatsports.com"
+        },
+        {
+            "id": 4963,
+            "name": "Hipszki BJJ",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Almada",
+            "responsible": "Hipszki Lazló",
+            "address": "Pragal - Srup Club, , Almada, Portugal",
+            "website": ""
+        },
+        {
+            "id": 2382,
+            "name": "Hiro BJJ Academy Yokohama",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kanagawa",
+            "responsible": "Hiroki Baba",
+            "address": "Yokohama-Shi Naka-ku Ogicho 2-6-11 Daiyon Heian Bill 205  , , Kanagawa, --, Japan",
+            "website": "www.hirobjj.com"
+        }
+    ]
+}

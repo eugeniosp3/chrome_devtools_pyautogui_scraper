@@ -1,0 +1,111 @@
+{
+    "pagination": {
+        "page": 358,
+        "from": 7140,
+        "to": 7149,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5960,
+            "name": "ZR Team Sintra",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Sintra",
+            "responsible": "José Olimpio da Rocha Neto",
+            "address": "Rua da Azenha 16B, Sintra, --, Portugal",
+            "website": null
+        },
+        {
+            "id": 5066,
+            "name": "Zr Team Sorocaba",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Miguel Luiz Cavallari",
+            "address": "Rua Arthur Gomes n: 605, Centro, Sorocaba, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4713,
+            "name": "ZR Team Sorocaba 2",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Walbert Ferreira de Sousa",
+            "address": "Av. Jose Joaquim Lacerda 1417, Jardim Sorocabano, Sorocaba, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5772,
+            "name": "ZR Team UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Colchester",
+            "responsible": "José Olimpio da Rocha Neto",
+            "address": "Unit A2 Seed Bed Center Wyncolls Road, Colchester, United Kingdom",
+            "website": "-"
+        },
+        {
+            "id": 5843,
+            "name": "ZR Team Ukraine",
+            "federationAbbr": "IBJJF",
+            "country": "Ukraine",
+            "countryAbbr": "UA",
+            "city": "Kyiv",
+            "responsible": "Vadym Puzanov",
+            "address": "Estonska Street, 27-a, Kyiv, Ukraine",
+            "website": null
+        },
+        {
+            "id": 8420,
+            "name": "ZR Team Woodland Hills",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Woodland Hills ",
+            "responsible": "Bruno Valdivino de Carvalho",
+            "address": "22100 Ventura Blvd , Woodland Hills , Ca, United States of America",
+            "website": "www.zrwoodlandhills.com"
+        },
+        {
+            "id": 6700,
+            "name": "ZUMA",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Victoria",
+            "responsible": "Adam Zugec",
+            "address": "1035 Alston St. , Victoria, BC, Ireland",
+            "website": "zuma.tv"
+        },
+        {
+            "id": 4144,
+            "name": "Zurich BJJ Lab",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Zurich",
+            "responsible": "Patrick Louys",
+            "address": "Emil Oprecht Str 1, , Zurich, ZH, Switzerland",
+            "website": "bjjlab.ch"
+        },
+        {
+            "id": 7220,
+            "name": "Zych Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pato Branco",
+            "responsible": "Ricardo Zych Rodrigues",
+            "address": "Rua Lupicinio Rodrigues, 797, Bairro Pinheirinho, Pato Branco, Paraná, Brasil",
+            "website": null
+        }
+    ]
+}

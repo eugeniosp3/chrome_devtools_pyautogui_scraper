@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 290,
+        "from": 5780,
+        "to": 5800,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4425,
+            "name": "Sampa BJJ Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Munich",
+            "responsible": "Renato Migliaccio",
+            "address": "Hiltensbergerstrasse 9, , Munich, --, Germany",
+            "website": "sampabjj.com"
+        },
+        {
+            "id": 3666,
+            "name": "Sampa BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Austria",
+            "countryAbbr": "AT",
+            "city": "Klagenfurt",
+            "responsible": "Renato Migliaccio",
+            "address": "Siebenhügelstrasse 107b  , , Klagenfurt, --, Austria",
+            "website": "www.sampabjj.com"
+        },
+        {
+            "id": 7561,
+            "name": "Sampaio BJJ - FCS Algarve",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Alcantarilha",
+            "responsible": "Nuno André Pereira Sampaio",
+            "address": "Estrada Nacional 125,, Edifício Rogel Park, Fração M, Alcantarilha, Portugal",
+            "website": null
+        },
+        {
+            "id": 6109,
+            "name": "SampaioBJJ_FCS",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Maia",
+            "responsible": "Nuno André Pereira Sampaio",
+            "address": "Av. Doutor Andrade Dias 22-3-2, Maia, Portugal",
+            "website": null
+        },
+        {
+            "id": 6727,
+            "name": "SampaioBJJ_FCS Lecco",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Oggiono",
+            "responsible": "Nuno André Pereira Sampaio",
+            "address": "VIa Bagnolo, 11, Oggiono, IT, Italy",
+            "website": "www.fightingconcept.it"
+        },
+        {
+            "id": 5110,
+            "name": "Sampson Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "South Lake",
+            "responsible": "Octavio Henrique Couto da Silva Jr.",
+            "address": "2820 Market Loop Suite 100  , , South Lake, TX, United States of America",
+            "website": "sampsonbjj.com"
+        },
+        {
+            "id": 7311,
+            "name": "Samsara Jiu-Jitsu Dojo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cianorte",
+            "responsible": "Marcel Marcus Manholi",
+            "address": "Rua Camboriu n:30, Bairro: Residencial Atlantico I, Cianorte, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 2150,
+            "name": "Samuel Puccio BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Birmingham",
+            "responsible": "Samuel Puccio",
+            "address": "2501 7th Ave. S.  , , Birmingham, AL, United States of America",
+            "website": "www.samuelpucciobjj.com"
+        },
+        {
+            "id": 8851,
+            "name": "Samurai Artes Marciais",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Castanhal",
+            "responsible": "Raul Carvalho de Souza",
+            "address": "Alameda Madalena Novaes Nº 22, Próximo A Padaria Bom Dia, Castanhal, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 4074,
+            "name": "Samurai Fight Center",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Zapopan",
+            "responsible": "Renato Sampaio Tavares Filho",
+            "address": "Av. Vallarta #5566 Col. Lomas Univesidad  , , Zapopan, JAL, Mexico",
+            "website": "www.samuraimma.com.mx"
+        },
+        {
+            "id": 9370,
+            "name": "Samurai Spirit - BJJ",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Gondomar",
+            "responsible": "Ibraim Cláudio Castro Ferreira",
+            "address": "Estrada Dom Miguel, 706, Gondomar, Portugal",
+            "website": null
+        },
+        {
+            "id": 3117,
+            "name": "Samy Al Jamal - FIT Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Jordan",
+            "countryAbbr": "JO",
+            "city": "Amman",
+            "responsible": "Sami Muhi Eddin Mohammad Al Jamal",
+            "address": "Amman Gate Builduing, Haram Ben Qutbah St, Amman, Jordan, Jordan",
+            "website": "www.thesourcemmateam.com"
+        },
+        {
+            "id": 10495,
+            "name": "San Antonio Jiu-Jitsu Syndicate",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Christopher A Easter",
+            "address": "21750 Hardy Oak Blvd, San Antonio, Tx, United States of America",
+            "website": "https://jiu-jitsusyndicate.gymdesk.com/"
+        },
+        {
+            "id": 2788,
+            "name": "San Diego Brazilian Jiu Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Marcos",
+            "responsible": "Paulo Fernando Augusto",
+            "address": "340 Rancheros Dr. #292  , , San Marcos, CA, United States of America",
+            "website": "www.sdbjj.com"
+        },
+        {
+            "id": 6813,
+            "name": "San Diego Steel MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Jeremy A Vargas",
+            "address": "5910 Santo Road, San Diego, CA, United States of America",
+            "website": "www.steelmma.com"
+        },
+        {
+            "id": 4155,
+            "name": "Sanai Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Busan",
+            "responsible": "Park Jun Young",
+            "address": "395-1 Yongho-1 Dong, Namgu  , Busan, --, Korea, South",
+            "website": "http://care.daum.net/ToziKoreaBJJ"
+        },
+        {
+            "id": 6651,
+            "name": "Sanches BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Lourenço",
+            "responsible": "Humberto de Souza Sanches",
+            "address": "Rua dos Andradas n: 167 - 3 andar, Centro, São Lourenço, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9381,
+            "name": "Sanchez Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rensselaer",
+            "responsible": "Shaun-Ryan Sanchez",
+            "address": "206 South College Ave, Rensselaer, Indiana, United States of America",
+            "website": null
+        },
+        {
+            "id": 7668,
+            "name": "Sanders BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Clarita",
+            "responsible": "Ian Phyllip Sanders",
+            "address": "23502 Lyons Ave, 101A, Santa Clarita, CA , United States of America",
+            "website": "www.SandersBJJ.com"
+        },
+        {
+            "id": 2317,
+            "name": "Sandro Batata Brazilian Jiu-jitsu - Santa Cruz",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Cruz",
+            "responsible": "Julio Armando Echeverria Dulon Neto",
+            "address": "2330 Mission St.  , , Santa Cruz, CA, United States of America",
+            "website": "www.batatabjj.com"
+        }
+    ]
+}

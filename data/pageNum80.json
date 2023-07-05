@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 80,
+        "from": 1580,
+        "to": 1600,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6334,
+            "name": "Cicero Costha Barcelona",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Barcelona",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "c/ Francesc Guitart, 11 Cervello, Barcelona, --, Spain",
+            "website": null
+        },
+        {
+            "id": 5494,
+            "name": "Cicero Costha Europe",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Brussels",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "23 Rue de la Digue, Brussels, Belgium",
+            "website": null
+        },
+        {
+            "id": 5347,
+            "name": "Cicero Costha France",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Limeil",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "1 Rue Pasteur, Limeil, France",
+            "website": "www.cicerocostha.com"
+        },
+        {
+            "id": 4941,
+            "name": "Cicero Costha Internacional",
+            "federationAbbr": "IBJJF",
+            "country": "Bolivia",
+            "countryAbbr": "BO",
+            "city": "bolivia",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "bolivia, bolivia, Bolivia",
+            "website": "www.cicerocostha.com"
+        },
+        {
+            "id": 6552,
+            "name": "Cicero Costha Italia",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Palermo",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "Via Trapani 1H, Palermo, Italy",
+            "website": null
+        },
+        {
+            "id": 5210,
+            "name": "Cicero Costha Korea Sillim Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Bonseok Ku",
+            "address": "141, Sillim-ro, Gwanak-gu, Seoul, Republic Of Korea, , Seoul, Korea, South",
+            "website": ""
+        },
+        {
+            "id": 5420,
+            "name": "Cicero Costha Mexico",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Villa Hermosa",
+            "responsible": "Oscar Xavier Hernandez Lievano",
+            "address": "Av. Ramon Mendoza, Villa Hermosa, Tabasco, Mexico",
+            "website": "mmatabasco.blogspot"
+        },
+        {
+            "id": 5610,
+            "name": "Cicero Costha RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Valença",
+            "responsible": "Cicero Barbosa da Costa",
+            "address": "Rua Coronel Benjamin Guimarães, 336, Loja 3 - Centro, Valença, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 7603,
+            "name": "Cícero Santos BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça",
+            "responsible": "Cicero dos Santos",
+            "address": "Av das Tipuanas 520, Sala 05, Palhoça, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 8929,
+            "name": "Cidade BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Canoas",
+            "responsible": "Ednilson Machado Cidade",
+            "address": "Rua Lins Do Rego 190, Loja 1, Canoas, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 6879,
+            "name": "Cies MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Colorado Springs",
+            "responsible": "Sergio Luiz da Penha",
+            "address": "4715 N. Carefree Cir. , Colorado Springs, CO, United States of America",
+            "website": "ciesmma.com"
+        },
+        {
+            "id": 7486,
+            "name": "Cinco MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Weslaco",
+            "responsible": "Daniel Rodriguez",
+            "address": "420 S. Texas Blvd. , Weslaco, TX, United States of America",
+            "website": "www.cincomma.com"
+        },
+        {
+            "id": 9296,
+            "name": "Circuito Fight Fit",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Marcus Wolgher Diniz da Silva ",
+            "address": "Quadra Qs 8 Conjunto 210b, Lote 19, Brasília, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 7989,
+            "name": "Círculo De Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Madrid",
+            "responsible": "Arturo Salas Espies",
+            "address": "Calle De Ayala, 71, Madrid, Madrid, Spain",
+            "website": "www.circulodejiujitsu.com"
+        },
+        {
+            "id": 5934,
+            "name": "City of Champions",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Dustin Kayne Thornton",
+            "address": "6186 University Ave, San Diego, CA, United States of America",
+            "website": "www.cityofchampionsSD.com"
+        },
+        {
+            "id": 10379,
+            "name": "CJJ Escola De Lutas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Águas Claras",
+            "responsible": "Humberto Carrilho Santos",
+            "address": "Avenida Flamboyant, Lote 24 Loja 17, Edifício Real Panoramic- Águas Claras, Águas Claras, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 10497,
+            "name": "CJP Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Porto",
+            "responsible": "Victor Manuel C. Sarmento Silva",
+            "address": "Rua Da Alegria, 349, Porto, Portugal",
+            "website": null
+        },
+        {
+            "id": 2608,
+            "name": "Clã jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Funchal",
+            "responsible": "Fabiano Roberto da Silva",
+            "address": "R Ponta da Cruz n. 25 S Martinho 9000-103 Funchal  , , Funchal, x, Portugal",
+            "website": "www.madeira-magic.com"
+        },
+        {
+            "id": 7091,
+            "name": "Clan Brave",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Collecchio",
+            "responsible": "Romano  Mainardi",
+            "address": "Via Aldo Moro 18, Collecchio, PR, Italy",
+            "website": null
+        },
+        {
+            "id": 6579,
+            "name": "Clan Crossfight",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Monterotondo",
+            "responsible": "Bruno Ivan Tomasetti",
+            "address": "via Edison 8, Monterotondo, IT, Italy",
+            "website": "bellatoreretwtacademy.it"
+        }
+    ]
+}

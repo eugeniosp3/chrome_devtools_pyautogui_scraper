@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 17,
+        "from": 320,
+        "to": 340,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8585,
+            "name": "Alive Okinawa Shimazilians",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nanjo",
+            "responsible": "Yoichi Suzuki",
+            "address": "783-1   Inamine  Ozato, Nanjo, Okinawa, Japan",
+            "website": "shimazilians.amebaownd.com"
+        },
+        {
+            "id": 4825,
+            "name": "All American MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Keller",
+            "responsible": "Ivan Bozovic",
+            "address": "102 Keller Hicks Rd  , , Keller, TX, United States of America",
+            "website": "www.allamericanmma.com"
+        },
+        {
+            "id": 9785,
+            "name": "All Blacks BJJ Competition",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Andre Gomes Costa",
+            "address": "Av.leovigildo Filgueiras Np 47, Salvador, Bahia, Brasil",
+            "website": "@bjjallblacks"
+        },
+        {
+            "id": 6024,
+            "name": "All Brothers Amazonas Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Almério Augusto C. dos A. de C. e Costa",
+            "address": "Avenida Coronel Teixeira, 370, Ed. Nice, Ap. 181 - Condomínio Riviera De Ponta Negra, 370 (bairro De Ponta Negra), Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 10712,
+            "name": "All One BJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Chikushino-shi",
+            "responsible": "Junpei Kawasaki",
+            "address": "2f-rembukan Dojo, Chikushinokenso 4-1-1 Murasaki, Chikushino-shi, Fukuoka-ken, Japan",
+            "website": "https://allonebjj.wixsite.com/allonebjj"
+        },
+        {
+            "id": 9080,
+            "name": "Allaroundfighters Prague",
+            "federationAbbr": "IBJJF",
+            "country": "Czech Republic",
+            "countryAbbr": "CZ",
+            "city": "Praha 4 - Chodov",
+            "responsible": "Jaroslav Moltas",
+            "address": "Klapálkova, 2245/15, Praha 4 - Chodov, Czech Republic, Czech Republic",
+            "website": "www.allaroundfighters.cz"
+        },
+        {
+            "id": 8383,
+            "name": "Alliance Acworth",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Acworth",
+            "responsible": "Ian McPherson",
+            "address": "3485 Acworth Due West Rd, #100, Acworth, Ga, United States of America",
+            "website": null
+        },
+        {
+            "id": 10373,
+            "name": "Alliance Amparo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Amparo",
+            "responsible": "Vitor Cassiano Zandona",
+            "address": "Rua Cabo João dos Santos, 178, Ribeirão, Amparo, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 8706,
+            "name": "Alliance Angra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Angra Dos Reis",
+            "responsible": "Anacleto Ramos Silva",
+            "address": "Rua Francelino Alves De Lima, 79 - Cobertura, Nova Angra, Japuíba, Angra Dos Reis, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 10304,
+            "name": "Alliance Aracaju",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Carlos Victor Ribeiro de Meneses Vieira",
+            "address": "Rua Padre Nestor Sampaio, 155, Aracaju, Sergipe, Brasil",
+            "website": "@allianceaju"
+        },
+        {
+            "id": 2049,
+            "name": "Alliance Atlanta",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Dunwoody",
+            "responsible": null,
+            "address": "4630 North Shallowford Rd.   , , Dunwoody, GA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 10575,
+            "name": "Alliance Barbacena",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barbacena",
+            "responsible": "Cleito Soares de Resende",
+            "address": "R- Hernane Rabelo, 51, 3 Andar, Barbacena, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 8573,
+            "name": "Alliance Bauru",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bauru",
+            "responsible": "Vinicius Tierra P. de B. Ferreira",
+            "address": "Av Nossa Senhora De Fátima, Quadra 1832, Bauru, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 5440,
+            "name": "Alliance Bernardo Faria",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New York",
+            "responsible": "Bernardo Augusto Rocha de Faria",
+            "address": "161 W. 106 St., #35, New York, NY, United States of America",
+            "website": "barnardofaria.com"
+        },
+        {
+            "id": 6076,
+            "name": "Alliance Betim",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Minas Gerais",
+            "responsible": "Alberto Santos Dumont Lima da Cruz",
+            "address": "Rua Belo Horizonte n: 44, Niteroi, Minas Gerais, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 10553,
+            "name": "Alliance Betim Mg",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Betim",
+            "responsible": "Alberto Santos Dumont Lima da Cruz",
+            "address": "Av. Belo Horizonte, 2120, Betim, Mg, Brasil",
+            "website": "www.ctaslteam.com.br"
+        },
+        {
+            "id": 2339,
+            "name": "Alliance BJJ Hawaii",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Waipahu",
+            "responsible": "Rexie Barnum",
+            "address": "94-1388 Moaniami St, #227  , , Waipahu, HI, United States of America",
+            "website": "www.alliancebjjhawaii.com"
+        },
+        {
+            "id": 7865,
+            "name": "Alliance BJJ Houston",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "Danny Ray Duckworth",
+            "address": "10555 Pearland Parkway Suite U, Houston, Tx, United States of America",
+            "website": "www.alliancebjjhouston.com"
+        },
+        {
+            "id": 6492,
+            "name": "Alliance BJJ San Franciso - SoMa",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Francisco",
+            "responsible": "Lucio Vitorelli Muramatsu",
+            "address": "141 11th Street, San Francisco, CA, United States of America",
+            "website": "https://www.11thstreetdojo.com/alliance-bjj/"
+        },
+        {
+            "id": 9628,
+            "name": "Alliance Blumenau Norte",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Fábio Lopes",
+            "address": "865 Rua Frederico Jensen, Academia Forseti, Blumenau, Santa Catarina - Sc, Brasil",
+            "website": null
+        }
+    ]
+}

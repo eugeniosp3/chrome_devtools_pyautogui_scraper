@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 118,
+        "from": 2340,
+        "to": 2360,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 4973,
+            "name": "Everson Rocha Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José dos Pinhais",
+            "responsible": "Everson Luiz Rocha",
+            "address": "Joaquim Nabuco 2450 2 Piso, Centro, São José dos Pinhais, PR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5743,
+            "name": "Everson Rodrigues",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cariacica",
+            "responsible": "Everson Alves Costa Rodrigues",
+            "address": "Rua Cachoiro do Itapemirim numero: 341, Nova Brasilia, Cariacica, Espirito Santo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9159,
+            "name": "Everyone Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cooper City",
+            "responsible": "Marcos Escobar Saad",
+            "address": "2585 N Hiatus Rd, Cooper City, Fl, United States of America",
+            "website": "www.everyonebjj.com"
+        },
+        {
+            "id": 4727,
+            "name": "Evo BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Mississauga",
+            "responsible": "Tom T. D. Dragicevic",
+            "address": "3105 Unity Dr  , , Mississauga, ON, Canada",
+            "website": "evolutionmafa.com"
+        },
+        {
+            "id": 4331,
+            "name": "Evoluir",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Seguro",
+            "responsible": "Andre Garcia Carvalho",
+            "address": "Rua Manoel Alves Santos n: 143 Loja 3, Arraial da Ajuda, Porto Seguro, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 3028,
+            "name": "Evolution Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Gatineau",
+            "responsible": "Daniel Guillemette",
+            "address": "74 Greber Blvd, Gatineau, QC, Canada",
+            "website": "www.artsmartiauxevolution.com"
+        },
+        {
+            "id": 2851,
+            "name": "Evolution Fight Team - Portugal",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "x",
+            "responsible": "Rogério Nunes de Aguiar",
+            "address": "R de Moçambique, 147 loja 2 e 3 4430-145 Vila Nova de Gaia  , , x, x, Portugal",
+            "website": ""
+        },
+        {
+            "id": 5491,
+            "name": "Evolution Force Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Barcelona",
+            "responsible": "Ronaldo Sandro de Oliveira Stoppa",
+            "address": "Entenca, 102 Bajos, gym, Barcelona, Cataluña, Spain",
+            "website": "www.eixamplefitness.es"
+        },
+        {
+            "id": 3527,
+            "name": "Evolve MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Singapore",
+            "countryAbbr": "SG",
+            "city": "Singapore",
+            "responsible": "Rafael Corrêa de Lima",
+            "address": "26 China St. #01 - 01, Far East Square, Singapore, Singapore",
+            "website": "www.evolve-mma.com"
+        },
+        {
+            "id": 5971,
+            "name": "Evox BJJ",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Toyokawa-shi",
+            "responsible": "Rogerio de Cristo Filho",
+            "address": "Mito-cho Ookusa Saigou 22-14, Toyokawa-shi, Aichi, Japan",
+            "website": "-"
+        },
+        {
+            "id": 9658,
+            "name": "Exceed Sports Gym",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kitamoto",
+            "responsible": "Yoshinobu Kakizawa",
+            "address": "Chuo 1-63 Nr Building202, Kitamoto, Saitama, Japan",
+            "website": "https://exceed-gym.com/"
+        },
+        {
+            "id": 2660,
+            "name": "Excel Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Oceanside",
+            "responsible": "Michio Grubbs",
+            "address": "4093 Oceanside blvd ste D  , Oceanside, CA, United States of America",
+            "website": "www.exceljiujitsu.com"
+        },
+        {
+            "id": 6350,
+            "name": "Excellence School of Jiu-Jitsu USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Torrance",
+            "responsible": "Eduardo Santoro de Camargo",
+            "address": "3525 Pacific Coast Highway suite P, Torrance, CA, United States of America",
+            "website": "www.cobrinhabjjsouthbay.com"
+        },
+        {
+            "id": 8854,
+            "name": "Exclusive Jiu-jitsu São Paulo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "João Paulo Bertuccelli",
+            "address": "Avenida São Gabriel, 477, Cj 11 E Cj 12, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7567,
+            "name": "Exfight",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Shibuya-ku",
+            "responsible": "Yuki Nakai",
+            "address": "3F Za House Building 1-34-17 Ebisunishi, Shibuya-ku, Tokyo, Japan",
+            "website": "http://ldhmartialarts.co.jp/"
+        },
+        {
+            "id": 4429,
+            "name": "Exilados Team Poland",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Koszalin",
+            "responsible": "Renato Sampaio Tavares Filho",
+            "address": "Kosciuszji 5516  , , Koszalin, --, Poland",
+            "website": "--"
+        },
+        {
+            "id": 8672,
+            "name": "Exodus Elite Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Iguaba Grande",
+            "responsible": "Luiz Paulo Silva Rodrigues",
+            "address": "R. Marquês García, 33 - Estacao, Iguaba Grande, Rio De Janeiro, Brasil",
+            "website": "INSTAGRAM   @exodus_jiujitsu"
+        },
+        {
+            "id": 6036,
+            "name": "Exodus Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Felipe Tiago Lima Ramos",
+            "address": "Rua Beira Alta 1037, São Francisco, Belo Horizonte, Minas Gerais/MG, Brasil",
+            "website": "projetoexodus.wixsite.com/jiujitsu"
+        },
+        {
+            "id": 9586,
+            "name": "ExodusPHX Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Phoenix",
+            "responsible": "Jason Hunter Hensley",
+            "address": "3607 E Bell Rd, Phoenix, Az, United States of America",
+            "website": null
+        },
+        {
+            "id": 8620,
+            "name": "Extreme / Castello Brazilian Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ananindeua",
+            "responsible": "Eduardo da Silva Conceição",
+            "address": "Rua Bom Sossego, N481, Esquina Com A Estrada Do Maguari / Bairro: Centro, Ananindeua, Pará, Brasil",
+            "website": null
+        }
+    ]
+}

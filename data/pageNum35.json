@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 35,
+        "from": 680,
+        "to": 700,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10410,
+            "name": "Atos JJ Paris",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Simon Victorien Ehrlacher",
+            "address": "21/23 Boulevard Richard Lenoir, Paris, France, France",
+            "website": "www.lecubefightclub.fr"
+        },
+        {
+            "id": 7700,
+            "name": "Atos Las Vegas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "James Vinston Nival",
+            "address": "9325 S Cimarron Rd Suite 120, Las Vegas, NV, United States of America",
+            "website": "www.atosjiujitsulv.com"
+        },
+        {
+            "id": 8216,
+            "name": "Atos Miami",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Miami",
+            "responsible": "Leonardo Henrique D'avila Corrêa",
+            "address": "567 Ne 81st Street, Miami, Florida, United States of America",
+            "website": "www.atosmiami.com"
+        },
+        {
+            "id": 9116,
+            "name": "Atos Niterói",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niteroi",
+            "responsible": "Leonardo Henrique D'avila Corrêa",
+            "address": "Rua Ator Paulo Gustavo 75, 3 Andar, Niteroi, Rj, Brasil",
+            "website": "www.atosniteroi.com.br"
+        },
+        {
+            "id": 9092,
+            "name": "Atos Northwest",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Eugene",
+            "responsible": "Lucas Daniel Silva Barbosa",
+            "address": "3507 Westleigh St., Eugene, Oregon, United States of America",
+            "website": null
+        },
+        {
+            "id": 10543,
+            "name": "Atos Tacoma",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tacoma",
+            "responsible": "Robin Victor Opalia",
+            "address": "2079 Mildred St W, Tacoma, Washington, United States of America",
+            "website": "https://atostacoma.com"
+        },
+        {
+            "id": 6082,
+            "name": "Atos Tahiti",
+            "federationAbbr": "IBJJF",
+            "country": "French Overseas Territories / DOM TOM",
+            "countryAbbr": "TF",
+            "city": "Tahiti",
+            "responsible": "Andre Luiz Leite Galvão",
+            "address": "BP 6970, Tahiti, French Overseas Territories / DOM TOM",
+            "website": null
+        },
+        {
+            "id": 10123,
+            "name": "Atos Virginia Beach",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Virginia Beach",
+            "responsible": "Ervin Paloma Quintin",
+            "address": "3877 Holland Road Suite 400, Virginia Beach, Virginia, United States of America",
+            "website": null
+        },
+        {
+            "id": 9097,
+            "name": "Atos Vitória",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vitória",
+            "responsible": "Wilson de Ulhôa Santana Neto",
+            "address": "Rua Alvim Soares Bermudes, 85, Vitória, Espírito Santo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4007,
+            "name": "Atr Team Caraballo",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Las Palmas",
+            "responsible": "Rumen Yeray Caraballo Martin",
+            "address": "C/ California n10 1B, , Las Palmas, Canarias, Spain",
+            "website": ""
+        },
+        {
+            "id": 9951,
+            "name": "Atreus Training Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Waldwick",
+            "responsible": "Azamat A Dugulubgov",
+            "address": "152 Franklin Trpk, Waldwick, New Jersey, United States of America",
+            "website": "atrsmma.com"
+        },
+        {
+            "id": 4323,
+            "name": "Atrium Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiania",
+            "responsible": "Rodrigo de Castro Ribeiro",
+            "address": "Rua S3 Qd 512 Lote 20, Setor Bela Vista, Goiania, GO, Brasil",
+            "website": "Instagram - Atriumbjjoficial"
+        },
+        {
+            "id": 10001,
+            "name": "Atrixion MMA",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Dubai",
+            "responsible": "Ives Emmanoel Oliveira Sacramento",
+            "address": "Le Meridien Dubai Hotel \u0026 Conference Centre Al Garhoud. 2nd Floor, Dubai, Dubai, United Arab Emirates",
+            "website": "www.atrixionmma.com"
+        },
+        {
+            "id": 682,
+            "name": "Attack JJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Carlos Alfredo das Virgens Júnior",
+            "address": "Almirante Calheiras da Graça 6 , Méier, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4870,
+            "name": "Attack JJ Team - Belém PA",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belem",
+            "responsible": "Max Marcelo dos Santos da Costa",
+            "address": "Travessa Padre Eutíquio 3418 Lauro Malcher, Condor, Belem, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 6483,
+            "name": "Au Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Jean Carlos Feijó",
+            "address": "Rua Gutemberg S/N, Final da Rua, Blumenau, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 7364,
+            "name": "AUBJJ Ireland",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Dublin",
+            "responsible": "Guilherme  Toto Francisco",
+            "address": "Lilmar House, Lilmar Ave., Lilmar Industrial State, Santry. Dublin 09, Dublin, Co. Dublin, Ireland",
+            "website": "www.aurumbjj.com"
+        },
+        {
+            "id": 4743,
+            "name": "Auckland BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Auckland",
+            "responsible": "Serge Robin Tumata Souron-Morel",
+            "address": "2/26 Erson Ave, Royal Oak, , Auckland, New Zealand",
+            "website": "www.aucklandbjj.com"
+        },
+        {
+            "id": 8081,
+            "name": "Audaces BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Imperatriz",
+            "responsible": "Jefferson Costa Pinto",
+            "address": "Rua Cel. Mario Andreaza 107a, Maranhão Novo, Imperatriz, Maranhão, Brasil",
+            "website": null
+        },
+        {
+            "id": 5656,
+            "name": "Audácia Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niterói",
+            "responsible": "William Sales Candido da Silva",
+            "address": "Estrada Caetano Monteiro, 2719, Pendotiba, Niterói, RJ, Brasil",
+            "website": "wsjiujitsubjj.facebook.com"
+        }
+    ]
+}

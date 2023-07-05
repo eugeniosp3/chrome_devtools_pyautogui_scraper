@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 76,
+        "from": 1500,
+        "to": 1520,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5876,
+            "name": "CheckMat Fight Zone London",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Marco Aurelio Oliveira  Canha",
+            "address": "16-22 Pritchards Road, London, --, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 9975,
+            "name": "Checkmat Fightzone Costablanca",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "La Nucia",
+            "responsible": "Marco Aurelio Oliveira  Canha",
+            "address": "Carrer Uruguay 15, La Nucia, Alicante, Spain",
+            "website": "www.fightzonecostablanca.es"
+        },
+        {
+            "id": 3902,
+            "name": "CheckMat France",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Dugny",
+            "responsible": null,
+            "address": "18 Avenue de General de Gaulle  , , Dugny, --, France",
+            "website": "www.espritvif93-jjb.fr"
+        },
+        {
+            "id": 10201,
+            "name": "Checkmat Freitas Team  Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José",
+            "responsible": "Carlos Eduardo Freitas",
+            "address": "Rua Altamiro Di Bernardi, 75, Campinas, São José, Sc, Brasil",
+            "website": "@carlosejj"
+        },
+        {
+            "id": 7850,
+            "name": "Checkmat Geneva",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Thonex",
+            "responsible": "Ricardo Wagner de Oliveira ",
+            "address": "Route De Sous Moulin 36, Thonex, Geneva, Switzerland",
+            "website": null
+        },
+        {
+            "id": 3385,
+            "name": "CheckMat Ground Fighters Hamburg",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Hamburg",
+            "responsible": "Samuel Sanvicente Garcia",
+            "address": "Gotenstrasse 4  , , Hamburg, Germany",
+            "website": "www.groundfighterbjj.de"
+        },
+        {
+            "id": 8222,
+            "name": "Checkmat Guangzhou",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Guangzhou",
+            "responsible": "Jean Luiz Fernandes",
+            "address": " Zhongyun Road No.1, Zhongfu Square First Floor, Room13-14, Panyu District, Guangzhou, Guangdong, China",
+            "website": null
+        },
+        {
+            "id": 6313,
+            "name": "Checkmat Hendersonville",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hendersonville",
+            "responsible": "Gabriel Rial D. da Silva",
+            "address": "261 Indian Lake Blvd. Unit #350, Hendersonville, TN, United States of America",
+            "website": "legionjj.com"
+        },
+        {
+            "id": 6423,
+            "name": "Checkmat Hive",
+            "federationAbbr": "IBJJF",
+            "country": "Denmark",
+            "countryAbbr": "DK",
+            "city": "Birkerød",
+            "responsible": "Shanti A. D. Abelha",
+            "address": "Bakkevej 25b, Birkerød, --, Denmark",
+            "website": null
+        },
+        {
+            "id": 2268,
+            "name": "CheckMat International",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "IBJJF",
+            "responsible": null,
+            "address": "  , IBJJF, IBJJF, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 4935,
+            "name": "Checkmat Istanbul",
+            "federationAbbr": "IBJJF",
+            "country": "Turkey",
+            "countryAbbr": "TR",
+            "city": "Istanbul",
+            "responsible": "Ibrahim Inal",
+            "address": "Emirgan Sok. no. 24 Resitpasa  , , Istanbul, Turkey",
+            "website": "www.checkmatistanbul.com"
+        },
+        {
+            "id": 3657,
+            "name": "CheckMat Japan",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Konosu-shi",
+            "responsible": "Marcio Reis",
+            "address": "1F Ogawa Bldg, 7-7-1 Hon-cho, , Konosu-shi, Saitama, Japan",
+            "website": "http://checkmatjapan.com/"
+        },
+        {
+            "id": 3931,
+            "name": "Checkmat JM Modern JJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Baton Rouge",
+            "responsible": "Joshua David Mancuso",
+            "address": "14141 Airline Hwy Bldg 4 are Y, Baton Rouge, LA, United States of America",
+            "website": "www.jmmodernjj.com"
+        },
+        {
+            "id": 6762,
+            "name": "CheckMat Kazakhstan",
+            "federationAbbr": "IBJJF",
+            "country": "Kazakstan",
+            "countryAbbr": "KZ",
+            "city": "Almaty",
+            "responsible": "Bek-Ali Yerzhan",
+            "address": "St. Jarokov 137 B2, Almaty, Kazakstan",
+            "website": "www.checkmat.kz"
+        },
+        {
+            "id": 7289,
+            "name": "CheckMat Lake County",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mundelein",
+            "responsible": "Carlos Archila",
+            "address": "108 Terrace Drive, Mundelein, Illinois, United States of America",
+            "website": "www.lakecountybjj.com"
+        },
+        {
+            "id": 7653,
+            "name": "Checkmat Lakewood",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lakewood ",
+            "responsible": "Gustavo Ernesto C. Caceres",
+            "address": "5546 South st, Lakewood , California , United States of America",
+            "website": "Www.carpiojiujitsu.com"
+        },
+        {
+            "id": 4881,
+            "name": "Checkmat Lima",
+            "federationAbbr": "IBJJF",
+            "country": "Peru",
+            "countryAbbr": "PE",
+            "city": "San Borje",
+            "responsible": "Gustavo Ernesto C. Caceres",
+            "address": "Calle Geminis 125, San Borje, Lima, Peru",
+            "website": "facebook.com/bushidofightteam"
+        },
+        {
+            "id": 7705,
+            "name": "Checkmat Lynchburg",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lynchburg",
+            "responsible": "Robert Edward Hurd",
+            "address": "18805 Forest Road, Suite B, Lynchburg, Virginia, United States of America",
+            "website": "checkmatvirginia.com"
+        },
+        {
+            "id": 9354,
+            "name": "Checkmat Macaé",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macaé",
+            "responsible": "Ronny Peterson Prado Oliveira",
+            "address": "Rua Jade 55 - Sol \u0026 Mar, Ct Ronny Tartaruga Jiu Jitsu, Macaé, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 4392,
+            "name": "CheckMat Mafra",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hesperia",
+            "responsible": "Marcelo França Mafra",
+            "address": "9594 I Ave STE B \u0026 C , , Hesperia, CA, United States of America",
+            "website": "www.mafrabjj.com"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 164,
+        "from": 3260,
+        "to": 3280,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9408,
+            "name": "Gracie Barra Melbourne",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Melbourne",
+            "responsible": "Alexandre Julianelli do Nascimento",
+            "address": "1131 S Wickham Rd, Melbourne, Fl, United States of America",
+            "website": "gbmelbourne.com"
+        },
+        {
+            "id": 10324,
+            "name": "Gracie Barra Melksham",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Melksham",
+            "responsible": "Antonio Bustorff",
+            "address": "Unit 1 The Enterprise Centre Lysander Road, Bowerhill, Melksham, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 9055,
+            "name": "Gracie Barra Meridian",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Meridian",
+            "responsible": "Garrett Johnson Glava",
+            "address": "1600 N Main Street, Unit B, Meridian, Id, United States of America",
+            "website": "Gbmeridian.com"
+        },
+        {
+            "id": 7412,
+            "name": "Gracie Barra Miguel Pereira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Ivanilson Luis da Silva",
+            "address": "Rua Maria José N: 23, 2º Andar , Bairro: Miguel Pereira, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 3374,
+            "name": "Gracie Barra Mococa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mococa",
+            "responsible": "Fabio Ribeiro Vaz Lobo Filho",
+            "address": "Avenida Américo Pereira Lima n: 355, Jardim Lavinia, Mococa, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 4040,
+            "name": "Gracie Barra Mogi Guaçu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mogi Guaçu",
+            "responsible": "Fábio Luis Costa Lima",
+            "address": "Rua Chico De Paula 401, Centro, Mogi Guaçu, SP, Brasil",
+            "website": "www.graciebarra.com.br"
+        },
+        {
+            "id": 9238,
+            "name": "Gracie Barra Monte Belo",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Setubal",
+            "responsible": "Rodrigo Valerio",
+            "address": "Estrada Nacional 10, Km 42, 1º Andar, Sala 6, Setubal, Setubal, Portugal",
+            "website": "www.gbmontebelo.pt"
+        },
+        {
+            "id": 6484,
+            "name": "Gracie Barra Monte Belo Centro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Monte Belo",
+            "responsible": "Andre Jose Geraldo Salgado",
+            "address": "Rua Marechal Deodoro da Fonseca n: 330, Centro, Monte Belo, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 8557,
+            "name": "Gracie Barra Monte Carlo MS",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Jose Tadeu Teixeira dos Santos",
+            "address": "Rua Virgílio Alves Chaves, 165, Campo Grande, Mato Grosso Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 6019,
+            "name": "Gracie Barra Monte Castelo CG - MS",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mato Grosso do Sul",
+            "responsible": "Welton Reis dos Santos Junior",
+            "address": "Rua Amazonas n: 936, Bairro: Monte Castelo, Mato Grosso do Sul, MS, Brasil",
+            "website": null
+        },
+        {
+            "id": 8167,
+            "name": "Gracie Barra Monte Mor",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Monte Mor ",
+            "responsible": "Renato de Almeida",
+            "address": "Av. Janio Quadros, 921, Centro, Monte Mor , São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7083,
+            "name": "Gracie Barra Monterrey",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "San Pedro Garza Garcia",
+            "responsible": "Tyler Scott Bosard",
+            "address": "Plaza Campestre, Av. Vasconcelos 158 , San Pedro Garza Garcia, NL, Mexico",
+            "website": "graciebarra.com.mx"
+        },
+        {
+            "id": 6778,
+            "name": "Gracie Barra Montijo",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Montijo",
+            "responsible": "Manuel António Ambrósio S. T. Pontes",
+            "address": "Rua Jose Joaquim Marques 238, Montijo, Portugal",
+            "website": null
+        },
+        {
+            "id": 2402,
+            "name": "Gracie Barra Montreal",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Montreal",
+            "responsible": "Bruno Franco Fernandes",
+            "address": "18 Peiel St, #110  , , Montreal, QC, Canada",
+            "website": "www.graciebarramontreal.ca"
+        },
+        {
+            "id": 7067,
+            "name": "Gracie Barra Morgan Hill, CA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Morgan Hill ",
+            "responsible": "Alexandre Silva Pinheiro da Costa",
+            "address": "16145 Monterey Rd, Morgan Hill , CA, United States of America",
+            "website": "https://graciebarra.com/morgan-hill-ca/"
+        },
+        {
+            "id": 6327,
+            "name": "Gracie Barra Murfreesboro",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Murfreesboro",
+            "responsible": "Reginaldo Gurgel F. de Almeida",
+            "address": "1720 Old Fort Parkway, Murfreesboro, TN, United States of America",
+            "website": "www.GBMurfreesboro.com"
+        },
+        {
+            "id": 8635,
+            "name": "Gracie Barra Muriaé",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Muriaé",
+            "responsible": "Alisson Paulo  Silva",
+            "address": "Avenida Dante Bruno N° 345, Muriaé, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 3367,
+            "name": "Gracie Barra Nagano",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nagano",
+            "responsible": "Nakane Alvaro",
+            "address": "Tanada Koporasu 103 5939-1 Miyagawa Chino-shi  , , Nagano, --, Japan",
+            "website": ""
+        },
+        {
+            "id": 5449,
+            "name": "Gracie Barra Navegantes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Navegantes",
+            "responsible": "João Paulo Machado",
+            "address": "Avenida Conselheiro João Gaya, 1126, Navegantes, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 8910,
+            "name": "Gracie Barra Neepsend",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Sheffield",
+            "responsible": "Gareth Edwin Neale",
+            "address": "Unit 2 161 Runtland Road, Sheffield, South Yorkshire, United Kingdom",
+            "website": "Graciebarraneepsend.com"
+        }
+    ]
+}

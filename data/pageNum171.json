@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 171,
+        "from": 3400,
+        "to": 3420,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7579,
+            "name": "Gracie Barra St Peters",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "St. Peters",
+            "responsible": "Murilo Pinamoura",
+            "address": "Unit 3C/1-7 Unwins Bridge Road, St. Peters, NSW, Australia",
+            "website": "www.gbstpeters.com.au"
+        },
+        {
+            "id": 428,
+            "name": "Gracie Barra Sta Angelina-Araquara",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araquara ",
+            "responsible": null,
+            "address": "  , , Araquara , Brasil",
+            "website": ""
+        },
+        {
+            "id": 3440,
+            "name": "Gracie Barra Sta Maria - Brasília",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Marcio Celio Lima de Oliveira",
+            "address": "Quadra 217 Conjunto G Lote 27 27 , Santa Maria, Brasília, DF, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6613,
+            "name": "Gracie Barra Stafford",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Stafford",
+            "responsible": "Thiago Reinaldo de Souza",
+            "address": "395 Garrisonville Road, Ste 105, Stafford, VA, United States of America",
+            "website": "www.gbstafford.com"
+        },
+        {
+            "id": 7999,
+            "name": "Gracie Barra Stella Mares",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Adriana Rosario R. G. Gatto",
+            "address": "Rua Manuel Suarez N7, Rua Manuel Suarez N7, Salvador, Bahia, Brasil",
+            "website": "www.GracieBarra.com.br"
+        },
+        {
+            "id": 2244,
+            "name": "Gracie Barra Sul",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Toledo",
+            "responsible": "Orley Lobato Pinheiro",
+            "address": "Av. Parigot de Souza 2415 , Centro, Toledo, PR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9014,
+            "name": "Gracie Barra Suncheon",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Suncheon-si",
+            "responsible": "Han Sik Park",
+            "address": "111, Maean-ro, Haeryong-myeon, 3rd Floor, Suncheon-si, Jeollanam-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 6172,
+            "name": "Gracie Barra Sunninghill",
+            "federationAbbr": "IBJJF",
+            "country": "South Africa",
+            "countryAbbr": "ZA",
+            "city": "Johannesburg",
+            "responsible": "Norman Adriaan Wessels",
+            "address": "Sunninghill Village Mall, Corner 97 Edison Crescent \u0026 maxwell drive , Sunninghill, Johannesburg, --, South Africa",
+            "website": "www.graciebarrasunninghill.co.za"
+        },
+        {
+            "id": 6876,
+            "name": "Gracie Barra Sunrise",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sunrise",
+            "responsible": "Maxen Antenor",
+            "address": "6815 Sunset Strip, Sunrise, FL, United States of America",
+            "website": "www.graciebarra.com/sunrise-fl"
+        },
+        {
+            "id": 6816,
+            "name": "Gracie Barra Surrey",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Delta",
+            "responsible": "Kevin Yang",
+            "address": "11939 88th Ave. , Delta, BC, Canada",
+            "website": null
+        },
+        {
+            "id": 9024,
+            "name": "Gracie Barra Sutton Coldfield",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Birmingham",
+            "responsible": "Thomas Bracher",
+            "address": "6 Hathaway Road, Birmingham, West Midlands, United Kingdom",
+            "website": "Gbsuttoncoldfield.com"
+        },
+        {
+            "id": 431,
+            "name": "Gracie Barra Sydney",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Torquay",
+            "responsible": null,
+            "address": "2 Central Ave  , Torquay, Torquay, VIC, Australia",
+            "website": "www.peterdebeen.com"
+        },
+        {
+            "id": 7797,
+            "name": "Gracie Barra Taboão Da Serra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Taboão Da Serra",
+            "responsible": "Daniel Correa",
+            "address": "Rod. Régis Bittencourt 1650, Taboão Da Serra, São Paulo, Brasil",
+            "website": "www.graciebarrataboao.com"
+        },
+        {
+            "id": 6632,
+            "name": "Gracie Barra Taguatinga Norte Sandú",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Taguatinga",
+            "responsible": "Christiano Taylor Henrique de Jesus",
+            "address": "QNB 14 LOTE 08 Loja 01 n: 08, Complemento: Sandu, Taguatinga, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 9374,
+            "name": "Gracie Barra Taiobeiras",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Taiobeiras",
+            "responsible": "Rodrigo Martins de Oliveira Campos",
+            "address": "Rua Bom Jardim 470 Centro, Taiobeiras, Minas Gerais, Brasil",
+            "website": "www.graciebarra.com.br"
+        },
+        {
+            "id": 4365,
+            "name": "Gracie Barra Tamworth",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Tamworth",
+            "responsible": "David Robert Iverson",
+            "address": "2 Lower Gungate  , , Tamworth, --, United Kingdom",
+            "website": "www.graciebarratamworth.com"
+        },
+        {
+            "id": 5799,
+            "name": "Gracie Barra Teresópolis",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Gustavo Aragão Filippo",
+            "address": "Rua Rui Barbosa, 184 Loja 1 - Edifício Argeu, Várzea - Centro, Teresópolis, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5741,
+            "name": "Gracie Barra Terra Roxa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Terra Roxa",
+            "responsible": "Kleber Willian Odorizzi Ramalho",
+            "address": "Rua Azauri Guedes Pereira - 595, Academia de Lutas - Centro, Terra Roxa, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 2315,
+            "name": "Gracie Barra Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Webster",
+            "responsible": "Vinicius Magalhães",
+            "address": "1020 W. Nasa PKWY, Webster, TX, United States of America",
+            "website": "graciebarratx.com"
+        },
+        {
+            "id": 2548,
+            "name": "Gracie Barra The Woodlands",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Spring",
+            "responsible": "Carlos F. Martinez",
+            "address": "25501 Richards Rd., Suite 101, Spring, TX, United States of America",
+            "website": "mmathewoodlands.com"
+        }
+    ]
+}

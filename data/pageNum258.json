@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 258,
+        "from": 5140,
+        "to": 5160,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8663,
+            "name": "Paraestra Nishi Tokyo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Higashikurume-shi",
+            "responsible": "Yuki Nakai",
+            "address": "5-32-25 Maezawa, Higashikurume-shi, Tokyo, Japan",
+            "website": "https://paraestra-nishi.tokyo"
+        },
+        {
+            "id": 3270,
+            "name": "Paraestra Osaka",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka",
+            "responsible": "Takumi Nakayama",
+            "address": "18-21 Oomuro-Heights 201 Kokubucho Tennoji-Ku Osaka City  , , Osaka, --, Japan",
+            "website": "wwww.paraestra-osaka.net"
+        },
+        {
+            "id": 2652,
+            "name": "Paraestra Sapporo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Hokkaido",
+            "responsible": "Makoto Tawaraya",
+            "address": "3-26 N9E10 Higaski-Ku Sapporo-Shi, , Hokkaido, Japan",
+            "website": "m.ameba.jp/m/blogtop.do?unm=paraestra-sapporo"
+        },
+        {
+            "id": 3271,
+            "name": "Paraestra Shibuya",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Shibuya",
+            "responsible": "Satoshi Kotani",
+            "address": "1-6-10 Q bdg B, Shibuya  , , Shibuya, --, Japan",
+            "website": "www.shibukichi.com"
+        },
+        {
+            "id": 3272,
+            "name": "Paraestra Shinagawa",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Yuki Nakai",
+            "address": "1-6-11 Prejiru B1 Yutakachou  , , Tokyo, --, Japan",
+            "website": "sasa.fromscratch.jp/"
+        },
+        {
+            "id": 3274,
+            "name": "Paraestra TB",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Takayuki Hirose",
+            "address": "2-23-7 K-a bdg 1F Nishikasai-Edogawaka  , , Tokyo, --, Japan",
+            "website": "www.parakatsu.com"
+        },
+        {
+            "id": 8145,
+            "name": "Paraestra Tenma",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Oosaka-shi",
+            "responsible": "Seiji Akao",
+            "address": "Kobaicho Kita-ku, Oosaka-shi, Japan",
+            "website": "http://paraestra-tenma.com"
+        },
+        {
+            "id": 790,
+            "name": "Paraestra Tokyo",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": null,
+            "address": "Toyotama-Kita 1-6-13, B1-101 Nerima-ku  , , Tokyo, --, Japan",
+            "website": "www.paraestra.co.jp"
+        },
+        {
+            "id": 4192,
+            "name": "Paraestra UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Bournemouth",
+            "responsible": "Jeff Daniel Lawson",
+            "address": "Unit 1-2 4 Terrace Road  , Bournemouth, --, United Kingdom",
+            "website": "www.ippongym.com"
+        },
+        {
+            "id": 2047,
+            "name": "Paragon BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Barbara",
+            "responsible": null,
+            "address": "617 Salisipuedes St  , , Santa Barbara, CA, United States of America",
+            "website": null
+        },
+        {
+            "id": 2887,
+            "name": "Paragon Brazilian Jiu Jitsu Austin",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Austin",
+            "responsible": null,
+            "address": "6800 Westgate Blvd - Ste 116  , , Austin, TX, United States of America",
+            "website": "www.paragonaustin.com"
+        },
+        {
+            "id": 9692,
+            "name": "Paraguay Combat Team (PCT)",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Foz Do Iguaçu",
+            "responsible": "Nelson Alejandro Ocampos Caldas",
+            "address": "Rua Engenheiro Rebouças 291, Centro, Foz Do Iguaçu, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 9818,
+            "name": "Parasar Brazilian Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Felipe Domingues Lessa",
+            "address": "Rua Alfa N°1024. Vila Base Aérea, Campo Grande - Ms, Campo Grande, Mato Grosso Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 9742,
+            "name": "Parceria Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Santiago",
+            "responsible": "Arturo Gonzalez Fletcher",
+            "address": "Avenida Larrain 5940, Departamento 230, Departamento 230, Departamento 230, Santiago, Metropolitana, Chile",
+            "website": null
+        },
+        {
+            "id": 9332,
+            "name": "Pardee BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Weirton",
+            "responsible": "Andrew Michael Pardee",
+            "address": "1109 Glencairn Road, Weirton, Wv, United States of America",
+            "website": "www.andrewpardeebjj.com"
+        },
+        {
+            "id": 3429,
+            "name": "Pariente Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Israel",
+            "countryAbbr": "IL",
+            "city": "Kfar Saba",
+            "responsible": "Ido Pariente",
+            "address": "Arlozerove 20  , , Kfar Saba, --, Israel",
+            "website": "www.parientemma.com"
+        },
+        {
+            "id": 7217,
+            "name": "Parintins Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Parintins",
+            "responsible": "João Lucio Borges dos Santos Junior",
+            "address": "Rua Cupuaçu, 172 - Raimundo Muniz, Conjunto Macurany, Parintins, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 3652,
+            "name": "Park City Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Park City",
+            "responsible": "Michael David Diaz",
+            "address": "6430 N Business Park Loop Road, Unit D, Park City, UT, United States of America",
+            "website": "www.parkcitybjj.com"
+        },
+        {
+            "id": 8454,
+            "name": "Park Slope Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Brooklyn",
+            "responsible": "Marc Vincent Adami",
+            "address": "518 5th Ave, Brooklyn, New York, United States of America",
+            "website": "psabjj.com"
+        },
+        {
+            "id": 8379,
+            "name": "Park West BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mount Pleasant",
+            "responsible": "Robson Brasil Feitoza",
+            "address": "3400 Turgot Lane, Mount Pleasant, Sc, United States of America",
+            "website": "Parkwestbjj.com"
+        }
+    ]
+}

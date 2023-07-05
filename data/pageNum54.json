@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 54,
+        "from": 1060,
+        "to": 1080,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10542,
+            "name": "Brazil-021 Winnipeg School Of Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Winnipeg",
+            "responsible": "Christina Moroz Barry",
+            "address": "5924 Roblin Blvd., Winnipeg, Manitoba, Canada",
+            "website": "www.brazil021wpg.ca"
+        },
+        {
+            "id": 162,
+            "name": "Brazilian Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Osiris Maia Borges de Medeiros",
+            "address": "Rua Rodrigo de Brito 11 , Botafogo, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5645,
+            "name": "Brazilian Fight Argentina",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "C.A.B.A. ",
+            "responsible": "João Claudio Lima Soares",
+            "address": "Acuna de Figueroa 210, C.A.B.A. , Bs., Argentina",
+            "website": null
+        },
+        {
+            "id": 3957,
+            "name": "Brazilian Fight Factory",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Austin",
+            "responsible": "Rodrigo de Oliveira Cabral",
+            "address": "11150 Research Blvd. apt 2170, Austin, TX, United States of America",
+            "website": "http://brazilianfightfactory.com/"
+        },
+        {
+            "id": 10562,
+            "name": "Brazilian Fight Jiu-Jitsu Abaetetuba - Pará",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Abaetetuba",
+            "responsible": "Aldo Pires Ferreira",
+            "address": "Rua Ceará 3253, Aseg-pa, Abaetetuba, Pa, Brasil",
+            "website": "www.asegpa.org"
+        },
+        {
+            "id": 7288,
+            "name": "Brazilian Fight Lisboa",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Lisboa",
+            "responsible": "João Claudio Lima Soares",
+            "address": "Rua Aquiles Monteverde 28D Arroios, Lisboa, --, Portugal",
+            "website": null
+        },
+        {
+            "id": 4164,
+            "name": "Brazilian Fight USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Scranton",
+            "responsible": "Leandro Ribeiro Coutinho",
+            "address": "733 Davis St.  , Scranton, PA, United States of America",
+            "website": "brazilianfightusa.com"
+        },
+        {
+            "id": 3316,
+            "name": "Brazilian Jiu-Jitsu Academy Nobushi",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Soka",
+            "responsible": "Takeshi Matsumura",
+            "address": "2-8-27 Matsunami bdg 3F, Sakae-cho  , , Soka, Saitama, Japan",
+            "website": "www.team-nobushi.com"
+        },
+        {
+            "id": 3660,
+            "name": "Brazilian Jiu-Jitsu Bolzano",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Bolzano",
+            "responsible": "Robin Gracie",
+            "address": "viale Druso 61, Bolzano, ., Italy",
+            "website": "www.bjjbz.it"
+        },
+        {
+            "id": 8015,
+            "name": "Brazilian Jiu-Jitsu Chico Roza",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Calafell",
+            "responsible": "Antonio Francisco Cordeiro Roza",
+            "address": "Paseo Marítimo San Joan De Deu 31, Segundo Primeira, Calafell, Tarragona, Spain",
+            "website": null
+        },
+        {
+            "id": 5857,
+            "name": "Brazilian Jiu-Jitsu Huelva",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Huelva",
+            "responsible": "Jesus Perez Perez",
+            "address": "Calle Teide num. 6, Huelva, Spain",
+            "website": "www.brazilianjiujitsuhuelva.es"
+        },
+        {
+            "id": 9121,
+            "name": "Brazilian Jiu-Jitsu Orleans Team",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Saint Ay",
+            "responsible": "Vincent Nguyen",
+            "address": "71 Q Route D'orléans, Saint Ay, France",
+            "website": null
+        },
+        {
+            "id": 5264,
+            "name": "Brazilian Jiu-Jitsu Profesor Carlos Tota",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Donostia / San Sebastián",
+            "responsible": "Carlos Eduardo dos Santos Silva",
+            "address": "Calle Julimasene 1c, Polideportivo Mons, Donostia / San Sebastián, Ss, Spain",
+            "website": "www.graciebarragros.com"
+        },
+        {
+            "id": 9762,
+            "name": "Brazilian Jiu-Jitsu School Fernando Ribeiro",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Hamilton",
+            "responsible": "Fernando Alberto Ribeiro",
+            "address": "75 Colombo Street, Hamilton, Wko, New Zealand",
+            "website": null
+        },
+        {
+            "id": 9875,
+            "name": "Brazilian Jiu-Jitsu Team Bern",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Bern",
+            "responsible": "Hercules Pereira da Silva",
+            "address": "Dorngasse 10, Endereço Do Dojo, Chutzenstrasse 60, Para Correspondecia, Bern, Bern, Switzerland",
+            "website": "www.bjjteambern.ch"
+        },
+        {
+            "id": 2876,
+            "name": "Brazilian Jiu-Jitsu Team Malta",
+            "federationAbbr": "IBJJF",
+            "country": "Malta",
+            "countryAbbr": "MT",
+            "city": "Zabbar",
+            "responsible": "Keith Darmanin",
+            "address": "C/o \"thera\", Triq Hadd In-nies, , Zabbar, ML, Malta",
+            "website": "www.bjjteammalta.com"
+        },
+        {
+            "id": 2161,
+            "name": "Brazilian Jiu-Jitsu United",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jenkintown",
+            "responsible": "Jared B. Weiner",
+            "address": "428 Old Park d  , Jenkintown, PA, United States of America",
+            "website": "www.bjjunited.com"
+        },
+        {
+            "id": 2538,
+            "name": "Brazilian Power Team",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Lisboa",
+            "responsible": "José Arnaldo dos Santos",
+            "address": "R do Armistício 23 - 2.º esq 1885-009 Lisboa  , , Lisboa, x, Portugal",
+            "website": "www.bptjiujitsu.com"
+        },
+        {
+            "id": 4214,
+            "name": "Brazilian Power Team - Brazil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Marcello Rosa da Conceição",
+            "address": "Estrada do Rio Grande 2034 Bl 04, Taquara, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 3873,
+            "name": "Brazilian Power Team Cassis",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Marseille ",
+            "responsible": "Marcello Rosa da Conceição",
+            "address": " 62 Traverse Noire, Marseille , --, France",
+            "website": "--"
+        }
+    ]
+}

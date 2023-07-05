@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 242,
+        "from": 4820,
+        "to": 4840,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2784,
+            "name": "New School BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Helio Moreira",
+            "address": "Battersea Sports Centre, Hope St  , , London, --, United Kingdom",
+            "website": "www.newschoolbjj.com"
+        },
+        {
+            "id": 9885,
+            "name": "New Start BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarujá",
+            "responsible": "Alex dos Santos Souza",
+            "address": "Rua Padre Arnaldo Caiaffa , 61 - Loja 01 - Vila Ligya , Vila Ligya , Guarujá, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8258,
+            "name": "New Way Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Shelby Township",
+            "responsible": "Robert Joseph Curtis",
+            "address": "48075 Van Dyke Ave, Shelby Township, Michigan, United States of America",
+            "website": "www.newwaymartialarts.com"
+        },
+        {
+            "id": 5036,
+            "name": "New Zealand Top Team",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Auckland",
+            "responsible": "Stephen Thomas Oliver",
+            "address": "3 Rankin Ave, New Lynn, Auckland, New Zealand",
+            "website": null
+        },
+        {
+            "id": 3238,
+            "name": "Newaza World",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": null,
+            "address": "2-56-3 Chofu Center Bldg B 101 Kojima cho  , , Tokyo, --, Japan",
+            "website": "www.newaza-world.jmdo.com"
+        },
+        {
+            "id": 5424,
+            "name": "Newaza World Ehime",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Matsuyama",
+            "responsible": "Atsushi Katsuura",
+            "address": "1043-5 Minamiumemoto, Matsuyama, Ehime, Japan",
+            "website": null
+        },
+        {
+            "id": 8063,
+            "name": "Newaza World Hiroshima Knot",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Hiroshima-shi",
+            "responsible": "Yu Fujioka",
+            "address": "3-13-16,tomohigashi,asaminami-ku, Hiroshima-shi, Hiroshima-ken, Japan",
+            "website": null
+        },
+        {
+            "id": 9346,
+            "name": "Newaza World Kawasaki",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kawasaki",
+            "responsible": "Mikio Oga",
+            "address": "1b 2-9 Minamisaiwaicho Saiwai-ku, Kawasaki, Kanagawa, Japan",
+            "website": "http://newawa-yokohama.com/"
+        },
+        {
+            "id": 3244,
+            "name": "Newaza World Sakurajima",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Hioki",
+            "responsible": "Jin Ishimura",
+            "address": "661-9 Shimotaniguchi Ijuin-cho, Hioki, Kagoshima, Japan",
+            "website": null
+        },
+        {
+            "id": 3246,
+            "name": "Newaza World Shinagawa",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Mikio Oga",
+            "address": "52-11 Denenchoti-Honcho, , Tokyo, --, Japan",
+            "website": "http://newaza-shinagawa.versus.jp/index.html"
+        },
+        {
+            "id": 5421,
+            "name": "Newaza World Tsukuba Busshokan",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Ibaraki",
+            "responsible": "Masanori Takano",
+            "address": "3566 Uenomuro Tsukuba-shi, Ibaraki, Japan",
+            "website": "www.busshokan.net/"
+        },
+        {
+            "id": 3248,
+            "name": "Newaza-World Hanshin",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka",
+            "responsible": "Sora Tsukui",
+            "address": "5-20, Ishibashi-Asado-Cho, Toyonaka-Shi, Osaka, --, Japan",
+            "website": "http://newazaworld-hanshin.seesaa.net/"
+        },
+        {
+            "id": 9050,
+            "name": "Newzone Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Anderson Ricardo Silva",
+            "address": "2 Pembroke Road, Greenford, London, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 3249,
+            "name": "NEX",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aichi",
+            "responsible": "Hiroshi Umemura",
+            "address": "Komaki-shi, Jyobushi 1-82  , , Aichi, --, Japan",
+            "website": "www.nex-sports.com"
+        },
+        {
+            "id": 10249,
+            "name": "Next Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Valparaíso De Goiais",
+            "responsible": "Anderson de Andrade Barbosa",
+            "address": "Quadra Qc 4 Sn, Condomínio Parque Nova Cidade 2, Valparaíso De Goiais, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 8874,
+            "name": "Next Edge Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sioux Falls",
+            "responsible": "Bruce James Hoyer",
+            "address": "909 E 8th St, Sioux Falls, Sd, United States of America",
+            "website": "NextEdgeAcademy.com"
+        },
+        {
+            "id": 5913,
+            "name": "Next Evolution M.A. \u0026 BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New York",
+            "responsible": "Michael Anthony Mullero",
+            "address": "1786 3rd Ave, New York, NY, United States of America",
+            "website": "www.nemmaa.com"
+        },
+        {
+            "id": 3396,
+            "name": "Next Generation MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Frisco",
+            "responsible": "Ricardo Miller Ribeiro",
+            "address": "2995 Preston Road #1550  , , Frisco, TX, United States of America",
+            "website": "www.nextgenerationmma.com "
+        },
+        {
+            "id": 5207,
+            "name": "Next Generation MMA Fredrikstad",
+            "federationAbbr": "IBJJF",
+            "country": "Norway",
+            "countryAbbr": "NO",
+            "city": "Fredrikstad",
+            "responsible": "Chris R. Brennan",
+            "address": "Liaveien 38  , , Fredrikstad, Norway",
+            "website": "nextgenerationmma.com"
+        },
+        {
+            "id": 7551,
+            "name": "Next Generation UK",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Liverpool",
+            "responsible": "Ricardo Miller Ribeiro",
+            "address": "78 Kempston Street, Liverpool, United Kingdom",
+            "website": "www.nextgenerationmma.co.uk"
+        }
+    ]
+}

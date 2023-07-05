@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 111,
+        "from": 2200,
+        "to": 2220,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8252,
+            "name": "Equipe Mestre Meireles",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "José Carlos Meireles da Silva",
+            "address": "Av. Dom Helder Camará, 9098, Bl 04 Apto 307, Rio De Janeiro, Rj, Brasil",
+            "website": "jcmeirelesdasilva@gmail.com"
+        },
+        {
+            "id": 2483,
+            "name": "Equipe Mestre Wilson Jiu-Jitsu Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Preston",
+            "responsible": "Minol Tavares Tutida",
+            "address": "2 Albert Street, , Preston, VIC, Australia",
+            "website": "www.emwjja.com"
+        },
+        {
+            "id": 722,
+            "name": "Equipe Mestre Wilson JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Wilson Pereira Mattos",
+            "address": "Rua Japuaçá, 42, Padre Miguel, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 2171,
+            "name": "Equipe Mineirinho Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Wesley Campos dos Reis",
+            "address": "Rua 9 2408 Qd. H22 Lt. 12, Setor Marista, Goiânia, GO, Brasil",
+            "website": "www.equipemineirinho.com.br"
+        },
+        {
+            "id": 6329,
+            "name": "Equipe Miranda de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrolina",
+            "responsible": "Marlon Miranda Gomes",
+            "address": "Rua Rio Garças N: 21, Casa Terreo, Petrolina, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 10263,
+            "name": "Equipe MS Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João De Meriti",
+            "responsible": "Marcio José da Silva",
+            "address": "Rua. Humberto De Campos, Lote 10 Q.b, São João De Meriti, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 8478,
+            "name": "Equipe Naviraí Origens Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Naviraí",
+            "responsible": "Eduardo Mendes Pinto",
+            "address": "Rua Hélio, 395, Naviraí, Mato Grosso Do Sul (ms), Brasil",
+            "website": null
+        },
+        {
+            "id": 4716,
+            "name": "Equipe Neo Brasil - Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Friburgo",
+            "responsible": "Leonnardo Cordeiro Medeiros",
+            "address": "Rua Clarisse Storck dos Santos 35 Loja A, Conselheiro Paulino, Nova Friburgo, RJ, Brasil",
+            "website": "www.brasilfightcenter.com.br"
+        },
+        {
+            "id": 6967,
+            "name": "Equipe Nicolas Fernandes Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Frank Franco de Lima",
+            "address": "Rua João Mendonça n: 08, Bairro: Petropolis, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 3897,
+            "name": "Equipe Orions Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": null,
+            "address": "Rua Desembargador Pires Castro S/N SLA Clube Marquês, Marquês de Parnaguá, Teresina, PI, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8628,
+            "name": "Equipe OSS-IBF / Careca JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campinas",
+            "responsible": "Luis Carlos Vicente",
+            "address": "Rua Tenente Alberto Mendes Junior, Nº 05, Igreja Batista Fonte, Campinas, Sp, Brasil",
+            "website": "https://www.igrejafonte.org.br/proclamacao-e-amparo/evangelizacao"
+        },
+        {
+            "id": 6608,
+            "name": "Equipe Pantera Negra Argentina",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Buenos Aires",
+            "responsible": "Iran Brasileiro de Alvarenga",
+            "address": "1926 Necochea (117) , PH San Martin , Buenos Aires, BSAS, Argentina",
+            "website": null
+        },
+        {
+            "id": 4878,
+            "name": "Equipe Passos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Leandro Passos Machado",
+            "address": "Rua Heitor De Moura Estevão N 82, Várzea, Teresópolis, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 7525,
+            "name": "Equipe Paul Davison de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mococa",
+            "responsible": "Paul William Carvalho Davison",
+            "address": "Rua Babaçu 640, Palmeirinha, Mococa, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 803,
+            "name": "Equipe Peposo Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Paulo Rodrigues Curi",
+            "address": "Rua Florália 223 , Carmo, Belo Horizonte, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 340,
+            "name": "Equipe PH Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mesquita",
+            "responsible": "Alexandre Gonçalves da Silva",
+            "address": "Rua Bernardino Borges dos Reis 200 , Cosmorama, Mesquita, RJ, Brasil",
+            "website": "www.phjiujitsu.com.br"
+        },
+        {
+            "id": 4352,
+            "name": "Equipe Phillipe Spakauskas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao Paulo",
+            "responsible": "Phillipe Cesar Spakauskas",
+            "address": "Estrada de Taipas 649, Jaragua, Sao Paulo, SP, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6054,
+            "name": "Equipe Ralph Martin de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Minas Gerais",
+            "responsible": "Ralph Pires Martins",
+            "address": "Rua Marcia de Lourdes Faria n: 45, casa, Minas Gerais, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 2554,
+            "name": "Equipe Raul Quintella de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Raul Gustavo Respeita Quintella",
+            "address": "Rua Paulo Rudge 75, Cascatinha, Petrópolis, RJ, Brasil",
+            "website": "www.jiu-jitsuraulquintalla.com.br"
+        },
+        {
+            "id": 5505,
+            "name": "Equipe RB Rodrigo Batata",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos Dos Goytacazes",
+            "responsible": "Rodrigo Siqueira Sanz",
+            "address": "Rua São João, 442, Centro, Campos Dos Goytacazes, RJ, Brasil",
+            "website": null
+        }
+    ]
+}

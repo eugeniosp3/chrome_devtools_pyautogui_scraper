@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 145,
+        "from": 2880,
+        "to": 2900,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8704,
+            "name": "Gile Ribeiro BJJ / Vila Leonice",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Julio Cesar Migliorini",
+            "address": "Rua Maurício Ricardo Dos Santos 116, Cachoeira, Curitiba, PR, Brasil",
+            "website": "Curitiba"
+        },
+        {
+            "id": 7146,
+            "name": "Gile Ribeiro BJJ Batel",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Batel",
+            "responsible": "Gilliano Antônio Ribeiro",
+            "address": "Rua Bento Viana n: 1200, Ginásio, Batel, Curitiba, Brasil",
+            "website": null
+        },
+        {
+            "id": 8970,
+            "name": "Gile Ribeiro Boqueirão",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Célio Herbert Caldas Costa",
+            "address": "R. Maestro Carlos Frank, 2531 - 161, Boqueirão, Curitiba, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 7172,
+            "name": "Gile Ribeiro Borda do Campo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José dos Pinhais",
+            "responsible": "Celso Pereira Junior",
+            "address": "Rua Caçador n: 590, 1 andar - Bairro: Borda do Campo, São José dos Pinhais, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 8871,
+            "name": "Gile Ribeiro Centro SJP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São José Dos Pinhais",
+            "responsible": "Luis Diego Motta Pigaiani",
+            "address": "Rua Visconde Do Rio Branco, 1723 Sala 5, São José Dos Pinhais, Pr, Brasil",
+            "website": null
+        },
+        {
+            "id": 7990,
+            "name": "Gile Ribeiro JJ - Studio Thyago Ribeiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Thyago Dias Ribeiro",
+            "address": "Travessa Ferreira 32, Curitiba, Parana, Brasil",
+            "website": "Instagram.com/thyagoribeirobjj"
+        },
+        {
+            "id": 4501,
+            "name": "Gile Ribeiro Korea",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Chuncheon-si ",
+            "responsible": "Shin Dongwoo",
+            "address": "b1 157-1 baengnyeong-ro, Chuncheon-si , Gangwon-do, Korea, South",
+            "website": "www.lixa.kr"
+        },
+        {
+            "id": 8209,
+            "name": "Gile Ribeiro Linhares",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Linhares",
+            "responsible": "Wlademir Cardoso",
+            "address": "Av Aracruz, 780, Linhares, Espírito Santo, Brasil",
+            "website": "www.gileribeiro.com.br"
+        },
+        {
+            "id": 9292,
+            "name": "Gile Ribeiro Mafra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Mafra",
+            "responsible": "Alessandro da Silva",
+            "address": "Rua: Coronel José Severiano Maia, 1516, Mafra, Santa Catarina, Brasil",
+            "website": "Mafra"
+        },
+        {
+            "id": 9243,
+            "name": "Gile Ribeiro Novo Mundo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Diego Marlon Koslouski",
+            "address": "Avenida Brasília, 6543, Conjunto 02, Curitiba, Parana, Brasil",
+            "website": null
+        },
+        {
+            "id": 8870,
+            "name": "Gile Ribeiro Piraquara",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Piraquara",
+            "responsible": "Anderson Marafigo Berbecki",
+            "address": "R. Ten. Antônio Cardona De Aguiar, 80 -, Casa, Piraquara, Pr, Brasil",
+            "website": null
+        },
+        {
+            "id": 9295,
+            "name": "Gile Ribeiro Portão",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Alessandro da Silva",
+            "address": "Rua: Amadeu Do Amaral, 512 Fundos, Curitiba, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 8979,
+            "name": "Gile Ribeiro Rebouças - PR",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rebouças",
+            "responsible": "Erica das Dores da Rosa Machowski",
+            "address": "Rua Presidente Vargas 231, Rua Presidente Vargas 231, Rebouças, Pr, Brasil",
+            "website": "REBOUÇAS"
+        },
+        {
+            "id": 8495,
+            "name": "Gillette Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gilbert ",
+            "responsible": "Matthew Steven Gillette",
+            "address": "3874 E Melrose , Gilbert , Arizona , United States of America",
+            "website": null
+        },
+        {
+            "id": 6639,
+            "name": "Gilroy Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gilroy",
+            "responsible": "Carlos Jose Melo",
+            "address": "7560 Monterey RD #206, Gilroy, CA, United States of America",
+            "website": "www.GilroyBJJ.com"
+        },
+        {
+            "id": 3983,
+            "name": "Gilson Farias Team",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Morges",
+            "responsible": "Gilson Jose Teixeira de Farias",
+            "address": "Chemin de la Brume 9  , , Morges, --, Switzerland",
+            "website": ""
+        },
+        {
+            "id": 6070,
+            "name": "Gimenes Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Marcio Silva Gimenes",
+            "address": "Rua Tharsis e Paula n: 435 casa 35, Fazenda Caxias, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 3579,
+            "name": "Ginsberg Academy of Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cambridge",
+            "responsible": "David M Ginsberg",
+            "address": "2000 Massachusetts Avenue, Cambridge, MA, United States of America",
+            "website": "www.innerstrengthbjj.com"
+        },
+        {
+            "id": 2242,
+            "name": "Giovanni Reis Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Caxias do Sul",
+            "responsible": "Giovanni Reis Coutinho Paniccia",
+            "address": "Rua Generoso Maynarno Cardoso 48 Academia, Pio X, Caxias do Sul, RS, Brasil",
+            "website": "www.reisjiujitsu.com"
+        },
+        {
+            "id": 6433,
+            "name": "Giudici BJJ International",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Buenos Aires",
+            "responsible": "Rodolfo Garcia de Morais",
+            "address": "Av Juan B Justo 4736, Buenos Aires, --, Argentina",
+            "website": null
+        }
+    ]
+}

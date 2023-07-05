@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 72,
+        "from": 1420,
+        "to": 1440,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9579,
+            "name": "Centro De Treinamento Leo Costa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Arniqueiras",
+            "responsible": "Helionardo Andrade Costa",
+            "address": "Sha 89/01 Lote 01 Loja 02, Conjunto 5, Arniqueiras, Df, Brasil",
+            "website": null
+        },
+        {
+            "id": 5194,
+            "name": "Centro de Treinamento Lobato Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ananindeua",
+            "responsible": "André Luis Leal Lobato",
+            "address": "Avenida Sn 03 Entre We 25 - 01 B/ 2º Andar, Cidade Nova II, Ananindeua, PA, Brasil",
+            "website": "https://www.instagram.com/lobatotopteam_ltt/"
+        },
+        {
+            "id": 9725,
+            "name": "Centro De Treinamento Marcos Barboza Moc - MG",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Montes Claros",
+            "responsible": "Marcos Antonio Barboza Santos Muniz",
+            "address": "Avenida Nossa Senhora De Fatima 1680, Sao Judas 2, Montes Claros, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 9308,
+            "name": "Centro de Treinamento Mendanha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Alessandro Eduardo Garcia de Medeiros",
+            "address": "Rua Do Catarinense, Lt: 01, Sobrado, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9101,
+            "name": "Centro De Treinamento Mike Souza",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Queimados",
+            "responsible": "Mike de Souza Coutinho",
+            "address": "Rua Lafaiete, Lot 11 Q 7, Queimados, Rj, Brasil",
+            "website": "Queimados"
+        },
+        {
+            "id": 7510,
+            "name": "Centro de Treinamento Naldimar Rangel",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cariacica",
+            "responsible": "Naldimar Rangel Amaral",
+            "address": "Rua Ferro e Aço n: 06, Em frente a Praça - Bairro: Bela Aurora, Cariacica, Espirito Santo, Brasil",
+            "website": "naldocahcal@hotmail.com"
+        },
+        {
+            "id": 9887,
+            "name": "Centro De Treinamento Sparta Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barra Do Garças",
+            "responsible": "Romário Milhomem da Cruz",
+            "address": "Rua Santa Maria, Número 2775, Barra Do Garças, Mato Grosso, Brasil",
+            "website": "https://instagram.com/ctsparta16?igshid=YmMyMTA2M2Y="
+        },
+        {
+            "id": 10377,
+            "name": "Centro De Treinamentos Sandro Soares",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Luís",
+            "responsible": "Sandro Soares Chaves",
+            "address": "Rua 14, Quadra 19, 11, São Luís, Maranhão, Brasil",
+            "website": null
+        },
+        {
+            "id": 314,
+            "name": "Centro Educacional de Jiu-Jitsu de Araxá",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araxá",
+            "responsible": "Anderson Patricio",
+            "address": "Rua Sacramento  133 , Centro, Araxá, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 561,
+            "name": "Centro Esportivo Irmãos Felix de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "José Felix",
+            "address": "Rua São João Batista Do Glória, 620, Jardim Leblon, Belo Horizonte, MG, Brasil",
+            "website": "www.felixjiujitsu.com"
+        },
+        {
+            "id": 4000,
+            "name": "Centurion",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Firenze",
+            "responsible": "Mario Puccioni",
+            "address": "Via A. del Pollaiolo 13 b, Firenze, ., Italy",
+            "website": "www.teamcenturion.it"
+        },
+        {
+            "id": 9102,
+            "name": "Century Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Limeira",
+            "responsible": "Marcio Mecatti",
+            "address": "Praça Adão Jose Duarte Do Pateo N° 10, Limeira, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 3472,
+            "name": "Cercle Tissier",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Vincennes",
+            "responsible": "Thibaut François Léo Olivier",
+            "address": "108 Rue de Fontenay  , Vincennes, --, France",
+            "website": "www.lecerde-jjb.com"
+        },
+        {
+            "id": 3169,
+            "name": "Cerejeira Jiujiz",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Miyagi",
+            "responsible": "Tomohiko Sasaki",
+            "address": "173-6 Sibatagun Dgawaramati aza Sinminami  , , Miyagi, --, Japan",
+            "website": "www.cerejeira.info"
+        },
+        {
+            "id": 6397,
+            "name": "Cerqueira Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Fabio Cerqueira Ribeiro",
+            "address": "Rua Durval Borges Macedo n:66, Curitiba, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 9820,
+            "name": "César Augusto FH364",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Velho",
+            "responsible": "Cesar Augusto Mendes Wanderley",
+            "address": "Rua Uruguai N 1814 Bairro Embratel, Porto Velho, Rondonia, Brasil",
+            "website": null
+        },
+        {
+            "id": 8366,
+            "name": "Cesar Campos",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Capanema",
+            "responsible": "Julio Cesar Campos Batista",
+            "address": "Travessa Marcílio Dias, N24, Conjunto Rosa Lopes, Quadra A / Bairro: São Pio X, Capanema, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 10374,
+            "name": "Cesar Fernandes Team Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Francisco Cesar da Silva Fernandes",
+            "address": "Rua Sete Abril 421, Fortaleza, Ceara, Brasil",
+            "website": null
+        },
+        {
+            "id": 4417,
+            "name": "Cesar Maillet Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macaé",
+            "responsible": "Paulo Cesar Paolino Maillet",
+            "address": "Rua Tiradentes n: 194, Centro, Macaé, RJ, Brasil",
+            "website": "@Cesarmailletteam"
+        },
+        {
+            "id": 3047,
+            "name": "Cesario Brazilian Jiu Jitsu Team",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Leominster",
+            "responsible": "Cesário Carneiro de Souza",
+            "address": "285 Central st unit 113  , , Leominster, MA, United States of America",
+            "website": "www.cesariobjj.com"
+        }
+    ]
+}

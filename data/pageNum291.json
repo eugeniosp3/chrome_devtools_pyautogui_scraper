@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 291,
+        "from": 5800,
+        "to": 5820,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2310,
+            "name": "Sandro Batata Brazilian Jiu-jitsu -Los Gatos",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Santa Cruz",
+            "responsible": "Sandro Ribeiro Santiago",
+            "address": "2330 Mission St  , , Santa Cruz, CA, United States of America",
+            "website": "www.batatabjj.com"
+        },
+        {
+            "id": 3538,
+            "name": "Sandro Melo Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Largo",
+            "responsible": "Alexsandro de Melo Miranda",
+            "address": "Conj. Santa Rosa 96, Tab. do Pinto, Rio Largo, AL, Brasil",
+            "website": null
+        },
+        {
+            "id": 10209,
+            "name": "Sandro Silva Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Coxim",
+            "responsible": "Sandro Gomes Silva",
+            "address": "Av Gal Mendes De Morais, Academia Corpo E Saúde, Coxim, Ms, Brasil",
+            "website": null
+        },
+        {
+            "id": 5063,
+            "name": "Sangão Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sete Lagoas",
+            "responsible": "Marcus Vinicius de Senna",
+            "address": "Av. José Sérvulo Soalheiro  347 , São Pedro, Sete Lagoas, MG, Brasil",
+            "website": "Face: Marquim Sangão"
+        },
+        {
+            "id": 8832,
+            "name": "Sanity Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Winter Garden",
+            "responsible": "Jonathan M. Perrine",
+            "address": "12810 W. Colonial Dr., Winter Garden, Florida, United States of America",
+            "website": "Orlando, Florida"
+        },
+        {
+            "id": 2574,
+            "name": "Sankaku Dojô",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Paulo Sergio Vieira da S. Junior",
+            "address": "Alameda Das Camélias 84, Cidade 2000, Fortaleza, CE, Brasil",
+            "website": "@sankaku.dojo"
+        },
+        {
+            "id": 5782,
+            "name": "Santa Fe Fight Team",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Santa Fe",
+            "responsible": "Alvaro Rodrigo Santos Bobadilla",
+            "address": "Juan del Campillo 3416, Santa Fe, SF, Argentina",
+            "website": null
+        },
+        {
+            "id": 5180,
+            "name": "Santana do Araguaia BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santana do Araguaia",
+            "responsible": "Wesley Vicuña Santos das Neves",
+            "address": "Av. Dr. Raul Claudio Prates 167, Treze Casas, Santana do Araguaia, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 9716,
+            "name": "Santiago Cimento Jiu-jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cabo Frio",
+            "responsible": "Santiago Raimundo da Silva",
+            "address": "Rua Porto Alegre 98, Palmeiras, Próximo Da Escolinha Do Fluminense., Cabo Frio, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 7576,
+            "name": "Santos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Foz do Iguaçu",
+            "responsible": "Carlos Aldair Medeiros dos Santos",
+            "address": "Rua Cacique 52, Foz do Iguaçu, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 8300,
+            "name": "São Paulo Grappling",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Aldo Consentino Filho",
+            "address": "Rua França Pinto 1357, São Paulo, São Paulo, Brasil",
+            "website": "https://cladeartesmarciais.com/"
+        },
+        {
+            "id": 10504,
+            "name": "Sapateiro Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Honolulu",
+            "responsible": "Edmund Li",
+            "address": "560 N. Nimitz Hwy Suite 112a, Honolulu, Hawaii, United States of America",
+            "website": "www.oahubjj.com"
+        },
+        {
+            "id": 7335,
+            "name": "Sapo Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Rafael Natal Diniz Franca",
+            "address": "Rua Caetano Pirri n:49, Bairro: Milionários, Belo Horizonte, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 5328,
+            "name": "Saracura Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Uberlândia",
+            "responsible": "Emerson Evangelista de Araujo",
+            "address": "Av. Argemiro Evangelista Ferreira, 839, Shopping Park I Bairro: Gávea Sul, Uberlândia, MG, Brasil",
+            "website": "www.saracurajiujitsu.com.br"
+        },
+        {
+            "id": 9399,
+            "name": "Saraiva Team Poland",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Torun",
+            "responsible": "José Henrique Saraiva Nascimento",
+            "address": "Ul. Targowa 36-38, Torun, Poland",
+            "website": null
+        },
+        {
+            "id": 8451,
+            "name": "Sarausa Elite Squad Bjj",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Shenandoah",
+            "responsible": "Michel Sarausa",
+            "address": "14099 Crystal Cave Ln, Shenandoah, Texas, United States of America",
+            "website": null
+        },
+        {
+            "id": 9591,
+            "name": "Sarman Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Campbellfield",
+            "responsible": "Burak Z Sarman",
+            "address": "5/19-25 Somerton Road, Campbellfield, Vic, Australia",
+            "website": null
+        },
+        {
+            "id": 7800,
+            "name": "Saruwatari Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cuiabá",
+            "responsible": "Moises Christopher Hatsuma Saruwatari",
+            "address": "Av. Belvedere, 69, Jardim Imperial, Cuiabá, Mato Grosso, Brasil",
+            "website": "https://www.instagram.com/saruwatariacademia/"
+        },
+        {
+            "id": 2165,
+            "name": "SAS Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Francisco Carlos Pinto Sá",
+            "address": "Rua Clarindo de Queiroz 123 , Centro, Fortaleza, CE, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5765,
+            "name": "SAS Team Syracuse",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Syracuse",
+            "responsible": "Diego Jose Ramos",
+            "address": "731 James St, Syracuse, NY, United States of America",
+            "website": "www.sasteamsyracuse.com"
+        }
+    ]
+}

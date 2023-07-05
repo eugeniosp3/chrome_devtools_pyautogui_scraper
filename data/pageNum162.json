@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 162,
+        "from": 3220,
+        "to": 3240,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5404,
+            "name": "Gracie Barra Laranjeiras do Sul",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Laranjeiras Do Sul",
+            "responsible": "Kleber Willian Odorizzi Ramalho",
+            "address": "Av Santos Dumont 2969, Centro, Laranjeiras Do Sul, PR, Brasil",
+            "website": "fb.com/GBLaranjeiras"
+        },
+        {
+            "id": 3480,
+            "name": "Gracie Barra Laranjeiro",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Almada",
+            "responsible": null,
+            "address": "Rua André Gouveia 41 - H  2810-162, , Almada, x, Portugal",
+            "website": ""
+        },
+        {
+            "id": 5401,
+            "name": "Gracie Barra Las Cruces",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Cruces",
+            "responsible": "Jacob Michael Benitez",
+            "address": "421 Avenida de Mesilla , Ste. C, Las Cruces, NM, United States of America",
+            "website": "www.graciebarra.com"
+        },
+        {
+            "id": 2133,
+            "name": "Gracie Barra Las Vegas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Henderson",
+            "responsible": "Nathan Paz Barreto",
+            "address": "55 S Gibson Rd , , Henderson, NV, United States of America",
+            "website": "www.graciebarralasvegas.com"
+        },
+        {
+            "id": 7623,
+            "name": "Gracie Barra Lauritzen Campina Grande - PB",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campina Grande ",
+            "responsible": "Pablo Emmanuel Magalhaes Nunes",
+            "address": "890 Rua José do O, Lauritzen., Campina Grande , Paraíba , Brasil",
+            "website": "Http://www.graciebarra.com.br"
+        },
+        {
+            "id": 6243,
+            "name": "Gracie Barra Leblon",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Roberto Ferraz Souza",
+            "address": "Avenida Ataulfo de Paiva n: 591, Leblon, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 6369,
+            "name": "Gracie Barra Leme SP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Vanderlei Habermann de Souza",
+            "address": "Rua Jacob Klein 89, Jardim Universitário, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6733,
+            "name": "Gracie Barra Libertyville",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Libertyville",
+            "responsible": "Jamil Salim Fakhoury",
+            "address": "13960 W. Rockland Rd., Libertyville, IL, United States of America",
+            "website": "www.GBlibertyville.com"
+        },
+        {
+            "id": 4748,
+            "name": "Gracie Barra Limassol",
+            "federationAbbr": "IBJJF",
+            "country": "Cyprus",
+            "countryAbbr": "CY",
+            "city": "Limassol",
+            "responsible": "Braulio de Oliveira Estima",
+            "address": "25, Michael Zavou  , , Limassol, Cyprus",
+            "website": "www.graciebarracyprus.com"
+        },
+        {
+            "id": 7843,
+            "name": "Gracie Barra Limoeiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Limoeiro ",
+            "responsible": "Jefferson Marinho da Silva",
+            "address": "Av. Sebastião Miguel De Melo, 2017, Limoeiro , Pernambuco , Brasil",
+            "website": null
+        },
+        {
+            "id": 9383,
+            "name": "Gracie Barra Liverpool",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Gustavo Aragão Filippo",
+            "address": "Shop 2 \u0026 3/28-34 Railway Street - Liverpool, Sydney, New South Wales, Australia",
+            "website": "www.gbliverpool.com.au"
+        },
+        {
+            "id": 3469,
+            "name": "Gracie Barra Ljubljana",
+            "federationAbbr": "IBJJF",
+            "country": "Slovenia",
+            "countryAbbr": "SI",
+            "city": "Ljubljana",
+            "responsible": "Carlos Alberto Maia Filho",
+            "address": "Smartiaska, 106  , , Ljubljana, --, Slovenia",
+            "website": ""
+        },
+        {
+            "id": 3781,
+            "name": "Gracie Barra London",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "London",
+            "responsible": "Fateh Belkalem",
+            "address": "1163 Highbury Avenue N.  , , London, ON, Canada",
+            "website": "www.graciebarralondon.com"
+        },
+        {
+            "id": 4110,
+            "name": "Gracie Barra Londrina PR",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Norival Diego Rossi",
+            "address": "Rua Bento Munhoz da Rocha Neto 515 , Gleba Palhano, Londrina, PR, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5311,
+            "name": "Gracie Barra Long Beach",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Long Beach",
+            "responsible": "Rodrigo Augusto Silveira Rolim",
+            "address": "5423 East Village Road, Ste D, Long Beach, CA, United States of America",
+            "website": "www.gblongbeach.com"
+        },
+        {
+            "id": 2062,
+            "name": "Gracie Barra Long Island",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "New Hyde Park",
+            "responsible": "Joseph W Scarola",
+            "address": "24 Jericho Turnpike  , , New Hyde Park, NY, United States of America",
+            "website": "www.gblongisland.com"
+        },
+        {
+            "id": 5730,
+            "name": "Gracie Barra Los Alamos",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Alamos",
+            "responsible": "Robert James Romero",
+            "address": "1183 Diamond Dr. Suite C, Los Alamos, NM, United States of America",
+            "website": "losalamosbjj.com"
+        },
+        {
+            "id": 9171,
+            "name": "Gracie Barra Los Lunas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Lunas",
+            "responsible": "Tammy M Griego",
+            "address": "3476 Hwy 47, Los Lunas, NM, United States of America",
+            "website": null
+        },
+        {
+            "id": 9170,
+            "name": "Gracie Barra Los Lunas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Lunas",
+            "responsible": "Tammy M Griego",
+            "address": "3476 Hwy 47, Los Lunas, NM, United States of America",
+            "website": null
+        },
+        {
+            "id": 10449,
+            "name": "Gracie Barra Los Lunas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Los Lunas",
+            "responsible": "Tammy M Griego",
+            "address": "3476 Hwy 47, Los Lunas, NM, United States of America",
+            "website": null
+        }
+    ]
+}

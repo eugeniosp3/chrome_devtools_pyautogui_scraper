@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 156,
+        "from": 3100,
+        "to": 3120,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9112,
+            "name": "Gracie Barra Crestview",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Crestview",
+            "responsible": "João Lucas Ferreira Braz da Silva",
+            "address": "763 North Ferdon Boulevard, Crestview, Florida, United States of America",
+            "website": "graciebarra.com/crestview-fl/"
+        },
+        {
+            "id": 3648,
+            "name": "Gracie Barra Crete",
+            "federationAbbr": "IBJJF",
+            "country": "Greece",
+            "countryAbbr": "GR",
+            "city": "Chania",
+            "responsible": "Antonios Kapadoukakis",
+            "address": "Leoforos Irakleiou 17  , Eleftherios Venizelos, Chania, Greece",
+            "website": "http://www.brazilianjiujitsuchania.gr/"
+        },
+        {
+            "id": 8166,
+            "name": "Gracie Barra Cruz Das Armas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa ",
+            "responsible": "Valdénio Mendes Duarte",
+            "address": "Av. Cruz Das Armas 26, Cruz Das Armas , João Pessoa , Paraíba , Brasil",
+            "website": null
+        },
+        {
+            "id": 5125,
+            "name": "Gracie Barra Cruzeiro Brasilia - DF",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia ",
+            "responsible": "Rodrigo Gomes Ferreira",
+            "address": "SRES Lote 15 Bloco B Sobreloja 26B Cruzeiro Center, Cruzeiro Velho, Brasilia , DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 303,
+            "name": "Gracie Barra Cuiabá",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cuiabá",
+            "responsible": "Francisco José Pessoa Fernandes",
+            "address": "Rua 24 De Outubro, 146, Bairro Centro Norte, Cuiabá, MT, Brasil",
+            "website": ""
+        },
+        {
+            "id": 517,
+            "name": "Gracie Barra Curitiba",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Rodrigo Fajardo",
+            "address": "Rua México n: 1053, Curitiba, PR, Brasil",
+            "website": "www.graciecuritiba.com.br"
+        },
+        {
+            "id": 7155,
+            "name": "Gracie Barra Damansara",
+            "federationAbbr": "IBJJF",
+            "country": "Malaysia",
+            "countryAbbr": "MY",
+            "city": "Petaling Jaya",
+            "responsible": "Eneas Alves Colaço",
+            "address": "P-02-06 TRopicana Ave, Jalan P103 Persiaran Tropicana, Petaling Jaya, Sel, Malaysia",
+            "website": "graciebarramy.com"
+        },
+        {
+            "id": 10241,
+            "name": "Gracie Barra Davie",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Davie",
+            "responsible": "Luiz Fabiano da Silva Oliveira",
+            "address": "5167 S University Dr, Davie, Florida, United States of America",
+            "website": "www.gbdavie.com"
+        },
+        {
+            "id": 4143,
+            "name": "Gracie Barra Deerfield",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Deerfield",
+            "responsible": "Marcelo Alves de Souza",
+            "address": "710 Robert York Rd unit C , , Deerfield, IL, United States of America",
+            "website": "www.gbdeerfield.com"
+        },
+        {
+            "id": 6241,
+            "name": "Gracie Barra Delta",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Delta",
+            "responsible": "Marcio Moraes Antony",
+            "address": "158  4857 Elliott St, Delta, BC, Canada",
+            "website": "www.gbdelta.com"
+        },
+        {
+            "id": 3416,
+            "name": "Gracie Barra Derby",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Derby",
+            "responsible": "Stephen Patrick Martin",
+            "address": "Unit 3, Sawley Park, Nottingham Rd, Chaddesden,, Derby, --, United Kingdom",
+            "website": "graciebarraderby.co.uk"
+        },
+        {
+            "id": 5698,
+            "name": "Gracie Barra Diamond Bar",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Diamond Bar",
+            "responsible": "Jaime Antonio Dietz-Velez",
+            "address": "1273 S. Diamond Bar Blvd, Diamond Bar, CA, United States of America",
+            "website": "www.gbdiamondbar.com"
+        },
+        {
+            "id": 4589,
+            "name": "Gracie Barra Doral",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Doral",
+            "responsible": "Paulo R. Castro",
+            "address": "9851 NW 58th St #106  , , Doral, FL, United States of America",
+            "website": ""
+        },
+        {
+            "id": 3128,
+            "name": "Gracie Barra Downers Grove",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Downers Grove",
+            "responsible": "Carlos Lemos Junior",
+            "address": "130 Ogden Ave.  , , Downers Grove, IL, United States of America",
+            "website": "www.gbdownersgrove.com"
+        },
+        {
+            "id": 6675,
+            "name": "Gracie Barra Downey",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Downey",
+            "responsible": "Christopher Albert Guzman",
+            "address": "8043 2nd St #101, Downey, CA, United States of America",
+            "website": "www.GBDowney.com"
+        },
+        {
+            "id": 9389,
+            "name": "Gracie Barra Dripping Springs",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Austin",
+            "responsible": "Robert Max Bookman",
+            "address": "14121 Us 290, Bldg 10a, Austin, Texas, United States of America",
+            "website": "Dripping Springs, Texas"
+        },
+        {
+            "id": 10132,
+            "name": "Gracie Barra Dubai",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Dubai",
+            "responsible": "Douglas da Silva Gonçalves",
+            "address": "Sit Tower Dso, Office 308/309, Dubai, Dubai, United Arab Emirates",
+            "website": "https://www.graciebarrauae.com/"
+        },
+        {
+            "id": 4183,
+            "name": "Gracie Barra Dublin",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Dublin",
+            "responsible": null,
+            "address": "54 Main Street, Dundrum  , , Dublin, --, Ireland",
+            "website": "www.graciebarradublin.tk"
+        },
+        {
+            "id": 4172,
+            "name": "Gracie Barra Edmonton",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Edmonton",
+            "responsible": "Ryan McGillivray",
+            "address": "11500 170 Street  , Edmonton, AB, Canada",
+            "website": "www.gbedmonton.ca"
+        },
+        {
+            "id": 4216,
+            "name": "Gracie Barra El Paso",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "El Paso",
+            "responsible": "Jeffrey Vigil",
+            "address": "125 Graphite Dr.  Ste H, El Paso, TX, United States of America",
+            "website": ""
+        }
+    ]
+}

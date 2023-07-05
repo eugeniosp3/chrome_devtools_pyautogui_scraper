@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 276,
+        "from": 5500,
+        "to": 5520,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7014,
+            "name": "Resistência Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Renan João de Sousa Mesquita",
+            "address": "Av. Lauricio Pedro Rasmussen n: 581, Vila Santa Isabel, Goiânia, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 7148,
+            "name": "Resistencia Jiu-Jitsu Internacional",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Brussels",
+            "responsible": "Renan João de Sousa Mesquita",
+            "address": "Rue Reimond Stijns, Brussels, Belgium",
+            "website": null
+        },
+        {
+            "id": 8348,
+            "name": "Resolute Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Willian Rodrigues",
+            "address": "Rua Damasio Pinto 1246, Rua Francisco Albani 813, São Paulo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6542,
+            "name": "Respect 4 Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pouso Alegre",
+            "responsible": "José Ribamar C. S. Júnior",
+            "address": "Rua Bom Jesus n: 554, Centro, Pouso Alegre, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 7573,
+            "name": "Respire Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Thiago Falcão Goiabeira",
+            "address": "Rua Gustavo Sampaio, 2075, Parquelandia, Fortaleza, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 9398,
+            "name": "Respire Jiu-Jitsu Internacional",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Auray",
+            "responsible": "Thiago Falcão Goiabeira",
+            "address": "15 Ter Chemin De Keropert, Auray, Morbihan, France",
+            "website": null
+        },
+        {
+            "id": 7156,
+            "name": "Rev MMA Toronto",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Toronto ",
+            "responsible": "Joel Gerson",
+            "address": "150 Lesmill Rd #200, Toronto , ON, Canada",
+            "website": "revmma.com"
+        },
+        {
+            "id": 6066,
+            "name": "Reversal Gym Kawaguchi Redips",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kawaguchishi",
+            "responsible": "Tatsuya Onose",
+            "address": "4-5-8 Kawaguchi house 105, Honcho , Kawaguchishi, Saitama, Japan",
+            "website": "www.redips-bjj.com"
+        },
+        {
+            "id": 5007,
+            "name": "Reversal Gym Tachikawa ALPHA",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Masanori Kanehara",
+            "address": "2F Asadabiru 2-3-19 Nishikicho-Tachikawa  , , Tokyo, Japan",
+            "website": "www.reversal-alpha.com"
+        },
+        {
+            "id": 9666,
+            "name": "Reverse Action Jiu-Jitsu",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Odivelas",
+            "responsible": "Carlos Jorge Nunes Lopes Tavares",
+            "address": "Rua Pulido Valente 11 - 3a, Odivelas, Lisboa, Portugal",
+            "website": null
+        },
+        {
+            "id": 8273,
+            "name": "Revive Jiu-Jitsu Dubai",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Dubai ",
+            "responsible": "Emilio Carlos da Silva Junior",
+            "address": "Al Nahda2, Amman Street, Dubai , Dubai , United Arab Emirates",
+            "website": "Revivefitness2021@gamil.com"
+        },
+        {
+            "id": 9819,
+            "name": "Reviver Esportes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itajaí",
+            "responsible": "Wendy William do Nascimento",
+            "address": "Rua Benjamim Franklin Pereira, 458, São João, Itajaí, Santa Catarina, Brasil",
+            "website": "igrejareviver.com.br"
+        },
+        {
+            "id": 9585,
+            "name": "Revolução Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Vinicius Paula Bastos",
+            "address": "Rua Das Casas Polulares 221, Muro De Pedra, Teresópolis, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4303,
+            "name": "Revolution Dojo",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Katy",
+            "responsible": "Jeffrey S. Messina",
+            "address": "414 W. Grand Parkway Unit 197 , , Katy, TX, United States of America",
+            "website": "www.revolutiondojo.com"
+        },
+        {
+            "id": 10077,
+            "name": "Revs BJJ Kent",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Rochester",
+            "responsible": "Stephen Spencer O'Keeffe",
+            "address": "27 Hedgerows, Hoo, Rochester, Kent, United Kingdom",
+            "website": "217 London Rd, Stone, Greenhithe, DA9 9DQ"
+        },
+        {
+            "id": 2090,
+            "name": "Reyson Gracie",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": null,
+            "address": "Rua Silva Castro 39 , Copacabana, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8673,
+            "name": "Reyson Gracie / Barradas Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Coconut Creek",
+            "responsible": "Marcos Maciel de Oliveira",
+            "address": "5521 51st Ave Coconut Creek, Coconut Creek, Flórida, United States of America",
+            "website": null
+        },
+        {
+            "id": 8833,
+            "name": "Reyson Gracie España",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Altea",
+            "responsible": "Oscar Gonzalez Daniotti",
+            "address": "Calle La Mar 109, Altea, Spain",
+            "website": null
+        },
+        {
+            "id": 8525,
+            "name": "Reyson Gracie Europe",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Lazio ",
+            "responsible": "Reyson Gracie",
+            "address": "Via Delle Gondole ,35 Interno 3 Lido Di Ostia Roma Italia , Lazio , Rome , Italy",
+            "website": null
+        },
+        {
+            "id": 10177,
+            "name": "Reyson Gracie Niteroi",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niteroi",
+            "responsible": "Wallace Laurentino Freitas",
+            "address": "Rua Senador Fernades Da Cunha, 58, Niteroi, Rj, Brasil",
+            "website": null
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 343,
+        "from": 6840,
+        "to": 6860,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9533,
+            "name": "Valle Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Londonderry",
+            "responsible": "Lucas Benévolo Valle",
+            "address": "5 Macgregor Court #102, Londonderry, NEW HAMPSHIRE, United States of America",
+            "website": "Vallebjj@gmail.com"
+        },
+        {
+            "id": 8597,
+            "name": "Valley Of The Sun Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ketchum",
+            "responsible": "Georges Joel Bouhey",
+            "address": "Po Box 6705, Ketchum, Id, United States of America",
+            "website": null
+        },
+        {
+            "id": 3137,
+            "name": "Vamos Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Holbrook",
+            "responsible": "Alexander Vamos",
+            "address": "4713 Vets Highway  , , Holbrook, NY, United States of America",
+            "website": "www.vamosjiujitsu.com"
+        },
+        {
+            "id": 10639,
+            "name": "Van Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Jeonju",
+            "responsible": "Yosik Kang",
+            "address": "#201 Van Jiu-jitsu, 91, Hoam-ro, Wansan-gu, Jeonju-si, Jeollabuk-do, Republic Of Korea, Jeonju, Jeollabuk-do, Korea, South",
+            "website": null
+        },
+        {
+            "id": 8726,
+            "name": "Vancouver Island Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Victoria",
+            "responsible": "Matthew De Groot",
+            "address": "Unit 5 - 744, Fairview Road, Victoria, British Columbia, Canada",
+            "website": "www.vibjj.com"
+        },
+        {
+            "id": 10104,
+            "name": "Vantage Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Adam Michael Childs",
+            "address": "439-441 Old South Head Road Rose Bay, Sydney, New South Wales, Australia",
+            "website": "https://vantagejiujitsu.com.au/"
+        },
+        {
+            "id": 4782,
+            "name": "Vargflock JJ",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Porto",
+            "responsible": "Carlos Manuel Santos Ferreira",
+            "address": "Rua Prof. Dr. Francisco Sá Carneiro 283 ., ., Porto, ., Portugal",
+            "website": ""
+        },
+        {
+            "id": 1089,
+            "name": "Vasco Bento JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": null,
+            "address": "Professor José Oiticica  81 , Campo Grande, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6489,
+            "name": "Vassouras BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "André Luiz de Souza Vassouras",
+            "address": "Rua Oscar Cintra Gordinho n: 185 apt 512, Bairro: Liberdade, São Paulo, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 4391,
+            "name": "Vaxjo Titans",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Vaxjo",
+            "responsible": "Ulf Magnus Elm",
+            "address": "Ostregardsgatan 24  , , Vaxjo, Sweden",
+            "website": "titans.se"
+        },
+        {
+            "id": 4461,
+            "name": "VBFT Vagner Bueno Fighters Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Alvorada",
+            "responsible": "Vagner Bueno Capela",
+            "address": "R. Vereador Serapião Goulart 239 3º andar, Bela Vista, Alvorada, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 5114,
+            "name": "VBros BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Las Vegas",
+            "responsible": "Rene Eduardo Lopez",
+            "address": "3920 W. Ann Road Suite 110  , , North Las Vegas, NV, United States of America",
+            "website": "www.villsbrosbjj.com"
+        },
+        {
+            "id": 10086,
+            "name": "VCA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Southern Pines",
+            "responsible": "Ronnie Trey Louis Pace III",
+            "address": "1405 Central Dr., Southern Pines, Nc, United States of America",
+            "website": null
+        },
+        {
+            "id": 6440,
+            "name": "VCB Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia ",
+            "responsible": "Valmecio Camelo da Silva",
+            "address": "QI 10, BL B, LOJA 2, Guará 1, Brasilia , Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 6805,
+            "name": "VDBJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Wiesbaden",
+            "responsible": "Nguyen Vuong Doan",
+            "address": "Alte Dorfstrasse 64, Wiesbaden, HE, Germany",
+            "website": "www.vuongbjj.de"
+        },
+        {
+            "id": 6028,
+            "name": "Vega Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Jailson José da Silva",
+            "address": "Rua Santo Ângelo N: 69 B, Bairro San Martin, Próximo Da Praça Da Barriguda, Recife, Pernambuco, Brasil",
+            "website": null
+        },
+        {
+            "id": 6354,
+            "name": "Vegeta Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Kledson Maciel Godinho",
+            "address": "Gleba 01 quadra E n40 Passagem G3, Nova Marambaia, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 10020,
+            "name": "Velha Guarda JJB",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Clermont-ferrand",
+            "responsible": "El Mehdi Khalil",
+            "address": "19 Rue Pélissier, Clermont-ferrand, France",
+            "website": null
+        },
+        {
+            "id": 7218,
+            "name": "Vencer Centro Esportivo Resgate",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João de Meriti",
+            "responsible": "André Barroso Pires",
+            "address": "Rua Ex Combatente n: 36, Bairro: Coelho da Rocha, São João de Meriti, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 3801,
+            "name": "Veneration BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kenosha",
+            "responsible": "David Scott Rosenmarkle",
+            "address": "8501 75th Street  , , Kenosha, WI, United States of America",
+            "website": "www.graciebarrawisconsin.com "
+        }
+    ]
+}

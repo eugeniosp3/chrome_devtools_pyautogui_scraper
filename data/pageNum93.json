@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 93,
+        "from": 1840,
+        "to": 1860,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9401,
+            "name": "Cuero Family Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cuero",
+            "responsible": "Jeffery Lee Bonugli",
+            "address": "105 E French St., Cuero, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 10293,
+            "name": "Culture Of Jiu-Jitsu / GFTeam",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gaithersburg",
+            "responsible": "Max Santos Gimenis",
+            "address": "220 Girard St Unit H, Gaithersburg, Md, United States of America",
+            "website": "www.cultureofjiujitsu.com"
+        },
+        {
+            "id": 5457,
+            "name": "Cunha Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém ",
+            "responsible": "Frontin Cunha",
+            "address": "Av. Aviador Major Seda 157, Catalina, MAngueirão, Belém , PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 7599,
+            "name": "Curucuruland BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Niteroi ",
+            "responsible": "Rodrigo Borges Pagani",
+            "address": "Rua Bertha Motta Vieira 1126 , Quadra 18, Niteroi , Rj, Brasil",
+            "website": "www.curucuruland.com"
+        },
+        {
+            "id": 5381,
+            "name": "Curucuruland BJJ - Canada",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Aldergrove",
+            "responsible": "Dean Mitchell Toews",
+            "address": "3092 272nd Street, Aldergrove, BC, Canada",
+            "website": "www.brasilwellnesscenter.com"
+        },
+        {
+            "id": 5109,
+            "name": "Custom Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Klamath Falls",
+            "responsible": "Adam R. Stacey",
+            "address": "5014 Mazama Drive, Klamath Falls, OR, United States of America",
+            "website": "https://www.subconsciousbjj.com/"
+        },
+        {
+            "id": 6768,
+            "name": "Cute",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Adachi",
+            "responsible": "Gaku Inano",
+            "address": "6-11-12 Umeda, Adachi, Tokyo, Japan",
+            "website": "http://www.yellowmanz-cute.com/"
+        },
+        {
+            "id": 2425,
+            "name": "Cutting Edge Brazilian JiuJitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Harrison",
+            "responsible": null,
+            "address": "210 Harrison Ave  , , Harrison, NJ, United States of America",
+            "website": "www.cebjj.com"
+        },
+        {
+            "id": 4272,
+            "name": "CWB Prime BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Rodolfo Ebrahim Carvalho",
+            "address": "Rua Paulo Setubal n: 4110, Sobreloja, Curitiba, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 5218,
+            "name": "CXBJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Swansboro",
+            "responsible": "Enrique Watson",
+            "address": "686 W. Corbett Ave Suite 3, Swansboro, NC, United States of America",
+            "website": "www.cxmmainternational.com"
+        },
+        {
+            "id": 9747,
+            "name": "Cycle Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Geneva",
+            "responsible": "Nicolas Horn",
+            "address": "26 Rue Mele D'aubigné, Geneva, Geneva, Switzerland",
+            "website": null
+        },
+        {
+            "id": 8508,
+            "name": "Cyrosylva Team  Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cidade Ocidental",
+            "responsible": "José Ciro da Silva",
+            "address": "Sq 13 Quadra 2  Casa 30, Cidade Ocidental, Goias, Brasil",
+            "website": null
+        },
+        {
+            "id": 10508,
+            "name": "D M F T Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pelotas",
+            "responsible": "Diom Tubalcaim Jahnke Machado",
+            "address": "Rua Paulo Guilayn, 147, Casa, Pelotas, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 6915,
+            "name": "D.O.A. Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Pessac",
+            "responsible": "Anthony Guy De Oliveira",
+            "address": "16 Avenue Louis de Broglie, Pessac, France, France",
+            "website": null
+        },
+        {
+            "id": 9505,
+            "name": "D15 Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Dublin",
+            "responsible": "Lukasz Szatkowski",
+            "address": "Unit 5, Coolmine Central, Coolmine Industrial Estate, Dublin, Dublin, Ireland",
+            "website": "www.d15academy.com"
+        },
+        {
+            "id": 9703,
+            "name": "Da Firma Training Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chesapeake",
+            "responsible": "Ricardo Miguel Tubbs",
+            "address": "912 Professional Place, Suite A/b, Chesapeake, Va, United States of America",
+            "website": "www.dafirmatc.com"
+        },
+        {
+            "id": 7674,
+            "name": "Daehan  BJJ  Association",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "4F, 46, Dongsomun-ro 20 gagil, Seongbuk-gu, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 6535,
+            "name": "Dai Ki Dojo Trinacria BJJ",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Catania",
+            "responsible": "Luigi David Cialona",
+            "address": "Viale Marco Polo n.2, Catania, Italy",
+            "website": "www.daikidojo.com"
+        },
+        {
+            "id": 5726,
+            "name": "Dailson Pinheiro de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Dailson de Lima Pinheiro",
+            "address": "Av. Tancredo Neves n: 619 - 2 piso, Parque Dez de Novembro, Manaus, Manaus, Brasil",
+            "website": null
+        },
+        {
+            "id": 8094,
+            "name": "Daimyo Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tucson",
+            "responsible": "Manuel Vazquez Flores",
+            "address": "2840 W Ina Suit 36, Tucson, Arizona, United States of America",
+            "website": "Daimyobjj.com"
+        }
+    ]
+}

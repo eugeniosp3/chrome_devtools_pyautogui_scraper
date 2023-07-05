@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 204,
+        "from": 4060,
+        "to": 4080,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8682,
+            "name": "Júlio Cesar Gaúcho Escola De BJJ / MMA",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Julio Cesar Araujo Fernandes",
+            "address": "Lindomar Dos Reis 100, Carlos Salzano 22, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 595,
+            "name": "Julio Secco",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Grande",
+            "responsible": "Julio Frederico Secco",
+            "address": "Rua Major Carlos Pinto, 178, Centro, Rio Grande, RS, Brasil",
+            "website": "mestrejuliosecco.com.br"
+        },
+        {
+            "id": 10036,
+            "name": "Jump Fight Club",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Saitamasi",
+            "responsible": "Shinsuke Moribe ",
+            "address": "Midoriku Saido, 3-5-15, Saitamasi, Saitamaken, Japan",
+            "website": "http://r.goope.jp/jumpfight"
+        },
+        {
+            "id": 2882,
+            "name": "Jungle BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Czech Republic",
+            "countryAbbr": "CZ",
+            "city": "Prague",
+            "responsible": "Fernando Nascimento Araujo",
+            "address": "Lublanska 125/20  , , Prague, --, Czech Republic",
+            "website": "www.junglebjj.com"
+        },
+        {
+            "id": 10224,
+            "name": "Jungle Team / Renan Lopes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Friburgo",
+            "responsible": "Renan Moreira Lopes",
+            "address": "Rua Maria Ferreira Medeiros 18, Casa, Nova Friburgo, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 9536,
+            "name": "Junikó",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hanover",
+            "responsible": "Bruno César Dias",
+            "address": "1376 Washington Street, Hanover, Massachusetts, United States of America",
+            "website": "www.Juniko.com"
+        },
+        {
+            "id": 10491,
+            "name": "Junior Borsato Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Abu Dhabi",
+            "responsible": "Diógenes Pedro B. dos Santos Junior",
+            "address": "Abu Dhabi, Abu Dhabi, Ad, United Arab Emirates",
+            "website": null
+        },
+        {
+            "id": 10190,
+            "name": "Junior Fernandes BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Lauderdale",
+            "responsible": "Jorge Luiz de Mello Fernandes Junior",
+            "address": "582 Southwest Flagler Avenue, Fort Lauderdale, Fl, United States of America",
+            "website": "attftl.com"
+        },
+        {
+            "id": 3745,
+            "name": "Junior Santos Jungle",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Friburgo",
+            "responsible": "Simonides Manoel dos Santos Júnior",
+            "address": "Estrada Vereador Eugênio Guilherme Spitz 2600 Casa de Esquina, Bairro: Mury, Nova Friburgo, RJ, Brasil",
+            "website": "jrsantosjungle.com.br"
+        },
+        {
+            "id": 6660,
+            "name": "Juquinha Worldwide",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Kyneton",
+            "responsible": "Adimilson da Rosa Brites",
+            "address": "23 High Street, Kyneton, VIC, Australia",
+            "website": null
+        },
+        {
+            "id": 7540,
+            "name": "Just Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "James Williams Saks",
+            "address": "25 Mexfield Rd, Wandworth, London, London, United Kingdom",
+            "website": "www.JustJiu-Jitsu.com"
+        },
+        {
+            "id": 10113,
+            "name": "Justin Lough Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Purcellville",
+            "responsible": "Justin Christopher Lough",
+            "address": "37251 East Richardson Lane, Purcellville, Virginia, United States of America",
+            "website": "www.jloughbjj.com"
+        },
+        {
+            "id": 9166,
+            "name": "K. BJJ On",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Seung-Jae Lee",
+            "address": "7f, #706(k. Bjj On, Ion Square), 188, Wirye Gwangjang-ro, Songpa-gu, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 10382,
+            "name": "K.S. Duarte BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Eduardo da Silva Conceição",
+            "address": "Travessa Bom Jardim, N741, Bairro: Jurunas, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 5810,
+            "name": "Kabuto Fight Club",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "la Rochelle",
+            "responsible": "Gregory Samuel Judes",
+            "address": "26 rue debussy, la Rochelle, France",
+            "website": "www.kabutofightclub.com"
+        },
+        {
+            "id": 7821,
+            "name": "Kadima  Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Pedro Maltz",
+            "address": "rua libero badaro, 343 1304 TORRE B, Porto Alegre, RS, Brasil",
+            "website": null
+        },
+        {
+            "id": 6760,
+            "name": "Kairos Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Gonçalo",
+            "responsible": "Fabricio Rodrigues da Silva",
+            "address": "Rod. Prefeito João Sampaio n: 280 B, Rio D`Ouro, São Gonçalo, Rio de Janeiro, Brasil",
+            "website": "https://www.instagram.com/kairosbjj/"
+        },
+        {
+            "id": 8582,
+            "name": "Kaizen Academy Lancaster",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Lancaster",
+            "responsible": "Michael James Wood",
+            "address": "Kaizen Academy, Ridge Lane, Lancaster, United Kingdom",
+            "website": "https://kaizenlancaster.co.uk/"
+        },
+        {
+            "id": 5592,
+            "name": "Kaizen BJJ Brussels / Behring",
+            "federationAbbr": "IBJJF",
+            "country": "Belgium",
+            "countryAbbr": "BE",
+            "city": "Auderghen",
+            "responsible": "Flavio Schmidt Behring",
+            "address": "Gymnasium, Boulevard des Invalides 214-216, Auderghen, Belgium",
+            "website": "http://kaizen-bjj.be"
+        },
+        {
+            "id": 8411,
+            "name": "KajuAZ BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mesa",
+            "responsible": "Kelly Dean Corder",
+            "address": "2602 W Baseline Rd, Suite 2, Mesa, Az, United States of America",
+            "website": "www.kajuaz.com"
+        }
+    ]
+}

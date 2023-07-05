@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 161,
+        "from": 3200,
+        "to": 3220,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9641,
+            "name": "Gracie Barra Jefferson City, Missouri",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jefferson City",
+            "responsible": "Bruno Kiosea Pereira",
+            "address": "512 Ellis Blvd, P, Jefferson City, Missouri, United States of America",
+            "website": "www.gbjeffersoncity.com"
+        },
+        {
+            "id": 453,
+            "name": "Gracie Barra João Pessoa-PB",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Joao Pessoa",
+            "responsible": null,
+            "address": "  , , Joao Pessoa, PB, Brasil",
+            "website": ""
+        },
+        {
+            "id": 1093,
+            "name": "Gracie Barra Joinville",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Joinville",
+            "responsible": "Bruno Henrique Meireles Rocha",
+            "address": "Rua XV de Novembro n; 1156, Bairro: America, Joinville, SC, Brasil",
+            "website": "www.graciebarrajoinville.com.br"
+        },
+        {
+            "id": 4627,
+            "name": "Gracie Barra Kapolei",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kapolei",
+            "responsible": "Elias Ramirez III",
+            "address": "1019 Lauia St Bay 7  , , Kapolei, HI, United States of America",
+            "website": "www.gbkapolei.com"
+        },
+        {
+            "id": 10119,
+            "name": "Gracie Barra King's Lynn",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "King's Lynn",
+            "responsible": "Vanessa English",
+            "address": "The Den Fight Centre, Unit 34 Austin Fields, King's Lynn, Norfolk, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 4544,
+            "name": "Gracie Barra Kissimmee",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kissimmee",
+            "responsible": "Igor Dominguez Andrade",
+            "address": "3831 West Vine Street Ste. #80, Kissimmee, FL, United States of America",
+            "website": "gbkissimmee.com"
+        },
+        {
+            "id": 10737,
+            "name": "Gracie Barra Kitsilano",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Vancouver",
+            "responsible": "Rodrigo de Carvalho Silva",
+            "address": "3611 W Broadway, Vancouver, Bc, Canada",
+            "website": "www.gbkitsilano.com"
+        },
+        {
+            "id": 3768,
+            "name": "Gracie Barra Knightsbridge",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Lucio Furtado Rodrigues",
+            "address": "8 Egerton Gardens Mews  , , London, --, United Kingdom",
+            "website": "graciebarraknightsbridge.com"
+        },
+        {
+            "id": 3087,
+            "name": "Gracie Barra Knoxville",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Knoxville",
+            "responsible": "Samuel Braga Olivar da Cruz",
+            "address": "8373 Kingstone Pike St 200  , , Knoxville, TN, United States of America",
+            "website": "www.gbknox.com"
+        },
+        {
+            "id": 2182,
+            "name": "Gracie Barra Kobe",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kobe",
+            "responsible": "Nao Takigawa",
+            "address": "3F Citylife Building Samomiya 116-1 Higashimachi Chuo-ku, Kobe, Hyogo, Japan",
+            "website": "www.graciebarra.jp"
+        },
+        {
+            "id": 6012,
+            "name": "Gracie Barra Korea",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Ju Pyo Hong",
+            "address": "3rd floor 147 Hanchen-ro Dongdaemun-gu, Seoul, --, Korea, South",
+            "website": "http://graciebarrakorea.com"
+        },
+        {
+            "id": 2421,
+            "name": "Gracie Barra Kuwait Academy (Kyokai)",
+            "federationAbbr": "IBJJF",
+            "country": "Kuwait",
+            "countryAbbr": "KW",
+            "city": "Kuwait",
+            "responsible": "Ahmad A. M. Alhouli",
+            "address": "Roudah , Block 3 , St. Sh. Albahar  , , Kuwait, Kuwait, Kuwait",
+            "website": ""
+        },
+        {
+            "id": 10634,
+            "name": "Gracie Barra La Cañada Flintridge",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "La Cañada Flintridge",
+            "responsible": "Amanda Yuki Grummon ",
+            "address": "814 Foothill Blvd, La Cañada Flintridge, Ca, United States of America",
+            "website": null
+        },
+        {
+            "id": 5852,
+            "name": "Gracie Barra Lago Sul Brasilia DF",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Distrito Federal",
+            "responsible": "Paulo Mauricio Rocha",
+            "address": "SHIS Q 1 9 / 11 BLOCO B - N: 202 Sala, Lago Sul, Distrito Federal, Brasilia, Brasil",
+            "website": null
+        },
+        {
+            "id": 6598,
+            "name": "Gracie Barra Lagoa Florianópolis SC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Rosângela Guardini Ortiz",
+            "address": "Rua Altenor Vieira n: 286, Lagoa da Conceição , Florianópolis, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 5549,
+            "name": "Gracie Barra Lake Charles",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "LAke Charles",
+            "responsible": "Jaime Gomez Pardo",
+            "address": "300 W McNeese, LAke Charles, LA, United States of America",
+            "website": "gblakecharles.com"
+        },
+        {
+            "id": 10493,
+            "name": "Gracie Barra Lake Nona",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Orlando",
+            "responsible": "Adrian Antoine Abou Jaoude",
+            "address": "8288 Lee Vista Bld, Suit B, Orlando, Florida, United States of America",
+            "website": "gblakenona.com"
+        },
+        {
+            "id": 8890,
+            "name": "Gracie Barra Lakeway",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lakeway",
+            "responsible": "Tyler Scott Bosard",
+            "address": "2301 Ranch Rd 620 S #170, Lakeway, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 4671,
+            "name": "Gracie Barra Langley",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Langley",
+            "responsible": "Fabio Bueno Gomide",
+            "address": "104-20460 Langley Bypass  , , Langley, BC, Canada",
+            "website": "gblangley.ca"
+        },
+        {
+            "id": 4158,
+            "name": "Gracie Barra Laranjeiras - ES",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Serra",
+            "responsible": "José Paulo da Silveira Junqueira",
+            "address": "Rua Carlos Gomes, 793, Parque Residencial Laranjeiras, Serra, ES, Brasil",
+            "website": "www.gblaranjeiras.com.br"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 167,
+        "from": 3320,
+        "to": 3340,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7534,
+            "name": "Gracie Barra Ponta Grossa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ponta Grossa",
+            "responsible": "Rodrigo Fajardo",
+            "address": "Rua Contenda n: 181, Sala 6 - Vila Estrela, Ponta Grossa, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 10488,
+            "name": "Gracie Barra Pontalina",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pontalina",
+            "responsible": "Tassio Henrique Acacio Abreu Andrade",
+            "address": "Academia Bt Prime Fitnes , Vila Brasil 2, Pontalina, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 7019,
+            "name": "Gracie Barra Port Coquitlam",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Port Coquitlam",
+            "responsible": "Carlos Vitor Vilhena Filho",
+            "address": "1380 Dominion Ave. , Port Coquitlam, BC, Canada",
+            "website": "www.gbportcoquitlam.com"
+        },
+        {
+            "id": 6657,
+            "name": "Gracie Barra Posse GO",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Posse",
+            "responsible": "Marcelo Araujo Gouveia Monteiro",
+            "address": "Avenida Jucelino Kubitscheck De Oliveira, Qd 04, Lt 11, Setor Guarani, Setor Garani, Posse, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 9478,
+            "name": "Gracie Barra Pq Jequitibás - São João da Boa Vista",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João Da Boa Vista",
+            "responsible": "Vitor Cesar  Cavini Mazzer",
+            "address": "Avenida Doutor Durval Nicolau, 3040, São João Da Boa Vista, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 5080,
+            "name": "Gracie Barra Praia - Barra da Tijuca - RJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Murillo Carvalho da Silva Neto",
+            "address": "Rua Lourenço Filho 450 Casa, Barra da Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 8071,
+            "name": "Gracie Barra Praia - Pernambuco",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Piedade",
+            "responsible": "Vitor dos Santos de Carvalho Vachala",
+            "address": "Rua Chimarrão, 39, Piedade, Pernambuco, Brasil",
+            "website": "www.gbpraiapiedade.com.br"
+        },
+        {
+            "id": 6042,
+            "name": "Gracie Barra Praia Brava Itajaí SC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Praia Brava",
+            "responsible": "Vinícius Seixas Teixeira",
+            "address": "Rua Luci Canziani n: 550, Anexo Clube Fazenda, Praia Brava, Itajaí, Brasil",
+            "website": null
+        },
+        {
+            "id": 441,
+            "name": "Gracie Barra Praia da Costa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vila Velha",
+            "responsible": "Andre Luis dos Santos Almeida",
+            "address": "Rua Professor Telmo de Souza Torres n: 517, Praia da Costa, Vila Velha, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 9629,
+            "name": "Gracie Barra Praia De Itaparica",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vila Velha",
+            "responsible": "Eduardo Paes Barreto Amaral",
+            "address": "Av Antonio Almeida Filho, Loja 4, Praia de Itaparica, Vila Velha, Espirito Santo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4787,
+            "name": "Gracie Barra Prata - Campina Grande",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campina Grande",
+            "responsible": "Herede Norões Botelho",
+            "address": "Rua Rodrigues Alves,  1797 , Bairro Universitário , Campina Grande, PB, Brasil",
+            "website": null
+        },
+        {
+            "id": 7143,
+            "name": "Gracie Barra Premium Alta Floresta",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Alta Floresta",
+            "responsible": "Ademir Toshio Ohta",
+            "address": "Av. Das Embaúbas, Nº531, Santa Maria, Alta Floresta, MT, Brasil",
+            "website": "https://www.instagram.com/gb_altafloresta/"
+        },
+        {
+            "id": 2818,
+            "name": "Gracie Barra Preston",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Preston",
+            "responsible": "John Paul Hartley",
+            "address": "1 Falkland Street  , Preston, --, United Kingdom",
+            "website": "www.graciebarrapreston.co.uk"
+        },
+        {
+            "id": 7492,
+            "name": "Gracie Barra Puyallup",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Puyallup",
+            "responsible": null,
+            "address": "12623 Meridian E. Suite A4, Puyallup, WA, United States of America",
+            "website": null
+        },
+        {
+            "id": 9252,
+            "name": "Gracie Barra Quincy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Quincy",
+            "responsible": "Beau L. Viehmann",
+            "address": "2500 Broadway St, Suite 2, Quincy, Il, United States of America",
+            "website": "https://graciebarra.com/quincy-il/"
+        },
+        {
+            "id": 10315,
+            "name": "Gracie Barra Ramada",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Lisboa",
+            "responsible": "Wilson Miranda Chagas",
+            "address": "Rua Fernando Farinha, Lote89 Loja A, Lisboa, Lisboa, Portugal",
+            "website": "www.graciebarraramada.pt"
+        },
+        {
+            "id": 2510,
+            "name": "Gracie Barra Rancho Santa Margarita",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Rancho Santa Margarita",
+            "responsible": "Rafael L. Oliveira",
+            "address": "29911 Aventura Ave, Suite A, Rancho Santa Margarita, CA, United States of America",
+            "website": "www.graciebarrarsm.com"
+        },
+        {
+            "id": 4835,
+            "name": "Gracie Barra Recreio",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Guilherme Ferreira Iunes",
+            "address": "Prefeito Dulcídio Cardoso  200 Clube Ginastico Portugues, Recreio dos Bandeirantes, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9895,
+            "name": "Gracie Barra Research Forest",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "The Woodlands",
+            "responsible": "Joel Aaron Heinen",
+            "address": "4747 Research Forest Dr., Site 125, The Woodlands, Tx, United States of America",
+            "website": "www.gbresearchforest.com"
+        },
+        {
+            "id": 3994,
+            "name": "Gracie Barra Reserva",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Diogo Martins de Almeida",
+            "address": "Rua Eng. Haroldo Cavalcanti 360 Loja A, Recreio, Rio de Janeiro, RJ, Brasil",
+            "website": "www.gbreserva.com"
+        }
+    ]
+}

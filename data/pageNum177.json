@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 177,
+        "from": 3520,
+        "to": 3540,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6124,
+            "name": "Gracie Swindon",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Swindon",
+            "responsible": "Lucas Luz Gonçalves Leite",
+            "address": "Crowded House, Gipsy Lane, Swindon, --, United Kingdom",
+            "website": "www.GracieSwindon.com"
+        },
+        {
+            "id": 2809,
+            "name": "Gracie Tampa South",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tampa",
+            "responsible": "Robert Irving Kahn",
+            "address": "1345 Gray St  , , Tampa, FL, United States of America",
+            "website": "www.gracietampasouth.com"
+        },
+        {
+            "id": 6234,
+            "name": "Gracie Terra JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Vitor Gabriel Terra da Silva",
+            "address": "Rua Prudente de Morais n: 386, Ipanema, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": "gracieterra.com"
+        },
+        {
+            "id": 8938,
+            "name": "Gracie Terra Jj Portugal",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Estoril",
+            "responsible": "Fabio Latini de Souza",
+            "address": "Rua Do Viveiro, Lote 15 - 5f, Estoril, Lisboa, Portugal",
+            "website": "www.gracieterra.com"
+        },
+        {
+            "id": 511,
+            "name": "Gracie Tijuca",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": null,
+            "address": "Tijuca, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6471,
+            "name": "Gracie Uddevalla",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Uddevalla",
+            "responsible": "Tony Larsson",
+            "address": "Junogatan 7, Uddevalla, --, Sweden",
+            "website": "www.ultimategym.se"
+        },
+        {
+            "id": 9033,
+            "name": "Graciegym Richardson",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Richardson",
+            "responsible": "Crolin Gracie",
+            "address": "819 West Arapaho Road Suite 18, Richardson, Texas, United States of America",
+            "website": "https://graciegymrichardson.com/"
+        },
+        {
+            "id": 10693,
+            "name": "Gran Jiu-Jitsu - Equipe Amélio Chiaratto",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ariquemes",
+            "responsible": "Amélio Chiaratto Neto",
+            "address": "Av. Guaporé, 3577, Setor 05, Ariquemes, Ro, Brasil",
+            "website": null
+        },
+        {
+            "id": 8718,
+            "name": "Grand Prairie Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Grand Prairie",
+            "responsible": "Casey Michael Gray",
+            "address": "830 Mayfield Rd, Ste 120, Grand Prairie, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 9001,
+            "name": "Grand River Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Cambridge",
+            "responsible": "Cicero Andre Schiavini",
+            "address": "89 Main Street, Unit 102, Cambridge, Ontario, Canada",
+            "website": "www.grandriverbjj.ca"
+        },
+        {
+            "id": 3530,
+            "name": "Grand Union Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Brighton",
+            "responsible": "Cesar de Sousa Lima Junior",
+            "address": "10 High Street, Brighton, United Kingdom",
+            "website": "www.GrandUnionBJJ.com"
+        },
+        {
+            "id": 9460,
+            "name": "Grapple Collective",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "Max Leon Bickerton",
+            "address": "Grapple Collective, 117 Chapman Street, London, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 7318,
+            "name": "Grapple Lab Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Toronto",
+            "responsible": "Mani Jamal",
+            "address": "1992 Yonge Street, Toronto, ON, Canada",
+            "website": "www.grapplelabbjj.com"
+        },
+        {
+            "id": 6249,
+            "name": "Grapplers Guide",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "East Brunswick",
+            "responsible": "Jason Scully",
+            "address": "19 Landsdowne Road, East Brunswick, NJ, United States of America",
+            "website": "GrapplersGuide.com"
+        },
+        {
+            "id": 10018,
+            "name": "Grapplers Mafia",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Missouri City",
+            "responsible": "James E. Wilson",
+            "address": "3740 Carted 248, Missouri City, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 7683,
+            "name": "Grappling Arts Studios",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "shrewsbury ",
+            "responsible": "Joseph Ur Jr",
+            "address": "827 broad st , shrewsbury , new jersey , United States of America",
+            "website": "grapplingartsstudios.com"
+        },
+        {
+            "id": 8864,
+            "name": "Grappling Brothers",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Iguatama",
+            "responsible": "Jean Rosa da Silva",
+            "address": "Rua 176  Nº 111, Iguatama, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 7395,
+            "name": "Grappling Dynamics",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Brandon Michael Magana",
+            "address": "3061-B Clairemont Dr., San Diego, CA, United States of America",
+            "website": "www.grapplingdynamics.com"
+        },
+        {
+            "id": 7856,
+            "name": "Grappling Education",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Keller Locke-Sodhi",
+            "address": "45 Princes Highway Kogarah, Sydney, Nsw, Australia",
+            "website": "www.grapplingeducation.com"
+        },
+        {
+            "id": 7570,
+            "name": "Grappling Krakow",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Krakow",
+            "responsible": "Vagner Luiz Guimarães da Cruz",
+            "address": "Luzycka 49/45 , Krakow, Poland",
+            "website": "https://grapplingkrakow.com.pl/"
+        }
+    ]
+}

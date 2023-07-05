@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 355,
+        "from": 7080,
+        "to": 7100,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 6102,
+            "name": "Zebu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Jaboatão dos Guararapes",
+            "responsible": "Thompson Clay Coelho Bastos",
+            "address": "Rua Antonio Ferreira Campos, Num. 5170, Bairro: Candeias, Jaboatão dos Guararapes, PE, Brasil",
+            "website": null
+        },
+        {
+            "id": 8270,
+            "name": "Zebulom Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ocidental",
+            "responsible": "José Carlos do Nascimento",
+            "address": "Quadra 35 Lote P. Parque Das Américas, Ocidental, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 7026,
+            "name": "Zeca Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Lauro de Freitas",
+            "responsible": "Renato Caldana",
+            "address": "Av. Praia de Itapuã n: 1053, Vilas do Atlântico, Lauro de Freitas, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 8915,
+            "name": "Zeek Gym",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Chiba",
+            "responsible": "Yoshihiro Yamada",
+            "address": "2-25-4 Kasuga Chuo-ku, Chiba, Chiba, Japan",
+            "website": "https://zeek-gym.com/"
+        },
+        {
+            "id": 9469,
+            "name": "Zen Jiu Jitsu Brasileiro",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Márcio Santos de Mattos",
+            "address": "Rua Gaspar De Lemos. 141 - Liberdade, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 4543,
+            "name": "Zenith / PRBJJ",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Elne",
+            "responsible": "Robert Lewis Drysdale",
+            "address": "11 rue Joseph Planes  , , Elne, France",
+            "website": ""
+        },
+        {
+            "id": 2074,
+            "name": "Zenith BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santos",
+            "responsible": "Rodrigo Henrique Cavaca",
+            "address": "Rua Alexandre Herculano n: 197 sala 1404, Bairro: Gonzaga, Santos, SP, Brasil",
+            "website": "zenithbjj.com.br"
+        },
+        {
+            "id": 2962,
+            "name": "Zenith BJJ - Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Rockingham",
+            "responsible": "Robert Lewis Drysdale",
+            "address": "c/o The Arena MMA, 3/40 Tesla Rd  , , Rockingham, WA, Australia",
+            "website": "www.thearenamma.com.au"
+        },
+        {
+            "id": 2963,
+            "name": "Zenith BJJ - Canada",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Ottawa",
+            "responsible": "Robert Lewis Drysdale",
+            "address": "2234 Gladwin Crecent   , , Ottawa, ON, Canada",
+            "website": "www.teambushido.com"
+        },
+        {
+            "id": 3716,
+            "name": "Zenith BJJ - Greece",
+            "federationAbbr": "IBJJF",
+            "country": "Greece",
+            "countryAbbr": "GR",
+            "city": "Athens",
+            "responsible": "Robert Lewis Drysdale",
+            "address": "18 Poiliou, Attiki  , , Athens, --, Greece",
+            "website": "www.bjjpsychos.gr"
+        },
+        {
+            "id": 2931,
+            "name": "Zenith BJJ - Poland",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Gniezno",
+            "responsible": "Robert Lewis Drysdale",
+            "address": "Mickiewicza 8  , , Gniezno, PO, Poland",
+            "website": "www.bjj.gniezno.pl"
+        },
+        {
+            "id": 4714,
+            "name": "Zenith BJJ - Sergipe",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Aracaju",
+            "responsible": "Marcio Andrade de Oliveira",
+            "address": "Rua Lenio de Moura Moraes 118 , Farolandia, Aracaju, SE, Brasil",
+            "website": null
+        },
+        {
+            "id": 4960,
+            "name": "Zenith BJJ - Spain",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Girona",
+            "responsible": "Carmen Maria Aragón Torres",
+            "address": "C/ Rutlla 226 Bajos  , , Girona, Spain",
+            "website": ""
+        },
+        {
+            "id": 2186,
+            "name": "Zenith BJJ - USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": null,
+            "address": "2000 S. Rainbow Blvd #108  , , Las Vegas, NV, United States of America",
+            "website": "www.drysdalejiujitsu.com"
+        },
+        {
+            "id": 7262,
+            "name": "Zenith BJJ Ceará",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Francisco de Assis Costa de Oliveira Junior",
+            "address": "Rua Décio De Castro, 1183, Bairro: Parque Genibau, Fortaleza, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 6169,
+            "name": "Zenith Bulgaria",
+            "federationAbbr": "IBJJF",
+            "country": "Bulgaria",
+            "countryAbbr": "BG",
+            "city": "Blagoevgrad",
+            "responsible": "Rodrigo Henrique Cavaca",
+            "address": "str.Vasil Levski 21, Blagoevgrad, --, Bulgaria",
+            "website": null
+        },
+        {
+            "id": 4409,
+            "name": "Zenith North BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Rodrigo Henrique Cavaca",
+            "address": "Rua Vitor Hugo 64, Canarinho, Boa Vista, RR, Brasil",
+            "website": null
+        },
+        {
+            "id": 4532,
+            "name": "Zenith RS",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Cruz do Sul",
+            "responsible": "Almansor Vaz",
+            "address": "Rua Senador Pinheiro Machado, 629 loja 01, Centro, Santa Cruz do Sul, RS, Brasil",
+            "website": ""
+        },
+        {
+            "id": 10217,
+            "name": "Zentai Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Arlington",
+            "responsible": "Byron Abdel Sierra",
+            "address": "575 Ridge Rd, North Arlington, New Jersey, United States of America",
+            "website": "https://zentai.us/"
+        },
+        {
+            "id": 2097,
+            "name": "Zerjal Team",
+            "federationAbbr": "IBJJF",
+            "country": "Serbia",
+            "countryAbbr": "RS",
+            "city": "Belgrade",
+            "responsible": "Jovan Zerjal",
+            "address": "Teodora Mirijevskog 5A , , Belgrade, BG, Serbia",
+            "website": "zerjalteam.com"
+        }
+    ]
+}

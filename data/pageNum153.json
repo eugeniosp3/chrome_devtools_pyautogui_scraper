@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 153,
+        "from": 3040,
+        "to": 3060,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5501,
+            "name": "Gracie Barra Cariacica",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cariacica",
+            "responsible": "Mauricio Ferreira Pracias",
+            "address": "Rodovia BR 262 S/N Km 4,5, Loja 3 / Pav 2 - Vila Capixaba, Cariacica, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 6815,
+            "name": "Gracie Barra Caringbah",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Frederico De Souza",
+            "address": "99 Cawarra Road, Sydney, NSW, Australia",
+            "website": "www.gbcaringbah.com.au"
+        },
+        {
+            "id": 2967,
+            "name": "Gracie Barra Carlsbad",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Carlsbad",
+            "responsible": "Rafael Ramos",
+            "address": "3125 Tiger Run CT Suite B 108  , , Carlsbad, CA, United States of America",
+            "website": "www.graciebarracarlsbad.com"
+        },
+        {
+            "id": 9719,
+            "name": "Gracie Barra Carlton",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Rodolfo Campani Nygaard",
+            "address": "45 Waterview Street, Carlton, Sydney, Nsw, Australia",
+            "website": "www.gbcarlton.com.au"
+        },
+        {
+            "id": 5994,
+            "name": "Gracie Barra Carrollton",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Carrollton",
+            "responsible": "Andre Gomes Reis",
+            "address": "2812 Trinity Square Dr., Carrollton, TX, United States of America",
+            "website": "www.gbcarrollton.com"
+        },
+        {
+            "id": 6095,
+            "name": "Gracie Barra Casa Forte",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Jefferson Marinho da Silva",
+            "address": "Avenida Dezessete de Agosto n: 1609, Bairro: Casa Forte, Recife, PE, Brasil",
+            "website": null
+        },
+        {
+            "id": 2600,
+            "name": "Gracie Barra Cascais",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Sintra",
+            "responsible": "Pedro Miguel M. M. Lucas Coelho",
+            "address": "Rua Sesmarias N 7, , Sintra, Portugal",
+            "website": "www.graciebarra-cascais.com"
+        },
+        {
+            "id": 8840,
+            "name": "Gracie Barra Cascavel",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cascavel",
+            "responsible": "Kleber Willian Odorizzi Ramalho",
+            "address": "Rua Marechal Cândido Rondon 1697, Centro, Cascavel, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 9280,
+            "name": "Gracie Barra Castelldefels",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Castelldefels",
+            "responsible": "Leandro Gontijo Fernandes",
+            "address": "Calle Pompeu Fabra 33, Castelldefels, Barcelona, Spain",
+            "website": "www.graciebarracastelldefels.com"
+        },
+        {
+            "id": 9878,
+            "name": "Gracie Barra Castle Hill",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Castle Hill",
+            "responsible": "Henrique Eiji Prates Itikawa",
+            "address": "U 6  3 Salisbury Rd, Castle Hill, New South Wales, Australia",
+            "website": null
+        },
+        {
+            "id": 4840,
+            "name": "Gracie Barra Cataguases",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cataguases",
+            "responsible": "Ricardo Caetano da Silva",
+            "address": "Rua Francisco Rossi 86 , Centro, Cataguases, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 2940,
+            "name": "Gracie Barra Cedar Park",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Cedar Park",
+            "responsible": "Fábio Medeiros Villela",
+            "address": "1525 Cypress Creek Rd - Ste L  , , Cedar Park, TX, United States of America",
+            "website": "www.gbcedarpark.com"
+        },
+        {
+            "id": 7786,
+            "name": "Gracie Barra Ceilândia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ceilândia ",
+            "responsible": "Thiago Hugo Colares Dias",
+            "address": "Qnm 19 Conjunto P Lote 42, Ceilândia Sul Df, Ceilândia , Brasília Df, Brasil",
+            "website": "@graciebarraceilandia"
+        },
+        {
+            "id": 7659,
+            "name": "Gracie Barra Celebration",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Celebration",
+            "responsible": "Rodrigo Alessandro Frezza",
+            "address": "1420 Celebration Blvd, Ste 108, Celebration, FL, United States of America",
+            "website": "www.gbcelebration.com"
+        },
+        {
+            "id": 6013,
+            "name": "Gracie Barra Centennial",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Centennial",
+            "responsible": "Rafael L. Oliveira",
+            "address": "4181 E. County Line Road #C, Centennial, CO, United States of America",
+            "website": "gbcentennial.com"
+        },
+        {
+            "id": 8098,
+            "name": "Gracie Barra Central Coast",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Erina",
+            "responsible": "Danillo Coltro",
+            "address": "1/12 Aston Road, Erina, Nsw, Australia",
+            "website": "www.gbcentralcoast.com.au"
+        },
+        {
+            "id": 4617,
+            "name": "Gracie Barra Centro - Campo Grande Vila Planalto",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campo Grande",
+            "responsible": "Felipe Domingues Lessa",
+            "address": "Avenida Tamandaré n: 114, Vila Planalto, Campo Grande, MS, Brasil",
+            "website": null
+        },
+        {
+            "id": 4845,
+            "name": "Gracie Barra Centro - Teixeira de Freitas - BA",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teixeira de Freitas",
+            "responsible": "Alisson Ferraz de Oliveira",
+            "address": "Rua Teixeira de Freitas  387 Térreo, Centro, Teixeira de Freitas, BA, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9347,
+            "name": "Gracie Barra Centro - Viamão",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Viamão",
+            "responsible": "José Elói dos Santos Filho",
+            "address": "Rua Julieta Pinto Cesar, 257, Viamão, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 4383,
+            "name": "Gracie Barra Centro Boa Vista RR",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Elton Castro Rodrigues",
+            "address": "Av. Bento Brasil 726 , Centro, Boa Vista, RR, Brasil",
+            "website": ""
+        }
+    ]
+}

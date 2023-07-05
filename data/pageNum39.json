@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 39,
+        "from": 760,
+        "to": 780,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2260,
+            "name": "Barbosa Jiu Jitsu - USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "teste",
+            "responsible": null,
+            "address": "  , teste, teste, United States of America",
+            "website": null
+        },
+        {
+            "id": 110,
+            "name": "Barbosa Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Marco Antonio Barbosa",
+            "address": "Rua Remanso 21 1º andar, Vila Mariana, São Paulo, SP, Brasil",
+            "website": "www.barbosajj.com.br"
+        },
+        {
+            "id": 6177,
+            "name": "Barbosa Jiu-Jitsu - Australia",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Perth",
+            "responsible": "Marco Antonio Barbosa",
+            "address": "17 Millimumul way - Mullaloo, Perth, WA, Australia",
+            "website": "www.evolution-mma.com.au"
+        },
+        {
+            "id": 6944,
+            "name": "Barbosa Jiu-Jitsu International",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Toronto",
+            "responsible": "Marco Antonio Barbosa",
+            "address": "381 Hollywood Ave. , Toronto, Ontario, Canada",
+            "website": "barbosajj.com.br"
+        },
+        {
+            "id": 8712,
+            "name": "Barbosa Jiu-Jitsu London",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Bournemouth",
+            "responsible": "Ronaldo Ferreira de Almeida",
+            "address": "37 Holdenhusrt Road, Bournemouth, United Kingdom",
+            "website": null
+        },
+        {
+            "id": 5809,
+            "name": "Barbosa Jiu-Jitsu Paris",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Marco Antonio Barbosa",
+            "address": "60 Rue Amelot, Paris, France",
+            "website": null
+        },
+        {
+            "id": 4297,
+            "name": "Barbosa Jiu-Jitsu Team Pressello",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Rome",
+            "responsible": "Stefano Pressello",
+            "address": "via Delle Zattere 37, Rome, Italy",
+            "website": null
+        },
+        {
+            "id": 3921,
+            "name": "Barbosa JJ - Germany",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Leipzig",
+            "responsible": "Victor Alexandre do Valle Pereira",
+            "address": "Anhalter Str., 9, Leipzig, --, Germany",
+            "website": "http://www.bjj-leipzig.de/"
+        },
+        {
+            "id": 2463,
+            "name": "Barbosa Team Agua",
+            "federationAbbr": "IBJJF",
+            "country": "Netherlands",
+            "countryAbbr": "NL",
+            "city": "Den Haag",
+            "responsible": null,
+            "address": "Lobattostratt 91  , Den Haag, ZN, Netherlands",
+            "website": "www.teamagua.com"
+        },
+        {
+            "id": 5768,
+            "name": "Barcelona Jiu-Jitsu Haubert Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Barcelona",
+            "responsible": "Rafael de Oliveira Haubert",
+            "address": "Calla Avila, 54, Barcelona, Spain",
+            "website": "barcelonajiujitsu.com"
+        },
+        {
+            "id": 8232,
+            "name": "Barco Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Alisson Fernandes de Amorim",
+            "address": "Rua Lauro Muller 666, Sala 201, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 9355,
+            "name": "Barden BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sapucaia Do Sul",
+            "responsible": "Matheus Santiago B. dos Santos",
+            "address": "Jorge Assun 806, Sapucaia Do Sul, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 10345,
+            "name": "Bareia Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Antoni Nelson Barnabé",
+            "address": "Rua Carlos Castilho Cabral 303, Sorocaba, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 3077,
+            "name": "Baret Submissions",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Diego",
+            "responsible": "Baret Yoshida",
+            "address": "3350 Sports Arena Blvd suite B  , , San Diego, CA, United States of America",
+            "website": "www.thearenamma.com"
+        },
+        {
+            "id": 4116,
+            "name": "Barney Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Juiz de Fora",
+            "responsible": "Eduardo Alves Portilho",
+            "address": "Rua São Sebastião 516 9 andar, Centro, Juiz de Fora, MG, Brasil",
+            "website": ""
+        },
+        {
+            "id": 8325,
+            "name": "Barnstyle",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Plymouth",
+            "responsible": "Brent J. Hoover",
+            "address": "17930 9th Rd, Plymouth, In, United States of America",
+            "website": "Brawl Barn"
+        },
+        {
+            "id": 9273,
+            "name": "Barreira Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santa Barbara Do Pará",
+            "responsible": "Eduardo da Silva Conceição",
+            "address": "Passagem Waldemar Mendes, N33, Bairro: Centro / Academia Barreira Jiu Jitsu, Santa Barbara Do Pará, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 57,
+            "name": "Barreto Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Alvaro Claudio de Mello Barreto",
+            "address": "Comercio Residencial sul 507 C Bloco, Asa Sul, Brasília, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 2932,
+            "name": "Barreto Jiu-Jitsu Finland",
+            "federationAbbr": "IBJJF",
+            "country": "Finland",
+            "countryAbbr": "FI",
+            "city": "Lahti",
+            "responsible": "Francisco de Assis Mesquita Junior",
+            "address": "Ajokatu 65  , , Lahti, FI, Finland",
+            "website": ""
+        },
+        {
+            "id": 5428,
+            "name": "Barrick BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Goshen",
+            "responsible": "Bryan Mykel Barrick",
+            "address": "20607 River BLVD, Goshen, IN, United States of America",
+            "website": "barrickbjj.com"
+        }
+    ]
+}

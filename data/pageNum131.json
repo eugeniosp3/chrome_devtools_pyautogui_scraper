@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 131,
+        "from": 2600,
+        "to": 2620,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5910,
+            "name": "Form Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Baltimore",
+            "responsible": "Richard Stephen Slomba Jr.",
+            "address": "3700 O' Donnell Street Suite 240, Baltimore, MD, United States of America",
+            "website": "www.formjiujitsu.com"
+        },
+        {
+            "id": 6690,
+            "name": "Forney TX Wolfpack MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Forney",
+            "responsible": "Gerald S. Gonzalez",
+            "address": "11829 N. Profit Row, Forney, TX, United States of America",
+            "website": null
+        },
+        {
+            "id": 5540,
+            "name": "Forte Arts Martiaux",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Montreal",
+            "responsible": "Michele Forte",
+            "address": "Rue De Bellechasse #300, Montreal, Quebec, Canada",
+            "website": "https://forte-bjj.business.site/"
+        },
+        {
+            "id": 4602,
+            "name": "Fortitude Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Singapore",
+            "countryAbbr": "SG",
+            "city": "Singapore",
+            "responsible": "Tan Kuan S. Vinc ",
+            "address": "72B Race Course Road  , , Singapore, Singapore",
+            "website": "www.fortitudebjj.com"
+        },
+        {
+            "id": 9048,
+            "name": "Forza BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Blumenau",
+            "responsible": "Enio Camilo da Silva",
+            "address": "Rua Joinville 876 Loja 02, Vila Nova, Blumenau, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 4152,
+            "name": "Foster Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kent",
+            "responsible": "James Eric Foster",
+            "address": "8256 S. 192nd St.  , , Kent, WA, United States of America",
+            "website": "fosterbjj.com"
+        },
+        {
+            "id": 10584,
+            "name": "Fotas BJJ Academy Iwaki",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Fukushima",
+            "responsible": "Yuichiro Fukushima",
+            "address": "Sunrise-kei #102, 189-1, Tamachi, Akai, Iwaki-shi, Fukushima, Japan",
+            "website": null
+        },
+        {
+            "id": 2708,
+            "name": "Foundry BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Gaithersburg",
+            "responsible": "Noelie Andrew Danforth",
+            "address": "118 Swanton Lane  , , Gaithersburg, MD, United States of America",
+            "website": "www.foundryDCbjj.com"
+        },
+        {
+            "id": 9987,
+            "name": "Four-Eleven Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Whitby",
+            "responsible": "Adio Edgar A. Edwards",
+            "address": "277 Michael Blvd, Whitby, On, Canada",
+            "website": "fourelevenbjj.ca"
+        },
+        {
+            "id": 2922,
+            "name": "Fox Team",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Lagny-Sur-Marne",
+            "responsible": "Gael Joseph Coadic",
+            "address": "60 Chemin de Gouvernes, Lagny-Sur-Marne, France",
+            "website": "www.foxteam-mlv.com"
+        },
+        {
+            "id": 6682,
+            "name": "FR Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ceilândia",
+            "responsible": "Felipe Rair Amaral da Silva",
+            "address": "QNO 03 CJF Casa 40, Setor O , Ceilândia, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 8744,
+            "name": "França BJJ - Camboriú",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Camboriú",
+            "responsible": "Raul César França",
+            "address": "Rua José Rebelo Da Cunha, 285, Camboriú, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 10187,
+            "name": "Francisco Albuquerque",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Edmonton",
+            "responsible": "Francisco Albuquerque Neto",
+            "address": "4359 68 Avenue, Edmonton, Alberta, Canada",
+            "website": null
+        },
+        {
+            "id": 6519,
+            "name": "Francisco Maldonado Valenzuela BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Santiago",
+            "responsible": "Francisco Alejandro Maldonado Valenzuela",
+            "address": "Cristal De Abelli #3021, Las Condes, Santiago, RM, Chile",
+            "website": null
+        },
+        {
+            "id": 8372,
+            "name": "Frango Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu",
+            "responsible": "Patrick Pinto dos Santos",
+            "address": "Rua Itabagi, 42, Nova Iguaçu, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 6077,
+            "name": "Frank Franco Amazon Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Frank Alberto Alves Franco",
+            "address": "Rua: Xiborena, Número: 16, Bairro: São José Operário, Proximo Ao Terminal De Ônibus T5, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 10015,
+            "name": "Frankie Passos Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Northborough",
+            "responsible": "Fransoes dos Passos",
+            "address": "38 Sw Cutoff, Northborough, Ma, United States of America",
+            "website": "www.danielgracieacademy.com"
+        },
+        {
+            "id": 5282,
+            "name": "Frankiko Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Alcenir Lima da Conceição",
+            "address": "Travessa Dom Romualdo De Seixas, 884, Umarizal, Entre Piedade e Benjamim, enfrente a Oliveira Móveis - Bairro: Reduto, Belém, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7655,
+            "name": "Franquison Oliveira Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Franquison da Silva Oliveira",
+            "address": "Rua Bonfim, 34, n° 34, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 3757,
+            "name": "Fratelli Leteri - Brazilian Jiu-Jitsu",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Verona",
+            "responsible": "Marcel Leteri Sasso De Oliveira",
+            "address": "Via Brenta, 8, c/o Matteo Cazzola, Verona, VR, Italy",
+            "website": "www.leteribros.com"
+        }
+    ]
+}

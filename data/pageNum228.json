@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 228,
+        "from": 4540,
+        "to": 4560,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5169,
+            "name": "Maroccolo Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Kyneton",
+            "responsible": "Marcos Vinicius Sobral",
+            "address": "Factory 7 4-6 Beauchamp Street, Kyneton, VIC, Australia",
+            "website": "https://facebook.com/mmabjjinternational/"
+        },
+        {
+            "id": 711,
+            "name": "Maromba Academia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Indaiatuba",
+            "responsible": "Paulo Roberto Miranda Streckert",
+            "address": "Av. Engº Fabio Roberto Barnabé, 372, Vila Areal, Indaiatuba, SP, Brasil",
+            "website": "www.maromba.com.br"
+        },
+        {
+            "id": 822,
+            "name": "Marra Senki - Power Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Leopoldo",
+            "responsible": null,
+            "address": "Rua Independência 1520 Sala 2, Centro, São Leopoldo, RS, Brasil",
+            "website": "www.marrajj.com"
+        },
+        {
+            "id": 2691,
+            "name": "Marra Senki BJJ Academy LLC",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Luiz Sergio Branco Corrêa",
+            "address": "15201 San Pedro Ave., San Antonio, TX, United States of America",
+            "website": "www.marrajj.com"
+        },
+        {
+            "id": 5606,
+            "name": "Marra Senki Brazilian Jiu-Jitsu Peru",
+            "federationAbbr": "IBJJF",
+            "country": "Peru",
+            "countryAbbr": "PE",
+            "city": "Lima",
+            "responsible": "Luiz Sergio Branco Corrêa",
+            "address": "Av. Benavides 250 int 223 Mira Flores, Lima, Peru",
+            "website": null
+        },
+        {
+            "id": 8255,
+            "name": "Marra Senki Competition Team Brazil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Luiz Sergio Branco Corrêa",
+            "address": "Rua Barao Da Torre 230/201, Rio De Janeiro, Rio De Janeiro, Brasil",
+            "website": "www.marrajj.com"
+        },
+        {
+            "id": 10357,
+            "name": "Marrom BJJ Team",
+            "federationAbbr": "IBJJF",
+            "country": "Turkey",
+            "countryAbbr": "TR",
+            "city": "Izmir",
+            "responsible": "Tiago de Sousa Santos",
+            "address": "Kaz1mdirik, Hunter Fight Academiy, 367/7 Sokak, Bornova/izmir, Hunter Fight Academiy, Izmir, Turkey",
+            "website": null
+        },
+        {
+            "id": 4565,
+            "name": "Mars Jiu-Jitsu Club",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Fujioka",
+            "responsible": "Masashi Nakano",
+            "address": "Kobayashi \u0013\u0019\u0018\u0012\u0014 Harada Building 2f, 280 Kobayashi, Fujioka, Gunma, Japan",
+            "website": "https://www.marsbjj.com/"
+        },
+        {
+            "id": 5349,
+            "name": "Martial Armour MMA",
+            "federationAbbr": "IBJJF",
+            "country": "Taiwan",
+            "countryAbbr": "TW",
+            "city": "Taipei",
+            "responsible": "Rafael Passos Miranda",
+            "address": "No. 93 Sec 2, Roosevelt Rd. Da'an Dist., Taipei, Taiwan",
+            "website": "www.wu-ja.com"
+        },
+        {
+            "id": 3972,
+            "name": "Martial Arts Garra Office",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belém",
+            "responsible": "Eduardo de Mendonça Ribeiro",
+            "address": "Rua Antonio Everdosa 272, Pedreira, Belém, PA, Brasil",
+            "website": null
+        },
+        {
+            "id": 9874,
+            "name": "Martin Krpan Litija",
+            "federationAbbr": "IBJJF",
+            "country": "Slovenia",
+            "countryAbbr": "SI",
+            "city": "Litija",
+            "responsible": "Anton Vrhovec",
+            "address": "Savska Cesta 1a, Litija, Slovenia",
+            "website": null
+        },
+        {
+            "id": 3054,
+            "name": "Martins Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Leandro Soares Martins",
+            "address": "Rua Antônio Spolidoro 110, Bairro Hípica / Aberta Dos Morros, Porto Alegre, RS, Brasil",
+            "website": ""
+        },
+        {
+            "id": 10398,
+            "name": "Maruyama One1",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sapporoshi",
+            "responsible": "Yuki Nakai",
+            "address": "Chuouku Odorinishi 23chome 2-20 Sunshine Maruyama 3f, Sapporoshi, Hokkaido, Japan",
+            "website": "https://www.one1-bjj.com/"
+        },
+        {
+            "id": 5570,
+            "name": "Marx Engel Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Maceió",
+            "responsible": "Marx Engel Rodrigues Feitosa",
+            "address": "Rua 13 De Maio, 28, Poço, Maceió, AL, Brasil",
+            "website": "https://www.marxengelteam.com.br"
+        },
+        {
+            "id": 3760,
+            "name": "Marzialmente",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Bari",
+            "responsible": "Octavio Henrique Couto da Silva Jr.",
+            "address": "via devitofrancesco  6/g , , Bari, ., Italy",
+            "website": "wcra-bari.blogspot.com"
+        },
+        {
+            "id": 5654,
+            "name": "Mascaranhas Team",
+            "federationAbbr": "IBJJF",
+            "country": "Saudi Arabia",
+            "countryAbbr": "SA",
+            "city": "riyadh",
+            "responsible": "Thiago Mascaranhas",
+            "address": "ar rumman, riyadh, riyadh, Saudi Arabia",
+            "website": "mascaranhasteam.com"
+        },
+        {
+            "id": 9550,
+            "name": "Mascaranhas Team BR",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bauru",
+            "responsible": "Thiago Mascaranhas",
+            "address": "Rua Alagoas 10-47, Bauru, Sp, Brasil",
+            "website": "Mt-bjj.com"
+        },
+        {
+            "id": 2750,
+            "name": "Massachusetts Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Acton",
+            "responsible": "Nathan E. Ryan",
+            "address": "12 Craig Road  , , Acton, MA, United States of America",
+            "website": "www.massbjj.com"
+        },
+        {
+            "id": 9708,
+            "name": "Massbjj Arlington",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Arlington",
+            "responsible": "Michael Pellegrino",
+            "address": "26 Mass Ave, Arlington, Ma, United States of America",
+            "website": "https://massbjj.com/arlington/"
+        },
+        {
+            "id": 3226,
+            "name": "Master Japan",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Kuniyoshi Hironaka",
+            "address": "3-6-13 Sanko Cyou Bdg 4F Misakicyo  , , Tokyo, --, Japan",
+            "website": "www.master-japan.com"
+        }
+    ]
+}

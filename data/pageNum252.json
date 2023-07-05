@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 252,
+        "from": 5020,
+        "to": 5040,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10703,
+            "name": "Oliveira Nunes Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Luzilândia",
+            "responsible": "Jozeldo Oliveira Nunes",
+            "address": "Rua Domingos Uchôa 215, Luzilândia, Piauí, Brasil",
+            "website": null
+        },
+        {
+            "id": 5659,
+            "name": "OLL Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marília",
+            "responsible": "Alexandre Nascimento de Oliveira",
+            "address": "Rua Izabel Souza Nunes n: 31, Fragata, Marília, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 9983,
+            "name": "Oll Fight -  Betão Villela",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marília",
+            "responsible": "Gilberto Brito Villela Filho",
+            "address": "Rua Ipê, 282, Marília, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 9196,
+            "name": "OLS Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Afonso Claudio",
+            "responsible": "Fernando Marques Gomes",
+            "address": "Avenida Maria Pádua Soares 64, Academia De Artes Marciais, Afonso Claudio, E.s, Brasil",
+            "website": null
+        },
+        {
+            "id": 10629,
+            "name": "Olympia Jiu Jitsu Fabio Gomes",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Marialva",
+            "responsible": "Fabio Alessandro Gomes",
+            "address": "Rua José Bertão, 178 Jardim Industrial Polessi, Marialva, Paraná, Brasil",
+            "website": null
+        },
+        {
+            "id": 7977,
+            "name": "Olympic Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Sulphur",
+            "responsible": "Tyler James Scalisi",
+            "address": "1003 Beglis Pkwy, Sulphur, La, United States of America",
+            "website": "www.olympicbjj.org"
+        },
+        {
+            "id": 3990,
+            "name": "Omar Salum França Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Marseille",
+            "responsible": "Étienne Claude dos Santos de Souza",
+            "address": "85, Rue D'Itali, Marseille, --, France",
+            "website": "www.omarsalumbjj.com.br"
+        },
+        {
+            "id": 262,
+            "name": "Omar Salum Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Omar Antonio Lima Salum Junior",
+            "address": "Rua 15 n: 332, Conjunto 31 de Março, Manaus, AM, Brasil",
+            "website": "www.omarsalumbjj.com.br"
+        },
+        {
+            "id": 10537,
+            "name": "Omar Salum Jiu-Jitsu - Canada",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Winnipeg",
+            "responsible": "Omar Antonio Lima Salum Junior",
+            "address": "11 Scammel Rd, Winnipeg, Manitoba, Canada",
+            "website": "www.omarsalumbjj.com"
+        },
+        {
+            "id": 5587,
+            "name": "Omar Salum Jiu-Jitsu - USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Hemet",
+            "responsible": "Omar Antonio Lima Salum Junior",
+            "address": "2164 E Florida Ave, Unit D, Hemet, CA, United States of America",
+            "website": "omarsalumbjj.com.br"
+        },
+        {
+            "id": 9358,
+            "name": "Omar Salum Saudi Arabia",
+            "federationAbbr": "IBJJF",
+            "country": "Saudi Arabia",
+            "countryAbbr": "SA",
+            "city": "Jeddah",
+            "responsible": "Luiz Augusto Galdez",
+            "address": "Al Rawdah, Near Thabet Ibn Al Nouman, Jeddah, Mekkah, Saudi Arabia",
+            "website": null
+        },
+        {
+            "id": 9475,
+            "name": "OMB",
+            "federationAbbr": "IBJJF",
+            "country": "Bermuda",
+            "countryAbbr": "BM",
+            "city": "Hamilton",
+            "responsible": "Christopher John Regan",
+            "address": "8 Mills Creek Road, Pembroke, Hamilton, Bermuda",
+            "website": "www.openmatbermuda.com"
+        },
+        {
+            "id": 9482,
+            "name": "Omerta BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Guelph",
+            "responsible": "Paul Anthony Federici",
+            "address": "121 Wyndham St N #103, Guelph, Ontario, Canada",
+            "website": "https://www.instagram.com/omertabjj"
+        },
+        {
+            "id": 5274,
+            "name": "On Guard FC Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Pitt Meadows",
+            "responsible": "Matthew Kwan",
+            "address": "19040 Lougheed Hwy. Unit #2, Pitt Meadows, BC, Canada",
+            "website": "www.onguardfc.com"
+        },
+        {
+            "id": 10128,
+            "name": "On Jiu-Jitsu Submission",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Ciudad De Mexico",
+            "responsible": "Omar Nagore Tapia",
+            "address": "Hacienda Y Credito Publico No 4 Int 18 Col. Federal Del. Venustiano Carranza C.p 15700, Campeche 246 Int 502 Col. Hipodromo Del. Cuauhtemoc  C.p 06100, Ciudad De Mexico, Ciudad De Mexico, Mexico",
+            "website": null
+        },
+        {
+            "id": 8615,
+            "name": "Onami Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Costa Rica",
+            "countryAbbr": "CR",
+            "city": "San Jose",
+            "responsible": "Fernando Moya Herrera",
+            "address": "San Jose, San Jose, Costa Rica",
+            "website": null
+        },
+        {
+            "id": 6490,
+            "name": "One Blood",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Scarborough",
+            "responsible": "Marcus Vinícius de Macedo Soares",
+            "address": "31 Progress Avenue, unit 1, Scarborough, ON, Canada",
+            "website": "OneBlood.ca"
+        },
+        {
+            "id": 8135,
+            "name": "One Fighters",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus ",
+            "responsible": "Euder Barbosa da Silva",
+            "address": "Rua Danilo Corrêa, N°1361, Manaus , Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 6100,
+            "name": "One High Performance",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Leo Carlos Jacinto",
+            "address": "Rua Dr. Jacy Cesa Pentagnar n: 130, Torres Homem - Valença, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4976,
+            "name": "One Jiu-Jitsu Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Osasco",
+            "responsible": "Givanildo Santana do Nascimento",
+            "address": "Avenida dos Autonomistas 4009 1 Andar - Entrada lateral, Osasco, Osasco, SP, Brasil",
+            "website": "www.onebjjfitness.com"
+        }
+    ]
+}

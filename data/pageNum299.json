@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 299,
+        "from": 5960,
+        "to": 5980,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7624,
+            "name": "Six Blades Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Austin",
+            "responsible": "Alexandre Couceiro Ribeiro",
+            "address": "7011 W Parmer Ln, 1520, Austin, Texas, United States of America",
+            "website": "www.sixbladesjiujitsu.com"
+        },
+        {
+            "id": 7631,
+            "name": "Six Blades Jiu-Jitsu - Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Alexandre Couceiro Ribeiro",
+            "address": "Sqs 205 bl C apt 105, Brasilia, DF, Brasil",
+            "website": "www.sixbladesjiujitsu.com"
+        },
+        {
+            "id": 4728,
+            "name": "Six Blades Jiu-Jitsu - Denver",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Broomfield",
+            "responsible": "Matthew Kevin Jubera",
+            "address": "6821 W 120th Ave   , Ste C, Broomfield, CO, United States of America",
+            "website": "juberajj.com"
+        },
+        {
+            "id": 7874,
+            "name": "Six Blades Jiu-Jitsu - Eastlake",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Chula Vista",
+            "responsible": "Jose H. Oliveira de Alencar",
+            "address": "2318 Proctor Valley Road, Suite 106, Chula Vista, California, United States of America",
+            "website": "www.sixbladesbjjeastlake.com"
+        },
+        {
+            "id": 10181,
+            "name": "Six Blades Jiu-Jitsu -- Leesburg Georgia",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Leesburg",
+            "responsible": "James Curtis Lee",
+            "address": "1451 Us Highway 19, Suite C, Leesburg, Ga, United States of America",
+            "website": "www.sixbladesbjjleesburg.com"
+        },
+        {
+            "id": 7632,
+            "name": "Six Blades Jiu-Jitsu International",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Auckland City",
+            "responsible": "Alexandre Couceiro Ribeiro",
+            "address": "4/211 Wagner Place - St Lukes, Auckland City, New Zealand",
+            "website": "www.sixbladesjiujitsu.com"
+        },
+        {
+            "id": 5808,
+            "name": "Six Blades Jiu-Jitsu Nova",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Springfield",
+            "responsible": "Emil H. Takeuchi",
+            "address": "6315 Backlick Rd Suite 200, Springfield, VA, United States of America",
+            "website": "rjjanova.com"
+        },
+        {
+            "id": 9727,
+            "name": "Six Blades Natal",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Anselmo Ricardo Da Silva",
+            "address": "Rua Raimundo R Lima N18, Brasil Novo, Natal, Rn, Brasil",
+            "website": "sixbladesjj.com"
+        },
+        {
+            "id": 8561,
+            "name": "SJ Jiu-Jitsu Academy",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": "Stéfano Rodrigues do Nascimento Silva",
+            "address": "Rua Maria Mirto De Sá, 1600, Condomínio Reserva Do Norte 01, Cs 48, Teresina, Pi, Brasil",
+            "website": null
+        },
+        {
+            "id": 8068,
+            "name": "SJDR Black Belt Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João Del Rei",
+            "responsible": "Helder Franco Oliveira",
+            "address": "Avenida Leite De Castro 102, Fabricas, São João Del Rei, Mg, Brasil",
+            "website": null
+        },
+        {
+            "id": 9990,
+            "name": "SJJ - Serro Jiu-jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Serro",
+            "responsible": "André Magalhães Freire Campos",
+            "address": "Rua Turqueza, 230, Cidade Nova, Serro, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 3764,
+            "name": "SJJA Jiu-Jitsu Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Sydney",
+            "responsible": "Bruno Almeida Alves",
+            "address": "51 Hume St, , Sydney, NSW, Australia",
+            "website": "www.Sjja.com.au"
+        },
+        {
+            "id": 4131,
+            "name": "SK Team / Infight Switzerland",
+            "federationAbbr": "IBJJF",
+            "country": "Switzerland",
+            "countryAbbr": "CH",
+            "city": "Neuchatel",
+            "responsible": "Sadayoshi Roberto Mota Kurimori",
+            "address": "Faubourg De La Gare 29, Neuchatel, NE, Switzerland",
+            "website": "www.skbjjteam.com"
+        },
+        {
+            "id": 9834,
+            "name": "Skamma",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Narre Warren",
+            "responsible": "Antonio Marcos dos Santos Martins",
+            "address": "1 Vesper Drive, Narre Warren, Victoria, Australia",
+            "website": "skammagym.com"
+        },
+        {
+            "id": 7722,
+            "name": "Skill BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "CAMPINAS",
+            "responsible": "Carlos Rogerio Durlin",
+            "address": "AV. MARECHAL CARMONA 850, SOBRELOJA, CAMPINAS, SP, Brasil",
+            "website": null
+        },
+        {
+            "id": 4675,
+            "name": "Skull JJ Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Cleudson Silva de O. França",
+            "address": "QNO 05 Conjunto B N: 15 Setor O, Ceilândia Norte, Brasilia, DF, Brasil",
+            "website": null
+        },
+        {
+            "id": 5344,
+            "name": "Sl Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Gabriel Do Oeste",
+            "responsible": "Silvio Manoel Silva dos Santos",
+            "address": "Avenida Juscelino Kubitschek, 958, Centro, São Gabriel Do Oeste, Ms, Brasil",
+            "website": null
+        },
+        {
+            "id": 4608,
+            "name": "Slava BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Bosnia and Herzegovina",
+            "countryAbbr": "BA",
+            "city": "Mostar",
+            "responsible": "Slaven Planinic",
+            "address": "Bleiburskih Zrtava 33  , , Mostar, Bosnia and Herzegovina",
+            "website": ""
+        },
+        {
+            "id": 6904,
+            "name": "Sleeper Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lynnwood",
+            "responsible": "Cynthia Dyann Hales",
+            "address": "18623 Hwy 99  Suite 270, Lynnwood, WA, United States of America",
+            "website": "sleeperjj.com"
+        },
+        {
+            "id": 9085,
+            "name": "Sloboda Tuzla BJJ - Hilti BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Bosnia and Herzegovina",
+            "countryAbbr": "BA",
+            "city": "Tuzla",
+            "responsible": "Marko Leisten",
+            "address": "15 Maja Bb, Tuzla, Bosnia and Herzegovina",
+            "website": null
+        }
+    ]
+}

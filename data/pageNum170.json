@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 170,
+        "from": 3380,
+        "to": 3400,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2520,
+            "name": "Gracie Barra Sevilla",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Sevilla",
+            "responsible": null,
+            "address": "Avenida de Hytasa  10 , , Sevilla, SP, Spain",
+            "website": "www.graciebarrasevilla.com"
+        },
+        {
+            "id": 4343,
+            "name": "Gracie Barra SGS",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sao Gonçalo do Sapucai",
+            "responsible": "Miguel Dulce Dutra Junior",
+            "address": "Rua Delfim Moreira, 240, Centro, Sao Gonçalo do Sapucai, MG, Brasil",
+            "website": "migueldutra.wix.com/graciebarrasgs"
+        },
+        {
+            "id": 9921,
+            "name": "Gracie Barra Sienna",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fresno",
+            "responsible": "William Cody Wilson",
+            "address": "12131 Hwy 6, Suite 102, Fresno, Tx, United States of America",
+            "website": "www.graciebarrasienna.com"
+        },
+        {
+            "id": 7022,
+            "name": "Gracie Barra Simi Valley",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Simi Valley",
+            "responsible": "Andre Liberal Alves de Almeida",
+            "address": "2964 Cochran Street, Simi Valley, CA, United States of America",
+            "website": "www.graciebarra.com/simi-valley-va"
+        },
+        {
+            "id": 5993,
+            "name": "Gracie Barra Singapore",
+            "federationAbbr": "IBJJF",
+            "country": "Singapore",
+            "countryAbbr": "SG",
+            "city": "Singapore",
+            "responsible": "Vinicius Magalhães",
+            "address": "42B Hong Kong Street, Singapore, Singapore",
+            "website": "graciebarra.com.sg"
+        },
+        {
+            "id": 7201,
+            "name": "Gracie Barra Sollentuna",
+            "federationAbbr": "IBJJF",
+            "country": "Sweden",
+            "countryAbbr": "SE",
+            "city": "Sollentuna",
+            "responsible": "Fabio Paganotti Luz",
+            "address": "Kuskvagen 2B, Sollentuna, Stockholm, Sweden",
+            "website": "gbsollentuna.com"
+        },
+        {
+            "id": 5242,
+            "name": "Gracie Barra Sombrio",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sombrio",
+            "responsible": "Rafael Motta Farias",
+            "address": "Av. Prefeito Francisco Lummert Junior, 581 1º Andar, Nova Brasília, Sombrio, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 8980,
+            "name": "Gracie Barra Sorocaba - SP",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorocaba",
+            "responsible": "Danilo Leandro Soler Tarnos",
+            "address": "Rua Ribeirão Preto, 165 - Jd Leocadia, Sorocaba, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 7575,
+            "name": "Gracie Barra Sorriso",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Sorriso",
+            "responsible": "Ademir Toshio Ohta",
+            "address": "Av. Luiz Amadeu Lodi, 655 - Sala 1, Centro, Sorriso, Mato Grosso, Brasil",
+            "website": "https://www.instagram.com/graciebarrasorriso/"
+        },
+        {
+            "id": 9022,
+            "name": "Gracie Barra South - West Saint Petersburg",
+            "federationAbbr": "IBJJF",
+            "country": "Russia",
+            "countryAbbr": "RU",
+            "city": "Saint Petersburg",
+            "responsible": "Raimundo Nogueira de Matos Junior",
+            "address": "Prospect Narodnogo Opolcheniya, 22, Saint Petersburg, Russia",
+            "website": "Saint Petersburg"
+        },
+        {
+            "id": 3506,
+            "name": "Gracie Barra South Austin",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Austin",
+            "responsible": "Alexandre Ferreira Santos",
+            "address": "1700 South Lamar Blvd. #332  , , Austin, TX, United States of America",
+            "website": "www.gbsouthaustin.com"
+        },
+        {
+            "id": 9233,
+            "name": "Gracie Barra South Miami",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Miami",
+            "responsible": "Gustavo Cesar de Lorena",
+            "address": "15766 Sw 56th Street, Miami, Fl, United States of America",
+            "website": "https://gbsouthmiami.com/"
+        },
+        {
+            "id": 9489,
+            "name": "Gracie Barra South Portland/ME",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "South Portland",
+            "responsible": "Mario Henrique Lemos Dias Filho",
+            "address": "798 Main St., Suite 9b, South Portland, Me, United States of America",
+            "website": "https://graciebarra.com/south-portland-me/"
+        },
+        {
+            "id": 8934,
+            "name": "Gracie Barra South Shore",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Scituate",
+            "responsible": "Guilherme Verissimo Pereira",
+            "address": "122 Front Street, Scituate, Massachusetts, United States of America",
+            "website": "https://graciebarra.com/south-shore-ma"
+        },
+        {
+            "id": 7304,
+            "name": "Gracie Barra Southend",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Southend",
+            "responsible": "Lee Anthony Catling",
+            "address": "22-23 Rutherford Cl. Ind. Est. Rutherford Cl. , Southend, United Kingdom",
+            "website": "www.gbsouthend.com"
+        },
+        {
+            "id": 3603,
+            "name": "Gracie Barra Southlake Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Southlake",
+            "responsible": "Alejandro Siqueira Doudement",
+            "address": "480 W Southlake Blvd. Suite 111  , , Southlake, TX, United States of America",
+            "website": "www.graciebarrasouthlake.com"
+        },
+        {
+            "id": 7061,
+            "name": "Gracie Barra Southwest Portland",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Portland",
+            "responsible": "Bruno Henrique Meireles Rocha",
+            "address": "17700 SW Upper Boones Ferry Rd 135, Portland, OR, United States of America",
+            "website": "www.gbswportland.com"
+        },
+        {
+            "id": 10230,
+            "name": "Gracie Barra Spring Branch",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Spring Branch",
+            "responsible": "James Michael Overton",
+            "address": "19750 Sh-46, 110, Spring Branch, Tx, United States of America",
+            "website": null
+        },
+        {
+            "id": 9158,
+            "name": "Gracie Barra Spring Hill",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Spring Hill",
+            "responsible": "Reginaldo Gurgel F. de Almeida",
+            "address": "2001 Campbell Station Pkwy, Spring Hill, Tennessee, United States of America",
+            "website": "www.gbspringhill.com"
+        },
+        {
+            "id": 2640,
+            "name": "Gracie Barra Springfield",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Springfield",
+            "responsible": "Marcos Paulo Guimarães de Barros",
+            "address": "917, South 4th st  , , Springfield, IL, United States of America",
+            "website": "www.graciespringfield.com"
+        }
+    ]
+}

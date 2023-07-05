@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 295,
+        "from": 5880,
+        "to": 5900,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7230,
+            "name": "Ser Jiu-Jitsu Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Eusébio",
+            "responsible": "Álvaro Fontes de Oliveira",
+            "address": "Rua Nossa Senhora de Nazaré - 01, Bairro: Guaribas, Eusébio, CE, Brasil",
+            "website": "www.serjiujitsu.com.br"
+        },
+        {
+            "id": 2802,
+            "name": "Serao Mixed Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Palo Alto",
+            "responsible": "Leopoldo Serão Neto",
+            "address": "1141 Cedar Street  , , Palo Alto, CA, United States of America",
+            "website": ""
+        },
+        {
+            "id": 9130,
+            "name": "Serg BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Savannah",
+            "responsible": "Michael A Sergi",
+            "address": "401 Mall Blvd., Savannah, Georgia, United States of America",
+            "website": "sergbjj.com"
+        },
+        {
+            "id": 2247,
+            "name": "Sergio Penha Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Las Vegas",
+            "responsible": "Sergio Luiz da Penha",
+            "address": "6122 Yucca Fields Ct  , , Las Vegas, NV, United States of America",
+            "website": "www.sergiopenha.com"
+        },
+        {
+            "id": 9326,
+            "name": "Sero Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio Das Ostras",
+            "responsible": "Fabricio Rodrigues da Silva",
+            "address": "Rua Botafogo, 502, Bairro Novo - Rio Das Ostras, Rio Das Ostras, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 5474,
+            "name": "Serpentes",
+            "federationAbbr": "IBJJF",
+            "country": "Poland",
+            "countryAbbr": "PL",
+            "city": "Slupsk",
+            "responsible": "Damian Leszek Bartnicki",
+            "address": "Stadion 650-lecia, ul. Madalinskiego 1, Slupsk, Pomorskie, Poland",
+            "website": "www.serpentes.pl"
+        },
+        {
+            "id": 3020,
+            "name": "Serra BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Huntington ",
+            "responsible": "Matthew John Serra",
+            "address": "365 West Jericho Turnpike  , , Huntington , NY, United States of America",
+            "website": "www.serrajiujitsu.com"
+        },
+        {
+            "id": 7973,
+            "name": "Servo Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Franck Rennãn Gama de Souza",
+            "address": "Rua Paulo Lopes, 311 - Coroado 2, Cinderela Calçados, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 6163,
+            "name": "Sesc Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Inácio Santos da Cruz",
+            "address": "Avenida Constantinopla S/N, Conjunto Campos Eliseos, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 8856,
+            "name": "Sesi Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Macapá",
+            "responsible": "Othon Bruno Miranda Mendonça",
+            "address": "Rua Leopoldo Machado, 2749 - Trem, Macapá, Amapá, Brasil",
+            "website": null
+        },
+        {
+            "id": 9957,
+            "name": "Sete Base Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Espigão Do Oeste",
+            "responsible": "Marcio Daniel Hirano",
+            "address": "Avenida Nações Unidas   2006, Bairro Vista Alegre, Espigão Do Oeste, Rondônia, Brasil",
+            "website": null
+        },
+        {
+            "id": 6246,
+            "name": "Seth Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araguari",
+            "responsible": "Alexandre Marciano Ricardo",
+            "address": "Rua Juviniano da Maia n: 590, casa Ponto Alto, Araguari, Santa Catarina, Brasil",
+            "website": "www.7jj.com.br"
+        },
+        {
+            "id": 7838,
+            "name": "Seth Shamp BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Essex Junction",
+            "responsible": "Seth Garver James Shamp",
+            "address": "90 Center Rd, Suite 2, Essex Junction, Vermont, United States of America",
+            "website": null
+        },
+        {
+            "id": 6377,
+            "name": "Seven Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça",
+            "responsible": "Leandro Marcelo Muniz",
+            "address": "Rua Valentim Camilo Garcia n: 549, Ponte Imaruim, Palhoça, Santa Catarina, Brasil",
+            "website": "sevenbjj.com.br"
+        },
+        {
+            "id": 7967,
+            "name": "Severa Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarulhos",
+            "responsible": "Fernando Gabriel Forastiero",
+            "address": "Alameda Amélia, 713, Bloco 2, Ap 24, Guarulhos, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6404,
+            "name": "SF Empire Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Francisco",
+            "responsible": "Kurt Johann Osiander",
+            "address": "2356 Misson Street, San Francisco, CA, United States of America",
+            "website": "empireBJJ.com"
+        },
+        {
+            "id": 6000,
+            "name": "SFS MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mesquite",
+            "responsible": "Kelly Don Rundle",
+            "address": "1220 N. Towneast Blvd Suite 230, Mesquite, TX, United States of America",
+            "website": "sfsmma.com"
+        },
+        {
+            "id": 10548,
+            "name": "Shadow BJJ Texas",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pearland",
+            "responsible": "Roy Campanella Twymon Jr",
+            "address": "12310 Broadway Street Suite 214, Pearland, Texas, United States of America",
+            "website": null
+        },
+        {
+            "id": 5781,
+            "name": "Shaka",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Heejung Lee",
+            "address": "34 Apgujeong-ro 34 gil Gangnam-gu , Seoul, Korea, South",
+            "website": "www.shaka.co.kr"
+        },
+        {
+            "id": 7205,
+            "name": "Shanghai Artist MMA Academy",
+            "federationAbbr": "IBJJF",
+            "country": "China",
+            "countryAbbr": "CN",
+            "city": "Shanghai",
+            "responsible": "Y.X. Xiong",
+            "address": "7G Xinzha Road, No. 831, Shanghai, China",
+            "website": "www.amafightclub.com.cn"
+        }
+    ]
+}

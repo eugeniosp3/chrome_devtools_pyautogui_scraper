@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 347,
+        "from": 6920,
+        "to": 6940,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 8274,
+            "name": "Wahibjj",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Feilding",
+            "responsible": "Wahib Hosam Salha",
+            "address": "24 Turners Rd, Feilding, Manawatu, New Zealand",
+            "website": "wahibjj.com"
+        },
+        {
+            "id": 3338,
+            "name": "Wajutsu Keisyukai Hearts",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Daisuke Nakamura",
+            "address": "2-20-12-1F, Yoyogi Shibuya-ku , Tokyo, --, Japan",
+            "website": "www.hearts-mma.com"
+        },
+        {
+            "id": 7546,
+            "name": "Walters Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Morehead City",
+            "responsible": "Nicholas Evan Walters",
+            "address": "5370 US 70 Suite J, Morehead City, NC, United States of America",
+            "website": "WaltersJiuJitsu.com"
+        },
+        {
+            "id": 7803,
+            "name": "Wanderley Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wauwatosa ",
+            "responsible": "Daniel Souto Wanderley",
+            "address": "10704 W Burleigh St, Unit #3, Wauwatosa , Wisconsin , United States of America",
+            "website": "wanderleyjiujitsu.com"
+        },
+        {
+            "id": 10746,
+            "name": "Wanderson Silva Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Wanderson da Silva Mendonça",
+            "address": "Rua São Lourenço 2, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 8646,
+            "name": "Wandherson Cruz Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Quissamã",
+            "responsible": "Wandherson Cruz Martins",
+            "address": "Av. Francisco De Assis Carneiro Da Silva, 344, Centro, Quissamã, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 4579,
+            "name": "WAO",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Lyon",
+            "responsible": "Vincent Nguyen",
+            "address": "65 rue du bourbonnais, Lyon, France",
+            "website": "www.jjblyon.com"
+        },
+        {
+            "id": 10266,
+            "name": "War Brothers",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Criciuma",
+            "responsible": "Eduardo Milioli",
+            "address": "Rua Coronel Marcos Rovaris 199, Centro, Criciuma, Sc, Brasil",
+            "website": null
+        },
+        {
+            "id": 7613,
+            "name": "Warhouse/Mastermind MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Pinellas park ",
+            "responsible": "Jason Alberto Jimenez",
+            "address": "5675, 70th ave north, Pinellas park , Florida , United States of America",
+            "website": "www.mastermindmmaacademy.com"
+        },
+        {
+            "id": 7982,
+            "name": "Warlord MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Big Spring ",
+            "responsible": "Nathan Lozano Torres ",
+            "address": "602 S Main St., Big Spring , Texas, United States of America",
+            "website": "Www,warlordmma.com"
+        },
+        {
+            "id": 9189,
+            "name": "Warrior Meets Scholar Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Saint George",
+            "responsible": "Ricardo Bier Amaral",
+            "address": "1812 W. Sunset Blvd #11, Saint George, Utah, United States of America",
+            "website": "WWW.WarriorMeetsScholar.com"
+        },
+        {
+            "id": 3631,
+            "name": "Warrior MMA \u0026 Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "New Market",
+            "responsible": "Carlos Newton",
+            "address": "18075 Leslie Street  , New Market, ON, Canada",
+            "website": "warriormma.ca"
+        },
+        {
+            "id": 3386,
+            "name": "Warrior Way",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Walled Lake",
+            "responsible": "Harvy Steven Berman",
+            "address": "3100 Old Farm Lane  , , Walled Lake, MI, United States of America",
+            "website": "www.warriorway.com"
+        },
+        {
+            "id": 9544,
+            "name": "Warriors",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "João Marques de Oliveira Junior",
+            "address": "Quadra 03, Ginásio De Esportes, Jardins Mangueiral, Brasilia, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 7532,
+            "name": "Warriors Fighter Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": "Hordisney Pereira de Sousa Alencar",
+            "address": "Rua Mestre Júlio Arcanjo, Nº 357, Bairro: Monte Castelo, Teresina, Piaui, Brasil",
+            "website": null
+        },
+        {
+            "id": 6974,
+            "name": "Warwolf BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Bournemouth",
+            "responsible": "James R. Johnstone",
+            "address": "725 Wimborne Road, Bournemouth, United Kingdom",
+            "website": "www.warwolfbjj.co.uk"
+        },
+        {
+            "id": 2984,
+            "name": "WAT BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Thailand",
+            "countryAbbr": "TH",
+            "city": "Phuket",
+            "responsible": "Olavo Procopio de Abreu Filho",
+            "address": "14/106, Rawai, Mueang Phuket District, , Phuket, TL, Thailand",
+            "website": "www.teamtemplebjj.com"
+        },
+        {
+            "id": 6055,
+            "name": "Waterhouse BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Akron",
+            "responsible": "Mathew A Waterhouse",
+            "address": "3089 Manchester Rd, Akron, OH, United States of America",
+            "website": "waterhousebjj.com"
+        },
+        {
+            "id": 5972,
+            "name": "Watkins Wrecking Crew",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Arlington",
+            "responsible": "Jeremy Joel Watkins",
+            "address": "5100 W. Sublett Rd. Suite 120, Arlington, TX, United States of America",
+            "website": "www.watkinswreckingcrew.com"
+        },
+        {
+            "id": 3575,
+            "name": "Watson Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "St. Louis",
+            "responsible": "Kyle Lane Watson",
+            "address": "2737 Papin Street, St. Louis, MO, United States of America",
+            "website": "www.watsonbjj.com"
+        }
+    ]
+}

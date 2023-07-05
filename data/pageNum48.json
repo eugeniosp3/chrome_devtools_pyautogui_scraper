@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 48,
+        "from": 940,
+        "to": 960,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9680,
+            "name": "Black Sails Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Edmonton",
+            "responsible": "James Stephen Paetz",
+            "address": "9746 54 Avenue Nw, Edmonton, Ab, Canada",
+            "website": null
+        },
+        {
+            "id": 8286,
+            "name": "Black Samurai",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Armação Dos Búzios ",
+            "responsible": "Bruno Miguel Barbosa",
+            "address": "Av José Ribeiro Dantas, 540, Manguinhos, Armação Dos Búzios , Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4859,
+            "name": "Black Team Jiu-Jitsu - Café",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Volta Redonda ",
+            "responsible": "Alexandre Fernandes Dantas",
+            "address": "Rua Dr Lourival Nogueira, n.116, L 8, Q1, Village Sul, Volta Redonda , RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5974,
+            "name": "Blackhawk Velha Guarda",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cachoeira do Sul",
+            "responsible": "Marlon dos Santos Carreon",
+            "address": "Rua Candido Freitas n: 206, Fatima, Cachoeira do Sul, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 6513,
+            "name": "Blacklab Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santo André",
+            "responsible": "Rafael Silva dos Santos",
+            "address": "Rua Quixada, 41, Parque João Ramalho, Santo André, SP, Brasil",
+            "website": "https://blacklabjj.com"
+        },
+        {
+            "id": 3484,
+            "name": "Blackout Academy",
+            "federationAbbr": "IBJJF",
+            "country": "Monaco",
+            "countryAbbr": "MC",
+            "city": "Monaco",
+            "responsible": "Michel Pierre-Maurie Salvadori",
+            "address": "25, av Crovetto Freres, Monaco, --, Monaco",
+            "website": "http://www.blackout-academy.com/"
+        },
+        {
+            "id": 5851,
+            "name": "BlackSmith Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Ridgecrest",
+            "responsible": "Matt Jason Baker",
+            "address": "1000 N Norma, Ridgecrest, CA, United States of America",
+            "website": "blacksmithjiujitsu.com"
+        },
+        {
+            "id": 9693,
+            "name": "Blackwolf Escola De Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Rogério Pinheiro de Goes",
+            "address": "Rua Octávio Teixeira Mendes Sobrinho, 310, Sobreloja, São Paulo, São Paulo, Brasil",
+            "website": "Www.blackwolfjj.com.br"
+        },
+        {
+            "id": 8607,
+            "name": "Blackzillian Jiu Jitsu Clube",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Acará",
+            "responsible": "Eduardo da Silva Conceição",
+            "address": "Travessa Júlio César, N124, Acará, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 9491,
+            "name": "Blairstown Lobo MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Blairstown",
+            "responsible": "Adrian Luna-Verduga",
+            "address": "187 Rt 94, Unit 2, Blairstown, Nj, United States of America",
+            "website": "Lobomma.com"
+        },
+        {
+            "id": 3446,
+            "name": "Blakz Team",
+            "federationAbbr": "IBJJF",
+            "country": "Spain",
+            "countryAbbr": "ES",
+            "city": "Bilbao",
+            "responsible": "Jair Corrêa de Magalhães",
+            "address": "Calle Errondoko 7  , , Bilbao, Vizcaya, Spain",
+            "website": ""
+        },
+        {
+            "id": 9736,
+            "name": "Blast BJJ Studio",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Hyogoken",
+            "responsible": "Kuniaki Hamajima",
+            "address": "Himejishi Nishinakajima 408-1, -ö408-1, Hyogoken, Japan",
+            "website": null
+        },
+        {
+            "id": 4117,
+            "name": "BLEC",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Bruno Lopes Leandro",
+            "address": "Rua Silva Paulet 1963 , Aldeota, Fortaleza, CE, Brasil",
+            "website": ""
+        },
+        {
+            "id": 7660,
+            "name": "Blecaute Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cuiabá  ",
+            "responsible": "Edson Vagner Mendes de Oliveira",
+            "address": "Avenida Marechal Deodoro , Bairro araés , número 288, Cuiabá  , Mato Grosso , Brasil",
+            "website": null
+        },
+        {
+            "id": 9193,
+            "name": "BLINDADO JJ TEAM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Londrina",
+            "responsible": "Marcos Gimenes da Conceição",
+            "address": "Rua Humaitá, 437, Centro, Londrina, Pr, Brasil",
+            "website": "https://institutojgv.blogspot.com/"
+        },
+        {
+            "id": 7442,
+            "name": "Blitz Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Leonardo Momes Torres",
+            "address": "Rua Roraima n: 292, Proximo ao T5 - Bairro: São Jose I, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 8297,
+            "name": "BLL Prime 4 Fight Sport",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "Henderson de Araujo Vieira",
+            "address": "Shin Ql 2, Conjunto 12, 2, Academia Prime 4, Brasília, Distrito Federal, Brasil",
+            "website": null
+        },
+        {
+            "id": 5456,
+            "name": "Blood Brothers BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Valparaíso",
+            "responsible": "Cleovalter Santos Batista de Souza",
+            "address": "Quadra 10 Lote 10 Sala 106, Valparaíso Etapa \"A\", Valparaíso, GO, Brasil",
+            "website": null
+        },
+        {
+            "id": 3292,
+            "name": "Blows",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Osaka",
+            "responsible": "Yohei Nomura",
+            "address": "1-2-6 6F, Nihonbashi- chu Oh-ku  , Osaka, --, Japan",
+            "website": "www.stgblows.com"
+        },
+        {
+            "id": 3160,
+            "name": "Blue Max",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Yamagata",
+            "responsible": "Kazushi Suzuki",
+            "address": "3-2-89-3 Jinmatinishi Higashineshi  , Yamagata, --, Japan",
+            "website": "http://bluemax.doorblog.jp"
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 251,
+        "from": 5000,
+        "to": 5020,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2945,
+            "name": "Officine Jiu-Jitsu",
+            "federationAbbr": "UIJJ",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Torino",
+            "responsible": "Leonardo Santoro",
+            "address": "Via Ticino 4/b -  Torino - Italy  , , Torino, --, Italy",
+            "website": "www.bjjtorino.com"
+        },
+        {
+            "id": 4928,
+            "name": "OG Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Surbiton",
+            "responsible": "Oliver Leys Geddes",
+            "address": "10 Grove Footpath  , , Surbiton, United Kingdom",
+            "website": "www.ogjiujitsu.com"
+        },
+        {
+            "id": 6605,
+            "name": "Ogawa BJJ Austria Team",
+            "federationAbbr": "IBJJF",
+            "country": "Austria",
+            "countryAbbr": "AT",
+            "city": "Innsbruck",
+            "responsible": "Alexandre Ogawa",
+            "address": "Grabenweg 67b, Innsbruck, Tirol, Austria",
+            "website": "www.ogawabjj.at"
+        },
+        {
+            "id": 2919,
+            "name": "Ogawa Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Nishio",
+            "responsible": "Alexandre Ogawa",
+            "address": "Nakabata-cho Mizuarai 46, Nishio, Aichi, Japan",
+            "website": null
+        },
+        {
+            "id": 8778,
+            "name": "Ogmok Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Philippines",
+            "countryAbbr": "PH",
+            "city": "Ormoc City",
+            "responsible": "Edman Pole",
+            "address": "Margen, Ormoc City, Leyte, Philippines",
+            "website": "www.ogmokjiujitsu.com"
+        },
+        {
+            "id": 5083,
+            "name": "Ogre School Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresópolis",
+            "responsible": "Aldiney Chardson de Lima Carvalho",
+            "address": "Estrada Fonte Santa 765 Casa, Fonte Santa, Teresópolis, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6223,
+            "name": "Ogro Jiu-Jitsu 2015",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Luis",
+            "responsible": "Sidney Eduardo Villar de Freitas",
+            "address": "Av. Contorno Norte Sul 13 Quadra 37, Cohatrac Iv, São Luis, Maranhão, Brasil",
+            "website": null
+        },
+        {
+            "id": 5384,
+            "name": "Ohana Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Antonio",
+            "responsible": "Jason Robert Yerrington",
+            "address": "15032 San Pedro Ave, Unit 105, San Antonio, TX, United States of America",
+            "website": "ohanajiujitsu.com"
+        },
+        {
+            "id": 8836,
+            "name": "Oita Life",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Oita-city",
+            "responsible": "Yohei Nomura",
+            "address": "1f, 1-4-1 Naganamamachi, Oita-city, Oita-ken, Japan",
+            "website": "https://blowsoitalife.com"
+        },
+        {
+            "id": 8462,
+            "name": "OJJ - Origens Escola de Jiu Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Caucaia",
+            "responsible": "Cicero Gilberto Salgueiro Da Silva",
+            "address": "Rua Pádua Alves N°27, Pacheco, Pacheco, Caucaia, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 7892,
+            "name": "OK Legacy Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Edmond",
+            "responsible": "Justin S. Rader",
+            "address": "3825 Nw 166th St. Suite B13, Edmond, Oklahoma, United States of America",
+            "website": "www.legacyma.com"
+        },
+        {
+            "id": 9155,
+            "name": "Okami  Combat Sports",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "Cdmx",
+            "responsible": "Jorge H. Pastor Riande",
+            "address": "Calzada De Los Leones 115 Local B, Cdmx, Álvaro Obregón, Mexico",
+            "website": "http://okami.mx/"
+        },
+        {
+            "id": 8901,
+            "name": "Okanagan Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Kelowna",
+            "responsible": "Jorden Michael Reichenbach",
+            "address": "100 1385 Gordon Dive, Kelowna, British Columbia, Canada",
+            "website": "pttkelowna.com"
+        },
+        {
+            "id": 9553,
+            "name": "OKC Combat Sports",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Oklahoma City",
+            "responsible": "Travis Edward Serna",
+            "address": "306 N Klein, Oklahoma City, Oklahoma, United States of America",
+            "website": "Okccombatsports.com"
+        },
+        {
+            "id": 9143,
+            "name": "Oklin BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vila Velha",
+            "responsible": "Gualter Eleodorio dos Santos",
+            "address": "Rua Tuiuti 59, Galpão, Vila Velha, Espirito Santo, Brasil",
+            "website": "Rua Tuiuti 59 bairro jardim Guadalajara vila velha ES"
+        },
+        {
+            "id": 7765,
+            "name": "Okotoks Brazilian Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Okotoks",
+            "responsible": "Paul Joseph Kiat",
+            "address": "2-220 North Railway Street., Okotoks, Ab, Okotoks, Alberta, Canada",
+            "website": "www.okotoksbjj.com"
+        },
+        {
+            "id": 10144,
+            "name": "Old Dog Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Poços De Caldas",
+            "responsible": "Neocicero Barbosa",
+            "address": "Rua Itabira 166 Apto 3  37701-030, Esquina, Poços De Caldas, Minas Gerais, Brasil",
+            "website": "https://instagram.com/alentejoolddogteam?igshid=YmMyMTA2M2Y="
+        },
+        {
+            "id": 7634,
+            "name": "Old Guard Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Keighley",
+            "responsible": "Duane Paul Harper",
+            "address": "Springfield Mills, Oakworth Road, Keighley, West Yorkshire, United Kingdom",
+            "website": "http://av-ma.co.uk"
+        },
+        {
+            "id": 9712,
+            "name": "Old Guys On The Mat",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santos",
+            "responsible": "Antonio Carlos dos Santos Pinheiro",
+            "address": "Carvalho De Mendonça, 649, Santos, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 10095,
+            "name": "Oliveira Fighter",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São João Da Boa Vista",
+            "responsible": "Cleber de Oliveira",
+            "address": "Rua Henrique Cabral De Vasconcelos 1629, São João Da Boa Vista, São Paulo, Brasil",
+            "website": null
+        }
+    ]
+}

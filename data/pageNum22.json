@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 22,
+        "from": 420,
+        "to": 440,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5716,
+            "name": "Alliance Vila Maria Helena",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Uberaba",
+            "responsible": "Moises Cardoso de Oliveira",
+            "address": "Rua Princesa Do Sertão 180, Centro, Uberaba, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 10432,
+            "name": "Alliance Vila Mariana",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Octavio Maffei Prado",
+            "address": "Rua Domingos De Morais 1419, São Paulo, São Paulo, Brasil",
+            "website": "www.alliancevilamariana.com.br"
+        },
+        {
+            "id": 8932,
+            "name": "Alliance Washington",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lakewood",
+            "responsible": "James Johnson Jr",
+            "address": "12828 Pacific Hwy Sw, Lakewood, Wa, United States of America",
+            "website": "alliancebjjwa.com"
+        },
+        {
+            "id": 7536,
+            "name": "Alliance Westchester",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Thornwood",
+            "responsible": "Trenton J. Cooke",
+            "address": "852 Commerce St. Unit 4D, Thornwood, New York , United States of America",
+            "website": "www.trentoncookebjj.com"
+        },
+        {
+            "id": 10189,
+            "name": "Allied Academy Of Martial Arts",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Southfield",
+            "responsible": "Hashem Hashemi Heshmat Magham",
+            "address": "29864 Northwestern Hwy, Southfield, Michigan, United States of America",
+            "website": "Alliedmartialarts.com"
+        },
+        {
+            "id": 6545,
+            "name": "Alma Fight Gym Base",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "--",
+            "responsible": "Tsukasa Muroya",
+            "address": "9-5-15 Nanabangaibuil 7 Jou Shinkotoni Kitaku Sapporo, --, Hokkaido, Japan",
+            "website": "www.afgbase.com"
+        },
+        {
+            "id": 6274,
+            "name": "Alma Fight Gym Homies",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aichi",
+            "responsible": "Akira Hosokawa",
+            "address": "1-21-2 Matsubara Bdg 1f, Aoi, Higashi-ku, Nagoya, Aichi, --, Japan",
+            "website": "www.afghomies.com"
+        },
+        {
+            "id": 8916,
+            "name": "Alma Fight Gym Life",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Setagaya",
+            "responsible": "Akira Hosokawa",
+            "address": "Kawamatabiru B1f, 2-26-22 Nozawa, Setagaya, Tokyo, Japan",
+            "website": "www.afglife.jp"
+        },
+        {
+            "id": 9686,
+            "name": "Alma Fight Gym Shuko",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Sendai-shi",
+            "responsible": "Rei Yoshihara",
+            "address": "Renbo Bldg. 1f 2-1-65 Renbo Wakabayashi-ku, Sendai-shi, Miyagi, Japan",
+            "website": null
+        },
+        {
+            "id": 3343,
+            "name": "Alma Fight Gym Warp",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aomori-shi",
+            "responsible": "Kouhei Tsugawa",
+            "address": "#202 Takara Building 4-9-15 Honcho, Aomori-shi, Aomori, Japan",
+            "website": "wwww.bjj-warp.com"
+        },
+        {
+            "id": 10050,
+            "name": "Almir Marcelo Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Velho",
+            "responsible": "Almir Marcelo Oliveira Viana",
+            "address": "Rua Alexandre Guimaraes, 7235, Lagoinha, Porto Velho, Rondônia, Brasil",
+            "website": null
+        },
+        {
+            "id": 6897,
+            "name": "Aloha Roll Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lahaina",
+            "responsible": "Gilberto Castro",
+            "address": "1068 Limahana Pl, Unit #5, Lahaina, HI, United States of America",
+            "website": "aloharollacademy.com"
+        },
+        {
+            "id": 2043,
+            "name": "Aloisio Silva BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Lawndale",
+            "responsible": "João Ernani Pinho da Silva",
+            "address": "4646 Manhatan Beach Blvd  , , Lawndale, CA, United States of America",
+            "website": "www.silvabjj.com"
+        },
+        {
+            "id": 4132,
+            "name": "Aloisio Silva BJJ - Parlier",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Parlier",
+            "responsible": "Chrayondray Tyshon Johnson",
+            "address": "885 Manning Ave. #301, , Parlier, California, United States of America",
+            "website": "tyshonbjj.com"
+        },
+        {
+            "id": 5941,
+            "name": "Alpha Clube de Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Cristiano Nobre Chaves",
+            "address": "R. Oeste, 81, Jardim Equatorial, Boa Vista, RR, Brasil",
+            "website": null
+        },
+        {
+            "id": 8966,
+            "name": "Alpha Team- Anderson Meneghetti Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Anderson Kleinkauff Meneghetti",
+            "address": "Rua Zeca Neto,107, Porto Alegre, Rs, Brasil",
+            "website": null
+        },
+        {
+            "id": 9949,
+            "name": "Alpine Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Alpine",
+            "responsible": "Frank Anthony Califano",
+            "address": "1347 Tavern Rd Ste D, Alpine, California, United States of America",
+            "website": null
+        },
+        {
+            "id": 10421,
+            "name": "Alternativa Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cabo Frio",
+            "responsible": "Thiago dos Santos Rabello",
+            "address": "Avenida Independência, 1248 - Km 136, Loja 1, Cabo Frio, Rio De Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 2408,
+            "name": "Alvarez Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Arlington",
+            "responsible": null,
+            "address": "1114 W. Harris Rd - Ste 104  , , Arlington, TX, United States of America",
+            "website": "www.alvarezbjj.com"
+        },
+        {
+            "id": 4959,
+            "name": "Alvarez Brazilian Jiu-Jitsu - TPC Anacondas",
+            "federationAbbr": "IBJJF",
+            "country": "Mexico",
+            "countryAbbr": "MX",
+            "city": "San Nicolas de los Garza",
+            "responsible": "Sergio Palacios Salazar",
+            "address": "AV Mario J Montemayor 300 Seg Piso Fraccionamiento CD Ideal, , San Nicolas de los Garza, NL, Mexico",
+            "website": ""
+        }
+    ]
+}

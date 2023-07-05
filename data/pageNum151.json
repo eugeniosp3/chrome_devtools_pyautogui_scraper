@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 151,
+        "from": 3000,
+        "to": 3020,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 432,
+            "name": "Gracie Barra Belo Horizonte - MG",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belo Horizonte",
+            "responsible": "Vinicius Magalhães",
+            "address": "Rodovia BR 356, 2500 Lota 224  , Santa Lucia, Belo Horizonte, BH, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5701,
+            "name": "Gracie Barra Belvedere",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Lima",
+            "responsible": "Felipe Carsalade Araujo Pena",
+            "address": "Rua San Marino 430, Condominio Vila Castela, Nova Lima, MG, Brasil",
+            "website": null
+        },
+        {
+            "id": 6304,
+            "name": "Gracie Barra Bento Ferreira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vitória",
+            "responsible": "Andre Luis dos Santos Almeida",
+            "address": "Rua João Vieira n: 176, Monte Belo, Vitória, Espirito Santo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8318,
+            "name": "Gracie Barra Betim - MG",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Betim",
+            "responsible": "Leandro Melo  Prado",
+            "address": "Av. Amazonas, 1635, Centro, Betim, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 2730,
+            "name": "Gracie Barra Birmingham",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Birmingham",
+            "responsible": "Braulio de Oliveira Estima",
+            "address": "123 Bath Row  , , Birmingham, WM, United Kingdom",
+            "website": "www.gbbirmingham.com"
+        },
+        {
+            "id": 9020,
+            "name": "Gracie Barra Birmingham-USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Birmingham",
+            "responsible": "Gustavo Gomes Dos Santos",
+            "address": "3800 3rd Ave S, Birmingham, Al, United States of America",
+            "website": "www.gbbhamusa.com"
+        },
+        {
+            "id": 9756,
+            "name": "Gracie Barra Blacktown City",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Blacktown",
+            "responsible": "David Bart Y Lazaro",
+            "address": "1/1 Melissa Place, Blacktown, Nsw, Australia",
+            "website": "https://www.gbblacktowncity.com.au"
+        },
+        {
+            "id": 3733,
+            "name": "Gracie Barra Bloomington",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bloomington",
+            "responsible": "M Don Fox",
+            "address": "1 Yount Dr. Suite B  , , Bloomington, IL, United States of America",
+            "website": "www.gbbloomington.com"
+        },
+        {
+            "id": 5588,
+            "name": "Gracie Barra Boa Viagem - PE",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Recife",
+            "responsible": "Fabricio Pepiliasco Bartholo",
+            "address": "Rua Coronel Anizio Rodrigues Coelho n: 253, Boa Viagem, Recife, PE, Brasil",
+            "website": "www.gbboaviagem.com.br"
+        },
+        {
+            "id": 3900,
+            "name": "Gracie Barra Boa Vista - RR",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Marcio Alves de Lima",
+            "address": "Rua Lobo D`Almada n: 191, São Francisco, Boa Vista, RR, Brasil",
+            "website": "Rua que passa ao lado da Folha de Boa Vista."
+        },
+        {
+            "id": 5690,
+            "name": "Gracie Barra Boca Do Rio",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Luiz Claudio Conceição Torres",
+            "address": "Rua Antônio Carlos Magalhães, 22, Boca do Rio, Salvador, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 5837,
+            "name": "Gracie Barra Boca Raton",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boca Raton",
+            "responsible": "Sergio Santos da Costa Filho",
+            "address": "1906 Clint Moore Rd. , Suite 4, Boca Raton, FL, United States of America",
+            "website": "gbbocaraton.com"
+        },
+        {
+            "id": 8360,
+            "name": "Gracie Barra Boise",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Garden City",
+            "responsible": "Raymond Billymack Morrow",
+            "address": "5681 N. Glenwood St. , G208, Garden City, Idaho, United States of America",
+            "website": null
+        },
+        {
+            "id": 7836,
+            "name": "Gracie Barra Bombinhas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bombinhas",
+            "responsible": "Renato Izaias dos Santos",
+            "address": "Avenida Araça, 1525, Bombinhas, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 10322,
+            "name": "Gracie Barra Bondi",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Mona Vale",
+            "responsible": "Pedro Dornelles Netto",
+            "address": "13 Kristine Place, Mona Vale, Nsw, Australia",
+            "website": null
+        },
+        {
+            "id": 2624,
+            "name": "Gracie Barra Boston",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boston",
+            "responsible": "Alexandre Silva Pinheiro da Costa",
+            "address": "957 Commonwealth Ave, Boston, MA, United States of America",
+            "website": "www.graciebarraboston.com"
+        },
+        {
+            "id": 2604,
+            "name": "Gracie Barra Botafogo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Rodrigo Prujansky dos Santos",
+            "address": "Rua da Passagem n: 172/201, Botafogo, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 6634,
+            "name": "Gracie Barra Bothell",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mill Creek",
+            "responsible": "Melvin Juan Almeida Revilla",
+            "address": "13402 Bothell Everett Hwy Stu. 105, Wa 98012, Mill Creek, WA, United States of America",
+            "website": "www.gbbothell.com"
+        },
+        {
+            "id": 9617,
+            "name": "Gracie Barra Braço De Prata",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Lisboa",
+            "responsible": "Sebastien William Arnaud Garnier",
+            "address": "Rua Fernando Palha, 56a, Lisboa, Portugal",
+            "website": "www.gbbracodeprata.pt"
+        },
+        {
+            "id": 9013,
+            "name": "Gracie Barra Bradley Stoke",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "Bristol",
+            "responsible": "Bruno Norberto do Vale Martins Aguiar",
+            "address": "Suite A2, First Floor, Bradley Pavilions, Pear Tree Rd, Bradley Stoke, Bristol, United Kingdom",
+            "website": "https://gbbradleystoke.com/"
+        }
+    ]
+}

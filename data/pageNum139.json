@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 139,
+        "from": 2760,
+        "to": 2780,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 7075,
+            "name": "GF Team Austin",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Iguaçu ",
+            "responsible": "Emerson Ferreira Faria",
+            "address": "Rua Itagiba n: 48 Loja, Bairro: Mariléia, Nova Iguaçu , Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 3642,
+            "name": "GF Team Bahia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": null,
+            "address": "Av. Jorge Amado 214 AP 501, Imbuí, Salvador, BA, Brasil",
+            "website": "www.gfteambahia.com.br"
+        },
+        {
+            "id": 4312,
+            "name": "GF Team Berlin",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "Berlin",
+            "responsible": "Gabriel Rainho Fontes",
+            "address": "Mittenwalder str. 6  , , Berlin, Germany",
+            "website": ""
+        },
+        {
+            "id": 6039,
+            "name": "GF Team Buffalo / Spar BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Tonawanda",
+            "responsible": "Matthew George Godden",
+            "address": "2309 Eggert Road, Tonawanda, NY, United States of America",
+            "website": "www.BrazilianJiuJitsuBuffalo.com"
+        },
+        {
+            "id": 8100,
+            "name": "Gf Team Calgary",
+            "federationAbbr": "IBJJF",
+            "country": "Canada",
+            "countryAbbr": "CA",
+            "city": "Calgary",
+            "responsible": "Randy Chung",
+            "address": "Unit 5, 4127 - 6th Street Ne, Calgary, Alberta, Canada",
+            "website": "www.KodokanYYC.com"
+        },
+        {
+            "id": 2670,
+            "name": "GF Team California",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fountain Valley",
+            "responsible": "Marcelo Augusto de Carvalho",
+            "address": "16540 Harbor Blvd, Suite L  , , Fountain Valley, CA, United States of America",
+            "website": "www.globaljiujitsuacademy.com"
+        },
+        {
+            "id": 4974,
+            "name": "GF Team Campos",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campos dos Goytacazes",
+            "responsible": "Victor Santos Gomes",
+            "address": "Rua Domingos Viana 170 , Pq. California, Campos dos Goytacazes, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6407,
+            "name": "GF Team Caveira",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Santo André",
+            "responsible": "Francelito Aristoteles do Carmo",
+            "address": "Rua Caquito n: 128, Bairro: Vila Pires, Santo André, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 4548,
+            "name": "GF Team Chile",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Santiago",
+            "responsible": "Alvaro Rodrigo Santos Bobadilla",
+            "address": "Rafael pintor Correa 2830 Villa Anumancia P.A. Cerda  , , Santiago, SA, Chile",
+            "website": ""
+        },
+        {
+            "id": 4219,
+            "name": "GF Team Connecticut",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bridgeport",
+            "responsible": "Julio Cesar Pereira",
+            "address": "2710 North Ave.  , , Bridgeport, CT, United States of America",
+            "website": "cruvinelbrothers.com"
+        },
+        {
+            "id": 4902,
+            "name": "GF Team Distrito Federal",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Felipe Leite Alencastro",
+            "address": "Setor De Clubes Norte, Trecho 03, Conjunto 06, Asa Norte, Brasilia, DF, Brasil",
+            "website": "www.hardcorefightclub.com.br"
+        },
+        {
+            "id": 8579,
+            "name": "GF Team Doha",
+            "federationAbbr": "IBJJF",
+            "country": "Qatar",
+            "countryAbbr": "QA",
+            "city": "Doha",
+            "responsible": "Bruno Celio Costa de Melo",
+            "address": "Al Mirqab Al Jadeed St, Tower B - Office B-107, Doha, Qatar, Qatar",
+            "website": null
+        },
+        {
+            "id": 4737,
+            "name": "GF Team ES",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cach. de Itapem.",
+            "responsible": "Raphael Cardoso Chiecon",
+            "address": "Av. Jones dos Santos Neves 49 a 57, Santo Antonio, Cach. de Itapem., ES, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4789,
+            "name": "GF Team Floripa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça ",
+            "responsible": "Leonardo Augusto Martins Loureiro",
+            "address": "R. Ermeline MC Sheidt  220 Loja , Centro, Palhoça , SC, Brasil",
+            "website": "www.gfteam.com.br"
+        },
+        {
+            "id": 7950,
+            "name": "Gf Team Fortaleza",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Wilson de Sousa Almeida",
+            "address": "Rua Dona Mendinha 1200, Alvaro Weyne, Fortaleza, Ceará, Brasil",
+            "website": "@gfteamceara"
+        },
+        {
+            "id": 3885,
+            "name": "GF Team France",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Paris",
+            "responsible": "Zakaria Tarik Arhab",
+            "address": "13 Rue de Terres au Cure  , , Paris, --, France",
+            "website": "--"
+        },
+        {
+            "id": 7065,
+            "name": "GF Team Friburgo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Nova Friburgo",
+            "responsible": "Adriano Lima Rodrigues",
+            "address": "Rua Vicente Sobrinho n: 19 - Em frente ao posto de Saúde, Bairro: Olaria, Nova Friburgo, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 4813,
+            "name": "GF Team Goias",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiania",
+            "responsible": "Fabio Neres dos Santos",
+            "address": "Av. 1 de Maio 340 Qd 04, Lt 11, St Marechal Rondon (Fama), Goiania, GO, Brasil",
+            "website": ""
+        },
+        {
+            "id": 4707,
+            "name": "GF Team Houston",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Houston",
+            "responsible": "Marcus Vinícius de Souza Bello",
+            "address": "5756 S. Rice Ave, Houston, TX, United States of America",
+            "website": null
+        },
+        {
+            "id": 3715,
+            "name": "GF Team International",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Santiago de chile",
+            "responsible": "Julio Cesar Pereira",
+            "address": "  , , Santiago de chile, --, Chile",
+            "website": ""
+        }
+    ]
+}

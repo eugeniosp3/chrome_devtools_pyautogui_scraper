@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 348,
+        "from": 6940,
+        "to": 6960,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 2964,
+            "name": "Watts MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Simi Valley",
+            "responsible": "Dion Guy Watts",
+            "address": "4210 E. Los Angeles Ave Suite D  , , Simi Valley, CA, United States of America",
+            "website": "www.wattsmma.com"
+        },
+        {
+            "id": 4318,
+            "name": "Wave BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London ",
+            "responsible": "Lorenzo Fraquelli",
+            "address": "Arch 197, Prebend Gardens  , London , --, United Kingdom",
+            "website": "www.wavebjj.co"
+        },
+        {
+            "id": 2994,
+            "name": "Way of Jiu-Jitsu Academy / Rigan Machado",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Denver",
+            "responsible": "Nobuo Yagai",
+            "address": "7808 Cherry Creek South Drive #205 , , Denver, CO, United States of America",
+            "website": "www.wayofjiu-jitsu.com"
+        },
+        {
+            "id": 4910,
+            "name": "Way of the Warrior BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "San Ramon",
+            "responsible": "Alejandro Lopez Guerrero",
+            "address": "2001 Omega Road, Suite 200, San Ramon, Ca, United States of America",
+            "website": "www.warrior-bjj.com"
+        },
+        {
+            "id": 9350,
+            "name": "WAY STAR JIU JITSU TEAM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Jefferson Costa Pinto",
+            "address": "Av Panamericana 809, Jardim Lindóia, Porto Alegre, Rio Grande Do Sul, Brasil",
+            "website": null
+        },
+        {
+            "id": 3788,
+            "name": "Waza",
+            "federationAbbr": "IBJJF",
+            "country": "Italy",
+            "countryAbbr": "IT",
+            "city": "Savona",
+            "responsible": "Igor Ercole",
+            "address": "Via Santuario 45, Savona, Savona, Italy",
+            "website": "www.teamwaza.com"
+        },
+        {
+            "id": 3583,
+            "name": "Waza Brazilian Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Elk Grove",
+            "responsible": "Derek Anthony DiManno",
+            "address": "9105 Laguna Main St. #135 , , Elk Grove, CA, United States of America",
+            "website": "www.wazabjj.com"
+        },
+        {
+            "id": 9909,
+            "name": "WB Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Holambra",
+            "responsible": "Wagner Barbosa da Silva",
+            "address": "Av Rota Dos Imigrantes, 495, Centro, Holambra, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 8689,
+            "name": "Wbjj Young Mountain Brazilian Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Kyoto-city",
+            "responsible": "Yoshihiro Wakayama",
+            "address": "Yugyomae-cho558sasakidance, Kyoto-city, Kyoto, Japan",
+            "website": "https://www.instagram.com/wakabjj/"
+        },
+        {
+            "id": 8532,
+            "name": "WC Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Fortaleza",
+            "responsible": "Luiz da Costa Oliveira Junior",
+            "address": "Rua Antônio De Castro Nr 551, Cidade Dos Funcionários, Fortaleza, Ceará, Brasil",
+            "website": null
+        },
+        {
+            "id": 4088,
+            "name": "WCF Jiu-Jitsu Campina Grande",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campina Grande",
+            "responsible": "Wilson Camara Filho",
+            "address": "Rua Abdon Napy numero: 91, Bairro: Presidente Medige, Campina Grande, PB, Brasil",
+            "website": null
+        },
+        {
+            "id": 5002,
+            "name": "WCF Jiu-Jitsu Condado - PB",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Condado",
+            "responsible": "Wilson Camara Filho",
+            "address": "Rua Sete de Setembro S/N , Centro, Condado, PB, Brasil",
+            "website": null
+        },
+        {
+            "id": 5126,
+            "name": "WCF Jiu-Jitsu Olivedos - PB",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Olivedos",
+            "responsible": "Wilson Camara Filho",
+            "address": "Rua Rondinelli Guimarães Souto S/N, Centro, Olivedos, PB, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5924,
+            "name": "WCF Jiu-Jitsu Paraiba",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campina Grande",
+            "responsible": "Wilson Camara Filho",
+            "address": "Rua Isaac Catão n: 530, Jardim Paulistano, Campina Grande, PB, Brasil",
+            "website": null
+        },
+        {
+            "id": 4972,
+            "name": "WCF Jiu-Jitsu Queimadas - PB",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Queimadas",
+            "responsible": "Wilson Camara Filho",
+            "address": "Rua Eunice Ribeiro 571 1 andar, Centro, Queimadas, PB, Brasil",
+            "website": ""
+        },
+        {
+            "id": 10654,
+            "name": "WCMMA India",
+            "federationAbbr": "IBJJF",
+            "country": "India",
+            "countryAbbr": "IN",
+            "city": "Gurgaon",
+            "responsible": "Michael Christopher Murrell",
+            "address": "B11/1, Dlf Phase 1, Gurgaon, Haryana, India",
+            "website": "wcmma.in"
+        },
+        {
+            "id": 3937,
+            "name": "WD Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Palhoça ",
+            "responsible": "Wagner Dias dos Santos",
+            "address": "Rua Vereador Osvaldo De Oliveira, 4110, Centro, Palhoça , SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 8528,
+            "name": "We Are Hawaii Jiu-Jitsu Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Kailua-kona",
+            "responsible": "Joseph Moku Kahawai Jr.",
+            "address": "Po Box 4780, Kailua-kona, Hawaii, United States of America",
+            "website": "www.hawaiijiujitsuacademy.com"
+        },
+        {
+            "id": 5715,
+            "name": "We Fighter Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Araguaina",
+            "responsible": "Enoque Inacio de Araujo",
+            "address": "Rua Sargento Edson Soares de Abreu número: 123, Setor Belo Horizonte, Araguaina, Tocantis, Brasil",
+            "website": null
+        },
+        {
+            "id": 7166,
+            "name": "Welinton Vieira BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "United Arab Emirates",
+            "countryAbbr": "AE",
+            "city": "Abu Dhabi",
+            "responsible": "Welinton Alves Vieira",
+            "address": "Al Ghadee,street 01,court 2,, C5-1-101, Abu Dhabi, Abu Dhabi, United Arab Emirates",
+            "website": "Abu Dhabi - U.A.E"
+        }
+    ]
+}

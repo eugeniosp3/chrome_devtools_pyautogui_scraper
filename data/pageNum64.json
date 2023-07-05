@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 64,
+        "from": 1260,
+        "to": 1280,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 3471,
+            "name": "Carlson Gracie Austria",
+            "federationAbbr": "IBJJF",
+            "country": "Austria",
+            "countryAbbr": "AT",
+            "city": "Dornbirn",
+            "responsible": "Ari Fernando Araujo Rocha",
+            "address": "Widagasse 11  , , Dornbirn, --, Austria",
+            "website": "www.carlsongracie.at"
+        },
+        {
+            "id": 7478,
+            "name": "Carlson Gracie Batel",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Gustavo Nery Feres",
+            "address": "Rua Rodrigues Alues n: 65, bairro: Seminário, Curitiba, Pr, Brasil",
+            "website": "www.gfbjjvip.com.br"
+        },
+        {
+            "id": 3751,
+            "name": "Carlson Gracie Boca Raton",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Boca Raton ",
+            "responsible": "Francisco Soares Costa Junior",
+            "address": "7801 North Federal HWY, Boca Raton , FL, United States of America",
+            "website": "--"
+        },
+        {
+            "id": 7787,
+            "name": "Carlson Gracie Broward County",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Lauderdale",
+            "responsible": "Joseph Shane Riveira",
+            "address": "7934 West Mcnab Road , North Lauderdale, Fl, United States of America",
+            "website": "www.carlsongraciebrowardcounty.com"
+        },
+        {
+            "id": 9594,
+            "name": "Carlson Gracie Carrollton",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Carrollton",
+            "responsible": "Andre Gomes Reis",
+            "address": "2812 Trinity Square Dr, Ste 106, Carrollton, Tx, United States of America",
+            "website": "www.carlsongraciedfw.com"
+        },
+        {
+            "id": 2479,
+            "name": "Carlson Gracie Central Florida",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Winter Garden",
+            "responsible": "Rinaldo Ribeiro dos Santos",
+            "address": "855 E. Plant St. Suite 700, Winter Garden, FL, United States of America",
+            "website": "www.rinaldosantos.com"
+        },
+        {
+            "id": 202,
+            "name": "Carlson Gracie Clube",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Carlson Gracie Júnior",
+            "address": "Rua Figueiredo de Magalhães 414 3º andar, Copacabana, Rio de Janeiro, RJ, Brasil",
+            "website": "http://carlsongracieteam.org/"
+        },
+        {
+            "id": 4079,
+            "name": "Carlson Gracie Curitiba",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Roger Bento Holz",
+            "address": "Augusto Stresser n: 420 sala 02, Bairro: Juvese, Curitiba, PR, Brasil",
+            "website": "carlsongraciecuritiba.com.br"
+        },
+        {
+            "id": 7617,
+            "name": "Carlson Gracie Curitiba Oficial",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Rogério Camargo Leite",
+            "address": "Rua Joaquim da Silva Sampaio, 183, Mercês, Curitiba, PR, Brasil",
+            "website": null
+        },
+        {
+            "id": 4447,
+            "name": "Carlson Gracie Floripa Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Florianópolis",
+            "responsible": "Enio Frony Gondran",
+            "address": "Rua Marechal Guilherme 87 Academia Energym, Centro, Florianópolis, SC, Brasil",
+            "website": null
+        },
+        {
+            "id": 7074,
+            "name": "Carlson Gracie G3 Manimal",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Salvador",
+            "responsible": "Ricardo de Brito Gordilho",
+            "address": "Av. 7 de Setembro n: 2847, Bairro: Barra, Salvador, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 10280,
+            "name": "Carlson Gracie Garden Grove",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Garden Grove",
+            "responsible": "Fredrick Gumm",
+            "address": "13142 Garden Grove Blvd, Ste B, Garden Grove, Ca, United States of America",
+            "website": "carlsongraciegardengrove.com"
+        },
+        {
+            "id": 10532,
+            "name": "Carlson Gracie Goiânia",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Goiânia",
+            "responsible": "Wildemar Matheus Souza dos Santos",
+            "address": "Rua S4 N° 32 Setor Bela Vista, Goiânia, Go, Brasil",
+            "website": null
+        },
+        {
+            "id": 10529,
+            "name": "Carlson Gracie Grand Rapids",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Grand Rapids",
+            "responsible": "Alexander F. Seaver",
+            "address": "2035 28th Street Se Suite E, Grand Rapids, Mi, United States of America",
+            "website": null
+        },
+        {
+            "id": 9185,
+            "name": "Carlson Gracie Green Valley",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Henderson",
+            "responsible": "Heidi Renee Garwood",
+            "address": "1483 W. Horizon Ridge Prkwy, Ste 140, Henderson, Nv, United States of America",
+            "website": "carlsongraciegreenvalley.com"
+        },
+        {
+            "id": 4853,
+            "name": "Carlson Gracie Henderson",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Henderson",
+            "responsible": "Romulo Ramos Caiado",
+            "address": "10890 S. Eastern Ave 106 , , Henderson, NV, United States of America",
+            "website": "carlsongraciehenderson.com"
+        },
+        {
+            "id": 208,
+            "name": "Carlson Gracie Ilha",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Flavio Roberto Ferreira e Silva",
+            "address": "Rua Rodezia n: 74, Bairro: Bancários, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 2764,
+            "name": "Carlson Gracie Indianapolis Jiu Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Greenwood",
+            "responsible": "Alan W. Stockman",
+            "address": "916 E Main st suite 111  , , Greenwood, IN, United States of America",
+            "website": "www.carlsongracieindy.com"
+        },
+        {
+            "id": 2258,
+            "name": "Carlson Gracie International",
+            "federationAbbr": "IBJJF",
+            "country": "Germany",
+            "countryAbbr": "DE",
+            "city": "International",
+            "responsible": "Carlson Gracie Júnior",
+            "address": "  , International, IB, Germany",
+            "website": null
+        },
+        {
+            "id": 5293,
+            "name": "Carlson Gracie Ireland",
+            "federationAbbr": "IBJJF",
+            "country": "Ireland",
+            "countryAbbr": "IE",
+            "city": "Dublin",
+            "responsible": "José Henrique Saraiva Nascimento",
+            "address": "Unit 8 Hills Industrial State, Lower Lucan Road, Dublin, Dublin, Ireland",
+            "website": "www.carlsongracieireland.com"
+        }
+    ]
+}

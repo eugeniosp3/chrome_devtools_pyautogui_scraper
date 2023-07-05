@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 90,
+        "from": 1780,
+        "to": 1800,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10593,
+            "name": "Ct Dálmata BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "João Pessoa",
+            "responsible": "Luiz Antonio Bezerra C. Alcoforado",
+            "address": "Rua Severino Ennes De Atayde, 226, João Pessoa, Paraíba, Brasil",
+            "website": null
+        },
+        {
+            "id": 6832,
+            "name": "CT de Lutas Daniel Freitas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Joao Daniel da Silva Freitas",
+            "address": "Av. Ramos Ferreira - Beco do Rio Branco n: 18, Bairro: Cachoeirinha, Manaus, AM, Brasil",
+            "website": null
+        },
+        {
+            "id": 8200,
+            "name": "CT Deyvid Santos BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Tobias Barreto",
+            "responsible": "Deyvid Santos Matos",
+            "address": "Rua Filomeno Abreu Leite N198, Tobias Barreto, Sergipe, Brasil",
+            "website": null
+        },
+        {
+            "id": 10688,
+            "name": "CT Ederson Tatu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Hortolândia",
+            "responsible": "Ederson Jose Jesus Pereira",
+            "address": "Rua José De Anchieta 1315, Academia, Hortolândia, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 7344,
+            "name": "CT EDL Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Xanxere",
+            "responsible": "Douglas Marinho de Mellos",
+            "address": "Rua Rui Barbosa, 915 - Sala 2 - Vista Alegre, bairro: Vista Alegre, Xanxere, Santa Catarina, Brasil",
+            "website": null
+        },
+        {
+            "id": 9099,
+            "name": "CT Espaço Da Luta - FT - Ns Brotherhood",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Guarulhos",
+            "responsible": "Jefferson da Silva Barboza",
+            "address": "Avenida Salgado Filho, 3670, Vila Bremem, Guarulhos, São Paulo, Brasil",
+            "website": "https://www.facebook.com/espacodalutah/"
+        },
+        {
+            "id": 5898,
+            "name": "CT Esparta",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vitória da Conquista",
+            "responsible": "Ronaldo Oliveira da Silva",
+            "address": "Rua Celi De Freitas N°207, Centro, Vitória da Conquista, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 7626,
+            "name": "CT Fabio Silva academy",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Queluz",
+            "responsible": "Fabio Paulino da Silva",
+            "address": "Rua 31 de Janeiro n 11 A, Queluz, Lisboa, Portugal",
+            "website": "Queluz"
+        },
+        {
+            "id": 10370,
+            "name": "Ct FCM Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Águas Lindas De Goiás",
+            "responsible": "Fabio Costa de Miranda",
+            "address": "Quadra 0000 Lote 73, M. C Oeste, Águas Lindas De Goiás, Goias, Brasil",
+            "website": null
+        },
+        {
+            "id": 8681,
+            "name": "CT Felipe Bezerra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Natal",
+            "responsible": "Felipe Augusto Farias Bezerra",
+            "address": "Rua Aldo De Melo Freire,, 1706, Natal, Rio Grande Do Norte, Brasil",
+            "website": "https://www.instagram.com/ctfelipebezerra/"
+        },
+        {
+            "id": 10507,
+            "name": "Ct Gideoni Bezerra",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Irecê",
+            "responsible": "Gideoni Alves Bezerra",
+            "address": "Rua Aristides Moitinho 189, Centro, Irecê, Bahia, Brasil",
+            "website": null
+        },
+        {
+            "id": 8176,
+            "name": "Ct Guarnieri Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Paulo",
+            "responsible": "Evandro Moreira Guarnieri",
+            "address": "Rua Eden 627, São Paulo, Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8227,
+            "name": "CT Horácio BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Manaus",
+            "responsible": "Horácio Joaquim Silva Martins",
+            "address": "Avenida Do Futuro, Número: 36, Bairro: Redenção, Manaus, Amazonas, Brasil",
+            "website": null
+        },
+        {
+            "id": 6865,
+            "name": "Ct Hullk Fight",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Simão",
+            "responsible": "Eduardo Rodrigues Pereira",
+            "address": "Av. do Lago Q. 17 Lote 01 n: 01, Caixa Postal 15 - Bairro: Centro, São Simão, Goiás, Brasil",
+            "website": null
+        },
+        {
+            "id": 6465,
+            "name": "CT Jacaré",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Cruzeiro",
+            "responsible": "Luiz Gustavo da Silva Ribeiro",
+            "address": "Rua Irmã Alvim 227, Santa Luzia, Cruzeiro, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 6417,
+            "name": "CT Jean Silva Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Iguatama",
+            "responsible": "Jean Rosa da Silva",
+            "address": "Rua 176 n: 111, Bairro: Bela Vista, Iguatama, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 8198,
+            "name": "Ct Jefferson Mota",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Luis Eduardo Magalhães",
+            "responsible": "Jefferson da Silva Mota",
+            "address": "Rua Burle Max, 1199, Jardim Paraiso, Academia Fitclub, Luis Eduardo Magalhães, Ba, Brasil",
+            "website": null
+        },
+        {
+            "id": 9353,
+            "name": "Ct Jiu-Jitsu Igor Lima",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Pau Dos Ferros",
+            "responsible": "Igor Eduardo Ferreira Lima",
+            "address": "Rua José Romualdo De Paiva, 145, Alto Do Açude, Pau Dos Ferros, Rio Grande Do Norte, Brasil",
+            "website": null
+        },
+        {
+            "id": 4078,
+            "name": "CT Jiu-Jitsu Resende",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Resende",
+            "responsible": "Nilson Martins da Fonseca",
+            "address": "Rua Henrique Sivori 47 , Campos Eliseos, Resende, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 6287,
+            "name": "CT JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Boa Vista",
+            "responsible": "Jocildo Fernandes Barbosa Junior",
+            "address": "Rua Perpetua n: 21, Pricumã, Boa Vista, RR, Brasil",
+            "website": null
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 350,
+        "from": 6980,
+        "to": 7000,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 9213,
+            "name": "Wiking BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Czech Republic",
+            "countryAbbr": "CZ",
+            "city": "Brno",
+            "responsible": "Bronislav Striz",
+            "address": "Lidicka 27, Brno, Czech Republic",
+            "website": null
+        },
+        {
+            "id": 8767,
+            "name": "Wilian Beza BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Braço Do Norte",
+            "responsible": "Wilian Jacinto Beza",
+            "address": "Jorge Buss N62, Loja, Braço Do Norte, Santa Catarina (sc), Brasil",
+            "website": null
+        },
+        {
+            "id": 8759,
+            "name": "Willbjj",
+            "federationAbbr": "IBJJF",
+            "country": "United Kingdom",
+            "countryAbbr": "GB",
+            "city": "London",
+            "responsible": "William Carlos Santiago Junior",
+            "address": "Flat 11 Brignton Road 102, London, London, United Kingdom",
+            "website": "www.willbjj.com"
+        },
+        {
+            "id": 3482,
+            "name": "Willcox Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Gabriel Willcox Furley",
+            "address": "Rua Candido Gaffree 148 , Urca, Rio de Janeiro, RJ, Brasil",
+            "website": ""
+        },
+        {
+            "id": 9144,
+            "name": "William Ramos BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Vicente",
+            "responsible": "William Martins Domingos Ramos",
+            "address": "Jose Bonifacio.197, Ap.101, São Vicente, São Paulo, Brasil",
+            "website": "Sao vicente-sp"
+        },
+        {
+            "id": 9496,
+            "name": "William Sandoval Team Patriot Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Queen Creek",
+            "responsible": "William Rhett Sandoval",
+            "address": "22130 S . Scotland Ct. B102, Queen Creek, Arizona, United States of America",
+            "website": "www.queencreekmartialarts.com"
+        },
+        {
+            "id": 960,
+            "name": "Will-Machado BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Australia",
+            "countryAbbr": "AU",
+            "city": "Geelong",
+            "responsible": "John Bernard Will",
+            "address": "159 A Malop Street 6135244308 , , Geelong, VIC, Australia",
+            "website": "www.bjj.com.au"
+        },
+        {
+            "id": 10711,
+            "name": "Wind Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Bethpage",
+            "responsible": "Kevin P. Wind",
+            "address": "32 South Windhorst Avenue, Bethpage, New York, United States of America",
+            "website": "www.windjiujitsu.com"
+        },
+        {
+            "id": 10290,
+            "name": "Windham BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Windham",
+            "responsible": "Michael Randolph Smith",
+            "address": "770 Roosevelt Trail, Unit 6, Windham, Maine, United States of America",
+            "website": "Graciegymmaine.com"
+        },
+        {
+            "id": 9700,
+            "name": "Winicius Pereira BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Bolivia",
+            "countryAbbr": "BO",
+            "city": "Santa Cruz De La Sierra",
+            "responsible": "Winicius da Silva Pereira",
+            "address": "Calle Jose Luis Torrez 149, Santa Cruz De La Sierra, Santa Cruz, Bolivia",
+            "website": null
+        },
+        {
+            "id": 8584,
+            "name": "Winner Behring Jiu Jitsu Usa",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Vista",
+            "responsible": "Marcio Carvalho Corleta",
+            "address": "1900 Hacienda Dr., Vista, Ca, United States of America",
+            "website": "winnerbjj.com"
+        },
+        {
+            "id": 1067,
+            "name": "Winner Behring JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Porto Alegre",
+            "responsible": "Marcio Carvalho Corleta",
+            "address": "Rua Miguel Tostes 655 , Rio Branco, Porto Alegre, RS, Brasil",
+            "website": "winnerjiujitsu.com.br"
+        },
+        {
+            "id": 6765,
+            "name": "Winners Training Center",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "North Miami Beach",
+            "responsible": "Jônatas Sampaio Gurgel",
+            "address": "16215 Biscayne Blvd., North Miami Beach, FL, United States of America",
+            "website": "www.WinnersTrainingCenter.com"
+        },
+        {
+            "id": 10325,
+            "name": "Wire Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Seoul",
+            "responsible": "Won Choi Choi",
+            "address": "Jamsil-dong 197-7, Songpa-gu, 4th Floor, Seoul, Korea, South",
+            "website": null
+        },
+        {
+            "id": 6677,
+            "name": "Wisconsin 360 Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wauwatosa",
+            "responsible": "Scott Duwayne Huston",
+            "address": "12040 W Feerick St (Suite J), Wauwatosa, WI, United States of America",
+            "website": "www.360-bjj.com"
+        },
+        {
+            "id": 9647,
+            "name": "Wish Roll",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Porto",
+            "responsible": "Alexsandro Silva de Almeida",
+            "address": "Rua Nova Do Regado, 225, Porto, Porto, Porto, Portugal",
+            "website": "www.asajiujitsu.com"
+        },
+        {
+            "id": 3344,
+            "name": "Wk Suruga",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Shizuoka",
+            "responsible": null,
+            "address": "1233 Ooka Numazu  , , Shizuoka, --, Japan",
+            "website": "www.wk-suruga.net"
+        },
+        {
+            "id": 8371,
+            "name": "WM Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Monte Mor ",
+            "responsible": "Wagner Ramos Teles de Moraes",
+            "address": "Rua Jose Bueno De Oliveira, 197, Monte Mor , Sp, Brasil",
+            "website": null
+        },
+        {
+            "id": 8729,
+            "name": "WM Team USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Myers",
+            "responsible": "Wagner Ramos Teles de Moraes",
+            "address": "14239 Reflection Lakes Dr, Fort Myers, Fl, United States of America",
+            "website": null
+        },
+        {
+            "id": 10213,
+            "name": "WNBJJ - Braboman Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Tres Rios",
+            "responsible": "Wagner Nunes de Sousa",
+            "address": "Rua Padre Conrado, 33 Apt 604, Tres Rios, Rio De Janeiro, Brasil",
+            "website": null
+        }
+    ]
+}

@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 269,
+        "from": 5360,
+        "to": 5380,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 10459,
+            "name": "Qatar United Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Qatar",
+            "countryAbbr": "QA",
+            "city": "Al Izgwa",
+            "responsible": "Rahsaan Dennis Bass",
+            "address": "Zone 51  Street 347, Building 38  Apt C3, Al Izgwa, Doha, Qatar",
+            "website": null
+        },
+        {
+            "id": 8789,
+            "name": "Qazaq Samurai BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "Kazakstan",
+            "countryAbbr": "KZ",
+            "city": "Almaty",
+            "responsible": "Ginaldo Gomes de Souza",
+            "address": "Dostyk 71. F 25, Almaty, Almaty - Kz, Kazakstan",
+            "website": null
+        },
+        {
+            "id": 4824,
+            "name": "Qazaqstan Top Team",
+            "federationAbbr": "IBJJF",
+            "country": "Kazakstan",
+            "countryAbbr": "KZ",
+            "city": "Almaty",
+            "responsible": "Tolegen Kumarov",
+            "address": "258V, Gagarin Ave, 611, , Almaty, Kazakstan",
+            "website": ""
+        },
+        {
+            "id": 5502,
+            "name": "QG Centro de Lutas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Petrópolis",
+            "responsible": "Wagner Welerson Nóboa",
+            "address": "Estrada União Industria 19.183 (loja), Pedra do Rio, Petrópolis, RJ, Brasil",
+            "website": "www.instagram.com/qgcentro"
+        },
+        {
+            "id": 8742,
+            "name": "Quarta Torre Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaguaí",
+            "responsible": "Carlos Augusto Gouveia Da Silva",
+            "address": "Rua Costa Rica Lote 06 Quadra 37, Bairro Jardim América, Itaguaí, Rio De Janeiro, Brasil",
+            "website": "https://instagram.com/4torrebjj?utm_medium=copy_link"
+        },
+        {
+            "id": 4046,
+            "name": "Quartel General da Luta",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teresina",
+            "responsible": "Luiz da Costa Oliveira Junior",
+            "address": "Rua Mariana da Silva Santos 6086 Loteamento Juruá, Vale Quem Tem, Teresina, PI, Brasil",
+            "website": null
+        },
+        {
+            "id": 7824,
+            "name": "Queiroga Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasília",
+            "responsible": "David Lustosa Cabral de Queiroga",
+            "address": "Cnf 1 - Ed. Praimar - Subsolo - Taguatinga Norte, Zen1yo Dojo De Artes Marcias, Brasília, Df, Brasil",
+            "website": "https://instagram.com/queirogajiujitsu?utm_medium=copy_link"
+        },
+        {
+            "id": 8430,
+            "name": "Queiroz Brazilian Jiu Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "New Zealand",
+            "countryAbbr": "NZ",
+            "city": "Whanganui",
+            "responsible": "Daniel Queiroz Andrade",
+            "address": "346b Wicksteed Street, Whanganui, Manawatu, New Zealand",
+            "website": null
+        },
+        {
+            "id": 7957,
+            "name": "Queiroz Panda Brazilian Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Itaituba",
+            "responsible": "Paulo Ricardo da Silva Queiroz",
+            "address": "Trav São José,, Entre 2° E 3° Rua, Itaituba, Pará, Brasil",
+            "website": null
+        },
+        {
+            "id": 9930,
+            "name": "QUINT TEAM",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Teutônia",
+            "responsible": "Jayme Quint Neto Demarco",
+            "address": "Rua Costa E Silva, 468, Teutônia, Rs, Brasil",
+            "website": "www.dojoalliance.com.br"
+        },
+        {
+            "id": 2672,
+            "name": "Quintella Jiu Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Alexandre Elias Q. de Oliveira",
+            "address": "Rua Lins De Vasconcelos 389. Apt 805, Lins de Vasconcelos, Rio De Janeiro, Rj, Brasil",
+            "website": "www.quintellajiujitsu@gmail.com"
+        },
+        {
+            "id": 3585,
+            "name": "Quintella MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Wilmington ",
+            "responsible": "Alexandre Elias Q. de Oliveira",
+            "address": "6 Rector Court , , Wilmington , De, United States of America",
+            "website": "www.quintellamma.com"
+        },
+        {
+            "id": 9183,
+            "name": "Quip",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Tokyo",
+            "responsible": "Daisuke Nakamura",
+            "address": "3-37-8 Shimorenjaku Mk Building 2f, Tokyo, Mitakashi, Japan",
+            "website": "https://quip.tokyo/"
+        },
+        {
+            "id": 10414,
+            "name": "Quique Denegri Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "Argentina",
+            "countryAbbr": "AR",
+            "city": "Haedo",
+            "responsible": "Enrique Marcos Denegri",
+            "address": "Tacuari 428, Haedo, Buenos Aires, Argentina",
+            "website": null
+        },
+        {
+            "id": 7424,
+            "name": "R Fight BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Bernardo do Campo",
+            "responsible": "Renato Scotini Monezi",
+            "address": "Rua Giacinto Tognato N:1097, Piso Superior, São Bernardo do Campo, São Paulo, Brasil",
+            "website": null
+        },
+        {
+            "id": 9991,
+            "name": "R.E. Training Center USA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Topeka",
+            "responsible": "Roney Edler B. da Silva",
+            "address": "5711 Sw 21st, Topeka, Kansas, United States of America",
+            "website": "https://roneyedlerbrazilianjiujitsu.com"
+        },
+        {
+            "id": 8797,
+            "name": "R10BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Márcio Jordão Reis",
+            "address": "Rua Paulo de Carvalho Barbosa, 8, Realengo, Rio de Janeiro, RJ, Brasil",
+            "website": null
+        },
+        {
+            "id": 3091,
+            "name": "RABJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Robbinsville",
+            "responsible": "Ricardo Almeida",
+            "address": "380 Corporate Blvd  , , Robbinsville, NJ, United States of America",
+            "website": "www.ricardoalmeida.com"
+        },
+        {
+            "id": 10142,
+            "name": "Raça Jiu-jitsu \u0013 Vilar Brazil FigthTeam",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bras[ilia",
+            "responsible": "Eduardo Franco Vilar",
+            "address": "Qnp 28, Conjunto K Casa 04, Ceilandia, Bras[ilia, Df, Brasil",
+            "website": null
+        },
+        {
+            "id": 3871,
+            "name": "Raça Luta BJJ",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Vannes",
+            "responsible": "Christophe Levy",
+            "address": "11 Rue Ernest Laval, , Vannes, --, France",
+            "website": "www.racajiujitsu.com"
+        }
+    ]
+}

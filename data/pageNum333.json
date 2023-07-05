@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 333,
+        "from": 6640,
+        "to": 6660,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 850,
+            "name": "Tozi Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Campinas",
+            "responsible": "Roberto Tozi Ferreira Filho",
+            "address": "Av. Nossa Senhora de Fatima 1411/1417, Jardim Bela Vista, Campinas, SP, Brasil",
+            "website": "www.academiatozi.com.br"
+        },
+        {
+            "id": 10037,
+            "name": "Tozi Korea Yangsan",
+            "federationAbbr": "IBJJF",
+            "country": "Korea, South",
+            "countryAbbr": "KR",
+            "city": "Yangsan-si",
+            "responsible": "Junho You",
+            "address": "401, 23, Beomgu-ro, Mulgeum-eup, Yangsan-si, Gyeongsangnam-do, Korea, South",
+            "website": "https://yangsanbjj.modoo.at/"
+        },
+        {
+            "id": 3326,
+            "name": "T-Pleasure",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Aomori",
+            "responsible": "Yasufumi Mikami",
+            "address": "2-28 Matsushima Goshogawana  , Aomori, --, Japan",
+            "website": "https://t-pleasure.jimdo.com/"
+        },
+        {
+            "id": 9803,
+            "name": "TRA Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Jersey City",
+            "responsible": "Thiago Rela Constantino Jiuliani",
+            "address": "255 Brunswick St, Suite 7, Jersey City, New Jersey, United States of America",
+            "website": "trajiujitsu.com"
+        },
+        {
+            "id": 9442,
+            "name": "Traditum Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Vitoria",
+            "responsible": "Carlos Victor Machado Oliveira",
+            "address": "Rua Carlos Martins, Nº 235, Vitoria, Espírito Santo, Brasil",
+            "website": "www.instagram.com/traditumjiujitsu/"
+        },
+        {
+            "id": 8548,
+            "name": "Train Hard, Be Kind - Pica Pau",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Aurora",
+            "responsible": "Aaron V. Brooks",
+            "address": "1050 Corporate Blvd, Suite E, Aurora, Illinois, United States of America",
+            "website": "picapaujj.com"
+        },
+        {
+            "id": 5905,
+            "name": "Training Center Zenith Drysdale Jiu-Jitsu",
+            "federationAbbr": "IBJJF",
+            "country": "France",
+            "countryAbbr": "FR",
+            "city": "Epinal",
+            "responsible": "Robert Lewis Drysdale",
+            "address": "79 Rue d'Alsace, Epinal, --, France",
+            "website": null
+        },
+        {
+            "id": 3062,
+            "name": "Training Ground Jiu-Jitsu and MMA",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Westwood",
+            "responsible": "William S Horneff V",
+            "address": "24 Booker Street  , , Westwood, NJ, United States of America",
+            "website": "njtraininggrounds.com"
+        },
+        {
+            "id": 5874,
+            "name": "Trame BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Ubatuba",
+            "responsible": "Trajano Medrado Santos",
+            "address": "Rua Saneamento 175/A, Espaço CTM, Ubatuba, São Paulo, Brasil",
+            "website": "Ubatuba SP"
+        },
+        {
+            "id": 9925,
+            "name": "Trasso Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Glen Rock",
+            "responsible": "Michael Ray Trasso",
+            "address": "200 Rock Rd, Glen Rock, New Jersey, United States of America",
+            "website": null
+        },
+        {
+            "id": 3038,
+            "name": "Travis Lutter Brazilian Jiu-Jitsu",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Fort Worth",
+            "responsible": "Travis Shawn Lutter",
+            "address": "1732 E. Square  , , Fort Worth, TX, United States of America",
+            "website": "www.travislutter.com"
+        },
+        {
+            "id": 10143,
+            "name": "TRD BJJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio De Janeiro",
+            "responsible": "Marcos Henrique de A. Guimarães Junior",
+            "address": "Estrada Do Magarça, 8112, Rio De Janeiro, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 8639,
+            "name": "Tree BJJ - Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Piumhi",
+            "responsible": "Anderson Marques",
+            "address": "Rua Bueno Brandão N° 246, Piumhi, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 4567,
+            "name": "Tree Brazilian Jiu-Jitsu",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Ûå\u0002\u0002",
+            "responsible": "Anderson Marques",
+            "address": "9Ý\u00005-65ü4, , Ûå\u0002\u0002, Í, Japan",
+            "website": "Tree Brazilian jiu-jitsu 080-4540-1025 https://goo.gl/maps/AwneXXrGkuY7wU4y9"
+        },
+        {
+            "id": 5162,
+            "name": "Treino Tático Bjj",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Barreiras",
+            "responsible": "Marivan dos Santos Lemos",
+            "address": "Rua B 92, Vila dos Funcionários, Barreiras, BA, Brasil",
+            "website": null
+        },
+        {
+            "id": 5894,
+            "name": "Tres Continentes BJJ - 3C",
+            "federationAbbr": "FPJJB",
+            "country": "Portugal",
+            "countryAbbr": "PT",
+            "city": "Belem",
+            "responsible": "Daniel Charles Pereira",
+            "address": "Praceta Torres do Restelo N 10, Belem, Portugal",
+            "website": null
+        },
+        {
+            "id": 3993,
+            "name": "Trevis Jiu-Jitsu",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Bauru",
+            "responsible": "Fernando Trevisan de Castro",
+            "address": "Rua São Vicente 7-55, Vila Bela, Bauru, SP, Brasil",
+            "website": "www.comunidaderestaurar.com"
+        },
+        {
+            "id": 9557,
+            "name": "Trevo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Belford Roxo",
+            "responsible": "Ruan Pépe Machado",
+            "address": "Rua Guilherme Brauler, Lote 6, Quadra 2, Belford Roxo, Rj, Brasil",
+            "website": null
+        },
+        {
+            "id": 8288,
+            "name": "Trevus Martial Arts",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Umuarama",
+            "responsible": "Vander Carlini Francisco",
+            "address": "Avenida Presidente Castelo Branco, 3203, Umuarama, Zona Vi, Brasil",
+            "website": null
+        },
+        {
+            "id": 3327,
+            "name": "T-Rex Jiu-Jitsu Academy",
+            "federationAbbr": "JBJJF",
+            "country": "Japan",
+            "countryAbbr": "JP",
+            "city": "Fukuoka",
+            "responsible": "Yuta Nakamura",
+            "address": "2-2-14 1F Maidashi Higashiku Fukuokashi  , , Fukuoka, --, Japan",
+            "website": "http://91.xbms.jp/trex/"
+        }
+    ]
+}

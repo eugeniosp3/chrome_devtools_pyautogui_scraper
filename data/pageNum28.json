@@ -1,0 +1,232 @@
+{
+    "pagination": {
+        "page": 28,
+        "from": 540,
+        "to": 560,
+        "pageSize": 20,
+        "lastPage": 358,
+        "totalRecords": 7149
+    },
+    "list": [
+        {
+            "id": 5248,
+            "name": "Arena Capital",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Brasilia",
+            "responsible": "Ciro França Oliveira",
+            "address": "Qnn 03 Conjunto A, Lote 14-A  , Ceilandia Norte, Brasilia, DF, Brasil",
+            "website": ""
+        },
+        {
+            "id": 5455,
+            "name": "Arena Combat",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Miguel de Guaporé",
+            "responsible": "José Nelson Muller",
+            "address": "Rua Guaporé n: 2061, bairro: centro, São Miguel de Guaporé, RO, Brasil",
+            "website": null
+        },
+        {
+            "id": 9240,
+            "name": "Arena do competidor",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "São Luis",
+            "responsible": "Uriandson Anunciacao Cruz",
+            "address": "Av 01 Qd 20 Nº 08 Cohatrac Iv, Chacara Itapiraco, São Luis, Maranhão, Brasil",
+            "website": "www.arenadocompetidor.com.br"
+        },
+        {
+            "id": 10146,
+            "name": "Arena Feitosa",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Olinda",
+            "responsible": "João Feitosa Santa Cruz Neto",
+            "address": "Rua Do Farol, 221, Olinda, Pe, Brasil",
+            "website": "https://www.instagram.com/p/4iUu3lDHz0/"
+        },
+        {
+            "id": 6297,
+            "name": "Arena Infight Escola de Lutas",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Rafael Cirne Domingues",
+            "address": "Estrada da Matriz lote 28 quadra 257, Bairro: Piraque/Pedra de Guaratiba, Rio de Janeiro, Rio de Janeiro, Brasil",
+            "website": null
+        },
+        {
+            "id": 49,
+            "name": "Arena JJ",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curitiba",
+            "responsible": "Evanri Gurgel do Nascimento M. Junior",
+            "address": "Rua Renato Thadeo, 425, Bairro: Jardim Social, Curitiba, PR, Brasil",
+            "website": "www.academiaarena.com.br"
+        },
+        {
+            "id": 4610,
+            "name": "Arena Saudi Arabia",
+            "federationAbbr": "IBJJF",
+            "country": "Saudi Arabia",
+            "countryAbbr": "SA",
+            "city": "Jeddah",
+            "responsible": "Antonio Ricardo Jardim Liborio",
+            "address": "PO Box 126820, , Jeddah, --, Saudi Arabia",
+            "website": "www.arena.sa"
+        },
+        {
+            "id": 10302,
+            "name": "Arena Top Team",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Curvelo",
+            "responsible": "Rômulo Celso De Almeida Oliveira",
+            "address": "Rua Lino De Oliveira, 389, Curvelo, Minas Gerais, Brasil",
+            "website": null
+        },
+        {
+            "id": 4788,
+            "name": "ArenaDojo",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Linhares",
+            "responsible": "Cesar Mattiuzzi Pedrini",
+            "address": "R: Álvaro Garcia Durão 861 ArendaDojo, Três Barras, Linhares, ES, Brasil",
+            "website": null
+        },
+        {
+            "id": 6107,
+            "name": "Ares - Cadejo BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Laredo",
+            "responsible": "Francisco Ramos",
+            "address": "709 Chaparral St, Laredo, TX, United States of America",
+            "website": "www.cadejobjj.com"
+        },
+        {
+            "id": 4793,
+            "name": "Ares Arizona BJJ",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Mesa",
+            "responsible": "Paul Leon Nava",
+            "address": "1660 South Alma School Road #118 , , Mesa, AZ, United States of America",
+            "website": "navabjj.com"
+        },
+        {
+            "id": 3888,
+            "name": "Ares BJJ - Kenny Kim",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Marietta",
+            "responsible": "Kenny Kim",
+            "address": "800 Whitlock Ave. Suite 141, Marietta, GA, United States of America",
+            "website": "kennykimbjj.com"
+        },
+        {
+            "id": 4958,
+            "name": "Ares BJJ - SDK",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Plant City",
+            "responsible": "Samir José Chantre Dahás",
+            "address": "601 Hitchcock Street Suite 105, Plant City, FL, United States of America",
+            "website": "www.senshidokaimma.com"
+        },
+        {
+            "id": 4697,
+            "name": "Ares BJJ Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Modesto",
+            "responsible": "Samir José Chantre Dahás",
+            "address": "3900 Pelandale Ave, Ste 310, Modesto, CA, United States of America",
+            "website": "bjjmodesto.com"
+        },
+        {
+            "id": 5108,
+            "name": "Ares BJJ Alaska",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Anchorage",
+            "responsible": "Jordan Matthew Breager Kontra",
+            "address": "360 Boniface Pkwy #A3  , , Anchorage, AK, United States of America",
+            "website": "legacyjj.com"
+        },
+        {
+            "id": 4822,
+            "name": "Ares BJJ Brasil",
+            "federationAbbr": "CBJJ",
+            "country": "Brasil",
+            "countryAbbr": "BR",
+            "city": "Rio de Janeiro",
+            "responsible": "Alan Rodrigo de Moraes",
+            "address": "Rua Figueiredo de Magalhães 701 Sobreloja, Copacabana, Rio de Janeiro, RJ, Brasil",
+            "website": "www.aresbjj.com"
+        },
+        {
+            "id": 7069,
+            "name": "Ares BJJ Chile",
+            "federationAbbr": "IBJJF",
+            "country": "Chile",
+            "countryAbbr": "CL",
+            "city": "Temuco",
+            "responsible": "Osvaldo Augusto Honorio Moizinho",
+            "address": "Avenida Alemania 425 Lo Cal 205 , Temuco, TM, Chile",
+            "website": null
+        },
+        {
+            "id": 6143,
+            "name": "Ares BJJ Diego Bispo Academy",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Virginia Beach",
+            "responsible": "Samir José Chantre Dahás",
+            "address": "865 Chimney Hill Shopping Center, Virginia Beach, VA, United States of America",
+            "website": "www.Diegobispoacademy.com"
+        },
+        {
+            "id": 7040,
+            "name": "Ares BJJ Goodyear",
+            "federationAbbr": "USBJJF",
+            "country": "United States of America",
+            "countryAbbr": "US",
+            "city": "Goodyear",
+            "responsible": "Osvaldo Augusto Honorio Moizinho",
+            "address": "500 N Bullard Ave, Ste 31st, Goodyear, AZ, United States of America",
+            "website": "Aresbjjgoodyear.com"
+        },
+        {
+            "id": 6282,
+            "name": "Ares BJJ Luxembourg",
+            "federationAbbr": "IBJJF",
+            "country": "Luxembourg",
+            "countryAbbr": "LU",
+            "city": "Niederkorn",
+            "responsible": "Samir José Chantre Dahás",
+            "address": "49, route de Petange, Niederkorn, --, Luxembourg",
+            "website": "www.aresbjjluxembourg.com"
+        }
+    ]
+}
